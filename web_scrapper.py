@@ -5,7 +5,7 @@ import ocr_sqm
 import pandas as pd
 
 
-def search_zoopla_central_london(beds_max, beds_min, price_max):
+def search_zoopla_central_london(beds_max, beds_min, price_max, pn =1):
   """Search for zoopla places in central london
 
   Args:
@@ -16,7 +16,7 @@ def search_zoopla_central_london(beds_max, beds_min, price_max):
   Returns:
       Soup object of the page content
   """
-  search_url = f'https://www.zoopla.co.uk/for-sale/property/central-london/?{beds_max=}&{beds_min=}&{price_max=}&view_type=list&q=Central%20London&results_sort=newest_listings&search_source=home'
+  search_url = f'https://www.zoopla.co.uk/for-sale/property/central-london/?{beds_max=}&{beds_min=}&{price_max=}&view_type=list&q=Central%20London&results_sort=newest_listings&search_source=home&{pn=}'
   page = requests.get(search_url)
   return soup(page.content, "html.parser")
 
@@ -29,6 +29,19 @@ def get_all_links(sr):
     link_object = search_result.find('a', {'data-testid':'listing-details-image-link'}, href=True)
     link_list.append(link_object['href'])
   return link_list
+
+def get_all_listings_links_many_pages(beds_max,beds_min, price_max):
+  i = 1
+  all_existing_links = []
+  while True:
+    page = search_zoopla_central_london(beds_max,beds_min,price_max,i)
+    sr = get_all_listings_one_page(page)
+    links = get_all_links(sr)
+    if len(links) == 0: break
+    all_existing_links = all_existing_links + links
+    i = i+1
+  return all_existing_links
+
 
 def get_information_from_listing(link, verbose = True):
   def get_property_info(name, label):
@@ -51,7 +64,7 @@ def get_information_from_listing(link, verbose = True):
   # find a floorplan and extract sqm from there
   floorplan = property_page.find('div', {'data-testid':'floorplan-thumbnail-0'})
   if floorplan is None:
-    return {'price':price, 'beds':beds, 'area':area, 'sqm':None, 'sqft': None, 'image':None, 'link':link, 'listing_no':listing_no}
+    return {'price':price, 'beds':beds, 'area':area, 'sqm':None, 'sqft': None, 'image':None, 'link':f"https://www.zoopla.co.uk/{link}", 'listing_no':listing_no}
   # get all the links
   fp_links = []
   for image in floorplan.find_all('img'):
@@ -65,7 +78,7 @@ def get_information_from_listing(link, verbose = True):
   house1 = ocr_sqm.Property(path)
   house1.iterate_parameters()
   if verbose: print(house1)
-  return {'price':price, 'beds':beds, 'area':area, 'sqm':house1.sqm, 'sqft': house1.sqft, 'image':path, 'link':link, 'listing_no':listing_no}
+  return {'price':price, 'beds':beds, 'area':area, 'sqm':house1.sqm, 'sqft': house1.sqft, 'image':path, 'link':f"https://www.zoopla.co.uk/{link}", 'listing_no':listing_no}
 
 
 
@@ -75,10 +88,12 @@ if __name__ == "__main__":
   beds_max = 3
   beds_min = 3
   price_max = 750000
-  search_page = search_zoopla_central_london(beds_max,beds_min,price_max)
-  all_listings = get_all_listings_one_page(search_page)
-  all_links = get_all_links(all_listings)
-  all_links
+  #search_page = search_zoopla_central_london(beds_max,beds_min,price_max)
+  #all_listings = get_all_listings_one_page(search_page)
+  #all_links = get_all_links(all_listings)
+  all_links = get_all_listings_links_many_pages(beds_max,beds_min,price_max)
+  #print(all_links)
+  print(len(all_links))
 
   detailed_info = []
   for link in all_links:
