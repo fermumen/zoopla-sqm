@@ -1,11 +1,13 @@
+import os
 from re import search
 import requests
 from bs4 import BeautifulSoup as soup
 import ocr_sqm
 import pandas as pd
+import json
 
 
-def search_zoopla_central_london(beds_max, beds_min, price_max, pn =1):
+def search_zoopla_central_london(beds_max, beds_min, price_max, price_min ,expanded, radius = 5, pn =1):
   """Search for zoopla places in central london
 
   Args:
@@ -16,7 +18,13 @@ def search_zoopla_central_london(beds_max, beds_min, price_max, pn =1):
   Returns:
       Soup object of the page content
   """
-  search_url = f'https://www.zoopla.co.uk/for-sale/property/central-london/?{beds_max=}&{beds_min=}&{price_max=}&view_type=list&q=Central%20London&results_sort=newest_listings&search_source=home&{pn=}'
+  #                   https://www.zoopla.co.uk/for-sale/property/central-london/?beds_max=2&beds_min=3&price_max=650000&price_min=550000&view_type=list&q=Central%20London&radius=5&results_sort=newest_listings&search_source=home&pn=1
+  #                   https://www.zoopla.co.uk/for-sale/property/central-london/?beds_max=3&beds_min=3&page_size=25&price_max=650000&price_min=550000&view_type=list&q=Central%20London&radius=5&results_sort=newest_listings&search_source=home&pn=1
+  search_url =      f'https://www.zoopla.co.uk/for-sale/property/central-london/?{beds_max=}&{beds_min=}&{price_max=}&{price_min=}&view_type=list&q=Central%20London&results_sort=newest_listings&search_source=home&{pn=}'
+  search_expanded = f'https://www.zoopla.co.uk/for-sale/property/central-london/?{beds_max=}&{beds_min=}&{price_max=}&{price_min=}&view_type=list&q=Central%20London&{radius=}&results_sort=newest_listings&search_source=home&{pn=}'
+  if expanded:
+    search_url = search_expanded
+  print(search_url)
   page = requests.get(search_url)
   return soup(page.content, "html.parser")
 
@@ -30,11 +38,11 @@ def get_all_links(sr):
     link_list.append(link_object['href'])
   return link_list
 
-def get_all_listings_links_many_pages(beds_max,beds_min, price_max):
+def get_all_listings_links_many_pages(beds_max,beds_min, price_max, price_min, expanded, radius):
   i = 1
   all_existing_links = []
   while True:
-    page = search_zoopla_central_london(beds_max,beds_min,price_max,i)
+    page = search_zoopla_central_london(beds_max,beds_min,price_max,price_min, expanded, radius,i)
     sr = get_all_listings_one_page(page)
     links = get_all_links(sr)
     if len(links) == 0: break
@@ -60,11 +68,22 @@ def get_information_from_listing(link, verbose = True):
   price = get_property_info('price', 'price')
   beds = get_property_info('beds', 'beds-label')
   area = get_property_info('area', 'floorarea-label')
+  address = get_property_info('address', 'address-label')
+  script_json = property_page.find('script',{'type':'application/ld+json'})
+  site_json = json.loads(script_json.text)
+  gmap = None
+  for ele in site_json['@graph']:
+    if ele['@type'] == 'Residence':
+      gmap = ele['geo']
+
 
   # find a floorplan and extract sqm from there
   floorplan = property_page.find('div', {'data-testid':'floorplan-thumbnail-0'})
   if floorplan is None:
-    return {'price':price, 'beds':beds, 'area':area, 'sqm':None, 'sqft': None, 'image':None, 'link':f"https://www.zoopla.co.uk/{link}", 'listing_no':listing_no}
+    return_dict = {'address':address,'price':price, 'beds':beds, 'area':area, 'sqm':None, 'sqft': None, 'image':None, 'link':f"https://www.zoopla.co.uk/{link}", 'listing_no':listing_no, 'gmap':gmap}
+    with open(f'./json_data/{listing_no}.json', 'w', encoding='utf-8') as f:
+      json.dump(return_dict, f, indent = 4)
+    return return_dict
   # get all the links
   fp_links = []
   for image in floorplan.find_all('img'):
@@ -78,25 +97,40 @@ def get_information_from_listing(link, verbose = True):
   house1 = ocr_sqm.Property(path)
   house1.iterate_parameters()
   if verbose: print(house1)
-  return {'price':price, 'beds':beds, 'area':area, 'sqm':house1.sqm, 'sqft': house1.sqft, 'image':path, 'link':f"https://www.zoopla.co.uk/{link}", 'listing_no':listing_no}
+  return_dict = {'address':address, 'price':price, 'beds':beds, 'area':area, 'sqm':house1.sqm, 'sqft': house1.sqft, 'image':path, 'link':f"https://www.zoopla.co.uk/{link}", 'listing_no':listing_no,'gmap':gmap}
+  
+  with open(f'./json_data/{listing_no}.json', 'w', encoding='utf-8') as f:
+    json.dump(return_dict, f, indent = 4)
+  return return_dict
 
-
-
-
+def filter_only_new_links(all_links):
+  previous_data = os.listdir('json_data')
+  previous_data = [x.split('.')[0] for x in previous_data]
+  new_found_links = [x.split('/')[3] for x in all_links]
+  return_links = []
+  for i in range(len(new_found_links)):
+    if (new_found_links[i] not in previous_data):
+      return_links.append(all_links[i])
+  return return_links
 
 if __name__ == "__main__":
   beds_max = 3
-  beds_min = 3
-  price_max = 750000
-  #search_page = search_zoopla_central_london(beds_max,beds_min,price_max)
-  #all_listings = get_all_listings_one_page(search_page)
-  #all_links = get_all_links(all_listings)
-  all_links = get_all_listings_links_many_pages(beds_max,beds_min,price_max)
-  #print(all_links)
+  beds_min = 2
+  price_max = 650000
+  price_min = 550000
+  # search_page = search_zoopla_central_london(beds_max,beds_min,price_max,price_min,True,5)
+  # all_listings = get_all_listings_one_page(search_page)
+  # all_links = get_all_links(all_listings)
+  all_links = get_all_listings_links_many_pages(beds_max, beds_min, price_max, price_min, expanded = True, radius=5)
+  print(len(all_links))
+  all_links = filter_only_new_links(all_links)
   print(len(all_links))
 
-  detailed_info = []
-  for link in all_links:
-    detailed_info.append(get_information_from_listing(link, False))
+  if len(all_links)<1:
+    print("No new property found!")
+  else:
+    detailed_info = []
+    for link in all_links:
+      detailed_info.append(get_information_from_listing(link, False))
 
-  pd.DataFrame(detailed_info).to_csv('Properties.csv')
+    pd.DataFrame(detailed_info).to_csv('Properties.csv')

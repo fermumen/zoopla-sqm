@@ -20,7 +20,12 @@ class Property():
         self.sqft = self.get_highest_sqm_value(self.sqft, 500)
     def get_highest_sqm_value(self, found, limit):
         if len(found)==0: return None
-        list1 = [float(x[0]) for x in found]
+        list1 = []
+        for x in found:
+            x = re.sub('\.*$','',x[0])
+            x = re.sub('^\.*','',x)
+            x = float(x)
+            list1.append(x)
         list1 = sorted(list1)
         result = list1[-1]
         if result < limit:
