@@ -76,11 +76,22 @@ def get_information_from_listing(link, verbose = True):
     if ele['@type'] == 'Residence':
       gmap = ele['geo']
 
+  next_data = json.loads(property_page.find('script', {'id':'__NEXT_DATA__'}).text)
+  deets = next_data['props']['pageProps']['listingDetails']
+  first_published = deets['priceHistory']['firstPublished']['firstPublishedDate']
+  last_sale_date = deets['priceHistory']['lastSale']['date']
+  last_sale_new = deets['priceHistory']['lastSale']['newBuild']
+
 
   # find a floorplan and extract sqm from there
   floorplan = property_page.find('div', {'data-testid':'floorplan-thumbnail-0'})
   if floorplan is None:
-    return_dict = {'address':address,'price':price, 'beds':beds, 'area':area, 'sqm':None, 'sqft': None, 'image':None, 'link':f"https://www.zoopla.co.uk/{link}", 'listing_no':listing_no, 'gmap':gmap}
+    return_dict = {'address':address,'price':price, 'beds':beds, 'area':area, 'sqm':None, 'sqft': None, 'text':None, 'image':None,
+    'link':f"https://www.zoopla.co.uk/{link}", 'listing_no':listing_no, 'gmap':gmap,
+    'first_published':first_published,
+    'last_sale_date':last_sale_date,
+    'last_sale_new':last_sale_new,
+    'deets':deets}
     with open(f'./json_data/{listing_no}.json', 'w', encoding='utf-8') as f:
       json.dump(return_dict, f, indent = 4)
     return return_dict
@@ -97,7 +108,12 @@ def get_information_from_listing(link, verbose = True):
   house1 = ocr_sqm.Property(path)
   house1.iterate_parameters()
   if verbose: print(house1)
-  return_dict = {'address':address, 'price':price, 'beds':beds, 'area':area, 'sqm':house1.sqm, 'sqft': house1.sqft, 'image':path, 'link':f"https://www.zoopla.co.uk/{link}", 'listing_no':listing_no,'gmap':gmap}
+  return_dict = {'address':address, 'price':price, 'beds':beds, 'area':area, 'sqm':house1.sqm, 'sqft': house1.sqft, 'text':house1.text, 'image':path, 
+  'link':f"https://www.zoopla.co.uk/{link}", 'listing_no':listing_no,'gmap':gmap,
+  'first_published':first_published,
+  'last_sale_date':last_sale_date,
+  'last_sale_new':last_sale_new,
+  'deets':deets}
   
   with open(f'./json_data/{listing_no}.json', 'w', encoding='utf-8') as f:
     json.dump(return_dict, f, indent = 4)
