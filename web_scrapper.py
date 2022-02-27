@@ -38,7 +38,7 @@ def get_all_links(sr):
     link_list.append(link_object['href'])
   return link_list
 
-def get_all_listings_links_many_pages(beds_max,beds_min, price_max, price_min, expanded, radius):
+def get_all_listings_links_many_pages(beds_max,beds_min, price_max, price_min, expanded, radius, max_pages = 200):
   i = 1
   all_existing_links = []
   while True:
@@ -48,6 +48,7 @@ def get_all_listings_links_many_pages(beds_max,beds_min, price_max, price_min, e
     if len(links) == 0: break
     all_existing_links = all_existing_links + links
     i = i+1
+    if i >= max_pages: break
   return all_existing_links
 
 
@@ -78,9 +79,24 @@ def get_information_from_listing(link, verbose = True):
 
   next_data = json.loads(property_page.find('script', {'id':'__NEXT_DATA__'}).text)
   deets = next_data['props']['pageProps']['listingDetails']
-  first_published = deets['priceHistory']['firstPublished']['firstPublishedDate']
-  last_sale_date = deets['priceHistory']['lastSale']['date']
-  last_sale_new = deets['priceHistory']['lastSale']['newBuild']
+  if deets['priceHistory']['firstPublished'] is None:
+    first_published = None
+  else:
+    first_published = deets['priceHistory']['firstPublished']['firstPublishedDate']
+  # bad code smell...
+  if deets['priceHistory']['lastSale'] is None:
+    last_sale_date = None
+    last_sale_new = None
+  else:
+    if 'date' in deets['priceHistory']['lastSale']: 
+      last_sale_date = deets['priceHistory']['lastSale']['date']
+    else:
+      last_sale_date = None
+    if 'newBuild' in deets['priceHistory']['lastSale']:
+      last_sale_new = deets['priceHistory']['lastSale']['newBuild']
+    else: 
+      last_sale_new = None
+
 
 
   # find a floorplan and extract sqm from there
@@ -137,7 +153,7 @@ if __name__ == "__main__":
   # search_page = search_zoopla_central_london(beds_max,beds_min,price_max,price_min,True,5)
   # all_listings = get_all_listings_one_page(search_page)
   # all_links = get_all_links(all_listings)
-  all_links = get_all_listings_links_many_pages(beds_max, beds_min, price_max, price_min, expanded = True, radius=5)
+  all_links = get_all_listings_links_many_pages(beds_max, beds_min, price_max, price_min, expanded = True, radius=5, max_pages=70)
   print(len(all_links))
   all_links = filter_only_new_links(all_links)
   print(len(all_links))
