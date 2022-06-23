@@ -1,0 +1,597 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 78.97,
+    "sqft": 850.0,
+    "text": "West Hill, SW15\nApprox. Gross Internal Area 850 Sq Ft - 78.97 SqM\nzl\nFi ZN\nT \u2014\nKitchen 4\nBedroom 3'9\" x 9'6\"\n9'4\" x 7'3\" 4}19 x 2.90m oO\n2.84 x 2.21m\nReception/ Lt\nDining Room C)\n16'11\" x 14'7\"\n5.16 x 4.44m\n\u00a9\ner\nRAS\nBedroom Parking\n16'8\" x 811\" Bedroom 14'7\" x 8:10\"\n5.08 x 2.46m 129\" x9 4.44 x 2.69m\n3.89 x 2.74m (approximate)\nSecond Floor (AUaewIER] \u00a9\nFor Illustration Purposes Only - Not To Scale Floor Plan by Mira Nikolova Photography\n\u2018This Noor plan shoud be used asa general ouline for guidance only and does not constitute in whole orn part an offeror contract\n\u2018ny intending purchase or lessee should sail themselves by inspection, searches, enquiries and fl suey as tothe correctness of each statement\n\u2018any areas, measurements or distances quoted are approximate and should not be Used to value a property or be the basis of any sale o let\n\f",
+    "image": "./extracted_images/61751439.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61751439/?search_identifier=e524a55eac9f89c66e994a5c6efe9db2",
+    "listing_no": "61751439",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.452198,
+        "longitude": -0.21565
+    },
+    "first_published": "2022-06-20T15:30:14",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61751439",
+        "publishedOn": "2022-06-20T15:30:14",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "West Hill, London",
+                "original": "https://lc.zoocdn.com/147aa3bfc7a1a2f7e46f963c7dfca97c34eac14c.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31581110",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 17512,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(247756).png",
+            "branchName": "Allan Fuller",
+            "brandName": "Allan Fuller",
+            "chainFree": false,
+            "companyId": 8819,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "West Hill, London SW15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3SH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61751439,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "South East England",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 483506
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/allan-fuller-london-17512/",
+            "branchId": "17512",
+            "branchResultsUri": "/for-sale/branch/allan-fuller-london-17512/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(247756).png",
+            "phone": "020 8128 4488",
+            "name": "Allan Fuller",
+            "memberType": "agent",
+            "address": "149 Upper Richmond Road, Putney, London",
+            "postcode": "SW15 2TX"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Prospect House School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ronald Ross Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Putney",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Putney",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "a80a9b9537a8617ac351b65de7bfbf8e657617f0.png",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "Gorgeous, three double bedroom conversion with truly spacious accommodation. This lovely home is located on the first floor of a period property and offers an exceptional reception room with wooden flooring &amp; feature fireplace, three double bedrooms and contemporary eat in kitchen. The bathroom has floor to ceiling Travertine tiles and a wooden floor. An added bonus, is the huge communal garden to enjoy. On top of all this it also comes with its own parking space!<br>The handsome Edwardian building which houses the flat has been excellently maintained with a modern fire alarm system and fire evacuation plan. Security is maintained with an Entryphone system.<br><br>Located on West Hill with the green open spaces of Putney Heath and Wimbledon Common only a stone\u2019s throw away. This home offers a direct route to the A3, as well as brilliant bus links and easy access to the shops, restaurants and leisure facilities of Putney High Street and East Putney Underground Station (District Line).<br>EPC- C Council Tax Band E",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Conversion Apartment",
+                "Three Bedrooms",
+                "First Floor",
+                "Communal Gardens",
+                "Dedicated Parking Space",
+                "Large Reception Room",
+                "Period Features"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "f6583f70d496136e3a20af85c473dab6b9443344.jpg",
+                    "caption": "West Hill, Sw15 - Gif.Gif"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "af0e6824a41cf8a64ca5522d5e81804476a295a4.jpg",
+                "caption": "Ext"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9e2d621afbecec6dba604a79188b9c4946c8f63d.jpg",
+                "caption": "Living Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "38a735fac45748ba7a80d147b34b969830aab77d.jpg",
+                "caption": "Bedroom 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3b5220a198811233b00e456c876c7a564692c892.jpg",
+                "caption": "Bedroom 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f63e8171d79e03354f31f286b2829c1180e0230f.jpg",
+                "caption": "Bedroom 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4b1b4534a9e95e3666d426bad9b8c6b2b2d06f91.jpg",
+                "caption": "Bedroom 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "59987a0a1e47f804b74da5718cfa04ea96752eb4.jpg",
+                "caption": "Communal Garden"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8ca5e831334135cb43bbd800dd11e6080883a8f0.jpg",
+                "caption": "Hallway"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6f9fa87949419433bf543a4fa60b1c67787243d2.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a847afb037eab49d3e6c47b3bcc55ebf441a5d66.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8ea21c1ab2450f71927f11f48095f283348624ce.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7ec3194c77fb6ad85a1794caca0fa470c3deb9da.jpg",
+                "caption": "5A1A2408.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "84719a44922ff3cafd1499d4eda0a88a9c36cf41.jpg",
+                "caption": "Hallway"
+            },
+            {
+                "__typename": "Media",
+                "filename": "478bba8ee20fa3705c232b2aaaa1ac53b3f6adf9.jpg",
+                "caption": "Hallway"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3e612ab2db19e7e9db6a1bd581dfd7c0a6be4741.jpg",
+                "caption": "Communal Garden"
+            },
+            {
+                "__typename": "Media",
+                "filename": "caba943e882bd20b6c1117c4a7c4503c5df5cdbb.jpg",
+                "caption": "Communal Garden"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "South East England",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 17512,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(247756).png",
+            "branchName": "Allan Fuller",
+            "brandName": "Allan Fuller",
+            "chainFree": false,
+            "companyId": 8819,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "West Hill, London SW15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3SH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61751439,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 483506
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in West Hill, London SW15 - Zoopla",
+        "metaDescription": "3 bed flat for sale in West Hill, London SW15, selling for \u00a3650,000 from Allan Fuller. See property details on Zoopla or browse all our range of properties in West Hill, London SW15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61751439/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.452198,
+                "longitude": -0.21565,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "West Hill, London SW15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-20T15:30:14",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 83
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/f6583f70d496136e3a20af85c473dab6b9443344.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Allan Fuller",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61751439,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "9a9f7a32-244c-4e14-86be-c576962badad",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW15",
+            "areaNameUri": "london/sw15/putney-roehampton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3348.9733333333334
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 602194,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 573177,
+                    "pctChangeSince": 5.062,
+                    "date": "2022-03-23",
+                    "changeSince": 29017
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 566552,
+                    "pctChangeSince": 6.291,
+                    "date": "2021-12-23",
+                    "changeSince": 35642
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 560846,
+                    "pctChangeSince": 7.372,
+                    "date": "2021-06-23",
+                    "changeSince": 41348
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 552924,
+                    "pctChangeSince": 8.911,
+                    "date": "2017-06-23",
+                    "changeSince": 49270
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 392157,
+                    "pctChangeSince": 53.559,
+                    "date": "2012-06-23",
+                    "changeSince": 210037
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 367222,
+                    "pctChangeSince": 63.986,
+                    "date": "2007-06-23",
+                    "changeSince": 234972
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 231957,
+                    "pctChangeSince": 159.614,
+                    "date": "2002-06-23",
+                    "changeSince": 370237
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 549996,
+                    "newBuilds": 0,
+                    "numSales": 316
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 537618,
+                    "newBuilds": 2,
+                    "numSales": 1019
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 527766,
+                    "newBuilds": 21,
+                    "numSales": 1758
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 546795,
+                    "newBuilds": 312,
+                    "numSales": 3175
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 465000,
+                    "propertyId": 31296032,
+                    "streetAddress": "Apartment 3, 121 West Hill",
+                    "uri": "apartment-3/121-west-hill/london/sw15-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-07T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 23304601,
+                    "streetAddress": "152a West Hill",
+                    "uri": "152a-west-hill/london/sw15-3sr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-16T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 23304594,
+                    "streetAddress": "1, Gate Lodge, 99 West Hill",
+                    "uri": "1/gate-lodge/99-west-hill/london/sw15-3sp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 470000,
+                    "propertyId": 27503739,
+                    "streetAddress": "80 West Hill",
+                    "uri": "80-west-hill/london/sw15-2uj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-15T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 23304620,
+                    "streetAddress": "Flat 5, 148 West Hill",
+                    "uri": "flat-5/148-west-hill/london/sw15-3sr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 1410000,
+                    "propertyId": 23304423,
+                    "streetAddress": "3 Robinwood Place",
+                    "uri": "3-robinwood-place/london/sw15-3se"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 465000,
+                    "propertyId": 31296032,
+                    "streetAddress": "Apartment 3, 121 West Hill",
+                    "uri": "apartment-3/121-west-hill/london/sw15-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-07T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 23304601,
+                    "streetAddress": "152a West Hill",
+                    "uri": "152a-west-hill/london/sw15-3sr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-07T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 23304697,
+                    "streetAddress": "Flat 2, Maple Lodge, 2 Whitefield Close",
+                    "uri": "flat-2/maple-lodge/2-whitefield-close/london/sw15-3ss"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-05T00:00:00Z",
+                    "price": 230002,
+                    "propertyId": 23308214,
+                    "streetAddress": "33 Arnewood Close",
+                    "uri": "33-arnewood-close/london/sw15-4nr"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

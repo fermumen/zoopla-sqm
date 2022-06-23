@@ -1,0 +1,596 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/61782565/?search_identifier=c28c677b02b8c50b472b60460a1f4ac5",
+    "listing_no": "61782565",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.587791,
+        "longitude": -0.117366
+    },
+    "first_published": "2022-06-23T12:43:33",
+    "last_sale_date": "2018-09-13",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61782565",
+        "publishedOn": "2022-06-23T12:43:33",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Lang Court, Smithfield Square, Hornsey, N8",
+                "original": "https://lc.zoocdn.com/7ef5ccaad91122484feeb5a0d2b9f040a571b9de.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31590445",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 12577,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(280630).png",
+            "branchName": "Philip Alexander",
+            "brandName": "Philip Alexander",
+            "chainFree": true,
+            "companyId": 5971,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lang Court, Smithfield Square, Hornsey N8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": false,
+            "incode": "7FG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61782565,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 560000,
+            "price": 560000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 550242
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/philip-alexander-london-12577/",
+            "branchId": "12577",
+            "branchResultsUri": "/for-sale/branch/philip-alexander-london-12577/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(280630).png",
+            "phone": "020 3478 3162",
+            "name": "Philip Alexander",
+            "memberType": "agent",
+            "address": "52 High Street, Hornsey, London",
+            "postcode": "N8 7NX"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Greig City Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "North London Rudolf Steiner School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hornsey",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Turnpike Lane",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "dbed4a46265ae0b3c34dfbb43e2867a74df7a5b8.png",
+                    "url": null
+                },
+                {
+                    "__typename": "Media",
+                    "caption": "EI Rating",
+                    "filename": "9a3622509eff0169afc0755d910f021fcaeeef2f.png",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "*Floorplan coming soon* chain free! PhilipAlexander are delighted to present this luxury two bedroom apartment located in one of Hornseys prestigious flagship development Smithfield Square, N8. This impressive luxurious two bedroom, two bathroom apartment is situated boasts a stunning specification including an interior designed kitchen, luxurious bathrooms, under floor heating, wood flooring throughout and private balcony. Long lease 996 years.<br><br>Smithfield Square features a private landscaped courtyard on 3 sides as well as a number of residents facilities, including a concierge, and gym. Smithfield Square benefits from being a short walk to Hornsey train station, and Turnpike Lane tube station.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Lease length 996 years",
+                "Council tax band D (Haringey)",
+                "Service charge \u00a3tbc",
+                "Ground rent \u00a3tbc"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d237744cf3e87960ccc051f956ce24e280e04a11.jpg",
+                "caption": "Smithfield.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a8ac3ca782fe215bb664314d355fb06c5b556c2c.jpg",
+                "caption": "2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a2374c8c6a67dbcc21be145bff65b85ff9f7ed31.jpg",
+                "caption": "7"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5d5e2f20786f61592a96f7187e3efa89d1fef541.jpg",
+                "caption": "3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "418beb9302d3190d02e819c21093ba5062f1af37.jpg",
+                "caption": "4"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c27188a465963a447505c230f550d7fc7386ec35.jpg",
+                "caption": "6"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e5ac5d4feefcafff57e43decc80bcd8f8705da78.jpg",
+                "caption": "11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "569dc1954d08b560b5613cdf6bbeba25e1b345ee.jpg",
+                "caption": "9"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1ca42f92f66e65f2037ed8fcef2fe3ae95450ccc.jpg",
+                "caption": "12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "127685d244bb56a47bda71ba32af66414125dc7f.jpg",
+                "caption": "10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "97d2faa118295fcfbfb4ed02d88597e1570d6268.jpg",
+                "caption": "13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "726b1b30d4f077d7bef90fa6d62a2093510afb8f.jpg",
+                "caption": "14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2505c8c74d06d33b0edb0eaf18370fae07387799.jpg",
+                "caption": "8"
+            },
+            {
+                "__typename": "Media",
+                "filename": "240520354602957199fe4b1b92983f836a7b617d.jpg",
+                "caption": "Residents Gym.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "804aaadec70b623f45abb50767988c042e25c922.jpg",
+                "caption": "Concierge.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0fe3f0691347a2df21538dcbf6f86c5213d3d16a.jpg",
+                "caption": "Alexandra Palace - Fireworks Logo4.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 12577,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(280630).png",
+            "branchName": "Philip Alexander",
+            "brandName": "Philip Alexander",
+            "chainFree": true,
+            "companyId": 5971,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lang Court, Smithfield Square, Hornsey N8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": false,
+            "incode": "7FG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61782565,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 560000,
+            "price": 560000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 550242
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Lang Court, Smithfield Square, Hornsey N8 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Lang Court, Smithfield Square, Hornsey N8, selling for \u00a3560,000 from Philip Alexander. See property details on Zoopla or browse all our range of properties in Lang Court, Smithfield Square, Hornsey N8.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61782565/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.587791,
+                "longitude": -0.117366,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Lang Court, Smithfield Square, Hornsey N8",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-23T12:43:33",
+                "priceLabel": "\u00a3560,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2018-09-13",
+                "newBuild": false,
+                "price": 493500,
+                "priceLabel": "\u00a3493,500",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 0
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3560,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Philip Alexander",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61782565,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "4ad5c966-e4ed-4332-8cc6-30d1115dc57e",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N8",
+            "areaNameUri": "london/n8/hornsey-crouch-end",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2080.3851851851855
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 551400,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 536753,
+                    "pctChangeSince": 2.729,
+                    "date": "2022-03-23",
+                    "changeSince": 14647
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 551539,
+                    "pctChangeSince": -0.025,
+                    "date": "2021-12-23",
+                    "changeSince": -139
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 574876,
+                    "pctChangeSince": -4.084,
+                    "date": "2021-06-23",
+                    "changeSince": -23476
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 521748,
+                    "pctChangeSince": 5.683,
+                    "date": "2017-06-23",
+                    "changeSince": 29652
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 363760,
+                    "pctChangeSince": 51.583,
+                    "date": "2012-06-23",
+                    "changeSince": 187640
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 348257,
+                    "pctChangeSince": 58.331,
+                    "date": "2007-06-23",
+                    "changeSince": 203143
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 218316,
+                    "pctChangeSince": 152.57,
+                    "date": "2002-06-23",
+                    "changeSince": 333084
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 512329,
+                    "newBuilds": 0,
+                    "numSales": 190
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 511082,
+                    "newBuilds": 47,
+                    "numSales": 604
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 499098,
+                    "newBuilds": 66,
+                    "numSales": 1220
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 500614,
+                    "newBuilds": 68,
+                    "numSales": 1728
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-02-25T00:00:00Z",
+                    "price": 370000,
+                    "propertyId": 15135574,
+                    "streetAddress": "Flat 10, Bank Chambers, 120 High Street",
+                    "uri": "flat-10/bank-chambers/120-high-street/london/n8-7nn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-01T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 33118523,
+                    "streetAddress": "Flat 7, Lang Court, High Street",
+                    "uri": "flat-7/lang-court/high-street/london/n8-7fg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-29T00:00:00Z",
+                    "price": 413800,
+                    "propertyId": 33118598,
+                    "streetAddress": "Flat 31, Cooper Court, High Street",
+                    "uri": "flat-31/cooper-court/high-street/london/n8-7fh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-10T00:00:00Z",
+                    "price": 542000,
+                    "propertyId": 33118465,
+                    "streetAddress": "Flat 31, Basset Court, High Street",
+                    "uri": "flat-31/basset-court/high-street/london/n8-7fe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-27T00:00:00Z",
+                    "price": 722000,
+                    "propertyId": 27401359,
+                    "streetAddress": "Flat 3, 71 High Street",
+                    "uri": "flat-3/71-high-street/london/n8-7qb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-11T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 27130593,
+                    "streetAddress": "113a Alexandra Road",
+                    "uri": "113a-alexandra-road/london/n8-0lg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-30T00:00:00Z",
+                    "price": 295000,
+                    "propertyId": 15142285,
+                    "streetAddress": "168 Weston Park",
+                    "uri": "168-weston-park/london/n8-9pn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-28T00:00:00Z",
+                    "price": 390000,
+                    "propertyId": 15136344,
+                    "streetAddress": "81a Nightingale Lane",
+                    "uri": "81a-nightingale-lane/london/n8-7qy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-25T00:00:00Z",
+                    "price": 435000,
+                    "propertyId": 15131475,
+                    "streetAddress": "46 Hampden Road",
+                    "uri": "46-hampden-road/london/n8-0ht"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-24T00:00:00Z",
+                    "price": 342000,
+                    "propertyId": 15136160,
+                    "streetAddress": "55, Amazon Apartments, New River Avenue",
+                    "uri": "55/amazon-apartments/new-river-avenue/london/n8-7qe"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

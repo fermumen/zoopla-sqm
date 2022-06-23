@@ -1,0 +1,517 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/61780343/?search_identifier=c28c677b02b8c50b472b60460a1f4ac5",
+    "listing_no": "61780343",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.587988,
+        "longitude": -0.116823
+    },
+    "first_published": "2022-06-23T09:49:56",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61780343",
+        "publishedOn": "2022-06-23T09:49:56",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 27876,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(583902).png",
+            "branchName": "Sure 2 Let Property Lettings & Management",
+            "brandName": "Sure 2 Let Property Lettings & Management",
+            "chainFree": true,
+            "companyId": 13554,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Smithfield Square, London N8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": false,
+            "incode": "7FB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61780343,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 565000,
+            "price": 565000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "710",
+            "tenure": "leasehold",
+            "zindex": 521553
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/sure-2-let-property-lettings-and-management-london-27876/",
+            "branchId": "27876",
+            "branchResultsUri": "/for-sale/branch/sure-2-let-property-lettings-and-management-london-27876/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(583902).png",
+            "phone": "020 3641 4976",
+            "name": "Sure 2 Let Property Lettings & Management",
+            "memberType": "agent",
+            "address": "Albert Road, London",
+            "postcode": "N22 7XL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Greig City Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "North London Rudolf Steiner School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hornsey",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Turnpike Lane",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "links": [
+                {
+                    "__typename": "LinkData",
+                    "url": "https://www.brightlogic-estateagents.co.uk/S2LT/upload/105-EER.JPG",
+                    "label": "EPC"
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "We can offer this chain free flat with two double bedrooms, two bathrooms with a balcony set on the third floor in superb condition.<br>Under floor heating throughout, fully fitted kitchen with integrated appliances. Stylish bathroom and en-suite.<br>Main bedroom offers built in wardrobes.<br>The property is sited in the Smithfield development in Hornsey, N8.<br>Concierge service, lifts, communal gardens and a gym.<br>Supermarket and other high street conveniences very close to hand.<br>Trains going centrally from Hornsey and Turnpike Lane.<br>Chain free<br><strong>L/H<br></strong><br><br><strong>What3words /// </strong> <br><br><strong>Notice</strong><br>Please note we have not tested any apparatus, fixtures, fittings, or services. Interested parties must undertake their own investigation into the working order of these items. All measurements are approximate and photographs provided for guidance only.<br><br><strong>Council Tax</strong><br>, London Borough of Haringey, Band C",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "dd24bb428c5b43a6ae49ed1f8b69ea79b6958f7f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f0b8cafcfe02cbc5ae6aa05dec3ced0d3c720688.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "357e10b7e5ec8dc2908f3cc87ae4cf3b9175cbad.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "589af3b61a697df81eb9c2c9bd65d86b85c585ed.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9681d2db1eea53bf49532b3de27b1beb4ac60a81.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 27876,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(583902).png",
+            "branchName": "Sure 2 Let Property Lettings & Management",
+            "brandName": "Sure 2 Let Property Lettings & Management",
+            "chainFree": true,
+            "companyId": 13554,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Smithfield Square, London N8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": false,
+            "incode": "7FB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61780343,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 565000,
+            "price": 565000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "710",
+            "tenure": "leasehold",
+            "zindex": 521553
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Smithfield Square, London N8 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Smithfield Square, London N8, selling for \u00a3565,000 from Sure 2 Let Property Lettings & Management. See property details on Zoopla or browse all our range of properties in Smithfield Square, London N8.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61780343/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.587988,
+                "longitude": -0.116823,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Smithfield Square, London N8",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-23T09:49:56",
+                "priceLabel": "\u00a3565,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 0
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 710,
+            "label": "710 sq. ft"
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3565,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 795,
+                "unitsLabel": "sq. ft",
+                "label": "\u00a3795/sq. ft"
+            },
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Sure 2 Let Property Lettings & Management",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61780343,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "83b9f200-79e2-47cb-9a34-55676a6a12ba",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N8",
+            "areaNameUri": "london/n8/hornsey-crouch-end",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2080.3851851851855
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 551400,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 536753,
+                    "pctChangeSince": 2.729,
+                    "date": "2022-03-23",
+                    "changeSince": 14647
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 551539,
+                    "pctChangeSince": -0.025,
+                    "date": "2021-12-23",
+                    "changeSince": -139
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 574876,
+                    "pctChangeSince": -4.084,
+                    "date": "2021-06-23",
+                    "changeSince": -23476
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 521748,
+                    "pctChangeSince": 5.683,
+                    "date": "2017-06-23",
+                    "changeSince": 29652
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 363760,
+                    "pctChangeSince": 51.583,
+                    "date": "2012-06-23",
+                    "changeSince": 187640
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 348257,
+                    "pctChangeSince": 58.331,
+                    "date": "2007-06-23",
+                    "changeSince": 203143
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 218316,
+                    "pctChangeSince": 152.57,
+                    "date": "2002-06-23",
+                    "changeSince": 333084
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 512329,
+                    "newBuilds": 0,
+                    "numSales": 190
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 511082,
+                    "newBuilds": 47,
+                    "numSales": 604
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 499098,
+                    "newBuilds": 66,
+                    "numSales": 1220
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 500614,
+                    "newBuilds": 68,
+                    "numSales": 1728
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-02-25T00:00:00Z",
+                    "price": 370000,
+                    "propertyId": 15135574,
+                    "streetAddress": "Flat 10, Bank Chambers, 120 High Street",
+                    "uri": "flat-10/bank-chambers/120-high-street/london/n8-7nn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-01T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 33118523,
+                    "streetAddress": "Flat 7, Lang Court, High Street",
+                    "uri": "flat-7/lang-court/high-street/london/n8-7fg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-29T00:00:00Z",
+                    "price": 413800,
+                    "propertyId": 33118598,
+                    "streetAddress": "Flat 31, Cooper Court, High Street",
+                    "uri": "flat-31/cooper-court/high-street/london/n8-7fh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-10T00:00:00Z",
+                    "price": 542000,
+                    "propertyId": 33118465,
+                    "streetAddress": "Flat 31, Basset Court, High Street",
+                    "uri": "flat-31/basset-court/high-street/london/n8-7fe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-27T00:00:00Z",
+                    "price": 722000,
+                    "propertyId": 27401359,
+                    "streetAddress": "Flat 3, 71 High Street",
+                    "uri": "flat-3/71-high-street/london/n8-7qb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-11T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 27130593,
+                    "streetAddress": "113a Alexandra Road",
+                    "uri": "113a-alexandra-road/london/n8-0lg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-30T00:00:00Z",
+                    "price": 295000,
+                    "propertyId": 15142285,
+                    "streetAddress": "168 Weston Park",
+                    "uri": "168-weston-park/london/n8-9pn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-28T00:00:00Z",
+                    "price": 390000,
+                    "propertyId": 15136344,
+                    "streetAddress": "81a Nightingale Lane",
+                    "uri": "81a-nightingale-lane/london/n8-7qy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-25T00:00:00Z",
+                    "price": 435000,
+                    "propertyId": 15131475,
+                    "streetAddress": "46 Hampden Road",
+                    "uri": "46-hampden-road/london/n8-0ht"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-24T00:00:00Z",
+                    "price": 342000,
+                    "propertyId": 15136160,
+                    "streetAddress": "55, Amazon Apartments, New River Avenue",
+                    "uri": "55/amazon-apartments/new-river-avenue/london/n8-7qe"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

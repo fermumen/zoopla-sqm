@@ -1,0 +1,557 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 92.8,
+    "sqft": 999.0,
+    "text": "Ticehurst Road, SE23\nApproximate Gross Internal Area\nGround Floor(Excluding Shed / Outside Store)\n47.6 sq m/ 512 sq ft\nFirst Floor = 45.2 sq m/ 487 sq ft\nTotal = 92.8 sq m/ 999 sq ft\nGarden\n21.67 x 5.89\nShed 71'1x 194\nCN \u20184\n| Up 1\n\\ eel pI SSS\nJy <te \u2014\n1 i : =) a! T\nmu\n| Kitchen,\n2.84 x 2.01\n94x67 Dining Room Bedroom\n4.04 x 3.35 8 4.01 x 3.53\n13'3x 110 13'2x 117\nPAD\n: 7 1\n7\n; \\ \\\n= : '\n=n Reception Room - Bedroom\nUp 4.62 x 3.66 Bedroom 4.32 x 3.53\n152x120 2.84 x 1.93 142x117\nLe + |. 88x 64 -\n\\ 1\nIN 5\nt First Floor os\nGround Floor\nCopyright www.pedderproperty.com \u00a9 2022\nThese plans are for representation purposes only as defined by RICS - Code of Measuring Practice\nNot drawn to Scale. Windows and door openings are approximate. Please check all dimensions,\nshapes and compass bearings before making any decisions reliant upon them.\n\f",
+    "image": "./extracted_images/61752584.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61752584/?search_identifier=e524a55eac9f89c66e994a5c6efe9db2",
+    "listing_no": "61752584",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.435743,
+        "longitude": -0.039078
+    },
+    "first_published": "2022-06-20T16:48:10",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61752584",
+        "publishedOn": "2022-06-20T16:48:10",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/ae0e2a42089b1966d461ecde2441573a599c3df7.pdf",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 28,
+            "acornType": 28,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 7840,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(466929).png",
+            "branchName": "Pedder - Forest Hill",
+            "brandName": "Pedder",
+            "chainFree": true,
+            "companyId": 29514,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Ticehurst Road, Forest Hill, London SE23",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2TJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61752584,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SE23",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 682909
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/pedder-forest-hill-london-7840/",
+            "branchId": "7840",
+            "branchResultsUri": "/for-sale/branch/pedder-forest-hill-london-7840/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(466929).png",
+            "phone": "020 3641 4995",
+            "name": "Pedder - Forest Hill",
+            "memberType": "agent",
+            "address": "2-4 London Road, London",
+            "postcode": "SE23 3HF"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilmorie Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brent Knoll School (SEN)",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Forest Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lower Sydenham",
+                "type": "national_rail_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/O8L4mJhapCs?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "b6374d836e2faf6b703a4fcf3ec219c0110047fb.jpg",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "A charming three bedroom terraced house in need of modernisation for sale on the very popular Ticehurst Road with a private 71 Ft southwest facing garden.<br><br>This property is offered chain free and comprises a large front reception room, fitted kitchen, separate dining room, a neutral bathroom suite, three bedrooms and a large private rear garden. Further benefits include plenty of storage, an abundance of light, many original features, potential to extend (STPP) and so much more.<br><br>Located approximately 0.7 miles from Forest Hill station, the property offers fantastic transport links into London Bridge, Canada Water, Shoreditch, Whitechapel, Highbury and Islington and many other locations. It is also just a short walk to various amenities including a variety of restaurants, coffee shops, cafes, gastro pubs, parks and very popular local schools.<br><br>Viewings are highly recommended, call the Pedder Forest Hill sales team to arrange a viewing today.<br><br>EPC: E | Council tax band D",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Offered chain free",
+                "71 Ft South-West facing garden",
+                "Three bedrooms",
+                "Spacious front reception room",
+                "Fitted kitchen",
+                "Separate dining room",
+                "Quiet and popular street",
+                "Original features",
+                "Potential to extend (STPP)",
+                "Close to various local amenities"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "13f22c855e02b9843bda78365e5b0b592a3477f5.gif",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "c0ef9b56cbd58b26801f61ac8953fbd1257df8fb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1b13119c9dcd81e532434c1d21daa02d7b4c9106.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bc8c68f14badd3536e2feb789d7609b68c441975.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "659dbddff44f1f37cf93d21601310eb8daddebeb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "31d339b2044d2621ea9dc697ad027dfcb7c260b1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6454ea3970596c48e2fbde151c7b8e1a29db2ba8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5a9c0a18acfd150d4c4c8f2a12bb9c1af9a12ffa.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1dadfa0c8d7a86b55a5121c1371aeff585671145.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b63486724bc4fa22caef8fb20f7fccad21b9d2b1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c630827700e43873721663c5d323b36ba5eac970.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "47f215f48bc01d63f22227acd9acfedf213e335b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7ce975e2c1ef3867642318c6fa4962fdfb212b5e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6b3f3abc68ae7c7873f07be76a472159efda620d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "42e164f2f1dcf4cb2fc6b0e061d2b24e1955bf06.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "49c26211afbe88e869181efc89b67931d1441245.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 28,
+            "acornType": 28,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 7840,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(466929).png",
+            "branchName": "Pedder - Forest Hill",
+            "brandName": "Pedder",
+            "chainFree": true,
+            "companyId": 29514,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Ticehurst Road, Forest Hill, London SE23",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2TJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61752584,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SE23",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 682909
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Ticehurst Road, Forest Hill, London SE23 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Ticehurst Road, Forest Hill, London SE23, selling for \u00a3600,000 from Pedder - Forest Hill. See property details on Zoopla or browse all our range of properties in Ticehurst Road, Forest Hill, London SE23.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61752584/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.435743,
+                "longitude": -0.039078,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Ticehurst Road, Forest Hill, London SE23",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-20T16:48:10",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 197
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/13f22c855e02b9843bda78365e5b0b592a3477f5.gif"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Pedder",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61752584,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "6cc98bb8-a4f2-4513-910c-979c277e1aae",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE23",
+            "areaNameUri": "london/se23/forest-hill",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2376.833333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 683372,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 659851,
+                    "pctChangeSince": 3.565,
+                    "date": "2022-03-23",
+                    "changeSince": 23521
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 667304,
+                    "pctChangeSince": 2.408,
+                    "date": "2021-12-23",
+                    "changeSince": 16068
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 679192,
+                    "pctChangeSince": 0.615,
+                    "date": "2021-06-23",
+                    "changeSince": 4180
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 616377,
+                    "pctChangeSince": 10.869,
+                    "date": "2017-06-23",
+                    "changeSince": 66995
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 413552,
+                    "pctChangeSince": 65.245,
+                    "date": "2012-06-23",
+                    "changeSince": 269820
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 392163,
+                    "pctChangeSince": 74.257,
+                    "date": "2007-06-23",
+                    "changeSince": 291209
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 237190,
+                    "pctChangeSince": 188.112,
+                    "date": "2002-06-23",
+                    "changeSince": 446182
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 710638,
+                    "newBuilds": 0,
+                    "numSales": 100
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 685518,
+                    "newBuilds": 0,
+                    "numSales": 378
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 667552,
+                    "newBuilds": 0,
+                    "numSales": 620
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 651200,
+                    "newBuilds": 0,
+                    "numSales": 887
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-21T00:00:00Z",
+                    "price": 715000,
+                    "propertyId": 21191532,
+                    "streetAddress": "38 Ticehurst Road",
+                    "uri": "38-ticehurst-road/london/se23-2tj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 475000,
+                    "propertyId": 21190183,
+                    "streetAddress": "53c Waldram Park Road",
+                    "uri": "53c-waldram-park-road/london/se23-2pw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-13T00:00:00Z",
+                    "price": 940000,
+                    "propertyId": 21186243,
+                    "streetAddress": "17 Courtrai Road",
+                    "uri": "17-courtrai-road/london/se23-1pl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-11T00:00:00Z",
+                    "price": 653000,
+                    "propertyId": 21188520,
+                    "streetAddress": "98 Cranston Road",
+                    "uri": "98-cranston-road/london/se23-2ey"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-07T00:00:00Z",
+                    "price": 413000,
+                    "propertyId": 27448553,
+                    "streetAddress": "59b Beadnell Road",
+                    "uri": "59b-beadnell-road/london/se23-1aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-04T00:00:00Z",
+                    "price": 765000,
+                    "propertyId": 21196673,
+                    "streetAddress": "2, St. Paul's Conversion, Taymount Rise",
+                    "uri": "2/st-paul-s-conversion/taymount-rise/london/se23-3us"
+                }
+            ]
+        },
+        "propertyType": "terraced",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": "D"
+    }
+}

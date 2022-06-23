@@ -1,0 +1,561 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "Garden 11m\n\nConservatory\n\n2.06 x 1.96m\n\n69\"x65\"\n\n2)\n\nKitchen / Diner\n\n4.53 x 2.89m\n\n14110\" x96\"\n\nBedroom / Study\n\n8.04 x 2.17m\n\n0\" x7\n\n\u00b0\n\n2\n\nZENE\n\n\u2018Bedroom\n\n|\n\n42x2,76m\n\nSree\n\nReception Room\n\n7.46 x3.47m\n\n246\" x 11'S\"\n\nBedroom\n\n4.40 x3.42m.\n\n14'5\" x 11'3\"\n\nFirst Floor\n\nGround Floor\n\nTotal Area: 95.7 m?\n\n1030\n\nAll measurements are approximate and for display purposes only,\n\f",
+    "image": "./extracted_images/61779716.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61779716/?search_identifier=c28c677b02b8c50b472b60460a1f4ac5",
+    "listing_no": "61779716",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.556793,
+        "longitude": 0.011117
+    },
+    "first_published": "2022-06-23T09:00:07",
+    "last_sale_date": "1995-10-20",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61779716",
+        "publishedOn": "2022-06-23T09:00:07",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Chichester Road, Leytonstone",
+                "original": "https://lc.zoocdn.com/635c48376d4d949c739e5ab25a0c58bac37abdff.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31589337",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 28,
+            "acornType": 28,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 85983,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725218).png",
+            "branchName": "The Stow Brothers",
+            "brandName": "Stow Residential",
+            "chainFree": true,
+            "companyId": 34271,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Chichester Road, London E11",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3LJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61779716,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "E11",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 590000,
+            "price": 590000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 489831
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/the-stow-brothers-london-85983/",
+            "branchId": "85983",
+            "branchResultsUri": "/for-sale/branch/the-stow-brothers-london-85983/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725218).png",
+            "phone": "020 8115 8610",
+            "name": "The Stow Brothers",
+            "memberType": "agent",
+            "address": "117a High Street, Wanstead, London",
+            "postcode": "E11 2RL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Jenny Hammond Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Buxton School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Leytonstone High Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Leyton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "1d6f5bcef7119f30e6bfeb31e4eef01eb28dd6d4.png",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "A spacious three bedroom Victorian home with east-facing garden in Leytonstone. Here you're nestled on a tree-lined street with the social hub of Winchelsea Road just around the corner and a fine choice of transport links within easy reach.<br><br>Fancy unwinding in nature? The expansive open green space of Wanstead Flats, once the favoured hunting grounds of Henry VIII, is just an eight minute stroll away. You'll often see swans and Canada geese bobbing about on the tranquil blue waters of Jubilee Pond, right by the entrance to your new suburban solace.<br><br>If you lived here<br><br>You'll be dining and reclining with friends in your substantial 280 square foot lounge with a twin set of fireplaces, a classic bay window and flawless honey-hued flooring flowing underfoot. Next door the spacious kitchen offers up more space for dining, with gorgeous timber panelling overhead and a gleaming suite of smart white cabinets. Further in is a handy spare WC and the beautifully bright conservatory, opening on to your thirty five square foot garden.<br><br>Out here a patio area gives way to a stretch of lawn flanked by beds and ending in an ivy-covered trellis overseen by mature foliage. Back inside and head upstairs for your 160 square foot principal bedroom, with light pouring in through a sextet of windows, a wealth of built-in storage off to the side and sleek engineered hardwood flooring flowing underfoot. Bedroom two's a solid double with a garden view, bedroom three's a versatile single and to the rear your bathroom comes with a shower over the tub and heated towel rail.<br><br>You're in a close-knit community here with go-to spot Winchelsea Road around the corner. The Wanstead Tap, The Holly Tree, Pretty Decent Beer and The Rookwood Village are all worthy candidates for your new local. Also be sure to check out the dog-friendly Patch cafe for one of our best-kept local secrets. Serving up mouth-watering healthy fare of incontestable quality, it's also a great spot for remote working. Transport-wise you can't go wrong here. The 58 bus route runs around the corner to whisk you to Leyton, Walthamstow, Wanstead Park and Forest Gate stations. Alternatively, Leytonstone High Road's a thirteen minute stroll for the Overground and speedy swaps to the Victoria Line.<br><br>What else?<br><br>- Parents will be pleased to know there are nineteen primary/secondary schools in a one mile radius, all rated 'Good' or better by Ofsted. The 'Outstanding' Davies Lane Primary is leafy stroll through the playing fields, taking a left at the Victorian Drinking Fountain.<br>- Your new abode comes chain free, so you can move in with minimal hassle.<br>- Fancy fresh produce to cook up in your new kitchen? Pick some up at Leytonstone Farmers' Market. It's in the grounds of Buxton School (by Cann Hall Park) every Sunday and just four minutes' walk from your front door.<br><br><strong>Garden</em> (11m (36'1\" ))</strong><br><br><strong>Reception Room</em> (7.46m x 3.47m (24'5\" x 11'4\" ))</strong><br><br><strong>Kitchen/ Diner</em> (4.53m x 2.89m (14'10\" x 9'5\" ))</strong><br><br><strong>Conservatory</em> (2.06m x 1.96m (6'9\" x 6'5\" ))</strong><br><br><strong>Wc</strong><br><br><strong>Bedroom</em> (4.40m x 3.42m (14'5\" x 11'2\" ))</strong><br><br><strong>Bedroom</em> (3.42m x 2.76m (11'2\" x 9'0\" ))</strong><br><br><strong>Bedroom/ Study</em> (3.04m x 2.17m (9'11\" x 7'1\" ))</strong><br><br><strong>Bathroom</strong><br><br>A word from the expert.....<br><br>\"Leytonstone is a unique, eclectic area, with great gastro pubs like Leytonstone Tavern and The Red Lion to bistro caf\u00e9s like The Wild Goose Bakery and Gray, along with the open green space of Wanstead Flats, a serene getaway from the hustle and bustle of urban life.<br><br>With an array of buses and the Central line underground station close by, you can be in the City and surrounding areas within minutes.\"<br><strong>Joseph earnshaw<br></strong><br><br>E11 branch manager",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three Bedroom Freehold House",
+                "Large Through Reception",
+                "Private Rear Garden",
+                "Bay Fronted",
+                "Chain Free",
+                "Close to Wanstead Flats",
+                "Good Transport Links",
+                "Council Tax Band D"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "749e954570693d00d9d78d3a64b234c11afc39c6.jpg",
+                    "caption": "Floorplan.Jpeg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "cea2998974e538e405ab5ad9f588281eb740360a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7577226a2a81ea52a213c4a20b37bb2437447990.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d289c1069aaa4c71ff740815ce87c82bd9a1a1f8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9534e9d4a295823317111b8737660288a61ff695.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a94825ad44711414b9f62d9736f59fa7e2d256e0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "83dac6b8ba6e48e78803cee7698e2edb454a8807.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "86b985055b20518f65c98a80ab79654a08c3473d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "192e78bcacabd1a8d8f04f1d8594611c00cf18f7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f0a9a7e209efa755049a8345cd16625d5681d5a0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ed24c1b0c51c9e4c796a141d236024d46e4e5851.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8178c1a70f0acf7e41ee7825c1bc7e6119f8f6db.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f22d0a5758cab479804e96aef84140a608263664.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 28,
+            "acornType": 28,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 85983,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725218).png",
+            "branchName": "The Stow Brothers",
+            "brandName": "Stow Residential",
+            "chainFree": true,
+            "companyId": 34271,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Chichester Road, London E11",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3LJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61779716,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "E11",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 590000,
+            "price": 590000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 489831
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Chichester Road, London E11 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Chichester Road, London E11, selling for \u00a3590,000 from The Stow Brothers. See property details on Zoopla or browse all our range of properties in Chichester Road, London E11.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61779716/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.556793,
+                "longitude": 0.011117,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Chichester Road, London E11",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-23T09:00:07",
+                "priceLabel": "\u00a3590,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "1995-10-20",
+                "newBuild": false,
+                "price": 47500,
+                "priceLabel": "\u00a347,500",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 0
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/749e954570693d00d9d78d3a64b234c11afc39c6.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3590,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Stow Residential",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61779716,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "2295739d-aa1b-4a63-9762-206996dd8c39",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E11",
+            "areaNameUri": "london/e11/leytonstone-wanstead",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2740.1111111111095
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 667913,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 656278,
+                    "pctChangeSince": 1.773,
+                    "date": "2022-03-23",
+                    "changeSince": 11635
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 677181,
+                    "pctChangeSince": -1.369,
+                    "date": "2021-12-23",
+                    "changeSince": -9268
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 740026,
+                    "pctChangeSince": -9.745,
+                    "date": "2021-06-23",
+                    "changeSince": -72113
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 657441,
+                    "pctChangeSince": 1.593,
+                    "date": "2017-06-23",
+                    "changeSince": 10472
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 420909,
+                    "pctChangeSince": 58.683,
+                    "date": "2012-06-23",
+                    "changeSince": 247004
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 410032,
+                    "pctChangeSince": 62.893,
+                    "date": "2007-06-23",
+                    "changeSince": 257881
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 247667,
+                    "pctChangeSince": 169.682,
+                    "date": "2002-06-23",
+                    "changeSince": 420246
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 698602,
+                    "newBuilds": 0,
+                    "numSales": 186
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 664868,
+                    "newBuilds": 0,
+                    "numSales": 626
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 644470,
+                    "newBuilds": 0,
+                    "numSales": 1010
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 618603,
+                    "newBuilds": 8,
+                    "numSales": 1485
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-29T00:00:00Z",
+                    "price": 701500,
+                    "propertyId": 7808516,
+                    "streetAddress": "6 Chichester Road",
+                    "uri": "6-chichester-road/london/e11-3lh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-02-09T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 7808588,
+                    "streetAddress": "77 Chichester Road",
+                    "uri": "77-chichester-road/london/e11-3lj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-20T00:00:00Z",
+                    "price": 830000,
+                    "propertyId": 7805050,
+                    "streetAddress": "49 Chestnut Drive",
+                    "uri": "49-chestnut-drive/london/e11-2ta"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 455000,
+                    "propertyId": 7815236,
+                    "streetAddress": "769a High Road Leytonstone",
+                    "uri": "769a-high-road-leytonstone/london/e11-4qs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 520000,
+                    "propertyId": 7796324,
+                    "streetAddress": "2c Queens Road",
+                    "uri": "2c-queens-road/london/e11-1bb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 1300000,
+                    "propertyId": 7803194,
+                    "streetAddress": "8 Raynes Avenue",
+                    "uri": "8-raynes-avenue/london/e11-2ls"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-07T00:00:00Z",
+                    "price": 720000,
+                    "propertyId": 7815188,
+                    "streetAddress": "10 Burghley Road",
+                    "uri": "10-burghley-road/london/e11-4qp"
+                }
+            ]
+        },
+        "propertyType": "terraced",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

@@ -1,0 +1,527 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/61782957/?search_identifier=c28c677b02b8c50b472b60460a1f4ac5",
+    "listing_no": "61782957",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.507394,
+        "longitude": -0.021148
+    },
+    "first_published": "2022-06-23T13:16:44",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61782957",
+        "publishedOn": "2022-06-23T13:16:44",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16930,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "branchName": "Strike",
+            "brandName": "Strike",
+            "chainFree": true,
+            "companyId": 6808,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Hertsmere Road, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": false,
+            "incode": "4EF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61782957,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 585000,
+            "price": 585000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_in_region_of",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "60",
+            "tenure": "leasehold",
+            "zindex": 1173425
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/strike-middleborough-16930/",
+            "branchId": "16930",
+            "branchResultsUri": "/for-sale/branch/strike-middleborough-16930/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "phone": "0113 482 9379",
+            "name": "Strike",
+            "memberType": "agent",
+            "address": "The Octagon, Middleborough",
+            "postcode": "CO1 1TG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "West India Quay",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Our Lady and St Joseph Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Poplar",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Mayflower Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "links": [
+                {
+                    "__typename": "LinkData",
+                    "url": "http://housesimple-production-s3.imgix.net/public/property/206024/epc_generated_62b3481912d169.32255944.png?fm=jpg&h=1024&ixlib=php-1.1.0&q=75&w=1280&s=0ae55ea5a34a47b1d7e63b0fadc39b43#file.jpeg",
+                    "label": "EPC"
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Strike is pleased to present this moder two-bedroom apartment in the heart of London with stunning views of london!<br>This self-contained apartment spanning 667.36 ft2 benefits from a long leasehold is located close to Canary Wharf and is a part of a luxury \u201cglass tower\u201d development on the fifteenth floor<br>Full vacant possession. Upon entering the main living area, there is a good sense of space, enhanced by vast floor-to-ceiling windows, flooding all rooms with lashings of natural light. There is a designer kitchen with a range of high end appliances, which is incorporated to the open plan living area, making this the perfect space to entertain friends and family. There are two spacious bedrooms, both of which benefit from quality fitted wardrobes, plus the high spec bathroom suite.<br><br>The property is situated at West India Quay, on Hertsmere Road, close to Royal Albert/King Square Dock/Gallions Point Marina, the River Thames and Canary Wharf. The apartment sits on the fifteenth floor within a luxury building development that boasts stunning views of London through stylish floor to ceiling windows. Transport options include local bus routes, the Woolwich Ferry, London City Airport or King George V and Gallions Reach DLR Stations or London City Airport. Shops, bars, cafes and restaurants can<br>be found surrounding the Marina along Pier Road, the Excel London and London Docklands.<br><br>Tenure: Leasehold<br><br>Council Tax: F<br><br>Lease Remaining: 999<br><br>Current ground rent: \u00a31000.00 Per Year<br><br>Ground rent review period: Every 0<br><br>Annual ground rent increase: 20%",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "24 Hour concierge",
+                "Beautiful london views",
+                "Floor to ceiling windows for natural light",
+                "Prime location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "2d7d2df3161e12c84a89c90904d423eeb16d70a9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "370eaae394118180fe8b1aa5c41b326d71d9abcb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "419ffbffa4291aafc514435264eaa6b0c11d6b72.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "22263dc70da76515500b165a8613d599a821e6f6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d71ed184062783d9825903c1c89a3c1d574a2f56.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1ab8121496ddb512d99da2e6c1c674f326b75336.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3ad02de60e132301539fb2a036b9f1038541ccfa.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16930,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "branchName": "Strike",
+            "brandName": "Strike",
+            "chainFree": true,
+            "companyId": 6808,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Hertsmere Road, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": false,
+            "incode": "4EF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61782957,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 585000,
+            "price": 585000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_in_region_of",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "60",
+            "tenure": "leasehold",
+            "zindex": 1173425
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Hertsmere Road, London E14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Hertsmere Road, London E14, selling for \u00a3585,000 from Strike. See property details on Zoopla or browse all our range of properties in Hertsmere Road, London E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61782957/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.507394,
+                "longitude": -0.021148,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Hertsmere Road, London E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-23T13:16:44",
+                "priceLabel": "\u00a3585,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 0
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 60,
+            "label": "60 sq. ft"
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3585,000",
+            "priceQualifierLabel": "Offers in region of",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 9750,
+                "unitsLabel": "sq. ft",
+                "label": "\u00a39,750/sq. ft"
+            },
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Strike",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61782957,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "eb61949d-5a06-4e3c-b29e-12203638ad79",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3137.1000000000004
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 563513,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 546282,
+                    "pctChangeSince": 3.154,
+                    "date": "2022-03-23",
+                    "changeSince": 17231
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 553786,
+                    "pctChangeSince": 1.756,
+                    "date": "2021-12-23",
+                    "changeSince": 9727
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 581217,
+                    "pctChangeSince": -3.046,
+                    "date": "2021-06-23",
+                    "changeSince": -17704
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 512325,
+                    "pctChangeSince": 9.991,
+                    "date": "2017-06-23",
+                    "changeSince": 51188
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 338347,
+                    "pctChangeSince": 66.549,
+                    "date": "2012-06-23",
+                    "changeSince": 225166
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 344825,
+                    "pctChangeSince": 63.42,
+                    "date": "2007-06-23",
+                    "changeSince": 218688
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 211237,
+                    "pctChangeSince": 166.768,
+                    "date": "2002-06-23",
+                    "changeSince": 352276
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 495640,
+                    "newBuilds": 14,
+                    "numSales": 393
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 491097,
+                    "newBuilds": 199,
+                    "numSales": 1466
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 491832,
+                    "newBuilds": 426,
+                    "numSales": 3069
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 484902,
+                    "newBuilds": 1115,
+                    "numSales": 6003
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-02-03T00:00:00Z",
+                    "price": 880000,
+                    "propertyId": 7855212,
+                    "streetAddress": "Apartment 1903, 26 Hertsmere Road",
+                    "uri": "apartment-1903/26-hertsmere-road/london/e14-4ef"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-26T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 7855220,
+                    "streetAddress": "Apartment 2002, 26 Hertsmere Road",
+                    "uri": "apartment-2002/26-hertsmere-road/london/e14-4ef"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 7855099,
+                    "streetAddress": "Flat C302, 16 Hertsmere Road",
+                    "uri": "flat-c302/16-hertsmere-road/london/e14-4ax"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 725000,
+                    "propertyId": 7855230,
+                    "streetAddress": "Apartment 2103, 26 Hertsmere Road",
+                    "uri": "apartment-2103/26-hertsmere-road/london/e14-4ef"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-05T00:00:00Z",
+                    "price": 2285000,
+                    "propertyId": 27299782,
+                    "streetAddress": "Flat 22, Keepier Wharf, 12 Narrow Street",
+                    "uri": "flat-22/keepier-wharf/12-narrow-street/london/e14-8dh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-04T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 7848380,
+                    "streetAddress": "14 Francis Close",
+                    "uri": "14-francis-close/london/e14-3de"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-01T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 29343486,
+                    "streetAddress": "Flat 706, Denison House, 20 Lanterns Way",
+                    "uri": "flat-706/denison-house/20-lanterns-way/london/e14-9jl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 445000,
+                    "propertyId": 7856238,
+                    "streetAddress": "Flat 1, Kilmore House, 2 Vesey Path",
+                    "uri": "flat-1/kilmore-house/2-vesey-path/london/e14-6bp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 445000,
+                    "propertyId": 7856251,
+                    "streetAddress": "Flat 7, Kilmore House, 2 Vesey Path",
+                    "uri": "flat-7/kilmore-house/2-vesey-path/london/e14-6bp"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": "\u00a31,000"
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": {
+            "__typename": "LeaseExpiry",
+            "yearsRemaining": "999 years"
+        },
+        "serviceCharge": null,
+        "councilTaxBand": "F"
+    }
+}

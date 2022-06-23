@@ -1,0 +1,548 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 62.4,
+    "sqft": 671.0,
+    "text": "i ~\n\\ Re \\\nKO\nKitchen | | ]\n3.50m x 3.20m |\n(11'6 x 10'6) ~~\n| i\nBedroom I\n2.51m x 2.43m\n~(8'3 x 8'0)\n\\\n\u2014\nBedroom\n3.56m x 3.25m\n(118 x 10'S)\n~*~\n\\\nReception Room\n4.20m x 3.22m\n(139 x 10'7)\nTotal area (approx.): 62.4 sq. m (671.7 sq. ft)\n\f",
+    "image": "./extracted_images/61769139.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61769139/?search_identifier=e67dd47a22e1064a16815c1b7ec78c74",
+    "listing_no": "61769139",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.42292,
+        "longitude": -0.162368
+    },
+    "first_published": "2022-06-22T09:28:59",
+    "last_sale_date": "2018-09-28",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61769139",
+        "publishedOn": "2022-06-22T09:28:59",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/9c280ce496a6bc6244dda33812ffd2d0256a11a5.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31583242",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 125550,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Tooting",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Avarn Road, London SW17",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9HB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61769139,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW17",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 559603
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-tooting-london-125550/",
+            "branchId": "125550",
+            "branchResultsUri": "/for-sale/branch/dexters-tooting-london-125550/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 8545 8582",
+            "name": "Dexters - Tooting",
+            "memberType": "agent",
+            "address": "48 Tooting High Street, London",
+            "postcode": "SW17 0RG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Sellincourt Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tooting",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tooting Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tooting Broadway",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "A highly desirable two double bedroom Victorian ground floor maisonette extending to 671 sqft boasting original features throughout. Accommodation includes a spacious front reception furnished with bespoke cabinetry and newly laid wooden floors, two double bedrooms, a large eat-in kitchen leading to a fantastic rear garden.<br><br>Avarn Road is a highly desirable residential road located in central Tooting with a vast array of shops, bars and restaurants on the doorstep, with the transport links of Tooting Railway Thames Link Overground and Tooting Broadway Tube stations with walking distance.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Share of Freehold",
+                "Excellent Condition",
+                "Two Double Bedrooms",
+                "Period Features",
+                "Desirable Garden",
+                "Own Front Door"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "d5dc3368f238d74bb7fcbddd8d6e6ae67abccb20.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d037c2bff231d8b47cc558aecc47e09ad05a4578.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "499809ef167076677db09544e43a1d90a7677a46.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "92f80786011559826210266641b46be0f70e77ee.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "00168d5ed3bbd3c84d7c92ea1948acdf4bd0f49b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0e79a78ef74042f592405e72381da3123b89c806.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0b408b2c483edcf8d8f3dcf0f7dc2b0381646d4f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6f1bf3e7f36475f35c765190b298f11cc825ea6d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "260ec6ffbf38bf9faf938148f7a211b15d65907f.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 125550,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Tooting",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Avarn Road, London SW17",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9HB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61769139,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW17",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 559603
+        },
+        "title": "2 bed maisonette for sale",
+        "metaTitle": "2 bed maisonette for sale in Avarn Road, London SW17 - Zoopla",
+        "metaDescription": "2 bed maisonette for sale in Avarn Road, London SW17, selling for \u00a3575,000 from Dexters - Tooting. See property details on Zoopla or browse all our range of properties in Avarn Road, London SW17.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61769139/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.42292,
+                "longitude": -0.162368,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Avarn Road, London SW17",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-22T09:28:59",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2018-09-28",
+                "newBuild": false,
+                "price": 525000,
+                "priceLabel": "\u00a3525,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 24
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/d5dc3368f238d74bb7fcbddd8d6e6ae67abccb20.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61769139,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "ff1ee7b6-e72c-4190-a82e-dfc2129ebe04",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW17",
+            "areaNameUri": "london/sw17/tooting",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1907.9590643274848
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 492771,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 469027,
+                    "pctChangeSince": 5.062,
+                    "date": "2022-03-23",
+                    "changeSince": 23744
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 463606,
+                    "pctChangeSince": 6.291,
+                    "date": "2021-12-23",
+                    "changeSince": 29165
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 458937,
+                    "pctChangeSince": 7.372,
+                    "date": "2021-06-23",
+                    "changeSince": 33834
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 452454,
+                    "pctChangeSince": 8.911,
+                    "date": "2017-06-23",
+                    "changeSince": 40317
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 320900,
+                    "pctChangeSince": 53.559,
+                    "date": "2012-06-23",
+                    "changeSince": 171871
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 300495,
+                    "pctChangeSince": 63.986,
+                    "date": "2007-06-23",
+                    "changeSince": 192276
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 189809,
+                    "pctChangeSince": 159.614,
+                    "date": "2002-06-23",
+                    "changeSince": 302962
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 484511,
+                    "newBuilds": 0,
+                    "numSales": 267
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492295,
+                    "newBuilds": 19,
+                    "numSales": 938
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 480190,
+                    "newBuilds": 28,
+                    "numSales": 1616
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 475272,
+                    "newBuilds": 59,
+                    "numSales": 2462
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-23T00:00:00Z",
+                    "price": 503000,
+                    "propertyId": 23364424,
+                    "streetAddress": "47 Avarn Road",
+                    "uri": "47-avarn-road/london/sw17-9hb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-01-28T00:00:00Z",
+                    "price": 689000,
+                    "propertyId": 23364430,
+                    "streetAddress": "59 Avarn Road",
+                    "uri": "59-avarn-road/london/sw17-9hb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-01T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 23364425,
+                    "streetAddress": "49 Avarn Road",
+                    "uri": "49-avarn-road/london/sw17-9hb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 475000,
+                    "propertyId": 23364407,
+                    "streetAddress": "13 Avarn Road",
+                    "uri": "13-avarn-road/london/sw17-9hb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 990000,
+                    "propertyId": 23348037,
+                    "streetAddress": "15 Franche Court Road",
+                    "uri": "15-franche-court-road/london/sw17-0jx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 295553,
+                    "propertyId": 23366547,
+                    "streetAddress": "Flat 1, 129 Rectory Lane",
+                    "uri": "flat-1/129-rectory-lane/london/sw17-9px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-13T00:00:00Z",
+                    "price": 567500,
+                    "propertyId": 23366846,
+                    "streetAddress": "23 Seely Road",
+                    "uri": "23-seely-road/london/sw17-9qp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-12T00:00:00Z",
+                    "price": 1748000,
+                    "propertyId": 23358033,
+                    "streetAddress": "35 Cloudesdale Road",
+                    "uri": "35-cloudesdale-road/london/sw17-8et"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-11T00:00:00Z",
+                    "price": 295000,
+                    "propertyId": 23355439,
+                    "streetAddress": "Flat 10, Alfred Butt House, Holdernesse Road",
+                    "uri": "flat-10/alfred-butt-house/holdernesse-road/london/sw17-7rq"
+                }
+            ]
+        },
+        "propertyType": "maisonette",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

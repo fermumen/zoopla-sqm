@@ -1,0 +1,561 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 82.7,
+    "sqft": null,
+    "text": "Apartment R6\nCore B\n\nFirst Floor\n\n82.7 sam / 890 sart\n2 Bedrooms\n\n2 Bathrooms\nTerrace\n\n@>\n\n \n\n  \n  \n\n \n\n \n\nSite plan KiichenlLivingDining 3.4.x 9.0m\nBedroom 1 3.2x3.6m\nAN Bedroom 2 3.0.x 6.3m\n\u00ae)\nTotal 82.7 sqm\n890 sqft\nOutside space 13.5 sqm\n145 soft\n\nPRIVATE AMENITY.\n\n  \n   \n\nuvine\nKITCHEN / DINING\n\nENTRANCE\nHALLWAY.\n\n\u2018Al measurements are approximate and are taken at maximum widths and lengths of rooms, Plans are drawn fo\nscale at a design phase and may vary duing build, Kitchens and wardrobes sizes and layouts may differ 1 those\nshown, Furniture layouts are indleative onty (where they appear). Al total sat and sar are gross measurements\nWindow styles and positions may vary. Floorplans are not to scale.\n\nYEO STREET, BOW, LONDON E3 | THEEXCHANGEE3.CO.UK\n\f",
+    "image": "./extracted_images/61754601.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/61754601/?search_identifier=56b3a2fa34c8aa2d9566a8f71eeb8d15",
+    "listing_no": "61754601",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.518509,
+        "longitude": -0.018041
+    },
+    "first_published": "2022-06-20T23:06:32",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61754601",
+        "publishedOn": "2022-06-20T23:06:32",
+        "category": "residential",
+        "section": "new-homes",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/2a8bfd6e1350b40a971410c39e344767926a268a.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 100861,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(728257).png",
+            "branchName": "Dominus Advisory Services ltd",
+            "brandName": "Unique New Homes London Limited",
+            "chainFree": true,
+            "companyId": 76994,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "5 Yeo Street, Bow E3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3QP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 61754601,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": null,
+            "outcode": "E3",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 565000,
+            "price": 565000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "1232",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dominus-advisory-services-ltd-london-100861/",
+            "branchId": "100861",
+            "branchResultsUri": "/for-sale/branch/dominus-advisory-services-ltd-london-100861/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(728257).png",
+            "phone": "020 8033 4486",
+            "name": "Dominus Advisory Services ltd",
+            "memberType": "agent",
+            "address": "Office 5B145, 1 St Katharine's Way, London",
+            "postcode": "E1W 1UN"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Saviour's Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Manorfield Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Devons Road",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Langdon Park",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=kMDkXsWBLcS"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "The Exchange E3 is a stylish collection of new 1,2,3-&amp; 4-bedroom apartments situated alongside the Limehouse cut canal with many of the apartments having a tranquil view of the water, providing welcome peace and quiet for you to return to at the end of your busy day.<br><br>Situated in the ever popular and vibrant east of the capital you are perfectly located for those who work, rest, and play in London. This stylish development includes a landscaped podium and roof terraces for residents to enjoy and benefits from being within easy access of Langdon Park &amp; Devon\u2019s Road DLR stations (5 minutes from The Exchange E3) which provides easy access to the surrounding areas of Canary Wharf, The City, Stratford, Shoreditch and beyond.<br><br>Living at The Exchange E3, your commute around the capital will be a simple journey no matter where the office is located. The local area is also heaving with parks and waterways to explore, a perfect way for you to wind down after a busy week.<br><br>The apartments have a stylish bespoke interior and include integrated appliances, stone worktops, chic bathrooms, and contemporary kitchens all handpicked to create a home of an enviable finish.<br><br>East London has grown in stature and confidence since the London Olympics and E3 has become a popular postcode, attractive for its strong sense of community, cultural diversity, and infrastructure.<br><br>Just a short journey away by train or bike is Westfield Stratford City, one of the largest shopping centres in Europe with restaurants, a cinema and 233 shops. From All Saints to Zara and fine dining, cocktails, and luxury bowling with All Star Lanes.<br><br>Completion is estimated for Autumn 2022 call us today for more information about reserving **show home now open **",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "*Help to buy available on eligible units",
+                "Show Home now open",
+                "Completion September 2022",
+                "*\u00a31000 legal fee allowance for buyers using a recommended solicitor",
+                "10 Year Building Warranty",
+                "Fitted wardrobes",
+                "Roof terraces"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "c3b1acb62d0278178a5a559ecbff9ec3332ea0ac.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "38000c0f19889a72ed19c1eb0456adb29f465093.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2978f8967479b094652278e9ca098caaec4a478b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "83b418465e06beda42e5767f71b09ea077ab0574.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4173027f040189a6e3e752ba8905ab40ecd624ac.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0f1fc257ca484e21d7ee42489d37b9519bc2d1fe.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b3eca7d88d040071d256f4723c9696c0d16135c1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2cd91d8cab230209438e0a15017bb60fe1d346be.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 100861,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(728257).png",
+            "branchName": "Dominus Advisory Services ltd",
+            "brandName": "Unique New Homes London Limited",
+            "chainFree": true,
+            "companyId": 76994,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "5 Yeo Street, Bow E3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3QP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 61754601,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": null,
+            "outcode": "E3",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 565000,
+            "price": 565000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "1232",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in 5 Yeo Street, Bow E3 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in 5 Yeo Street, Bow E3, selling for \u00a3565,000 from Dominus Advisory Services ltd. See property details on Zoopla or browse all our range of properties in 5 Yeo Street, Bow E3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/61754601/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.518509,
+                "longitude": -0.018041,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "5 Yeo Street, Bow E3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-20T23:06:32",
+                "priceLabel": "\u00a3565,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 75
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/c3b1acb62d0278178a5a559ecbff9ec3332ea0ac.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 0
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 1232,
+            "label": "1,232 sq. ft"
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3565,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 459,
+                "unitsLabel": "sq. ft",
+                "label": "\u00a3459/sq. ft"
+            },
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Unique New Homes London Limited",
+            "category": "for-sale/resi/agent/new/gb",
+            "id": 61754601,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "59d23eb1-0e98-456a-b64f-5075db5e8001",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E3",
+            "areaNameUri": "london/e3/bow-bromley-by-bow-old-ford",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2121.9354838709687
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 424347,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 411371,
+                    "pctChangeSince": 3.154,
+                    "date": "2022-03-23",
+                    "changeSince": 12976
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 417021,
+                    "pctChangeSince": 1.757,
+                    "date": "2021-12-23",
+                    "changeSince": 7326
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 437676,
+                    "pctChangeSince": -3.045,
+                    "date": "2021-06-23",
+                    "changeSince": -13329
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 385795,
+                    "pctChangeSince": 9.993,
+                    "date": "2017-06-23",
+                    "changeSince": 38552
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 254785,
+                    "pctChangeSince": 66.551,
+                    "date": "2012-06-23",
+                    "changeSince": 169562
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 259663,
+                    "pctChangeSince": 63.422,
+                    "date": "2007-06-23",
+                    "changeSince": 164684
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 159067,
+                    "pctChangeSince": 166.772,
+                    "date": "2002-06-23",
+                    "changeSince": 265280
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 399617,
+                    "newBuilds": 28,
+                    "numSales": 259
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 404908,
+                    "newBuilds": 109,
+                    "numSales": 819
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 413107,
+                    "newBuilds": 359,
+                    "numSales": 1751
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 407156,
+                    "newBuilds": 566,
+                    "numSales": 3079
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-25T00:00:00Z",
+                    "price": 310000,
+                    "propertyId": 30609046,
+                    "streetAddress": "Flat 608, Hudson House, 4 Yeo Street",
+                    "uri": "flat-608/hudson-house/4-yeo-street/london/e3-3nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-05T00:00:00Z",
+                    "price": 427000,
+                    "propertyId": 30609043,
+                    "streetAddress": "Flat 605, Hudson House, 4 Yeo Street",
+                    "uri": "flat-605/hudson-house/4-yeo-street/london/e3-3nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-29T00:00:00Z",
+                    "price": 292500,
+                    "propertyId": 30609044,
+                    "streetAddress": "Flat 606, Hudson House, 4 Yeo Street",
+                    "uri": "flat-606/hudson-house/4-yeo-street/london/e3-3nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-29T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 31384847,
+                    "streetAddress": "Flat 16, Caspian Wharf, 1 Yeo Street",
+                    "uri": "flat-16/caspian-wharf/1-yeo-street/london/e3-3ae"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-27T00:00:00Z",
+                    "price": 330000,
+                    "propertyId": 30609040,
+                    "streetAddress": "Flat 602, Hudson House, 4 Yeo Street",
+                    "uri": "flat-602/hudson-house/4-yeo-street/london/e3-3nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 410000,
+                    "propertyId": 30936046,
+                    "streetAddress": "28c Campbell Road",
+                    "uri": "28c-campbell-road/london/e3-4dt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-12T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 7658844,
+                    "streetAddress": "Flat 505 Lexington Building, Bow Quarter, Fairfield Road",
+                    "uri": "flat-505-lexington-building/bow-quarter/fairfield-road/london/e3-2uh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-11T00:00:00Z",
+                    "price": 632000,
+                    "propertyId": 7658485,
+                    "streetAddress": "17 Douro Street",
+                    "uri": "17-douro-street/london/e3-2ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-07T00:00:00Z",
+                    "price": 1250000,
+                    "propertyId": 7666694,
+                    "streetAddress": "56 Brokesley Street",
+                    "uri": "56-brokesley-street/london/e3-4qj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-06T00:00:00Z",
+                    "price": 420000,
+                    "propertyId": 32634408,
+                    "streetAddress": "Flat 302, Sheave Court, 18 Nellie Cressall Way",
+                    "uri": "flat-302/sheave-court/18-nellie-cressall-way/london/e3-4rq"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": {
+            "__typename": "LeaseExpiry",
+            "yearsRemaining": "999 years"
+        },
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

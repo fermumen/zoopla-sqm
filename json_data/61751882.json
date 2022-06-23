@@ -1,0 +1,549 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 68.5,
+    "sqft": 737.0,
+    "text": "mJ\n\\/\n= Yi re\nKitchen/\nReception\nRoom\n5.91m x 3.68m\n(19'5\" x 12'1\")\n| _|\nBedroom\n2.34m x 2.86m\n(7'8\" x 955\") (\n\\\nCL\n\u2018 )\n= i}\ni \u00a9)\n.\n7)\niy VY\nBe\nBedroom Ee\n| 3.02m x 3.14m i\n(9'11\" x 10'4\") oe\n5\n\\\n= D\nA\nie\nt\u2014\nBedroom\n3.45m x 3.14m\n(11'4\" x 10'4\") _\n|\nHY\n_\u2014\nTotal area: approx. 68.5 sq. metres (737.5 sq. feet)\n\f",
+    "image": "./extracted_images/61751882.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61751882/?search_identifier=e524a55eac9f89c66e994a5c6efe9db2",
+    "listing_no": "61751882",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.450545,
+        "longitude": -0.126272
+    },
+    "first_published": "2022-06-20T16:01:58",
+    "last_sale_date": "2019-11-15",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61751882",
+        "publishedOn": "2022-06-20T16:01:58",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/ba220bd7a423e19a4b70ee93d970696542caebeb.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 56771,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Clapham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lyham Road, London SW2",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "5QB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61751882,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 488872
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-clapham-clapham-56771/",
+            "branchId": "56771",
+            "branchResultsUri": "/for-sale/branch/dexters-clapham-clapham-56771/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 8742 4140",
+            "name": "Dexters - Clapham",
+            "memberType": "agent",
+            "address": "28 Abbeville Road, Clapham",
+            "postcode": "SW4 9NG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Richard Atkins Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Glenbrook Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Streatham Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.8
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham Common",
+                "type": "london_underground_station",
+                "distanceMiles": 0.9
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "A well presented ground floor maisonette with a spacious open plan reception room, contemporary kitchen, two double bedrooms, home office and a stylish bathroom room and to the rear a private garden.<br><br>Lyham Road is a quiet residential street equidistant to Abbeville Road, Clapham High Street &amp; Brixton Town Centre, there are several excellent schools situated close by.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Private Entrance",
+                "Open Plan Living",
+                "Refurbished Throughout",
+                "Two Double Bedrooms",
+                "Separate Home Office",
+                "Private Garden"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "e3a3ce156008ab34539a16dc77ece825997228db.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "1fbefe2f7ad61d9451847f1bb7c81d21aaddc1f2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bb4e91540da6b4640dcc1b89c973fb5b96df97dd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "70d2035a393ed0e98351c61e3155647744b1b415.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "eb0ea7fbda345ee3a265f984c09199cc670f39f0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ea03e07cc7e1d570be41b8f83578e918979824b6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0a0ed0ccea6c34c2289841f478aa867df77d1f22.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "20d0bfd26500177d745427662f119ef73a293682.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8d462abaf4d42c8dd5cff59a4396e67eb73f5aad.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 56771,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Clapham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lyham Road, London SW2",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "5QB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61751882,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 488872
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Lyham Road, London SW2 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Lyham Road, London SW2, selling for \u00a3575,000 from Dexters - Clapham. See property details on Zoopla or browse all our range of properties in Lyham Road, London SW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61751882/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.450545,
+                "longitude": -0.126272,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Lyham Road, London SW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-20T16:01:58",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2019-11-15",
+                "newBuild": false,
+                "price": 437500,
+                "priceLabel": "\u00a3437,500",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 42
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/e3a3ce156008ab34539a16dc77ece825997228db.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61751882,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "a56f50fb-9ce3-4f87-8dfa-2f1e57c1e888",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW2",
+            "areaNameUri": "london/sw2/brixton-centralsouth-streatham-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1946.6013071895431
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 451290,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 429544,
+                    "pctChangeSince": 5.063,
+                    "date": "2022-03-23",
+                    "changeSince": 21746
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 424579,
+                    "pctChangeSince": 6.291,
+                    "date": "2021-12-23",
+                    "changeSince": 26711
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 420302,
+                    "pctChangeSince": 7.373,
+                    "date": "2021-06-23",
+                    "changeSince": 30988
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 414363,
+                    "pctChangeSince": 8.912,
+                    "date": "2017-06-23",
+                    "changeSince": 36927
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 293884,
+                    "pctChangeSince": 53.561,
+                    "date": "2012-06-23",
+                    "changeSince": 157406
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 275197,
+                    "pctChangeSince": 63.988,
+                    "date": "2007-06-23",
+                    "changeSince": 176093
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 173829,
+                    "pctChangeSince": 159.617,
+                    "date": "2002-06-23",
+                    "changeSince": 277461
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 472305,
+                    "newBuilds": 0,
+                    "numSales": 283
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 468687,
+                    "newBuilds": 6,
+                    "numSales": 913
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 465993,
+                    "newBuilds": 87,
+                    "numSales": 1658
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 457380,
+                    "newBuilds": 113,
+                    "numSales": 2582
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-11T00:00:00Z",
+                    "price": 355000,
+                    "propertyId": 23127472,
+                    "streetAddress": "391 Lyham Road",
+                    "uri": "391-lyham-road/london/sw2-5nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-02-11T00:00:00Z",
+                    "price": 310000,
+                    "propertyId": 23126156,
+                    "streetAddress": "35 Lyham Road",
+                    "uri": "35-lyham-road/london/sw2-5dx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-21T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 32776161,
+                    "streetAddress": "43b Lyham Road",
+                    "uri": "43b-lyham-road/london/sw2-5dx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-08T00:00:00Z",
+                    "price": 485000,
+                    "propertyId": 23127763,
+                    "streetAddress": "Flat 5, Oak Tree Court, 10 Lyham Road",
+                    "uri": "flat-5/oak-tree-court/10-lyham-road/london/sw2-5qf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-29T00:00:00Z",
+                    "price": 526000,
+                    "propertyId": 23127452,
+                    "streetAddress": "351 Lyham Road",
+                    "uri": "351-lyham-road/london/sw2-5nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-19T00:00:00Z",
+                    "price": 565000,
+                    "propertyId": 23117000,
+                    "streetAddress": "137 Barcombe Avenue",
+                    "uri": "137-barcombe-avenue/london/sw2-3bq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-12T00:00:00Z",
+                    "price": 1250000,
+                    "propertyId": 23118377,
+                    "streetAddress": "57 Kingsmead Road",
+                    "uri": "57-kingsmead-road/london/sw2-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 23115658,
+                    "streetAddress": "8 Dewey Lane",
+                    "uri": "8-dewey-lane/london/sw2-2ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-07T00:00:00Z",
+                    "price": 845500,
+                    "propertyId": 23124114,
+                    "streetAddress": "70 Blairderry Road",
+                    "uri": "70-blairderry-road/london/sw2-4sb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 23127290,
+                    "streetAddress": "56 Doverfield Road",
+                    "uri": "56-doverfield-road/london/sw2-5nb"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

@@ -1,0 +1,510 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 66.7,
+    "sqft": 718.0,
+    "text": "Second Avenue, London, W3\nApprox. Gross intemal Area = 65 sq m/ 700 sq ft\nStorage = 1.7 sqm/18 sq ft\nTotal = 66.7 sq m/718 sq ft\n4\n~ e\n\u201c\n,\nGarden\n9.20x5.71\n302 x 18'9\n(Approx)\nReception Room a ||\n4.65 x 3.62 &\n153x111 2\nBedroom\n3.20x 2.59\n106 x 8'6 |\n=\nSU) hrtchen [BI\n= 3.51 x 1.87\nas 116 x62\nOe\nOo\u00a9\n| i\nBedroom\n4.68 x 3.98\n1514x131\npois Reduced headroom Kerre 2CO\nlecancen below 1.5 m/5'0\neet\neet\nGround Floor =e\nhist ry sages be moe oes taconite rp, roses ppc ati sce. CERES\nNo umntees geno tet sq soso he opr ante en thea Figs vena or gance a\nPan fo lsaton purposes ony, oo be ed fotvautos\n\f",
+    "image": "./extracted_images/61769413.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61769413/?search_identifier=e67dd47a22e1064a16815c1b7ec78c74",
+    "listing_no": "61769413",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.507647,
+        "longitude": -0.248201
+    },
+    "first_published": "2022-06-22T09:52:07",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61769413",
+        "publishedOn": "2022-06-22T09:52:07",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "PDF Brochure",
+                "original": "https://lc.zoocdn.com/89a6970130ccf5e7ac2b07302647d25d26e8d0d9.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://www2.housescape.org.uk/cgi-bin/full.pl?&kac1&&KAC1002855",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 19939,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(410226).png",
+            "branchName": "Kerr and Co",
+            "brandName": "Kerr & Co Residential",
+            "chainFree": true,
+            "companyId": 13347,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Second Avenue, London W3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7RX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61769413,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 977044
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/kerr-and-co-london-19939/",
+            "branchId": "19939",
+            "branchResultsUri": "/for-sale/branch/kerr-and-co-london-19939/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(410226).png",
+            "phone": "020 3478 3490",
+            "name": "Kerr and Co",
+            "memberType": "agent",
+            "address": "77 Goldhawk Road, Shepherd's Bush, London",
+            "postcode": "W12 8EH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Queensmill School (SEN)",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wendell Park Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Acton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Acton Central",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://mls.ricohtours.com/6e2eed6e-9920-4fdd-860a-bf04ce616b1e"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "Second Avenue, Acton, W3<br><br>A well presented two bedroom garden flat set on the ground floor of this semi-detached Edwardian converted building. There is scope to extend subject to planning permission and usual consents.<br><br>This well laid out flat offers circa 700 square foot of accommodation and with high ceilings throughout. The property comprises of two bedrooms, shower room, kitchen and reception room leading on to a 30ft West facing garden. The flat is situated on the popular tree lined residential street West of Old Oak Road, close to Action Park and within a brief stroll of the popular Askew Road home to Ginger Pig Deli, The Eagle Gastro pub and numerous caf\u00e9\u2019s &amp; restaurants. Local transport links and shopping facilities include East Acton (Central) and Shepherd's Bush Market (Hammersmith &amp; City and Circle) and West London Westfield complex.<br><br>Asking Price: \u00a3575,000\u2014Share in the Freehold<br><br>Second Avenue W3 7RX<br><br>Well presented throughout.<br>A two bedroom flat set on the ground floor of this converted period building.<br>Scope for extension subject to planning permission and usual consent.<br>30ft West facing garden.<br>Many period features<br>Shower room.<br>Approximately 30ft garden.<br>Well located for ease of access to transport links and shopping facilities along Uxbridge Road, East Acton and Shepherd\u2019s Bush Green.<br>No onward chain.<br><br>Second Avenue W3 7RX<br>Two bedroom ground floor flat<br>Approximate gross internal floor area: 700 Sq. Ft. (65 Sq . M.)<br>Storage: 18 Sq.Ft. (1.7 Sq.M.)<br>Total: 718 Sq.ft. (66.7 Sq.M.)<br>Asking Price: \u00a3575,000<br>Tenure: Share in the freehold with an underlying lease of 152 years from 1985<br>Service Charge: A 50% of outgoings<br><br>EPC Rating: E51<br>Parking: On street permit parking<br>Council Tax: Band D",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "3c70abc0b4fad0d66253232e2e9b0b5ca0f56d7c.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "5bc21e3648764dbf660fd008f64c98553ff2268d.jpg",
+                "caption": "Main Picture"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e4038c16d571b0f7d3c555c7a42ea9d5e6294fd5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5c17e485d4eab026088c1f95452992b32602b90f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f4f81bead7c78d53c39d33fc8e909e97561bbeab.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "13b6fe12b05fea658197b8c88f538088801bec43.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a943a9c409389fc2c9b8e50f3ac403fce93a2a63.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8a37b48f4fe4ef9a4bd5b2ef7a1eaa86e00d0b0f.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 19939,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(410226).png",
+            "branchName": "Kerr and Co",
+            "brandName": "Kerr & Co Residential",
+            "chainFree": true,
+            "companyId": 13347,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Second Avenue, London W3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7RX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61769413,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 977044
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Second Avenue, London W3 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Second Avenue, London W3, selling for \u00a3575,000 from Kerr and Co. See property details on Zoopla or browse all our range of properties in Second Avenue, London W3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61769413/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.507647,
+                "longitude": -0.248201,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Second Avenue, London W3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-22T09:52:07",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 22
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/3c70abc0b4fad0d66253232e2e9b0b5ca0f56d7c.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Kerr & Co Residential",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61769413,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "72c14f8f-4081-47e7-8387-c9300d1c7cc4",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W3",
+            "areaNameUri": "london/w3/acton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2147.957671957673
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 435643,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 418927,
+                    "pctChangeSince": 3.99,
+                    "date": "2022-03-23",
+                    "changeSince": 16716
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 418803,
+                    "pctChangeSince": 4.021,
+                    "date": "2021-12-23",
+                    "changeSince": 16840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 418122,
+                    "pctChangeSince": 4.19,
+                    "date": "2021-06-23",
+                    "changeSince": 17521
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 408989,
+                    "pctChangeSince": 6.517,
+                    "date": "2017-06-23",
+                    "changeSince": 26654
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 284162,
+                    "pctChangeSince": 53.308,
+                    "date": "2012-06-23",
+                    "changeSince": 151481
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 266098,
+                    "pctChangeSince": 63.715,
+                    "date": "2007-06-23",
+                    "changeSince": 169545
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 163981,
+                    "pctChangeSince": 165.667,
+                    "date": "2002-06-23",
+                    "changeSince": 271662
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 443693,
+                    "newBuilds": 0,
+                    "numSales": 152
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 425980,
+                    "newBuilds": 44,
+                    "numSales": 541
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 426354,
+                    "newBuilds": 111,
+                    "numSales": 1039
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 430394,
+                    "newBuilds": 222,
+                    "numSales": 1800
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 1100000,
+                    "propertyId": 25029280,
+                    "streetAddress": "15 Second Avenue",
+                    "uri": "15-second-avenue/london/w3-7rx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 243000,
+                    "propertyId": 27368640,
+                    "streetAddress": "167a The Vale",
+                    "uri": "167a-the-vale/london/w3-7rd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 380000,
+                    "propertyId": 25023495,
+                    "streetAddress": "29a Alfred Road",
+                    "uri": "29a-alfred-road/london/w3-6lh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 880000,
+                    "propertyId": 25025839,
+                    "streetAddress": "24 Gibbon Road",
+                    "uri": "24-gibbon-road/london/w3-7af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 875500,
+                    "propertyId": 25028262,
+                    "streetAddress": "47 Vyner Road",
+                    "uri": "47-vyner-road/london/w3-7lz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 1115000,
+                    "propertyId": 25036972,
+                    "streetAddress": "36 Hillcrest Road",
+                    "uri": "36-hillcrest-road/london/w3-9ry"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

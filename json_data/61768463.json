@@ -1,0 +1,565 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 69.0,
+    "sqft": 743.0,
+    "text": "Approximate Gross Internal Area 743 sq ft - 69 sqm\nVv N\nhese\nBedroom 1\nlie Sa\n3.62 x 2.61m\nBedroom 2\n16'1 x 10'9 ~ ~ Kitchen/\n4.90 x 3.28m \\ St eine noan\n22/2 x 13'6\n, / 6.76 x 4.11m\n/ oe\ns \\\\ IBsi\nSt \u2019 ay \u00a9\nfcgrasinane ecto feoparabion an br ase craakover naaratanonr Thasecuase cv repression Salta\n\f",
+    "image": "./extracted_images/61768463.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61768463/?search_identifier=e67dd47a22e1064a16815c1b7ec78c74",
+    "listing_no": "61768463",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.499709,
+        "longitude": -0.092281
+    },
+    "first_published": "2022-06-22T08:35:09",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61768463",
+        "publishedOn": "2022-06-22T08:35:09",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/twn/live/pdf.php?p=CEN220412&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 7178,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727051).png",
+            "branchName": "Stirling Ackroyd - London Bridge",
+            "brandName": "Stirling Ackroyd",
+            "chainFree": false,
+            "companyId": 3602,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Great Dover Street, London SE1",
+            "furnishedState": "",
+            "groupId": 6,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4LB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61768463,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SE1",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 705596
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/stirling-ackroyd-london-bridge-london-7178/",
+            "branchId": "7178",
+            "branchResultsUri": "/for-sale/branch/stirling-ackroyd-london-bridge-london-7178/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727051).png",
+            "phone": "020 8022 5549",
+            "name": "Stirling Ackroyd - London Bridge",
+            "memberType": "agent",
+            "address": "56 Borough High Street, London",
+            "postcode": "SE1 1XF"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "London Christian School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Borough",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Beormund Primary School (SEN)",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Elephant & Castle",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/722516407"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "6e858aef347d171924a4a8f04017a2c0d18372a7.png",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "Merely a stone's throw from Borough Underground Station, five minutes\u2019 walk from London Bridge Station and the world-famous Borough market; you would be hard pushed to find a better location than this one.<br><br>Offered to the sales market courtesy of Stirling Ackroyd is this well presented, two bedroom, second floor apartment within a modern development.<br><br>Boasting off street, secure parking, the property briefly comprises two generously sized bedrooms, one family bathroom and an open plan living room/kitchen.<br><br>An early internal inspection comes highly recommended.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two bedrooms",
+                "Modern interior",
+                "Open-plan kitchen/living room",
+                "Secure off-street parking",
+                "Close to Borough Underground Station"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "9b730dc86692431803036ffa8de8f41d520dcd37.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "49fb23b251d4647522ba8c53cb430fe3e5d7f279.jpg",
+                "caption": "Kitchen/Dining Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "627441500f9b696eb1ef211b19e6d9d05ae64e46.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "87aa4d1645df1bedf39ecc3b3bff2dac3f8cdcc1.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "15c35877b25d81d0d31497ab2c982e7fb2673866.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2e0fae2c9a402c2b3f8cd8e01afa5f94b52e68dc.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "26d5ed834889a8e5aa523e98fd0ca26fec85055a.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "74e816145380a355f89410f44ac91b140a89622e.jpg",
+                "caption": "Kitchen/Dining Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "73b869654efc543f84512330d4037825241aabc6.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6be1e03e8e5041a7493923fb70d676419dd0bfcc.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d7568b6b63a2dcd28ca1327356080b3b6b5e0187.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8c6dcf9ef68c4a87082a26fffb4553766d012974.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e2322569cb80882b9843783f4e1c801a99b1e480.jpg",
+                "caption": "Kitchen/Dining Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f7774d8e58f10b49a5de99e6bbb2b46da0f750f0.jpg",
+                "caption": "Exterior"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 7178,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727051).png",
+            "branchName": "Stirling Ackroyd - London Bridge",
+            "brandName": "Stirling Ackroyd",
+            "chainFree": false,
+            "companyId": 3602,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Great Dover Street, London SE1",
+            "furnishedState": "",
+            "groupId": 6,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4LB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61768463,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SE1",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 705596
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Great Dover Street, London SE1 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Great Dover Street, London SE1, selling for \u00a3650,000 from Stirling Ackroyd - London Bridge. See property details on Zoopla or browse all our range of properties in Great Dover Street, London SE1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61768463/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.499709,
+                "longitude": -0.092281,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Great Dover Street, London SE1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-22T08:35:09",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 23
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/9b730dc86692431803036ffa8de8f41d520dcd37.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Stirling Ackroyd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61768463,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "e4fc3e24-6181-42e8-abcc-f539b9bb7e3d",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE1",
+            "areaNameUri": "london/se1/waterloo-bermondsey-south-bank-the-borough-north-lambeth",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3704.1301703163026
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 790945,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 760738,
+                    "pctChangeSince": 3.971,
+                    "date": "2022-03-23",
+                    "changeSince": 30207
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 760798,
+                    "pctChangeSince": 3.963,
+                    "date": "2021-12-23",
+                    "changeSince": 30147
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 787717,
+                    "pctChangeSince": 0.41,
+                    "date": "2021-06-23",
+                    "changeSince": 3228
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 749994,
+                    "pctChangeSince": 5.46,
+                    "date": "2017-06-23",
+                    "changeSince": 40951
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 495856,
+                    "pctChangeSince": 59.511,
+                    "date": "2012-06-23",
+                    "changeSince": 295089
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 478469,
+                    "pctChangeSince": 65.307,
+                    "date": "2007-06-23",
+                    "changeSince": 312476
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 296315,
+                    "pctChangeSince": 166.927,
+                    "date": "2002-06-23",
+                    "changeSince": 494630
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 680642,
+                    "newBuilds": 9,
+                    "numSales": 348
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 752021,
+                    "newBuilds": 164,
+                    "numSales": 1217
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 737213,
+                    "newBuilds": 452,
+                    "numSales": 2533
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 750590,
+                    "newBuilds": 1083,
+                    "numSales": 4480
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-02-21T00:00:00Z",
+                    "price": 650000,
+                    "propertyId": 20858504,
+                    "streetAddress": "Flat 91, Ratcliffe Court, Great Dover Street",
+                    "uri": "flat-91/ratcliffe-court/great-dover-street/london/se1-4ld"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-21T00:00:00Z",
+                    "price": 395000,
+                    "propertyId": 20861430,
+                    "streetAddress": "Flat 47, Selbourne House, Great Dover Street",
+                    "uri": "flat-47/selbourne-house/great-dover-street/london/se1-4xx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 585000,
+                    "propertyId": 20861351,
+                    "streetAddress": "Flat 11, Kittiwake Court, 4 Great Dover Street",
+                    "uri": "flat-11/kittiwake-court/4-great-dover-street/london/se1-4xr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 650000,
+                    "propertyId": 28406461,
+                    "streetAddress": "Flat G3, Tamarind Court, 18 Gainsford Street",
+                    "uri": "flat-g3/tamarind-court/18-gainsford-street/london/se1-2ne"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-11T00:00:00Z",
+                    "price": 445000,
+                    "propertyId": 20850930,
+                    "streetAddress": "Flat 105, Fennel Apartments, 3 Cayenne Court",
+                    "uri": "flat-105/fennel-apartments/3-cayenne-court/london/se1-2pj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 330000,
+                    "propertyId": 20860502,
+                    "streetAddress": "Flat 3, 29 Tower Bridge Road",
+                    "uri": "flat-3/29-tower-bridge-road/london/se1-4tl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 20865313,
+                    "streetAddress": "2 Chaucer Drive",
+                    "uri": "2-chaucer-drive/london/se1-5ta"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 560000,
+                    "propertyId": 20860559,
+                    "streetAddress": "Flat 203, Block C, 27 Green Walk",
+                    "uri": "flat-203/block-c/27-green-walk/london/se1-4tq"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": {
+            "__typename": "LeaseExpiry",
+            "yearsRemaining": "102 years"
+        },
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

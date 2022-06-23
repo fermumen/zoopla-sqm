@@ -1,0 +1,596 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 78.6,
+    "sqft": null,
+    "text": "Coleby House, Woodley Crescent, London, NW2\n\nApprox. Gross Internal Area = 78.6sqm / 846.0sqft\n\nBalcony\n\n4.71mx2.91m\n\n(15'5\" x 96\")\n\nKitchen\n\nReception/\n\nDining\n\n1.90m x 3.34m|8 &\n\n5.91m x 4.70m\n\n(62\"x 1011\")\n\nJoo\n\n(19\u00b04\" x 15'5\")\n\n@\u00ae\n\nBathroom\n\n0)\n\n\u00a9\n\n&\n\n2.47m x 1.50m}\n\nUU\n\n(8'1\" x 411\")\n\noot]\n\nBathroom.\n\n2.06m x 2.36m\n\n(6'9\" x79\")\n\nBedroom\n\nBedroom,\n\n2.75m x 6.06m\n\n2.78m x 4.17m\n\n(0\u00b0 x 1910\")\n\n(9'1\" x 13'8\u201d)\n\nFourth Floor\n\nPortland\n\nDscler Floypan mesure a approcnae ad ef tsrabve pupae ony Vile wed ot othe for seeacy ans\n\nSTATE AGENT\n\nconpeeness yous Yor avr tel conduc acre Bcepenaet mesa le ope espe Maney Yaunon\n\f",
+    "image": "./extracted_images/61772082.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61772082/?search_identifier=44b5e2e41ade7d33e2fec1464d335f6d",
+    "listing_no": "61772082",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.559604,
+        "longitude": -0.208839
+    },
+    "first_published": "2022-06-22T13:28:50",
+    "last_sale_date": "2019-02-14",
+    "last_sale_new": true,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61772082",
+        "publishedOn": "2022-06-22T13:28:50",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Woodley Crescent, London",
+                "original": "https://lc.zoocdn.com/b1f7d1eb5fdefc5998168ac3e96dc5619959eaa6.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31587278",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 68772,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(300439).png",
+            "branchName": "Portland Estate Agents",
+            "brandName": "Portland Estate Agents",
+            "chainFree": false,
+            "companyId": 36517,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Woodley Crescent, London NW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2DL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61772082,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 21,
+            "numRecepts": 1,
+            "outcode": "NW2",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "846",
+            "tenure": null,
+            "zindex": 554060
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/portland-estate-agents-london-68772/",
+            "branchId": "68772",
+            "branchResultsUri": "/for-sale/branch/portland-estate-agents-london-68772/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(300439).png",
+            "phone": "020 8022 4988",
+            "name": "Portland Estate Agents",
+            "memberType": "agent",
+            "address": "90 Walm Lane, London",
+            "postcode": "NW2 4QY"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Agnes RC School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Childs Hill School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Cricklewood",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilburn",
+                "type": "london_underground_station",
+                "distanceMiles": 0.9
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "27b9be88c0323ede4dd92c63c4815183a70085a0.png",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "***stunning two bedroom, two bathroom apartment with private terrace and parking space***<br><br>Presented in immaculate condition throughout, this fantastic modern apartment offers luxury living, benefitting from a fully integrated, open plan kitchen with ample storage space and high quality fitted appliances. The kitchen leads to a superb size bright and airy living area, with plenty of room for dining as well as relaxing. Doors from the living area lead directly onto a large private terrace enjoying uninterrupted views, making this a wonderful space in which to spend those balmy summer evenings, as well as offering the ability for al fresco dining and entertaining.<br><br>Leading off the wide hallway, with plenty of storage, are two excellent size double bedrooms, the master having en suite, and a fully tiled luxury family bathroom.<br><br>This property is bristling with features including communal boiler for all hot water and central heating, video entry system, spot lights throughout, lift to all floors, attractive communal grounds and private off street parking space.<br><br>Coleby House is located in one of North West London's most desirable areas, and is only moments away from<br>cricklewood station as well as being close to a plethora of local amenities including a new David Lloyd gym and local independent restaurants and shops. In addition the property is within walking distance to West Hampstead and Hampstead Heath.<br><br>Sold with the NHBC certificate available for the first 10 years on all new homes along with 247 years remaining on the lease. A fantastic opportunity to purchase an immaculate, stylish, modern property which surely must be one of the most beautifully maintained and presented homes in the development.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Stunning Apartment",
+                "Two Double Bedrooms",
+                "Two Luxury Bathrooms",
+                "Fully Integrated Kitchen",
+                "Large Private Terrace",
+                "Privately Owned Parking Space",
+                "Immaculate Throughout",
+                "Highly Desirable Location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "0c656d0bd98e0889da8288b81b839b6f00d1de3a.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "bd275582efaef7713ac214107202d28a2a433439.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2f5526c1d2dcafae28d4f8b91a98832315370e9c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "01b068b8ee807195d50924e6fee52e09c4556372.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bdea0b6e3a003927abce768bae41c153e676b2c1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1a016ac9c7577b8d5e3dc9b105c4719ad7f82333.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "516c4b5b566acc59a12e25364701cc2cdff227ae.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b974b8fb6431903f8dc6726fa55018abe88fea8b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "82050ea39f0dcdc95d34cbd7fd96fa177287fa9c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "98dee5145cca2e029d0568a62c8a0d64e9dc2e74.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2143c9dd403e1d2e2e229a001fd290e2c982c4f7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "76fa8e8d7d4cbb1075d907c303477eed922b66b8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a3448f7b1c2669e1c4fb1eeb24d3cfe819c5fd94.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "185df9122e590e458b09caef644b56c0446fea3a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b1618442ad200daf1ed9ccdbca381bb6b2045de8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bddd0647d66fef56de01d002191fe005d2a30555.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6afebab995d68158237daf30135355e93d931fba.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5edb35d7bba5a6f08ee94a3538bb5812cf550a9d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e0d79a0e54099df303d65ba31ac2ef8a31cf0a6f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4ef19c72deda66bef487b00b6e42d3b7baf6d1be.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6f060ca37a9d9b9267c3114940916487742c3b72.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5a4e476c531d8ddfceecd5ce1e8425e1ce444924.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 68772,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(300439).png",
+            "branchName": "Portland Estate Agents",
+            "brandName": "Portland Estate Agents",
+            "chainFree": false,
+            "companyId": 36517,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Woodley Crescent, London NW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2DL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61772082,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 21,
+            "numRecepts": 1,
+            "outcode": "NW2",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "846",
+            "tenure": null,
+            "zindex": 554060
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Woodley Crescent, London NW2 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Woodley Crescent, London NW2, selling for \u00a3600,000 from Portland Estate Agents. See property details on Zoopla or browse all our range of properties in Woodley Crescent, London NW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61772082/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.559604,
+                "longitude": -0.208839,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Woodley Crescent, London NW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-22T13:28:50",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2019-02-14",
+                "newBuild": true,
+                "price": 545000,
+                "priceLabel": "\u00a3545,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 14
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/0c656d0bd98e0889da8288b81b839b6f00d1de3a.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 846,
+            "label": "846 sq. ft"
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 709,
+                "unitsLabel": "sq. ft",
+                "label": "\u00a3709/sq. ft"
+            },
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Portland Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61772082,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "237163a6-1445-4790-861a-d9be9c01817b",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW2",
+            "areaNameUri": "london/nw2/cricklewood-dollis-hill-neasden",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1946.7366255144036
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 506129,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 485586,
+                    "pctChangeSince": 4.231,
+                    "date": "2022-03-23",
+                    "changeSince": 20543
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 480481,
+                    "pctChangeSince": 5.338,
+                    "date": "2021-12-23",
+                    "changeSince": 25648
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 480080,
+                    "pctChangeSince": 5.426,
+                    "date": "2021-06-23",
+                    "changeSince": 26049
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 447668,
+                    "pctChangeSince": 13.059,
+                    "date": "2017-06-23",
+                    "changeSince": 58461
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 314488,
+                    "pctChangeSince": 60.937,
+                    "date": "2012-06-23",
+                    "changeSince": 191641
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 285893,
+                    "pctChangeSince": 77.034,
+                    "date": "2007-06-23",
+                    "changeSince": 220236
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 181082,
+                    "pctChangeSince": 179.503,
+                    "date": "2002-06-23",
+                    "changeSince": 325047
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 461985,
+                    "newBuilds": 0,
+                    "numSales": 128
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 478123,
+                    "newBuilds": 30,
+                    "numSales": 444
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 471975,
+                    "newBuilds": 79,
+                    "numSales": 809
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 465644,
+                    "newBuilds": 107,
+                    "numSales": 1367
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-20T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 17191350,
+                    "streetAddress": "88a Chaplin Road",
+                    "uri": "88a-chaplin-road/london/nw2-5pr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 870000,
+                    "propertyId": 17184333,
+                    "streetAddress": "14 Richborough Road",
+                    "uri": "14-richborough-road/london/nw2-3lu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 490000,
+                    "propertyId": 27398395,
+                    "streetAddress": "Flat 4, 18 Teignmouth Road",
+                    "uri": "flat-4/18-teignmouth-road/mapesbury/london/nw2-4hn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-13T00:00:00Z",
+                    "price": 907000,
+                    "propertyId": 29135666,
+                    "streetAddress": "1 Chanin Mews",
+                    "uri": "1-chanin-mews/london/nw2-4aq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-30T00:00:00Z",
+                    "price": 525000,
+                    "propertyId": 17177999,
+                    "streetAddress": "44 Brent Terrace",
+                    "uri": "44-brent-terrace/london/nw2-1bx"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

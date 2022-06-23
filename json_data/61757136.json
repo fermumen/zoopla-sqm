@@ -1,0 +1,537 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 86.36,
+    "sqft": 929.0,
+    "text": "KENWYN DRIVE\nLONDON NW2 N\n-\u2014\u2014-\u2014-\u2014-\u2014-\u2014 RESTRICTED HEAD HEIGHT\n| i ee \\ LOFT STORAGE\n) OP PES 220\" x 105\"\n<n 6.70mx3.17m\n\u20144\n\u2014\n=\n\u2014\n= eee\nKITCHEN\n(MAX DIMS)\n11\u00b06\" x 73\"\n3.50m x 2.20m_\nBATHROOM\n4 710\" x73\"\non\na aes a \u2014\u2014\u2014 j\n5 DINING ROOM i C\n122\" x 10\u00b041\"\n\u2018 3.70m x 3.34m ll\n= recarz \u2014\n\u2014 iceman ee\n1240\" x 19\u00b011\"\n~ 3.90m x 3.63m.\nSI * \u2014=\nae \\ 9\nGROUND FLOOR FIRST FLOOR\nAPPROX. GROSS INTERNAL FLOOR AREA 929.57 SQ. FT / 86.36 SQ. M\nWHILST EVERY ATTEMPT HAS BEEN MADE TO ENSURE THE ACCURACY OF THE FLOOR PLAN CONTAINED HERE,\nMEASUREMENTS OF DOORS, WINDOWS, ROOMS AND ANY OTHER ITEMS ARE APPROXIMATE AND NO RESPONSIBILITY\n\u2018IS TAKEN FOR ANY ERROR, OMISSION, OR MIS-STATEMENT. THIS PLAN IS FOR ILLUSTRATIVE PURPOSES ONLY\n\u2018AND SHOULD BE USED AS SUCH, BY ANY PROSPECTIVE PURCHASER.\nFLOOR PLANS ARE NOT DONE TO \u201cSCALE\u2122.\n\f",
+    "image": "./extracted_images/61757136.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61757136/?search_identifier=56b3a2fa34c8aa2d9566a8f71eeb8d15",
+    "listing_no": "61757136",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.564044,
+        "longitude": -0.249018
+    },
+    "first_published": "2022-06-21T09:08:40",
+    "last_sale_date": "1997-07-08",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61757136",
+        "publishedOn": "2022-06-21T09:08:40",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 25,
+            "acornType": 25,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 3944,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(715805).png",
+            "branchName": "Hoopers Estate Agents",
+            "brandName": "Hoopers Estate Agents",
+            "chainFree": true,
+            "companyId": 7463,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Kenwyn Drive, London NW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7NT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61757136,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "NW2",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 614416
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/hoopers-estate-agents-london-3944/",
+            "branchId": "3944",
+            "branchResultsUri": "/for-sale/branch/hoopers-estate-agents-london-3944/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(715805).png",
+            "phone": "020 8166 7254",
+            "name": "Hoopers Estate Agents",
+            "memberType": "agent",
+            "address": "258 Neasden Lane, Willesden, London",
+            "postcode": "NW10 0AA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Braintcroft E-Act Primary Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wykeham Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Neasden",
+                "type": "london_underground_station",
+                "distanceMiles": 0.7
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Dollis Hill",
+                "type": "london_underground_station",
+                "distanceMiles": 0.9
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/_cP-GQ5Xbhc?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "600d379a51b4650a00fabe1070518c546842fb7e.png",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "A centre terrace 1930\u2019s built three bedroom family house offered for sale chain free and situated in this popular road off Tanfield Avenue. Benefits include:-<br><br>Gas central heating<br>Double glazed windows<br>Side pedestrian access<br>Staircase from first floor leading to loft area (suitable for storage)<br>Chain free sale<br>The property is located within a few yards of local bus services and schools at Tanfield Avenue.<br>The nearest station is Neasden (Jubilee Line)<br>Gross internal floor area of 930 sq ft (86 sq m) approximately<br><br>Ground Floor:<br><br>Entrance Hall:<br>Under-stairs cupboard.<br><br>Lounge (front):<br>12\u201910\u201d x 12\u20190\u201d (3.90m x 3.63m). Double glazed bay window.<br><br>Dining Room (rear):<br>12\u20192\u201d x 11\u20190\u201d (3.70m x 3.34m). Built-in cupboard. Double glazed patio doors to garden.<br><br>Kitchen:<br>11\u20196\u201d x 7\u20193\u201d (3.50m x 2.20m). Built-in matching wall cabinets and base cabinets with work surfaces above. Built-in gas hob with oven below and extractor hood above hob. Double glazed door to garden. Plumbing for washing machine. Single drainer sink unit with mixer tap. Cupboard with gas boiler. Fully tiled walls.<br><br>First Floor:<br><br>Bedroom 1 (rear):<br>14\u20197\u201d x 11\u20198\u201d (4.45m x 3.56m). Built-in wardrobes. Double glazed window.<br><br>Bedroom 2 (front):<br>13\u20198\u201d x 10\u20198\u201d (4.16m x 3.26m). Built-in cupboard. Double glazed window.<br><br>Bedroom 3 (front):<br>7\u20193\u201d x 7\u20191\u201d (2.21m x 2.16m). Double glazed window.<br><br>Large Bathroom/WC:<br>7\u201910\u201d x 7\u20193\u201d (2.40m x 2.20m). Panelled bath. Pedestal wash hand basin. Low level WC. Fully ceramic tiled walls.<br><br>Landing:<br>With staircase leading to<br><br>Loft Area:<br>22\u20190\u201d x 10\u20195\u201d (6.70m x 3.17m). Suitable for storage.<br><br>External features:<br>Front and rear gardens, the rear garden with garden shed. Side pedestrian access.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "5c0bfa68a249e08457891ea7b3adb0a0c0339c91.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "87545e098d042dc82360318fa52c55d60a4c8ab6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fd7201eb9c51387bc03e1cffbf6009d21c979325.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3138d12d08e4be39f96f8b8e1671c64b443ad373.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9494f873003905bd87f7b7c8411b14160c9f0b97.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9e1ae8668693d216457f182b02f7b70a78efd231.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9032707526ab883dcfcf5261e4aa66cbb7f91ed1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d79c1d3a9aec2d8c6824500a10f24d2716f75044.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c32f8593b58cf929aa9b6a2d5abb12e184b2f721.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b7d81636adfbdf4c6c7b50bf90fd374f966cf42b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fc0ac4f74d30068b63ac3be56267f50f9d5abb75.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "50cf9e45b6f1b329cc55adc8c3313728e8ff65e1.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 25,
+            "acornType": 25,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 3944,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(715805).png",
+            "branchName": "Hoopers Estate Agents",
+            "brandName": "Hoopers Estate Agents",
+            "chainFree": true,
+            "companyId": 7463,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Kenwyn Drive, London NW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7NT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61757136,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "NW2",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 614416
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Kenwyn Drive, London NW2 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Kenwyn Drive, London NW2, selling for \u00a3625,000 from Hoopers Estate Agents. See property details on Zoopla or browse all our range of properties in Kenwyn Drive, London NW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61757136/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.564044,
+                "longitude": -0.249018,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Kenwyn Drive, London NW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-21T09:08:40",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "1997-07-08",
+                "newBuild": false,
+                "price": 102500,
+                "priceLabel": "\u00a3102,500",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 33
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/5c0bfa68a249e08457891ea7b3adb0a0c0339c91.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Hoopers Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61757136,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "f4c3d2bf-bb93-45ef-b6bf-4b69998a8126",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW2",
+            "areaNameUri": "london/nw2/cricklewood-dollis-hill-neasden",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2270.6666666666665
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 704475,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 691459,
+                    "pctChangeSince": 1.882,
+                    "date": "2022-03-23",
+                    "changeSince": 13016
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 712276,
+                    "pctChangeSince": -1.095,
+                    "date": "2021-12-23",
+                    "changeSince": -7801
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 744533,
+                    "pctChangeSince": -5.38,
+                    "date": "2021-06-23",
+                    "changeSince": -40058
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 664667,
+                    "pctChangeSince": 5.989,
+                    "date": "2017-06-23",
+                    "changeSince": 39808
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 463493,
+                    "pctChangeSince": 51.993,
+                    "date": "2012-06-23",
+                    "changeSince": 240982
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 421826,
+                    "pctChangeSince": 67.006,
+                    "date": "2007-06-23",
+                    "changeSince": 282649
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 264983,
+                    "pctChangeSince": 165.857,
+                    "date": "2002-06-23",
+                    "changeSince": 439492
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 739754,
+                    "newBuilds": 0,
+                    "numSales": 40
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 687496,
+                    "newBuilds": 0,
+                    "numSales": 129
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 655095,
+                    "newBuilds": 0,
+                    "numSales": 236
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 650791,
+                    "newBuilds": 0,
+                    "numSales": 380
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-25T00:00:00Z",
+                    "price": 670000,
+                    "propertyId": 17197945,
+                    "streetAddress": "42 Kenwyn Drive",
+                    "uri": "42-kenwyn-drive/london/nw2-7nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 640000,
+                    "propertyId": 17197994,
+                    "streetAddress": "33 Kenwyn Drive",
+                    "uri": "33-kenwyn-drive/london/nw2-7nx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-20T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 17191350,
+                    "streetAddress": "88a Chaplin Road",
+                    "uri": "88a-chaplin-road/london/nw2-5pr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 870000,
+                    "propertyId": 17184333,
+                    "streetAddress": "14 Richborough Road",
+                    "uri": "14-richborough-road/london/nw2-3lu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 490000,
+                    "propertyId": 27398395,
+                    "streetAddress": "Flat 4, 18 Teignmouth Road",
+                    "uri": "flat-4/18-teignmouth-road/mapesbury/london/nw2-4hn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-13T00:00:00Z",
+                    "price": 907000,
+                    "propertyId": 29135666,
+                    "streetAddress": "1 Chanin Mews",
+                    "uri": "1-chanin-mews/london/nw2-4aq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-30T00:00:00Z",
+                    "price": 525000,
+                    "propertyId": 17177999,
+                    "streetAddress": "44 Brent Terrace",
+                    "uri": "44-brent-terrace/london/nw2-1bx"
+                }
+            ]
+        },
+        "propertyType": "terraced",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

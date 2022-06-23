@@ -1,0 +1,581 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 62.75,
+    "sqft": 2022.0,
+    "text": "Foxtons Queens Court, SW13\n20/06/2022 36,358,663 62.75 sqm / 675.44 sqft\nSTORAGE N\n0.78m x 0.60m\n(2'7 x 2'0)\n0.46 sqm / 5.00 saft\nIncluded in measurements\ner \u2014\u2014\u2014\u2014\u2014\u2014\nBALCONY od\nPenne || ||\n3 (12\u00b04 x 2'8)\nMAIN BEDROOM\n4.42m x 3.27m\n(14'6 x 10'9)\n\\/\nKITCHEN/RECEPTION 7s. ' \u2014\n7.43m x 4.56m \\\n(24'5 x 15'0) \u2018\n} a } \\\n\u2019 \\\n7 / \u2018 /\nLZ a t uw\n7 rT -\u2014\ntC\u00bb) \\\n\\\n\\\n~~ BEDROOM 2\n3.81m x 2.44m\n(12\u00b06 x 8'0)\nSee\n\u2014 Second Floor\n62.75 sqm / 675.44 sqft 59.55 sqm / 640.99 sqft 3.51 sqm / 37.78 sqft 0.00 sqm / 0.00 saft\n(Mspec\u2019\nVerified \u00a9\n\f",
+    "image": "./extracted_images/61776061.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61776061/?search_identifier=44b5e2e41ade7d33e2fec1464d335f6d",
+    "listing_no": "61776061",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.465218,
+        "longitude": -0.239585
+    },
+    "first_published": "2022-06-22T18:15:56",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61776061",
+        "publishedOn": "2022-06-22T18:15:56",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw13/chpk0435973/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw13/chpk0435973",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw13/chpk0435973/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2888,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Putney",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Queens Ride, Barnes, London SW13",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0HY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61776061,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SW13",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "675",
+            "tenure": null,
+            "zindex": 552049
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-putney-london-2888/",
+            "branchId": "2888",
+            "branchResultsUri": "/for-sale/branch/foxtons-putney-london-2888/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3542 2189",
+            "name": "Foxtons - Putney",
+            "memberType": "agent",
+            "address": "175 Putney High Street, London",
+            "postcode": "SW15 1RT"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barnes",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Falcons School for Girls",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Paddock School (SEN)",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barnes Bridge",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/62b0811551dd960a90f1abef"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "Presenting a serene setting within reach of Barnes Common and the Thames, this 2 bedroom flat offers herringbone floors and floor-to-ceiling windows. It further showcases modern interiors and a private balcony.<br><br>Queens Ride benefits from a tranquil position moments from the stunning Barnes Common and in reach of the Thames. It is further set near the amenities offered along the nearby High Street, while Barnes Station is a stone's throw away.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Attractive 2nd floor flat",
+                "Lovely reception with floor-to-ceiling windows",
+                "Sleek open-plan kitchen with integrated appliances and space to dine",
+                "Quaint balcony with room for seating",
+                "2 Double bedrooms, main with fitted cupboards",
+                "Well-presented bathroom",
+                "Access to a beautiful communal garden and off street parking",
+                "Set near Barnes Common and Barnes Station"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "af6111781fb676007a3514f1d07f007f8634402c.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "edd39d105408c826dba82a5ecb4b82c3b6205a48.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ed693b706781383f85cff7f116ca922c0ef4eb46.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "07249d7a93363ac3bf0d6c5a3aee838150856c37.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "102f8129dc6d13c7ec4f5d8f3949cb3abdde55de.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b9289c16050ba97f330d815159e5a36452a9e274.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7c5665da5c030b75bc216dc3e17c70924e4b536d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c8aae2340404eaf40c48f024646189eefcb87ab9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "89f1368d39d950d57cf49acb5db56965890953e8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f840475302dbe277740d65ffd7a69d24466bcd3d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e240974973ee799903ece34382e2362494071991.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4d63077a299120da25477deb0bc80d6a868739f1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bf4389c8b89c13366a0a10509a961e6d7a99bc58.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2888,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Putney",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Queens Ride, Barnes, London SW13",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0HY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61776061,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SW13",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "675",
+            "tenure": null,
+            "zindex": 552049
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Queens Ride, Barnes, London SW13 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Queens Ride, Barnes, London SW13, selling for \u00a3550,000 from Foxtons - Putney. See property details on Zoopla or browse all our range of properties in Queens Ride, Barnes, London SW13.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61776061/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.465218,
+                "longitude": -0.239585,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Queens Ride, Barnes, London SW13",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-22T18:15:56",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 51
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/af6111781fb676007a3514f1d07f007f8634402c.png"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 675,
+            "label": "675 sq. ft"
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 815,
+                "unitsLabel": "sq. ft",
+                "label": "\u00a3815/sq. ft"
+            },
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61776061,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "3fbaaae9-40f8-4ab9-bb21-8271882a2d71",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW13",
+            "areaNameUri": "london/sw13/barnes-castelnau",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2748.7777777777765
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 932334,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-22",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 887411,
+                    "pctChangeSince": 5.062,
+                    "date": "2022-03-22",
+                    "changeSince": 44923
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 877154,
+                    "pctChangeSince": 6.291,
+                    "date": "2021-12-22",
+                    "changeSince": 55180
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 868322,
+                    "pctChangeSince": 7.372,
+                    "date": "2021-06-22",
+                    "changeSince": 64012
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 856070,
+                    "pctChangeSince": 8.909,
+                    "date": "2017-06-22",
+                    "changeSince": 76264
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 607162,
+                    "pctChangeSince": 53.556,
+                    "date": "2012-06-22",
+                    "changeSince": 325172
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 568556,
+                    "pctChangeSince": 63.983,
+                    "date": "2007-06-22",
+                    "changeSince": 363778
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 359131,
+                    "pctChangeSince": 159.608,
+                    "date": "2002-06-22",
+                    "changeSince": 573203
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 767189,
+                    "newBuilds": 0,
+                    "numSales": 37
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 712636,
+                    "newBuilds": 0,
+                    "numSales": 134
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 712874,
+                    "newBuilds": 0,
+                    "numSales": 216
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 730724,
+                    "newBuilds": 0,
+                    "numSales": 335
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-01-28T00:00:00Z",
+                    "price": 475000,
+                    "propertyId": 23279475,
+                    "streetAddress": "Flat 11, Roehampton Court, Queens Ride",
+                    "uri": "flat-11/roehampton-court/queens-ride/london/sw13-0hu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-01-28T00:00:00Z",
+                    "price": 475000,
+                    "propertyId": 23279489,
+                    "streetAddress": "Flat 24, Roehampton Court, Queens Ride",
+                    "uri": "flat-24/roehampton-court/queens-ride/london/sw13-0hu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 395000,
+                    "propertyId": 23279533,
+                    "streetAddress": "Flat 18, Cressy House, Queens Ride",
+                    "uri": "flat-18/cressy-house/queens-ride/london/sw13-0hz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 6250000,
+                    "propertyId": 23279618,
+                    "streetAddress": "Van Buren Cottage, Queens Ride",
+                    "uri": "van-buren-cottage/queens-ride/london/sw13-0jf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-20T00:00:00Z",
+                    "price": 2560000,
+                    "propertyId": 23284301,
+                    "streetAddress": "35 Gerard Road",
+                    "uri": "35-gerard-road/london/sw13-9qh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-11T00:00:00Z",
+                    "price": 1352000,
+                    "propertyId": 23278604,
+                    "streetAddress": "102 Westfields Avenue",
+                    "uri": "102-westfields-avenue/london/sw13-0az"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 780000,
+                    "propertyId": 23279743,
+                    "streetAddress": "62 Treen Avenue",
+                    "uri": "62-treen-avenue/london/sw13-0jt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 1270000,
+                    "propertyId": 23278605,
+                    "streetAddress": "106 Westfields Avenue",
+                    "uri": "106-westfields-avenue/london/sw13-0az"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-07T00:00:00Z",
+                    "price": 1260000,
+                    "propertyId": 23280995,
+                    "streetAddress": "Flat 2, Handel Mansions, 94 Wyatt Drive",
+                    "uri": "flat-2/handel-mansions/94-wyatt-drive/london/sw13-8ah"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

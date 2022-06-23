@@ -156,7 +156,7 @@ if __name__ == "__main__":
   # search_page = search_zoopla_central_london(beds_max,beds_min,price_max,price_min,True,5)
   # all_listings = get_all_listings_one_page(search_page)
   # all_links = get_all_links(all_listings)
-  all_links = get_all_listings_links_many_pages(beds_max, beds_min, price_max, price_min, expanded = True, radius=5, max_pages=70)
+  all_links = get_all_listings_links_many_pages(beds_max, beds_min, price_max, price_min, expanded = True, radius=5, max_pages=7)
   print(len(all_links))
   all_links = filter_only_new_links(all_links)
   print(len(all_links))

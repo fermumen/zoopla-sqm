@@ -1,0 +1,536 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "TWO BEDROOM\n\nTYPE 2B4P-C\n\nTOTAL AREA: 71m7/764.1ft?\n\n&\n\noS\n\nral\n\nAVA\n\nlore)\n\nLokI0N 3\n\nL\n\naly\n\nuti\n\nStore\n\ni\n\ni\n\ni\n\n\u2018\n\ni\n\naan |\n\nue\n\no } En-Suite\n\nco\n\n\u2014---\n\n)\n\n)\n\ni]\n\n)\n\ni\n\n|\n\nroe\n\nrr)\n\nPs\n\nBool\n\nPina)\n\ne\n\nhes\n\nCry\n\nWardrobe|\n\nCroce\n\nmeee\n\nCe)\n\nEen)\n\npea)\n\nea\n\netn)\n\nak\n\nBea)\n\nNerd\n\nCees\n\n=\n\n\u2014\u2014\u2014\n\nCal\n\nCoe\n\nNeosat Re tt ee ee RUA)\n\nPLEASE NOTE THAT WINDOW, DOOR, BALCONY AND TERRACE CONFIGURATIONS MAY VARY DEPENDING ON PLOT, KITCHEN LAYOUTS ARE\n\nINDICATIVE ONLY. PLEASE CHECK WITH YOUR SALES ADVISOR FOR DETAILS.\n\f",
+    "image": "./extracted_images/61785020.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/61785020/?search_identifier=c28c677b02b8c50b472b60460a1f4ac5",
+    "listing_no": "61785020",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.45782,
+        "longitude": -0.11808
+    },
+    "first_published": "2022-06-23T15:02:10",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61785020",
+        "publishedOn": "2022-06-23T15:02:10",
+        "category": "residential",
+        "section": "new-homes",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brixtoncentric_Brochure.pdf",
+                "original": "https://lc.zoocdn.com/4fff8b94fd8b777b4cddcd5c20d05b0e9c0f9a86.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 35857,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "branchName": "JLL - New Homes",
+            "brandName": "JLL",
+            "chainFree": true,
+            "companyId": 6050,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brixton Centric, Brixton Hill SW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1RD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 61785020,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "SW2 1RD",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "",
+            "priceActual": 627500,
+            "price": 627500,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Integrated Appliances|Underfloor Heating",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "764",
+            "tenure": null,
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jll-new-homes-london-35857/",
+            "branchId": "35857",
+            "branchResultsUri": "/for-sale/branch/jll-new-homes-london-35857/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "phone": "020 8115 3656",
+            "name": "JLL - New Homes",
+            "memberType": "agent",
+            "address": "30 Warwick Street, London",
+            "postcode": "W1B 5NH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Trinity Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Sudbourne Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brixton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brixton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": [
+                {
+                    "__typename": "Media",
+                    "url": "https://players.brightcove.net/1268729899001/default_default/index.html?videoId=6298807958001"
+                }
+            ],
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "Plot 04.05 - Fourth floor apartment in Brixton Centric!<br><br>This two bedroom contemporary apartment is located in the heart of Brixton! This high spec home features an open plan kitchen, living, dining area leading onto a spacious balcony, perfect for those warm evenings! The main bedroom benefits from a built in wardrobe and stylish en-suite. If you are in need of additional storage this apartment has the added bonus of an extra storage cupboard in the second bedroom.<br><br>About Muse<br>Muse has been working on major projects in Brixton for eight years. We have been working in partnership with Lambeth Borough Council and have already delivered the restoration of the historic Art Deco Ivor House into 26 characterful new homes and built Brook House, a new building containing 94 homes. We have completed the sensitive refurbishment of the Grade II listed Lambeth Town Hall into new council offices and built a new 120,000 sq ft civic and customer centre for the council. A major new cycle hub has also been created, complete with changing facilities and a caf\u00e9, and new landscaped public areas. Now Brixton Centric is the final piece in the jigsaw in the transformation of Brixton town centre<br><br>Disclaimer<br>images: Computer generated images and artists\u2019 impressions are intended to give an artist\u2019s impression of the design, based on information available to the artist at the time the image is created. They are not intended to be an accurate description of any specific property, its location, or the surrounding area. We do sometimes need to make changes to designs, finishes and features during the development and appearance may vary on completion. Images showing views are based on the site at the time the image is produced. Please note that landscapes change and a view which is unrestricted now may be restricted in the future. We do not control adjoining or surrounding land.<br>Floor plans: Floor plan measurements are taken from the architects\u2019 drawings and may differ in the as-built property. Please note the seller may need to make adjustments to the boundaries of the property but these will not significantly alter its area and the seller will notify the buyer of such adjustments. Maximum dimensions may include sloping ceilings, pillars, window bays, fitted wardrobes and other features. Floor plans and layouts should not therefore be used for purchasing items such as furniture or carpets. Kitchen and bathroom layouts may differ from those shown.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Balcony",
+                "248 year leasehold remaining",
+                "Peppercorn ground rent",
+                "Porcelanosa tiling to bathroom",
+                "NHBC Warranty",
+                "Wardrobe to bedroom featuring sliding doors, shelf and hanging rail",
+                "Underfloor heating to all areas",
+                "Short walk to Brixton Tube"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Integrated Appliances"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Underfloor Heating"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "eb8e72681311c4fa36e5e3d547ffc780533919c6.jpg",
+                    "caption": "Brixtoncentric_Floorplans_All-08.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "fdffb28527d2c0ee498fbf64b893514514333ec6.jpg",
+                "caption": "Tpr_Brixton_Vig_Newflooring_220121.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "50b075fc6e9cb7d5e35fbe0451f884eb94b8ff0c.jpg",
+                "caption": "Tpr_Ext_Day_220104.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d6be0e1936887a39f3a27bfa421f64fbb077acad.jpg",
+                "caption": "Brockwell_3036_Highres.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5cdeebb15234650777041ceec957e388f09cb5b5.jpg",
+                "caption": "Murals_3322_Highres.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4413b35ed692a56fc3f10e733a2a35f93e986353.jpg",
+                "caption": "POP_3218_Highres.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "eed40b30b6d724a8bfe61f2d0c4d299843263e08.jpg",
+                "caption": "Signs_3165_Highres.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "41d57c5161189bf3daf904a86ca2fb9ccb414f5d.jpg",
+                "caption": "Tpr_Brixton_Int_Newflooring_220121.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "20577a11bac0bfa0824b48ddd258481e69a100cb.jpg",
+                "caption": "Tpr_Ext_Night_220104.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "08102ab76d2b765ba42cc286b52613a9db2cc233.jpg",
+                "caption": "Tube_3134_Highres.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "SW2 1RD",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 35857,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "branchName": "JLL - New Homes",
+            "brandName": "JLL",
+            "chainFree": true,
+            "companyId": 6050,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brixton Centric, Brixton Hill SW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1RD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 61785020,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "",
+            "priceActual": 627500,
+            "price": 627500,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Integrated Appliances|Underfloor Heating",
+            "propertyType": "flat",
+            "sizeSqFeet": "764",
+            "tenure": null,
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in Brixton Centric, Brixton Hill SW2 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in Brixton Centric, Brixton Hill SW2, selling for \u00a3627,500 from JLL - New Homes. See property details on Zoopla or browse all our range of properties in Brixton Centric, Brixton Hill SW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/61785020/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.45782,
+                "longitude": -0.11808,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Brixton Centric, Brixton Hill SW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-23T15:02:10",
+                "priceLabel": "\u00a3627,500"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 0
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/eb8e72681311c4fa36e5e3d547ffc780533919c6.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 764,
+            "label": "764 sq. ft"
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3627,500",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 821,
+                "unitsLabel": "sq. ft",
+                "label": "\u00a3821/sq. ft"
+            },
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "JLL",
+            "category": "for-sale/resi/agent/new/gb",
+            "id": 61785020,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "6e9dcc1d-6ee2-4eaa-b457-d0a820574ee9",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW2",
+            "areaNameUri": "london/sw2/brixton-centralsouth-streatham-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1946.6013071895431
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 451290,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 429544,
+                    "pctChangeSince": 5.063,
+                    "date": "2022-03-23",
+                    "changeSince": 21746
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 424579,
+                    "pctChangeSince": 6.291,
+                    "date": "2021-12-23",
+                    "changeSince": 26711
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 420302,
+                    "pctChangeSince": 7.373,
+                    "date": "2021-06-23",
+                    "changeSince": 30988
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 414363,
+                    "pctChangeSince": 8.912,
+                    "date": "2017-06-23",
+                    "changeSince": 36927
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 293884,
+                    "pctChangeSince": 53.561,
+                    "date": "2012-06-23",
+                    "changeSince": 157406
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 275197,
+                    "pctChangeSince": 63.988,
+                    "date": "2007-06-23",
+                    "changeSince": 176093
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 173829,
+                    "pctChangeSince": 159.617,
+                    "date": "2002-06-23",
+                    "changeSince": 277461
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 472305,
+                    "newBuilds": 0,
+                    "numSales": 283
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 468687,
+                    "newBuilds": 6,
+                    "numSales": 913
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 465993,
+                    "newBuilds": 87,
+                    "numSales": 1658
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 457380,
+                    "newBuilds": 113,
+                    "numSales": 2582
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-19T00:00:00Z",
+                    "price": 565000,
+                    "propertyId": 23117000,
+                    "streetAddress": "137 Barcombe Avenue",
+                    "uri": "137-barcombe-avenue/london/sw2-3bq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-12T00:00:00Z",
+                    "price": 1250000,
+                    "propertyId": 23118377,
+                    "streetAddress": "57 Kingsmead Road",
+                    "uri": "57-kingsmead-road/london/sw2-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 23115658,
+                    "streetAddress": "8 Dewey Lane",
+                    "uri": "8-dewey-lane/london/sw2-2ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-07T00:00:00Z",
+                    "price": 845500,
+                    "propertyId": 23124114,
+                    "streetAddress": "70 Blairderry Road",
+                    "uri": "70-blairderry-road/london/sw2-4sb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 23127290,
+                    "streetAddress": "56 Doverfield Road",
+                    "uri": "56-doverfield-road/london/sw2-5nb"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

@@ -1,0 +1,578 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 58.52,
+    "sqft": 630.0,
+    "text": "Eamont Court Mackennal St NW8\na\nAe8\nFire\nExit\n} IP Kitch\n\u2018itchen\nCJ LA Lf 10'2\"x 67\"\nle 3.10x2.01m\nBedroom Cc)\n13'2\"x 11'0\" =|\n401x3.35m 7 + \\\na xe\nReception / Dining Room\n20'6\"x 15'4\" {\n| 6.25 x 4.67m \\\n_\n|S Bedroom\n\u2014\u2014S No3\" x77\"\nte 3.12x231m\nFirst Floor\nApprox Gross Internal Area 630 Sq Ft - 58.52SqM\nFor Illustration Purposes Only - Not To Scale Floor Plan by www.nogaphotostudio.com Ref: No.45059\n\f",
+    "image": "./extracted_images/61764351.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61764351/?search_identifier=9e48c3d9ba079729f8df8c6c443c2167",
+    "listing_no": "61764351",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.534919,
+        "longitude": -0.165463
+    },
+    "first_published": "2022-06-21T16:42:23",
+    "last_sale_date": "1995-03-03",
+    "last_sale_new": true,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61764351",
+        "publishedOn": "2022-06-21T16:42:23",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Mackennal Street, London",
+                "original": "https://lc.zoocdn.com/133bbd2de0b043d153a6f94c0b28f97de6f35eaf.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31585005",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 13246,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(139605).png",
+            "branchName": "Absolute Property",
+            "brandName": "Absolute Property Consultants",
+            "chainFree": true,
+            "companyId": 6444,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Mackennal Street, London NW8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7DW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61764351,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "NW8",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 640000,
+            "price": 640000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "630",
+            "tenure": "leasehold",
+            "zindex": 678590
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/absolute-property-london-13246/",
+            "branchId": "13246",
+            "branchResultsUri": "/for-sale/branch/absolute-property-london-13246/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(139605).png",
+            "phone": "020 8115 7171",
+            "name": "Absolute Property",
+            "memberType": "agent",
+            "address": "5 Rosecroft Avenue, Hampstead, London",
+            "postcode": "NW3 7QA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Christina's School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Robinsfield Infant School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St. John's Wood",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Swiss Cottage",
+                "type": "london_underground_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://kuula.co/share/collection/7vKnF?logo=1&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "fbd5f2c06e90721aa192e9b9ccf684c8c1cea5c1.png",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "Virtual tour available. A wonderfully bright airy well presented two bedroom apartment located on the first floor of an excellent purpose built block in an amazing location. The flat comprises two double bedrooms, one bathroom, a spacious reception/dining room and a separate fitted kitchen. The property has the use of a fantastic communal garden. There is a lift and a porter for the block. Chain free.<br><br>Eamont Court is exceptionally well located to take advantage of the shops and amenities of St John's Wood High Street (5 minutes walking distance) and the open green spaces of Regent's Park (3 minutes walking distance). St John's Wood Underground Station (Jubilee Line) is a 9 minute walk away. All distances from Google maps.<br>City of Westminster Council Tax Band: E, EPC Rating: C.<br><br>This apartment belongs to family members of Absolute Property.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Exceptionally Bright",
+                "Good Condition",
+                "Great Storage",
+                "Lift &amp; Porter for the block",
+                "Lovely Communal Gardens",
+                "Fantastic Location",
+                "5 minute walk to St John's Wood High Street",
+                "9 minute walk to St John's Wood Station",
+                "3 minute walk to Regent's Park",
+                "Chain free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "df26d65cd869d62c91867a557bb7e37e5b5bcfe5.jpg",
+                    "caption": "45059Low.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "42d611105fee22349e40a01f144b428b46270f69.jpg",
+                "caption": "45059_Low-Res(8).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "047df6997ab61c0d5a2a9291d0cb504193044da7.jpg",
+                "caption": "45059_Low-Res(6).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c5ed8f2d5ea660a6cc347a0afce0bcdad0e432be.jpg",
+                "caption": "45059_Low-Res(11).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "540551a58eb52aebe756acf4d0c0c6b32e7c549b.jpg",
+                "caption": "45059_Low-Res(12).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2d2bd410adc3de329229c6e9e4a9823ca5c6d91d.jpg",
+                "caption": "45059_Low-Res(9).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a72a29ded460b599a14f50af63bc0f62198874ff.jpg",
+                "caption": "45059_Low-Res(4).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bb19e3f7e469b8f69dd84e5f2f5536473d7de99a.jpg",
+                "caption": "45059_Low-Res(3).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "881aa17d62a853d02ed82f64250e25773115c264.jpg",
+                "caption": "45059_Low-Res(5).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8e56feab0c0b07d9d50c9ff6bb2bde56e3336cc5.jpg",
+                "caption": "45059_Low-Res(7).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0488cccc8fbda84bfee5a248060eff859630565b.jpg",
+                "caption": "45059_Low-Res(10).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e274a16511873f881edae2ddbfaca9beb51a37e0.jpg",
+                "caption": "45059_Low-Res(01).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "176ce2c7f094b6f87494671943c77e6ee30f46e1.jpg",
+                "caption": "45059_Low-Res(2).Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 13246,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(139605).png",
+            "branchName": "Absolute Property",
+            "brandName": "Absolute Property Consultants",
+            "chainFree": true,
+            "companyId": 6444,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Mackennal Street, London NW8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7DW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61764351,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "NW8",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 640000,
+            "price": 640000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "630",
+            "tenure": "leasehold",
+            "zindex": 678590
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Mackennal Street, London NW8 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Mackennal Street, London NW8, selling for \u00a3640,000 from Absolute Property. See property details on Zoopla or browse all our range of properties in Mackennal Street, London NW8.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61764351/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.534919,
+                "longitude": -0.165463,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Mackennal Street, London NW8",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-21T16:42:23",
+                "priceLabel": "\u00a3640,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "1995-03-03",
+                "newBuild": true,
+                "price": 115000,
+                "priceLabel": "\u00a3115,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 87
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/df26d65cd869d62c91867a557bb7e37e5b5bcfe5.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 630,
+            "label": "630 sq. ft"
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3640,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 1016,
+                "unitsLabel": "sq. ft",
+                "label": "\u00a31,016/sq. ft"
+            },
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Absolute Property Consultants",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61764351,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "32bb46ef-563e-40a0-9d7c-8ae47c8144fe",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW8",
+            "areaNameUri": "london/nw8/st-johns-wood",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 4105.49712643678
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 1056151,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 1013287,
+                    "pctChangeSince": 4.23,
+                    "date": "2022-03-23",
+                    "changeSince": 42864
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 1002636,
+                    "pctChangeSince": 5.337,
+                    "date": "2021-12-23",
+                    "changeSince": 53515
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1001806,
+                    "pctChangeSince": 5.425,
+                    "date": "2021-06-23",
+                    "changeSince": 54345
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 934193,
+                    "pctChangeSince": 13.055,
+                    "date": "2017-06-23",
+                    "changeSince": 121958
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 656274,
+                    "pctChangeSince": 60.931,
+                    "date": "2012-06-23",
+                    "changeSince": 399877
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 596601,
+                    "pctChangeSince": 77.028,
+                    "date": "2007-06-23",
+                    "changeSince": 459550
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 377882,
+                    "pctChangeSince": 179.492,
+                    "date": "2002-06-23",
+                    "changeSince": 678269
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 1029660,
+                    "newBuilds": 0,
+                    "numSales": 130
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1013495,
+                    "newBuilds": 0,
+                    "numSales": 389
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1047009,
+                    "newBuilds": 0,
+                    "numSales": 668
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1033014,
+                    "newBuilds": 0,
+                    "numSales": 1078
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-01-14T00:00:00Z",
+                    "price": 635000,
+                    "propertyId": 17276324,
+                    "streetAddress": "Flat 99, Eamont Court, Mackennal Street",
+                    "uri": "flat-99/eamont-court/mackennal-street/london/nw8-7dw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 1110000,
+                    "propertyId": 17276285,
+                    "streetAddress": "Flat 86, Townshend Court, Mackennal Street",
+                    "uri": "flat-86/townshend-court/mackennal-street/london/nw8-7dr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-12T00:00:00Z",
+                    "price": 3250000,
+                    "propertyId": 17285504,
+                    "streetAddress": "11 Alma Square",
+                    "uri": "11-alma-square/london/nw8-9qa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 4325000,
+                    "propertyId": 17272692,
+                    "streetAddress": "65 Springfield Road",
+                    "uri": "65-springfield-road/london/nw8-0qj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 2175000,
+                    "propertyId": 17283966,
+                    "streetAddress": "Flat 45, Grove Court, 24 Grove End Road",
+                    "uri": "flat-45/grove-court/24-grove-end-road/london/nw8-9ep"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-22T00:00:00Z",
+                    "price": 1860000,
+                    "propertyId": 17278054,
+                    "streetAddress": "Flat 2, 2 Avenue Road",
+                    "uri": "flat-2/2-avenue-road/london/nw8-7pu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-16T00:00:00Z",
+                    "price": 2130000,
+                    "propertyId": 17276723,
+                    "streetAddress": "Flat 806, Pavilion Apartments, 34 St. Johns Wood Road",
+                    "uri": "flat-806/pavilion-apartments/34-st-johns-wood-road/london/nw8-7hf"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

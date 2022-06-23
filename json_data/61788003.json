@@ -1,0 +1,537 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "Mach Cour 877\n\nLy\n\f",
+    "image": "./extracted_images/61788003.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61788003/?search_identifier=c28c677b02b8c50b472b60460a1f4ac5",
+    "listing_no": "61788003",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.489074,
+        "longitude": -0.086126
+    },
+    "first_published": "2022-06-23T21:42:56",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61788003",
+        "publishedOn": "2022-06-23T21:42:56",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "http://www.ludlowthompson.com/particulars/details/print_particulars.pdf?id=2840776",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 31878,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(302206).png",
+            "branchName": "Ludlow Thompson - Kennington / Oval",
+            "brandName": "Ludlow Thompson",
+            "chainFree": true,
+            "companyId": 14699,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "East Street, London SE17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2FT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61788003,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "SE17 2FT",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE17",
+            "postalArea": "SE",
+            "postTownName": "",
+            "priceActual": 590000,
+            "price": 590000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/ludlow-thompson-kennington-oval-london-31878/",
+            "branchId": "31878",
+            "branchResultsUri": "/for-sale/branch/ludlow-thompson-kennington-oval-london-31878/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(302206).png",
+            "phone": "020 3542 2198",
+            "name": "Ludlow Thompson - Kennington / Oval",
+            "memberType": "agent",
+            "address": "12 Clapham Road, London",
+            "postcode": "SW9 0JG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "English Martyrs Roman Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Surrey Square Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Elephant & Castle",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Elephant & Castle",
+                "type": "london_underground_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/_N2lPKPZlQs?rel=0"
+                }
+            ],
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/62b1f0ea1157a00a4b05cfce"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "0899293eb15ab0af7bec1a3ccee71d6d80fcadb7.jpg",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "A modern &amp; secure, bright two bedroom apartment on East Street with great views from its spacious private balcony. Presented to the market chain free, located in a well connected area and benefits from a well maintained communal area with garden space and secure bike storage.<br><br>This is a highly sought after location due to its proximity to Elephant and Castle and the current/future regeneration of the area.<br><br>It comprises a private balcony accessed through the hallway, two spacious double bedrooms, a bathroom and a large reception with a sleek, semi open-plan fitted kitchen. The rooms are generously sized, bright and airy. The property boasts an excellent modern finish, chic wood flooring in the reception and beautiful floor-to-ceiling windows in the reception and bedrooms!<br><br>Surrounded by local amenities and transport links, with direct bus links into the City. Only 0.8 mile from Elephant &amp; Castle Railway station (Thames link / South eastern) and Tube (Bakerloo / Northern). It is only a 5 minute walk away from the amenities-rich Old Kent Road, where you can find pubs, shops and more, and from Surrey Square Park. The huge Burgess Park is only 10 minutes away. Tenure: Leasehold. Lease length: 119 years. Council tax: Band D.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Chain Free",
+                "Private Balcony",
+                "Spacious and Bright",
+                "Modern Finish",
+                "Secure Underground Bike Storage",
+                "Over 80 Sq M",
+                "Communal Garden",
+                "Wheelchair Accessibility"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "861db98b9a44983e7e77181041bda16d257301fa.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "fa4021eef2c6e76c94b9df9f035287ade9e720fa.jpg",
+                "caption": "Exclusive To Ludl..."
+            },
+            {
+                "__typename": "Media",
+                "filename": "c65d0082ea8460c1560f9a70ec64533fc10022ad.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "83788b860765c14b10211ef128d9865b2267b348.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8bc21906939a84030226aa4fcbf65c4431a72157.jpg",
+                "caption": "Main Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d9e6342dce04c2eb3da9af71c7afe444226227f8.jpg",
+                "caption": "Main Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fd64f38b9386600342ef0ca4dbe8ba08a16f3b96.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0f1a60368b61ec2a45494e430a41c2a3f099c6aa.jpg",
+                "caption": "Bedroom 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a7839f4307ecf9474e55f993cbc284315a02b2aa.jpg",
+                "caption": "Bedroom 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a8698558a9f289237a679b132e34f05113063a47.jpg",
+                "caption": "Balcony"
+            },
+            {
+                "__typename": "Media",
+                "filename": "203cdd0eb62fc0a812f5e8de11291211ab3df61c.jpg",
+                "caption": "Balcony"
+            },
+            {
+                "__typename": "Media",
+                "filename": "07a9299a45a0322d673e51bab6f0a0f91fb95ce2.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b045c4adf83566d9022d66d7975eb2515a3bcfeb.jpg",
+                "caption": "Exterior"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "SE17 2FT",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 31878,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(302206).png",
+            "branchName": "Ludlow Thompson - Kennington / Oval",
+            "brandName": "Ludlow Thompson",
+            "chainFree": true,
+            "companyId": 14699,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "East Street, London SE17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2FT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61788003,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE17",
+            "postalArea": "SE",
+            "postTownName": "",
+            "priceActual": 590000,
+            "price": 590000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in East Street, London SE17 - Zoopla",
+        "metaDescription": "2 bed flat for sale in East Street, London SE17, selling for \u00a3590,000 from Ludlow Thompson - Kennington / Oval. See property details on Zoopla or browse all our range of properties in East Street, London SE17.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61788003/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.489074,
+                "longitude": -0.086126,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "East Street, London SE17",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-23T21:42:56",
+                "priceLabel": "\u00a3590,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 0
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/861db98b9a44983e7e77181041bda16d257301fa.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3590,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Ludlow Thompson",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61788003,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "2b669b75-802f-4c2b-bfdb-c9a383589930",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE17",
+            "areaNameUri": "london/se17/walworth-elephant-and-castle",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2584.7348484848494
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 442555,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 425653,
+                    "pctChangeSince": 3.971,
+                    "date": "2022-03-23",
+                    "changeSince": 16902
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 425686,
+                    "pctChangeSince": 3.963,
+                    "date": "2021-12-23",
+                    "changeSince": 16869
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 440746,
+                    "pctChangeSince": 0.41,
+                    "date": "2021-06-23",
+                    "changeSince": 1809
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 419626,
+                    "pctChangeSince": 5.464,
+                    "date": "2017-06-23",
+                    "changeSince": 22929
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 277434,
+                    "pctChangeSince": 59.517,
+                    "date": "2012-06-23",
+                    "changeSince": 165121
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 267706,
+                    "pctChangeSince": 65.314,
+                    "date": "2007-06-23",
+                    "changeSince": 174849
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 165790,
+                    "pctChangeSince": 166.937,
+                    "date": "2002-06-23",
+                    "changeSince": 276765
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 457688,
+                    "newBuilds": 5,
+                    "numSales": 101
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 475866,
+                    "newBuilds": 81,
+                    "numSales": 351
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 483802,
+                    "newBuilds": 185,
+                    "numSales": 749
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 472736,
+                    "newBuilds": 323,
+                    "numSales": 1195
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 264000,
+                    "propertyId": 21107203,
+                    "streetAddress": "Flat 1, Littlebourne House, Upnor Way",
+                    "uri": "flat-1/littlebourne-house/upnor-way/london/se17-2rw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 615000,
+                    "propertyId": 33115874,
+                    "streetAddress": "1, Randall Court, 12 Steedman Street",
+                    "uri": "1/randall-court/12-steedman-street/london/se17-3af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-11T00:00:00Z",
+                    "price": 587000,
+                    "propertyId": 21109891,
+                    "streetAddress": "116 Olney Road",
+                    "uri": "116-olney-road/london/se17-3hn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 307500,
+                    "propertyId": 21113110,
+                    "streetAddress": "20 Langdale Close",
+                    "uri": "20-langdale-close/london/se17-3uf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-23T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 21112532,
+                    "streetAddress": "Flat 16, Pullens Buildings, Penton Place",
+                    "uri": "flat-16/pullens-buildings/penton-place/london/se17-3sj"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

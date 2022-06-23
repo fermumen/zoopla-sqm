@@ -1,0 +1,529 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 63.21,
+    "sqft": 680.0,
+    "text": "DKK KKK]\nSERRE\nKOON\neens wee\nSLE wrens nen\nON 5.36m x 3.48m\neee =\nproces 20\neee\nPeoceceenaeococd\nDX XKK KOO\nRRL LF\nRRR LF\nRR RKLKF\nRRR LKF sono eam\n\n~~ 10'6 x 9'2\n\ncme, S24 5002000\n\n* @\nRRR\nRR RKLKF\nRRL LKF\nRRL LKF (Y\nRRR LKLF E\nRR RLF a\nSSO san ROOM\nRRO 4.29 x:3.33m\nRRS SNR S CL =\nRetateteeateeets =\nReteretenen\nRiatatanatananet GS\n\nFIRST FLOOR\n680 SQ FT/63.21 SQM\nThis plan has been drawn for illustrative and identification purposes only.\n\f",
+    "image": "./extracted_images/61753341.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61753341/?search_identifier=e524a55eac9f89c66e994a5c6efe9db2",
+    "listing_no": "61753341",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.536091,
+        "longitude": -0.190586
+    },
+    "first_published": "2022-06-20T18:20:35",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61753341",
+        "publishedOn": "2022-06-20T18:20:35",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/nw6/batt0093422/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/nw6/batt0093422",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/nw6/batt0093422/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2880,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - St John's Wood",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Regent Plaza, Kilburn, London NW6",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "5HU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61753341,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "680",
+            "tenure": null,
+            "zindex": 938582
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-st-john-s-wood-london-2880/",
+            "branchId": "2880",
+            "branchResultsUri": "/for-sale/branch/foxtons-st-john-s-wood-london-2880/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3463 7508",
+            "name": "Foxtons - St John's Wood",
+            "memberType": "agent",
+            "address": "98 St John's Wood Terrace, London",
+            "postcode": "NW8 6PL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Augustine's CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Naima Jewish Preparatory School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilburn High Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilburn Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "Located close to the extensive amenities on Kilburn High Road and Maida Vale and set within an impressive portered block, this stylish 2 bedroom apartment provides spacious and modern living and entertaining space.<br><br>Greville Road is ideally located for the vibrant shops and cafes of Kilburn High Road, and with the fashionable amenities of St John's Wood and Maida Vale also nearby. Local transport includes Kilburn Park Underground Station and Kilburn High Road Station.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Superb 2 double bedroom, 2 bathroom apartment",
+                "Generous reception room",
+                "Separate modern kitchen",
+                "Private terrace",
+                "Communal Courtyard",
+                "On site 24 hour Concierge",
+                "Adjacent to Marriot Hotel and Bannatayne Health Club"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "c2d76784fe82a8fe414ba12545dd39742436eb53.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "82ea927bc67c54d6fed02da21852b1031c8e9c67.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9518f222383ee74471b68751a12832e8794e0503.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6f38c95025a882e8f9c1079e80068c3a80ad70b7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "30e7b5822257750e5789c9b86cf1a15ab4e80bd1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d6812f3279a717d516ef06a3c20c979461a3cdc2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "72886944052c4cce067cde5915045157d9248c6a.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2880,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - St John's Wood",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Regent Plaza, Kilburn, London NW6",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "5HU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61753341,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "680",
+            "tenure": null,
+            "zindex": 938582
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Regent Plaza, Kilburn, London NW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Regent Plaza, Kilburn, London NW6, selling for \u00a3625,000 from Foxtons - St John's Wood. See property details on Zoopla or browse all our range of properties in Regent Plaza, Kilburn, London NW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61753341/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.536091,
+                "longitude": -0.190586,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Regent Plaza, Kilburn, London NW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-20T18:20:35",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 41
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/c2d76784fe82a8fe414ba12545dd39742436eb53.png"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 680,
+            "label": "680 sq. ft"
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 919,
+                "unitsLabel": "sq. ft",
+                "label": "\u00a3919/sq. ft"
+            },
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61753341,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "dbcccea2-f3ef-46d0-9656-96f277bf0d29",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW6",
+            "areaNameUri": "london/nw6/kilburn-queens-park-south-and-west-hampstead-brondesbury-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2456.6879999999996
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 705323,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 684013,
+                    "pctChangeSince": 3.115,
+                    "date": "2022-03-23",
+                    "changeSince": 21310
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 676823,
+                    "pctChangeSince": 4.211,
+                    "date": "2021-12-23",
+                    "changeSince": 28500
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 676262,
+                    "pctChangeSince": 4.297,
+                    "date": "2021-06-23",
+                    "changeSince": 29061
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 630611,
+                    "pctChangeSince": 11.848,
+                    "date": "2017-06-23",
+                    "changeSince": 74712
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 443007,
+                    "pctChangeSince": 59.213,
+                    "date": "2012-06-23",
+                    "changeSince": 262316
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 402726,
+                    "pctChangeSince": 75.137,
+                    "date": "2007-06-23",
+                    "changeSince": 302597
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 255083,
+                    "pctChangeSince": 176.507,
+                    "date": "2002-06-23",
+                    "changeSince": 450240
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 680428,
+                    "newBuilds": 7,
+                    "numSales": 253
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 679077,
+                    "newBuilds": 51,
+                    "numSales": 928
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 672778,
+                    "newBuilds": 101,
+                    "numSales": 1676
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 671616,
+                    "newBuilds": 278,
+                    "numSales": 2777
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-10T00:00:00Z",
+                    "price": 370000,
+                    "propertyId": 17252221,
+                    "streetAddress": "Flat 111, Royal Langford Apartments, 2 Greville Road",
+                    "uri": "flat-111/royal-langford-apartments/2-greville-road/london/nw6-5ht"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-24T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 17252236,
+                    "streetAddress": "Flat 126, Royal Langford Apartments, 2 Greville Road",
+                    "uri": "flat-126/royal-langford-apartments/2-greville-road/london/nw6-5ht"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 395000,
+                    "propertyId": 17244108,
+                    "streetAddress": "27 Minton Mews",
+                    "uri": "27-minton-mews/london/nw6-1xx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-12T00:00:00Z",
+                    "price": 1600000,
+                    "propertyId": 17242021,
+                    "streetAddress": "Flat 59, Marlborough Mansions, Cannon Hill",
+                    "uri": "flat-59/marlborough-mansions/cannon-hill/london/nw6-1js"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-06T00:00:00Z",
+                    "price": 1460000,
+                    "propertyId": 17255523,
+                    "streetAddress": "7 Hartland Road",
+                    "uri": "7-hartland-road/london/nw6-6bg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-06T00:00:00Z",
+                    "price": 490000,
+                    "propertyId": 17250357,
+                    "streetAddress": "145 Abbey Road",
+                    "uri": "145-abbey-road/london/nw6-4ss"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-28T00:00:00Z",
+                    "price": 1550000,
+                    "propertyId": 17241389,
+                    "streetAddress": "30 Ulysses Road",
+                    "uri": "30-ulysses-road/london/nw6-1ee"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

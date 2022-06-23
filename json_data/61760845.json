@@ -1,0 +1,540 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 82.1,
+    "sqft": 884.0,
+    "text": "First Floor Second Floor\n_ Roof oe\n| \u2122\u201d Terrace\na\nReception a\nRoom SS\n3.51m x 4.77m oo\n(11'6\" x 15'8\") \\\n- \u2014\n/ Bedroom \\_\n- - 5.70mM x 3395m\nGround Floor 1 (18'9\" x 12'11\") /\n4 | [ FE rt i \u2014\u2014\nLv | Hee i\n= _\u2014 Grex 4i11\") | a =\nwe |/ ee \u2014 q\n= > ' 7a\n() Ls WEG |\nqf LAR\nBedroom\n3.25m x 3.14m\n(10'8\" x 10'4\")\n\u2014\u2014\nTotal area: approx. 82.1 sq. metres (884.0 sq. feet)\n\f",
+    "image": "./extracted_images/61760845.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61760845/?search_identifier=56b3a2fa34c8aa2d9566a8f71eeb8d15",
+    "listing_no": "61760845",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.555166,
+        "longitude": -0.047052
+    },
+    "first_published": "2022-06-21T13:01:16",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61760845",
+        "publishedOn": "2022-06-21T13:01:16",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/1d11cc25a5eb26a7fdaf10f1a94e00c39e265fcc.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79340,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Hackney",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Elderfield Road, London E5",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0LE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61760845,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "E5",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 683658
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-hackney-london-79340/",
+            "branchId": "79340",
+            "branchResultsUri": "/for-sale/branch/dexters-hackney-london-79340/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7247 2440",
+            "name": "Dexters - Hackney",
+            "memberType": "agent",
+            "address": "10 Broadway Market, London",
+            "postcode": "E8 4QJ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Rushmore Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Millfields Community School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hackney Central",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "Recently extended by the current owners adding an additional principal bedroom, this two double bedroom period conversion features sash windows on the first floor, built-in wardrobes and is offered with no onward chain.<br><br>Moments from vibrant Chatsworth Road &amp; Hackney Marshes. Transport links include Homerton and Hackney Central overground stations, offering easy access to the City.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Period Conversion",
+                "Bespoke Storage",
+                "Private Terrace",
+                "Two Double Bedrooms",
+                "No Onward Chain",
+                "Chatsworth Road"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "61a4beff6836be7109982232bb4398183dfe1743.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "64b5ea4d175d6bfae706c53aea12820bda53800a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9546a8aaa80ee4a09c2a27209c78271e860bef4c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "460075d936cdd54c421bdf9fffe16e99f6a88c3f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0880f36916e12b2345384bd7f1eba54727e0224a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e55b19786dad279bb5743d7844cce5797304f502.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "90ee44970340e8350739fe8a1c4e2a7029809ed6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "153c216b312c44729d26413973dcb5b9ff005c72.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2a8e7a2a5f3632e055667d8f7eb335000ebe8140.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6c77551004f62b40e8159ce70d1d6a3f9a81dccd.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79340,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Hackney",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Elderfield Road, London E5",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0LE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61760845,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "E5",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 683658
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Elderfield Road, London E5 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Elderfield Road, London E5, selling for \u00a3600,000 from Dexters - Hackney. See property details on Zoopla or browse all our range of properties in Elderfield Road, London E5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61760845/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.555166,
+                "longitude": -0.047052,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Elderfield Road, London E5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-21T13:01:16",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": null,
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/61a4beff6836be7109982232bb4398183dfe1743.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61760845,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "30ce3432-485b-4ab6-b9ea-b59f9a16d063",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E5",
+            "areaNameUri": "london/e5/clapton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1920.6296296296287
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 433363,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 420111,
+                    "pctChangeSince": 3.154,
+                    "date": "2022-03-23",
+                    "changeSince": 13252
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 425882,
+                    "pctChangeSince": 1.757,
+                    "date": "2021-12-23",
+                    "changeSince": 7481
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 446976,
+                    "pctChangeSince": -3.046,
+                    "date": "2021-06-23",
+                    "changeSince": -13613
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 393986,
+                    "pctChangeSince": 9.995,
+                    "date": "2017-06-23",
+                    "changeSince": 39377
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 260194,
+                    "pctChangeSince": 66.554,
+                    "date": "2012-06-23",
+                    "changeSince": 173169
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 265176,
+                    "pctChangeSince": 63.425,
+                    "date": "2007-06-23",
+                    "changeSince": 168187
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 162444,
+                    "pctChangeSince": 166.777,
+                    "date": "2002-06-23",
+                    "changeSince": 270919
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 451921,
+                    "newBuilds": 2,
+                    "numSales": 130
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 471222,
+                    "newBuilds": 9,
+                    "numSales": 466
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 456952,
+                    "newBuilds": 40,
+                    "numSales": 830
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 438881,
+                    "newBuilds": 80,
+                    "numSales": 1328
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-22T00:00:00Z",
+                    "price": 1401000,
+                    "propertyId": 7698039,
+                    "streetAddress": "164 Elderfield Road",
+                    "uri": "164-elderfield-road/london/e5-0az"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-02-04T00:00:00Z",
+                    "price": 340000,
+                    "propertyId": 7698056,
+                    "streetAddress": "4 Chatsworth Estate, Elderfield Road",
+                    "uri": "4-chatsworth-estate/elderfield-road/london/e5-0ba"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 1375000,
+                    "propertyId": 7700564,
+                    "streetAddress": "32 Elderfield Road",
+                    "uri": "32-elderfield-road/london/e5-0lg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-04T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 27188386,
+                    "streetAddress": "Flat B, 151 Elderfield Road",
+                    "uri": "flat-b/151-elderfield-road/london/e5-0ay"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 1090000,
+                    "propertyId": 7698036,
+                    "streetAddress": "156 Elderfield Road",
+                    "uri": "156-elderfield-road/london/e5-0az"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-20T00:00:00Z",
+                    "price": 850000,
+                    "propertyId": 7699528,
+                    "streetAddress": "19 Rushmore Road",
+                    "uri": "19-rushmore-road/london/e5-0et"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 585000,
+                    "propertyId": 7701244,
+                    "streetAddress": "Flat C, 25 Dunlace Road",
+                    "uri": "flat-c/25-dunlace-road/london/e5-0nf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-04T00:00:00Z",
+                    "price": 750000,
+                    "propertyId": 7702501,
+                    "streetAddress": "45 Millfields Road",
+                    "uri": "45-millfields-road/london/e5-0sa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 7703443,
+                    "streetAddress": "203a Evering Road",
+                    "uri": "203a-evering-road/london/e5-8an"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-29T00:00:00Z",
+                    "price": 940000,
+                    "propertyId": 7700298,
+                    "streetAddress": "247 Glyn Road",
+                    "uri": "247-glyn-road/london/e5-0jp"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

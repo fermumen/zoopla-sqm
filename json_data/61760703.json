@@ -1,0 +1,596 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 62.62,
+    "sqft": null,
+    "text": "Carlton Mansions, N7 5\nwosi20z2 si7e2i80 62.62 sqm / 674.04 sqft\na ze\nSX\nyay seonoom\n5.88m x 4.60m\nel\nBEDROOM 2\n3.95m x 2.31\nN\n6,24m x 5.01m\n> a\n| )\n| J\n/ 1 J\nus SL _ J\n| Mspec 9 Ric\n\f",
+    "image": "./extracted_images/61760703.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61760703/?search_identifier=56b3a2fa34c8aa2d9566a8f71eeb8d15",
+    "listing_no": "61760703",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.555003,
+        "longitude": -0.132025
+    },
+    "first_published": "2022-06-21T12:51:58",
+    "last_sale_date": "2005-04-08",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61760703",
+        "publishedOn": "2022-06-21T12:51:58",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/KET220187",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=KET220187&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8149,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Kentish Town",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Carlton Mansions, Anson Road, London N7",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0RB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61760703,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 543083
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-kentish-town-kentish-town-8149/",
+            "branchId": "8149",
+            "branchResultsUri": "/for-sale/branch/winkworth-kentish-town-kentish-town-8149/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8115 4640",
+            "name": "Winkworth - Kentish Town",
+            "memberType": "agent",
+            "address": "306 Kentish Town Road, Kentish Town",
+            "postcode": "NW5 2TH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tufnell Park Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Holloway School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tufnell Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kentish Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/62ab5bcac780860a5908b43d?brochureEmbed"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "Picture No. 10",
+                    "filename": "e43aa771c6c60d7fae48f6de715de5cb65e4a118.jpg",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "The property is set along Anson Road, which is located off Brecknock Road, nearest tube stations being Tufnell Park (Northern line) &amp; Kentish Town (Northern line) and close to Kentish Town Thameslink, good local bus services, cafes, restaurants, shops, Tufnell Park Tavern &amp; Tufnell Park playing fields including its tennis courts..<br><br>Location:&lt;br/&gt;The flat offers well proportioned living accommodation and comprises a reception room which is open plan to a kitchen, a bathroom &amp; two bedrooms-one of which has windows to the front and to the side.<br><br>An internal viewing is recommended.&lt;br/&gt;&lt;br/&gt;",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "1bb0db69c14ef01f036147229d7a5c55ed925b07.jpg",
+                    "caption": "Picture No. 18"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "40067591fbdb223c860311d52c45af030e42233d.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "83a827622da88e0794aaea3861da327a3ed6efea.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f75cd45b6f42780b27671992f19132a44f7a139e.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9c9df30c5b3fe8e103a9bde68af5f5291ebb0263.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "df0ba5313723532853923d3b63679dac42ad197b.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "53127b1cf99ceb30c112af8dcdbbec38a6600f1e.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "da471588231c0f9d9bc958e1488bf346f23dfe4a.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "28b2eb7f6de7ee45cc8013093993822877500a7f.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cb6012ea9808db27f2b626a61bd650be2fb16600.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b3bc4c8892fa78daf75818813fb7251c71ad10bc.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "225ecf71b101c63e9c25a8725643415e3ea49fe5.jpg",
+                "caption": "Picture No. 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "df70a641380176364ffe5927694ba1cfb8b4304c.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2665182eff1c4b7fce4f2826564e30b80b3f85a6.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b55f74057edb153c982cd719ace5e3409476eabc.jpg",
+                "caption": "Picture No. 17"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1ffa847f1300a2350139de7c1585e30c6aed8926.jpg",
+                "caption": "Picture No. 01"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8149,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Kentish Town",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Carlton Mansions, Anson Road, London N7",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0RB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61760703,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 543083
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Carlton Mansions, Anson Road, London N7 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Carlton Mansions, Anson Road, London N7, selling for \u00a3550,000 from Winkworth - Kentish Town. See property details on Zoopla or browse all our range of properties in Carlton Mansions, Anson Road, London N7.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61760703/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.555003,
+                "longitude": -0.132025,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Carlton Mansions, Anson Road, London N7",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-21T12:51:58",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2005-04-08",
+                "newBuild": false,
+                "price": 130000,
+                "priceLabel": "\u00a3130,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 53
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/1bb0db69c14ef01f036147229d7a5c55ed925b07.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61760703,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "37c0d0d4-4f16-4283-ad9a-c91c1d220275",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N7",
+            "areaNameUri": "london/n7/holloway",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2198.749999999999
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 543644,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 529203,
+                    "pctChangeSince": 2.729,
+                    "date": "2022-03-23",
+                    "changeSince": 14441
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 543782,
+                    "pctChangeSince": -0.025,
+                    "date": "2021-12-23",
+                    "changeSince": -138
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 566789,
+                    "pctChangeSince": -4.084,
+                    "date": "2021-06-23",
+                    "changeSince": -23145
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 514411,
+                    "pctChangeSince": 5.683,
+                    "date": "2017-06-23",
+                    "changeSince": 29233
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 358645,
+                    "pctChangeSince": 51.583,
+                    "date": "2012-06-23",
+                    "changeSince": 184999
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 343360,
+                    "pctChangeSince": 58.331,
+                    "date": "2007-06-23",
+                    "changeSince": 200284
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 215246,
+                    "pctChangeSince": 152.569,
+                    "date": "2002-06-23",
+                    "changeSince": 328398
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 515780,
+                    "newBuilds": 0,
+                    "numSales": 162
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 517595,
+                    "newBuilds": 6,
+                    "numSales": 555
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 500854,
+                    "newBuilds": 8,
+                    "numSales": 1012
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 500592,
+                    "newBuilds": 52,
+                    "numSales": 1693
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 412000,
+                    "propertyId": 27278768,
+                    "streetAddress": "Flat 8, Carlton Mansions, 37 Anson Road",
+                    "uri": "flat-8/carlton-mansions/37-anson-road/london/n7-0rb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-23T00:00:00Z",
+                    "price": 620000,
+                    "propertyId": 15113290,
+                    "streetAddress": "Flat 6a, Gordon Mansions, 75 Anson Road",
+                    "uri": "flat-6a/gordon-mansions/75-anson-road/london/n7-0au"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-13T00:00:00Z",
+                    "price": 545000,
+                    "propertyId": 15113309,
+                    "streetAddress": "Flat 7b, Dalmeny Mansions, 77 Anson Road",
+                    "uri": "flat-7b/dalmeny-mansions/77-anson-road/london/n7-0ax"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-27T00:00:00Z",
+                    "price": 312500,
+                    "propertyId": 15116817,
+                    "streetAddress": "Flat 23, Merchon House, Anson Road",
+                    "uri": "flat-23/merchon-house/anson-road/london/n7-0rg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 636000,
+                    "propertyId": 15113060,
+                    "streetAddress": "48 Anson Road",
+                    "uri": "48-anson-road/london/n7-0ab"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 412000,
+                    "propertyId": 27278768,
+                    "streetAddress": "Flat 8, Carlton Mansions, 37 Anson Road",
+                    "uri": "flat-8/carlton-mansions/37-anson-road/london/n7-0rb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-24T00:00:00Z",
+                    "price": 455000,
+                    "propertyId": 15118420,
+                    "streetAddress": "Flat 11, Devonshire Court, 19 Manor Gardens",
+                    "uri": "flat-11/devonshire-court/19-manor-gardens/london/n7-6gr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-18T00:00:00Z",
+                    "price": 392000,
+                    "propertyId": 15116968,
+                    "streetAddress": "Flat 31, Parkhurst Court, Warlters Road",
+                    "uri": "flat-31/parkhurst-court/warlters-road/london/n7-0sd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-17T00:00:00Z",
+                    "price": 750000,
+                    "propertyId": 15113173,
+                    "streetAddress": "124a St. Georges Avenue",
+                    "uri": "124a-st-georges-avenue/london/n7-0ah"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-10T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 15118848,
+                    "streetAddress": "22 Manor Gardens",
+                    "uri": "22-manor-gardens/london/n7-6jx"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

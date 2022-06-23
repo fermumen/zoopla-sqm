@@ -1,0 +1,564 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 96.3,
+    "sqft": 970.0,
+    "text": "CLEVELAND MANSIONS. SwW9\n2 BEDROOM FLAT\nApproximate gross floor area\n970 SQ.FT. / 96.3 SQ.M.\nPLUS 146 SQ.FT. / 13.6 SQ.M.\n\\ =e\nwv\n|]\n=)\nOPEN-PLAN KITCHEN ARI\nRECEPTION\n22! x 20'6\"\n| \u2014 6.70x6.25M = -----.,\n(2)\\ \u2014\u2014 \u2014\nW) UO a\neo % J\n\\ BEDROOM\n: : 17'9\" x 12'8\" > 7'3\"\nBEDROOM = 5.40 x 3.85 > 2.20M\n11'8\" x 8'6\" [\n3.55 x2.60M\n& =\n* EAVES STORAGE es\n2\n<> S\n2\nKXKKKKKRKNAK NRK\nSECOND FLOOR\nCopyright: These plans should not be reproduced by any other person, without permission.\nFloorplan produced for Winkworth by Floorplanners 07801 228850\n\f",
+    "image": "./extracted_images/61756843.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61756843/?search_identifier=56b3a2fa34c8aa2d9566a8f71eeb8d15",
+    "listing_no": "61756843",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.477619,
+        "longitude": -0.113967
+    },
+    "first_published": "2022-06-21T08:48:00",
+    "last_sale_date": "2015-08-06",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61756843",
+        "publishedOn": "2022-06-21T08:48:00",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/KEN200283",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=KEN200283&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 101641,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Kennington Sales",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Cleveland Mansions, Mowll Street, Oval, London SW9",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0ES",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61756843,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SW9",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 599950,
+            "price": 599950,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 539330
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-kennington-sales-kennington-101641/",
+            "branchId": "101641",
+            "branchResultsUri": "/for-sale/branch/winkworth-kennington-sales-kennington-101641/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8033 3699",
+            "name": "Winkworth - Kennington Sales",
+            "memberType": "agent",
+            "address": "299 Kennington Road, Kennington",
+            "postcode": "SE11 4QE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Reay Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Van Gogh Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Oval",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stockwell",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/445524006"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "bf7365bbec93a65560663bb9f8d9af3d81c1770f.png",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "Enter the property from the top floor of this pretty Victorian mansion block. The property itself is laid out with open plan kitchen/living/office space, double bedroom, bathroom and master en-suite bedroom.<br><br>The open plan kitchen and living area is a beautiful light space. There are dual aspect windows and two large skylights. A room divider is placed in the centre of the room to create a segregation between the lounge area and kitchen space. The kitchen benefits from oak worktops and stylish white units. There is an abundance of storage and a fitted oven with induction hob and extractor above. The kitchen is also plumbed for a washing machine. The reception area on the other side has space for two large sofas, a coffee table and television, if desired. There is also more than enough space in the room for a large dining table.<br><br>The main bathroom is a white tiled suite and comprises a bath with overhead shower, WC and a basin with storage below.<br><br>The second bedroom, which is currently organised as an office, is carpeted throughout and there is more than enough space for a double bed.<br><br>The master bedroom to the rear of the flat is of generous proportions, with space for a large double bed, bedside tables and storage if desired. There is an en-suite shower room that also features a WC, basin and vanity unit.<br><br>Location:&lt;br/&gt;Cleveland Mansions is located on Mowll Street, a quiet tree-lined street located between Clapham Road and Brixton Road. Oval Underground Station is less than half a mile away and there are direct bus routes are nearby, enabling quick and easy access to Central London within 15 minutes.&lt;br/&gt;&lt;br/&gt;Directions:&lt;br/&gt;Oval Underground Station (Northern Line) is approximately 640 metres away. Stockwell Underground Station (Victoria &amp; Northern Lines) is around approximately 1200metres away. Clapham Road and Brixton Road are also well served by frequent buses into Central London.&lt;br/&gt;&lt;br/&gt;",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "5f33b14a88c9d140712b89e9fc137b5a430db0a3.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "ebe8a0f3ab5aa9d58756d3a11db6d4a54fee65f3.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3bb5f404113842910efccb37c2a744ce456041a8.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ae9eb90ef7a7a57360c2a8ca6badeb725fe79541.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8f6f667e65ea67ccb92123d226f8d1a2fcda9136.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "27e92aecc7db4b41a94eb36167b1202650769384.jpg",
+                "caption": "Picture No. 01"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a07753f72c9cc23716a88f9425b84e68927dbaf3.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5f1cc58a8919da407b27e1456cf5f0d9cf6044fd.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6d5d0f1cd84e1600ad7efcb7586ea03deba47593.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "192e0694735c872387d29b702ba41f7f0a67355d.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e993c008cad2da6853b58030080f7646b43c8afd.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f00c9e73fa7454adb24d5b56b90662b2064f0f43.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6669cf757cf62073cbd15baa059aa3e8a7a579a9.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d29ae6579f111ae11da9b323b889656a0cd183d1.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2219e74c67a29481d84f1ffa15ea2c15628be9ac.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8d47f7258bb783c4e0b8953b7af39b6bec9d7698.jpg",
+                "caption": "Picture No. 02"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 101641,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Kennington Sales",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Cleveland Mansions, Mowll Street, Oval, London SW9",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0ES",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61756843,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SW9",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 599950,
+            "price": 599950,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 539330
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Cleveland Mansions, Mowll Street, Oval, London SW9 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Cleveland Mansions, Mowll Street, Oval, London SW9, selling for \u00a3599,950 from Winkworth - Kennington Sales. See property details on Zoopla or browse all our range of properties in Cleveland Mansions, Mowll Street, Oval, London SW9.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61756843/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.477619,
+                "longitude": -0.113967,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Cleveland Mansions, Mowll Street, Oval, London SW9",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-21T08:48:00",
+                "priceLabel": "\u00a3599,950"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2015-08-06",
+                "newBuild": false,
+                "price": 585000,
+                "priceLabel": "\u00a3585,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 51
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/5f33b14a88c9d140712b89e9fc137b5a430db0a3.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3599,950",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61756843,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "94da73ef-93f0-41ac-a219-aaabfbedc7f2",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW9",
+            "areaNameUri": "london/sw9/stockwell-brixton-north",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2139.5555555555566
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 516669,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 491773,
+                    "pctChangeSince": 5.062,
+                    "date": "2022-03-23",
+                    "changeSince": 24896
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 486089,
+                    "pctChangeSince": 6.291,
+                    "date": "2021-12-23",
+                    "changeSince": 30580
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 481192,
+                    "pctChangeSince": 7.373,
+                    "date": "2021-06-23",
+                    "changeSince": 35477
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 474389,
+                    "pctChangeSince": 8.913,
+                    "date": "2017-06-23",
+                    "changeSince": 42280
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336457,
+                    "pctChangeSince": 53.562,
+                    "date": "2012-06-23",
+                    "changeSince": 180212
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 315063,
+                    "pctChangeSince": 63.989,
+                    "date": "2007-06-23",
+                    "changeSince": 201606
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 199011,
+                    "pctChangeSince": 159.618,
+                    "date": "2002-06-23",
+                    "changeSince": 317658
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 478848,
+                    "newBuilds": 0,
+                    "numSales": 201
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 474713,
+                    "newBuilds": 34,
+                    "numSales": 631
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 465071,
+                    "newBuilds": 67,
+                    "numSales": 1106
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 468039,
+                    "newBuilds": 158,
+                    "numSales": 1854
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 350000,
+                    "propertyId": 31359239,
+                    "streetAddress": "Flat 30b, Cleveland Mansions, Mowll Street",
+                    "uri": "flat-30b/cleveland-mansions/mowll-street/london/sw9-0es"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-19T00:00:00Z",
+                    "price": 260000,
+                    "propertyId": 23219850,
+                    "streetAddress": "Flat 28, Leys Court, Brixton Road",
+                    "uri": "flat-28/leys-court/brixton-road/london/sw9-7ra"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-12T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 32584930,
+                    "streetAddress": "Ferrier Apartments, 336 Clapham Road",
+                    "uri": "ferrier-apartments/336-clapham-road/london/sw9-9ap"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-11T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 23217423,
+                    "streetAddress": "Flat 12, Langton Mews, 53 Langton Road",
+                    "uri": "flat-12/langton-mews/53-langton-road/london/sw9-6ug"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 380000,
+                    "propertyId": 23221744,
+                    "streetAddress": "Flat 14, Pavilion Mansions, 10 Brighton Terrace",
+                    "uri": "flat-14/pavilion-mansions/10-brighton-terrace/london/sw9-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 565000,
+                    "propertyId": 32254689,
+                    "streetAddress": "Flat 31, 4 Stockwell Park Walk",
+                    "uri": "flat-31/4-stockwell-park-walk/london/sw9-0ff"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

@@ -1,0 +1,595 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 73.2,
+    "sqft": null,
+    "text": "APPROX. INTERIOR FLOOR AREA: 73.2 SQ. M. AY\nz f\nSeen |\ni soa | ;\n| Dy | Lwingtxtichen\n\f",
+    "image": "./extracted_images/61767693.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61767693/?search_identifier=e67dd47a22e1064a16815c1b7ec78c74",
+    "listing_no": "61767693",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.498331,
+        "longitude": -0.018153
+    },
+    "first_published": "2022-06-22T05:32:41",
+    "last_sale_date": "2009-12-18",
+    "last_sale_new": true,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61767693",
+        "publishedOn": "2022-06-22T05:32:41",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 132145,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(730675).png",
+            "branchName": "Oliver Suites Ltd",
+            "brandName": "Oliver Suites Ltd",
+            "chainFree": false,
+            "companyId": 103551,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Millharbour, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9HB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61767693,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 2,
+            "numImages": 20,
+            "numRecepts": null,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 635000,
+            "price": 635000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 568407
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/oliver-suites-ltd-london-132145/",
+            "branchId": "132145",
+            "branchResultsUri": "/for-sale/branch/oliver-suites-ltd-london-132145/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(730675).png",
+            "phone": "020 8022 5466",
+            "name": "Oliver Suites Ltd",
+            "memberType": "agent",
+            "address": "16 Tree Road, London",
+            "postcode": "E16 3DZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "River House Montessori School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "City Gateway 14-19 Provision",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "South Quay",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Crossharbour & London Arena",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/lm_JCl6zgg4?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "ESW1 compliant - Extremely spacious dock facing two double bedroom two bathroom luxury apartment with parking located on the 8th floor of the highly sought after dock side development Ability Place offering spectacular views located moments from the centre of Canary Wharf.<br><br>This impressive apartment offers living accommodation of 839 sqft comprises of a spacious bright reception with floor to ceiling windows, private balcony offering wonderful views of Canary Wharf and Millharbour Dock, fully equipped kitchen with granite work surfaces, two large double bedrooms, the master bedroom benefits from a luxurious marble en suite and balcony, and a further guest bathroom.<br><br>Residents benefit from excellent facilities that include 24 hour concierge, large fully equipped gymnasium, Jacuzzi, steam room and sauna.<br><br>Ability Place is ideally located only a few moments to South Quay (D.L.R) and a few minutes' walk to the centre of Canary Wharf (Jubilee Line) with its array of shops and restaurants, Waitrose, and M&amp;S Food Hall.<br><br>Enjoy the great outdoors close by in the open fields of Mudchute park and farm along with watersports on the dock that include sailing, canoeing, windsurfing and paddle boarding with The Docklands Sailing and Watersports Club.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "022a0d82fb3a2b1b257df5d068888be7f3a02243.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d99009214080ce0c1ec6c4ee1b6171c0bcec84bd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "35f692bf699b3c57d583ee4c4d44819ffbdff7db.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d7469dd3af7b68c37680082f8e08523bcfb401ab.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b56928fe0f20f619497e7b0f5f8805d3e89d3138.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9a10c78b8f4938881921cd83366c4de1c8d08ae2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4c8a4858ae5eeb2272ad880e6db44a703f183872.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7ce59f42f78baa2aeb0f25df4d372c1c590b3025.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b25e1e18ee7462edfb4c7ab1c3f9e6c7a93f3f4f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "03a3715059313ef2fa5334e229fe894ec6f5f4cd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1518884a6fbfd33bd82ad8dd7eea5b47f7dd7b3c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b0946cf1f030c2da8235c8943ee21934b1e80673.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4947a2b3b2d46c0d1a8759bfc492e5f441ca4d03.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1e433cc973da8362bc41bf33308c232f17f0a20e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "92eb0b6d92db820720a8363c7187687b79a699fe.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fadcb8e15dc484768d4859aaa35e5cb249feeafb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3b71751a964b493dfb28e71854999ef3b80ebe64.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "37475bd8a4b93c2d17351f9637a1148283320046.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e44e6f6585a1dcc4301d923306489356673f8833.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7f4e0936e42479f6c444f4f51dc32b1ec97d6128.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0744b917c998015ed3d550e57fae1c4d8b54d46c.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 132145,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(730675).png",
+            "branchName": "Oliver Suites Ltd",
+            "brandName": "Oliver Suites Ltd",
+            "chainFree": false,
+            "companyId": 103551,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Millharbour, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9HB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61767693,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 2,
+            "numImages": 20,
+            "numRecepts": null,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 635000,
+            "price": 635000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 568407
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Millharbour, London E14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Millharbour, London E14, selling for \u00a3635,000 from Oliver Suites Ltd. See property details on Zoopla or browse all our range of properties in Millharbour, London E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61767693/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.498331,
+                "longitude": -0.018153,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Millharbour, London E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-22T05:32:41",
+                "priceLabel": "\u00a3635,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2009-12-18",
+                "newBuild": true,
+                "price": 390000,
+                "priceLabel": "\u00a3390,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 29
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/022a0d82fb3a2b1b257df5d068888be7f3a02243.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 0,
+            "numLivingRooms": 0
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3635,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Oliver Suites Ltd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61767693,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "187e6edb-fc94-4af5-9234-6dd7d90e43ae",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3137.1000000000004
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 563513,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 546282,
+                    "pctChangeSince": 3.154,
+                    "date": "2022-03-23",
+                    "changeSince": 17231
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 553786,
+                    "pctChangeSince": 1.756,
+                    "date": "2021-12-23",
+                    "changeSince": 9727
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 581217,
+                    "pctChangeSince": -3.046,
+                    "date": "2021-06-23",
+                    "changeSince": -17704
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 512325,
+                    "pctChangeSince": 9.991,
+                    "date": "2017-06-23",
+                    "changeSince": 51188
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 338347,
+                    "pctChangeSince": 66.549,
+                    "date": "2012-06-23",
+                    "changeSince": 225166
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 344825,
+                    "pctChangeSince": 63.42,
+                    "date": "2007-06-23",
+                    "changeSince": 218688
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 211237,
+                    "pctChangeSince": 166.768,
+                    "date": "2002-06-23",
+                    "changeSince": 352276
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 495640,
+                    "newBuilds": 14,
+                    "numSales": 393
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 491097,
+                    "newBuilds": 199,
+                    "numSales": 1466
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 491832,
+                    "newBuilds": 426,
+                    "numSales": 3069
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 484902,
+                    "newBuilds": 1115,
+                    "numSales": 6003
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-07T00:00:00Z",
+                    "price": 410000,
+                    "propertyId": 29102708,
+                    "streetAddress": "Flat 82, Ability Place, 37 Millharbour",
+                    "uri": "flat-82/ability-place/37-millharbour/london/e14-9hb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 339000,
+                    "propertyId": 29089418,
+                    "streetAddress": "Flat 222, Ability Place, 37 Millharbour",
+                    "uri": "flat-222/ability-place/37-millharbour/london/e14-9df"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-24T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 29452357,
+                    "streetAddress": "Flat 1308, Cobalt Point, 38 Millharbour",
+                    "uri": "flat-1308/cobalt-point/38-millharbour/london/e14-9ju"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-12T00:00:00Z",
+                    "price": 358000,
+                    "propertyId": 29089689,
+                    "streetAddress": "Flat 124, 31 Millharbour",
+                    "uri": "flat-124/31-millharbour/london/e14-9dt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-08T00:00:00Z",
+                    "price": 650000,
+                    "propertyId": 29572353,
+                    "streetAddress": "Flat 361, Ability Place, 37 Millharbour",
+                    "uri": "flat-361/ability-place/37-millharbour/london/e14-9dl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-05T00:00:00Z",
+                    "price": 2285000,
+                    "propertyId": 27299782,
+                    "streetAddress": "Flat 22, Keepier Wharf, 12 Narrow Street",
+                    "uri": "flat-22/keepier-wharf/12-narrow-street/london/e14-8dh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-04T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 7848380,
+                    "streetAddress": "14 Francis Close",
+                    "uri": "14-francis-close/london/e14-3de"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-01T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 29343486,
+                    "streetAddress": "Flat 706, Denison House, 20 Lanterns Way",
+                    "uri": "flat-706/denison-house/20-lanterns-way/london/e14-9jl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 445000,
+                    "propertyId": 7856238,
+                    "streetAddress": "Flat 1, Kilmore House, 2 Vesey Path",
+                    "uri": "flat-1/kilmore-house/2-vesey-path/london/e14-6bp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 445000,
+                    "propertyId": 7856251,
+                    "streetAddress": "Flat 7, Kilmore House, 2 Vesey Path",
+                    "uri": "flat-7/kilmore-house/2-vesey-path/london/e14-6bp"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

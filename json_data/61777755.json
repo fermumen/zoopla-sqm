@@ -1,0 +1,562 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 55.9,
+    "sqft": 602.0,
+    "text": "This plan has been drawn for illustrative and identification purposes only. +\ncol |\nes\nSees DN]\nSOS, BEDROOM\nSe \u201c 10'0 x 94\nSe 3.05m x 2.84m :\nRRNA\nEXTENDS TO <j\n4'11 (1.50m) 4\nSeed\nBEDROOM 2\n911 x9'2 _\n3.02m x 2.79m 4\nSECOND FLOOR\n299 SQ FT / 27.8SQM\nr , -\nl\" RECEPTION\nROOM\n20'3 x 12'7 4\n6.17m x 3.84m\n| UP\n| KITCHEN\nIN\nFIRST FLOOR\n303 SQ FT / 28.1 SQM\nAPPROXIMATE GROSS INTERNAL AREA\n602 SQ FT / 55.9 SQM\n\f",
+    "image": "./extracted_images/61777755.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61777755/?search_identifier=44b5e2e41ade7d33e2fec1464d335f6d",
+    "listing_no": "61777755",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.479023,
+        "longitude": -0.129083
+    },
+    "first_published": "2022-06-23T00:14:49",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61777755",
+        "publishedOn": "2022-06-23T00:14:49",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw8/nwhm4124336/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw8/nwhm4124336",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw8/nwhm4124336/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 80795,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Vauxhall",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Wandsworth Road, Battersea, London SW8",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2LB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61777755,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "SW8",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 599000,
+            "price": 599000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "602",
+            "tenure": null,
+            "zindex": 550108
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-vauxhall-london-80795/",
+            "branchId": "80795",
+            "branchResultsUri": "/for-sale/branch/foxtons-vauxhall-london-80795/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 8033 9116",
+            "name": "Foxtons - Vauxhall",
+            "memberType": "agent",
+            "address": "1-5 Wandsworth Road, London",
+            "postcode": "SW8 2LN"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Herbert Morrison Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Nine Elms",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wyvil Primary School and Centres for Children With Speech and Language Impairment and Autism",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St George Wharf Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/415968720"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "Located on the 1st floor of a secure residential development with lift access, this superb 2 bedroom split-level apartment offers elegant living space with a private balcony.<br><br>Wandsworth Road is teaming with numerous shops, bars and restaurants leading towards both Vauxhall and Clapham in either direction. The property also benefits from close proximity to the Nine Elms, Battersea Park regeneration project.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Reception room with space to dine",
+                "Open-plan kitchen with integrated appliances",
+                "Main bedroom with access to Balcony",
+                "2nd bedroom of a similar size",
+                "Shower room and guest cloakroom",
+                "Fresh modern d\u00e9cor and good natural light"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "f60b5dabba102ee8a5ee39ab15995290b7bdb2c9.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "21359285f5a64072622003aab197745ea30e5f38.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a8364c0f5c3450a42e3cf174d92c7c9317b41aa6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a70e8a379dd312dd970bcf8c0edc0cc7fd759235.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a68dfb17337e66ae0786648dca98bd52198cb786.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7fe62be16320a218fc5505ccefb3aaca3c1adf87.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3ae2abe9db84125bece49db8ef88066cf00159d2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a9ae159e8e0ba6fcb31079346b294c977f3469d2.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 80795,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Vauxhall",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Wandsworth Road, Battersea, London SW8",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2LB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61777755,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "SW8",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 599000,
+            "price": 599000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "602",
+            "tenure": null,
+            "zindex": 550108
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Wandsworth Road, Battersea, London SW8 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Wandsworth Road, Battersea, London SW8, selling for \u00a3599,000 from Foxtons - Vauxhall. See property details on Zoopla or browse all our range of properties in Wandsworth Road, Battersea, London SW8.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61777755/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.479023,
+                "longitude": -0.129083,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Wandsworth Road, Battersea, London SW8",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-23T00:14:49",
+                "priceLabel": "\u00a3599,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 0
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/f60b5dabba102ee8a5ee39ab15995290b7bdb2c9.png"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 602,
+            "label": "602 sq. ft"
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3599,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 995,
+                "unitsLabel": "sq. ft",
+                "label": "\u00a3995/sq. ft"
+            },
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61777755,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "c0846fa4-5d75-45ea-805f-3d4d628b47ad",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW8",
+            "areaNameUri": "london/sw8/nine-elms-south-lambeth-vauxhall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3280.888
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 776737,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 739310,
+                    "pctChangeSince": 5.062,
+                    "date": "2022-03-23",
+                    "changeSince": 37427
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 730766,
+                    "pctChangeSince": 6.291,
+                    "date": "2021-12-23",
+                    "changeSince": 45971
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 723407,
+                    "pctChangeSince": 7.372,
+                    "date": "2021-06-23",
+                    "changeSince": 53330
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 713195,
+                    "pctChangeSince": 8.909,
+                    "date": "2017-06-23",
+                    "changeSince": 63542
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 505828,
+                    "pctChangeSince": 53.558,
+                    "date": "2012-06-23",
+                    "changeSince": 270909
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 473665,
+                    "pctChangeSince": 63.984,
+                    "date": "2007-06-23",
+                    "changeSince": 303072
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 299192,
+                    "pctChangeSince": 159.612,
+                    "date": "2002-06-23",
+                    "changeSince": 477545
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 562119,
+                    "newBuilds": 0,
+                    "numSales": 178
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 589727,
+                    "newBuilds": 70,
+                    "numSales": 588
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 608497,
+                    "newBuilds": 209,
+                    "numSales": 1127
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 642297,
+                    "newBuilds": 696,
+                    "numSales": 2199
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 23205399,
+                    "streetAddress": "Flat 10, Durrington Tower, Wandsworth Road",
+                    "uri": "flat-10/durrington-tower/wandsworth-road/london/sw8-3le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-09T00:00:00Z",
+                    "price": 135000,
+                    "propertyId": 23205660,
+                    "streetAddress": "Flat 3, Brooklands Court, 460 Wandsworth Road",
+                    "uri": "flat-3/brooklands-court/460-wandsworth-road/london/sw8-3lx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-01-18T00:00:00Z",
+                    "price": 408000,
+                    "propertyId": 23201854,
+                    "streetAddress": "Flat 741, Hobart House, 18 Wandsworth Road",
+                    "uri": "flat-741/hobart-house/18-wandsworth-road/london/sw8-2jb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-01-05T00:00:00Z",
+                    "price": 475000,
+                    "propertyId": 31608896,
+                    "streetAddress": "Flat 10, Hodgson Apartments, 110 Wandsworth Road",
+                    "uri": "flat-10/hodgson-apartments/110-wandsworth-road/london/sw8-2lb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-01-04T00:00:00Z",
+                    "price": 799950,
+                    "propertyId": 33067966,
+                    "streetAddress": "Flat 69, Gladwin Tower, 50 Wandsworth Road",
+                    "uri": "flat-69/gladwin-tower/50-wandsworth-road/london/sw8-2fa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-12T00:00:00Z",
+                    "price": 927500,
+                    "propertyId": 23200072,
+                    "streetAddress": "16 Walberswick Street",
+                    "uri": "16-walberswick-street/london/sw8-1xg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-11T00:00:00Z",
+                    "price": 667500,
+                    "propertyId": 23200196,
+                    "streetAddress": "162a Old South Lambeth Road",
+                    "uri": "162a-old-south-lambeth-road/london/sw8-1xx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-07T00:00:00Z",
+                    "price": 375286,
+                    "propertyId": 23200744,
+                    "streetAddress": "Flat 18, Abbot Court, Hartington Road",
+                    "uri": "flat-18/abbot-court/hartington-road/london/sw8-2bh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-04T00:00:00Z",
+                    "price": 686000,
+                    "propertyId": 23206481,
+                    "streetAddress": "75a Queenstown Road",
+                    "uri": "75a-queenstown-road/london/sw8-3rq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 301500,
+                    "propertyId": 23204914,
+                    "streetAddress": "Flat 40, Shore House, 8 Heather Close",
+                    "uri": "flat-40/shore-house/8-heather-close/london/sw8-3bx"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

@@ -1,0 +1,550 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 52.0,
+    "sqft": 560.0,
+    "text": "\u00ae EweMeve Breer Street, London, SW6\n\u201c APPROX. GROSS INTERNAL FLOOR AREA 560 SQ FT 52 SQ METRES.\n-_ : 7 _\u2014\na | om a\nKITCHEN 7 J.\n| aoa\" \\\nes i\na r | BEDROOM 1.\ni \u2018\u00a2\u20ac 14'8\" x 10'4\"\nYJ adi x3.16m\noe 4 CO) C ~ x\n; \\ j\nvine Room tam\n12'0\" x 10\u00b02\" _ =< BEDROOM 2 I\nsige x2.10m 7 a0\" a6\"\ni 3,35m x 2,90m_\n, / |\nFIRST FLOOR\nSE &\nGROUND FLOOR\nProduced for EweMove REF: 853860\n\f",
+    "image": "./extracted_images/61767911.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61767911/?search_identifier=e67dd47a22e1064a16815c1b7ec78c74",
+    "listing_no": "61767911",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.4666,
+        "longitude": -0.19059
+    },
+    "first_published": "2022-06-22T06:29:28",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61767911",
+        "publishedOn": "2022-06-22T06:29:28",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.ewemove.com/property-show/?flat-4-breer-street-london-sw6-3hd-45867&utm_source=ZPG&utm_medium=BrochureLink&utm_campaign=PropertyListings",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 124644,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(381970).png",
+            "branchName": "EweMove Sales & Lettings \u00e2\u0080\u0093 Cheam & Sutton",
+            "brandName": "EweMove Sales & Lettings",
+            "chainFree": true,
+            "companyId": 14493,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Breer Street, London SW6",
+            "furnishedState": "",
+            "groupId": 62,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3HD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61767911,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "New Listing|Chain Free",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1023343
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/ewemove-sales-and-lettings-cheam-and-sutton-cleckheaton-124644/",
+            "branchId": "124644",
+            "branchResultsUri": "/for-sale/branch/ewemove-sales-and-lettings-cheam-and-sutton-cleckheaton-124644/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(381970).png",
+            "phone": "020 8115 2703",
+            "name": "EweMove Sales & Lettings \u00e2\u0080\u0093 Cheam & Sutton",
+            "memberType": "agent",
+            "address": "Cavendish House, Littlewood Drive, West 26 Business Park, Cleckheaton",
+            "postcode": "SM3 9SZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Thomas's Fulham",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Hurlingham Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Riverside Quarter Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "3a78aa594e6637050fe7c0efe6e528686b05b70e.jpg",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "Our first floor flat in a mid terrace period property is to be found on Breer Street; a quiet residential road a stone's throw from the open green space of South Park and the Thames River.<br><br>On crossing the threshold, a skylight offers additional light to a neutrally painted, airy staircase and spacious landing. From the landing the first door opens up into a lovely roomy master bedroom. Offering loads of storage with ample cupboard space and shelving as well as patio doors letting in beautiful natural light. A good sized family shower room is found next door which benefits from two windows, excellent for ventilation and natural lighting.<br>Down the passage we pass a large cupboard and then step into a galley kitchen. The kitchen comes equipped with all expected integrated appliances as well as plenty of work surface space and storage.<br><br>To the front of the property, we find a beautifully presented living room, benefitting from an ornate feature fireplace with shelving on either side and good natural light from large windows. The entrance to the second double bedroom is opposite the living room. It is a bright and spacious, neutrally presented bedroom with a north-easterly facing window overlooking the rear of the flat.<br><br>Breer Street is a quiet residential road. Both Townmead Road as well as Wandsworth Bridge Road offer a wide variety of shops, restaurants &amp; bars; Sainsburys being a quick four minute walk from the flat. Connecting the property to Central London are several bus routes and both the Imperial Wharf and Wandsworth Town have over ground train services.<br><br>Please take some time to study our 2D and 3D landscape floor plans and to browse through our photographs. This well placed flat is sure to gain loads of interest so to secure a booking please contact EweMove Cheam and Sutton 24/7 by telephone or online.<br><br>This property includes:<ul><li><em>01 - Living Room</em><br><br><i>3.65m x 3.1m (11.3 sqm) - 11' 11\" x 10' 2\" (121 sqft)</i><br><br></li> <li><em>02 - Master Bedroom</em><br><br><i>4.47m x 3.16m (14.1 sqm) - 14' 7\" x 10' 4\" (152 sqft)</i><br><br></li> <li><em>03 - Kitchen</em><br><br><i>3.35m x 1.42m (4.7 sqm) - 10' 11\" x 4' 7\" (51 sqft)</i><br><br></li> <li><em>04 - Bedroom (Double)</em><br><br><i>3.35m x 2.9m (9.7 sqm) - 10' 11\" x 9' 6\" (104 sqft)</i><br><br></li>Please note, all dimensions are approximate / maximums and should not be relied upon for the purposes of floor coverings.</ul><br><br>Additional Information:<br><li><strong>Ground Rent \u00a3600 Every 12 Months</strong><br><li><strong>Service Charge \u00a3267 Every 6 Months</strong><br><li><strong>Service Charges cover General Repairs &amp; Maintenance</strong><br><li><strong>63 Year Lease</strong><br><li><strong>Council Tax: </strong><br><br>Band E<br><br><li><strong>Ground Rent: </strong><br><br>\u00a3600 Every 6 Months<br><br><li><strong>Service Charge:</strong><br><br>\u00a3267 Every 12 Months<br><br><li><strong>Service Included: </strong><br><br>General repairs and maintenance<br></li><br><strong><i>Marketed by EweMove Sales &amp; Lettings (Cheam &amp; Sutton) - Property Reference 45867</strong></i>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "3 min walk to South Park",
+                "Excellent Commuter Links",
+                "Close to Local Schools",
+                "Two Double Bedrooms",
+                "Potential to expand",
+                "Investment Opportunity",
+                "Offered Chain Free",
+                "Lease To Be Extended"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "New Listing"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Chain Free"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "5243de7e780d8e7a7c06e081abbe55a4e3178b63.jpg",
+                    "caption": "Floorplan 2D"
+                },
+                {
+                    "__typename": "Media",
+                    "filename": "c49637bcadd38b840212e037fd3da09674968311.jpg",
+                    "caption": "Floorplan 3D"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "cd2d423a5c74a1b7c53c6ba27ae1738e9a297402.jpg",
+                "caption": "Living Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c28dac8defdc1a2873f20fad405e0b9f25069cc6.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7516568100a8e62977b8947a97267f134cfe8b2b.jpg",
+                "caption": "Bedroom 1 (Double)"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3871ed08716aad0879db846de54575a6282c176a.jpg",
+                "caption": "View From Main Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "72a04d23dea9ccf616981805a62b0209fa426879.jpg",
+                "caption": "Bedroom 2 (Double)"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b96a1f38d1ffccb55848c47e89350336cd7250c2.jpg",
+                "caption": "Bathroom 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9ad74e3e47b18b064b00212f4ba0b54c695ab453.jpg",
+                "caption": "View Of Property At Front"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6cf842d4c51b45725baca7c553db82dea2a84cda.jpg",
+                "caption": "Passage"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 124644,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(381970).png",
+            "branchName": "EweMove Sales & Lettings \u00e2\u0080\u0093 Cheam & Sutton",
+            "brandName": "EweMove Sales & Lettings",
+            "chainFree": true,
+            "companyId": 14493,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Breer Street, London SW6",
+            "furnishedState": "",
+            "groupId": 62,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3HD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61767911,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "New Listing|Chain Free",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1023343
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Breer Street, London SW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Breer Street, London SW6, selling for \u00a3600,000 from EweMove Sales & Lettings \u00e2\u0080\u0093 Cheam & Sutton. See property details on Zoopla or browse all our range of properties in Breer Street, London SW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61767911/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.4666,
+                "longitude": -0.19059,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Breer Street, London SW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-22T06:29:28",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 54
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/5243de7e780d8e7a7c06e081abbe55a4e3178b63.jpg"
+                },
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/c49637bcadd38b840212e037fd3da09674968311.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "EweMove Sales & Lettings",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61767911,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "9f0c82e7-f013-4690-9eab-413a0603058b",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW6",
+            "areaNameUri": "london/sw6/fulham-parsons-green",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2868.1396396396376
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 839117,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 798685,
+                    "pctChangeSince": 5.062,
+                    "date": "2022-03-23",
+                    "changeSince": 40432
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 789454,
+                    "pctChangeSince": 6.291,
+                    "date": "2021-12-23",
+                    "changeSince": 49663
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 781505,
+                    "pctChangeSince": 7.372,
+                    "date": "2021-06-23",
+                    "changeSince": 57612
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 770475,
+                    "pctChangeSince": 8.909,
+                    "date": "2017-06-23",
+                    "changeSince": 68642
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 546454,
+                    "pctChangeSince": 53.557,
+                    "date": "2012-06-23",
+                    "changeSince": 292663
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 511708,
+                    "pctChangeSince": 63.984,
+                    "date": "2007-06-23",
+                    "changeSince": 327409
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 323222,
+                    "pctChangeSince": 159.61,
+                    "date": "2002-06-23",
+                    "changeSince": 515895
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 725230,
+                    "newBuilds": 0,
+                    "numSales": 277
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 698549,
+                    "newBuilds": 3,
+                    "numSales": 990
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 698614,
+                    "newBuilds": 29,
+                    "numSales": 1648
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 740791,
+                    "newBuilds": 258,
+                    "numSales": 2759
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-01-07T00:00:00Z",
+                    "price": 1200000,
+                    "propertyId": 23171692,
+                    "streetAddress": "33 Breer Street",
+                    "uri": "33-breer-street/london/sw6-3he"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 940000,
+                    "propertyId": 32945055,
+                    "streetAddress": "3 Breer Street",
+                    "uri": "3-breer-street/london/sw6-3he"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 440000,
+                    "propertyId": 23166141,
+                    "streetAddress": "Flat 25, Bulow Court, Pearscroft Road",
+                    "uri": "flat-25/bulow-court/pearscroft-road/london/sw6-2bp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 1585000,
+                    "propertyId": 23170631,
+                    "streetAddress": "1 Woolneigh Street",
+                    "uri": "1-woolneigh-street/london/sw6-3au"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 1480000,
+                    "propertyId": 23184187,
+                    "streetAddress": "4 Homestead Road",
+                    "uri": "4-homestead-road/london/sw6-7db"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-07T00:00:00Z",
+                    "price": 1265000,
+                    "propertyId": 23184614,
+                    "streetAddress": "84 Dawes Road",
+                    "uri": "84-dawes-road/london/sw6-7ej"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-04T00:00:00Z",
+                    "price": 4450000,
+                    "propertyId": 23176613,
+                    "streetAddress": "34 Parsons Green",
+                    "uri": "34-parsons-green/london/sw6-4uh"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": "\u00a31,200"
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": {
+            "__typename": "LeaseExpiry",
+            "yearsRemaining": "63 years"
+        },
+        "serviceCharge": null,
+        "councilTaxBand": "E"
+    }
+}
