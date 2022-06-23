@@ -1,6 +1,5 @@
 import os
 from re import search
-from tkinter.messagebox import NO
 import requests
 from bs4 import BeautifulSoup as soup
 import ocr_sqm
