@@ -1,0 +1,528 @@
+{
+    "address": "Temple Gardens, London NW11",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": "702 sq. ft",
+    "sqm": 65.2,
+    "sqft": null,
+    "text": "7\nGARDEN\n285% 198\n8.65m x 6.00m\ner BEDROOM 1\nx 19x84\nuv\u201c \u2018I 5.11mx 2.53m\nrecernow JS I\nKITCHEN\n283x125 .\n8.60m x 3.78m_ | $ |\ni\na \u2014\ned HALL\nBEDROOM 2\nZen 108\n376m x320m\nTOTAL APPROK. FLOM ANEA 702 SOFT. (65.2 SQM)\n",
+    "image": "./extracted_images/60684236.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60684236/",
+    "listing_no": "60684236",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.580196,
+        "longitude": -0.199888
+    },
+    "first_published": "2022-02-04T10:39:12",
+    "last_sale_date": "2016-09-19",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60684236",
+        "publishedOn": "2022-02-04T10:39:12",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure 2021.pdf",
+                "original": "https://lc.zoocdn.com/cc17b8df92a8028dde3377d645b39b57661f0d0d.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31260876",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 13550,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(496237).png",
+            "branchName": "Moreland",
+            "brandName": "Moreland",
+            "chainFree": true,
+            "companyId": 8724,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Temple Gardens, London NW11",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0LP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60684236,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "NW11",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "702",
+            "tenure": null,
+            "zindex": 898332
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/moreland-london-13550/",
+            "branchId": "13550",
+            "branchResultsUri": "/for-sale/branch/moreland-london-13550/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(496237).png",
+            "phone": "020 3478 3208",
+            "name": "Moreland",
+            "memberType": "agent",
+            "address": "903-905 Finchley Road, Golders Green, London",
+            "postcode": "NW11 7PE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lubavitch Yeshiva Ketanah of London",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kisharon School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Golders Green",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brent Cross",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=aEMzjnZueNv"
+                }
+            ],
+            "links": [
+                {
+                    "__typename": "Media",
+                    "url": "https://sprift.com/dashboard/property-report/?access_key=c792ca029df27f16eb00c6529a76ca427944135a0f5a4992b0fe93c237c48788"
+                }
+            ],
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "22800c253fae766a8b36a6e36b618bf309716ebf.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A fabulous two bedroom, two bathroom brand newly refurbished garden flat, extending to 702 Sqft / 65.2Sqm conveniently located equidistant from Golders Green tube station and the shopping facilities in Temple Fortune including Waitrose and Marks Spencer.<br><br>Comprising communal hallway, door to apartment, large reception room with bi-folding doors leading out to the private rear garden, brand new open plan kitchen with integrated appliances. Two double bedrooms one with en-suite shower room and fitted wardrobes.<br><br>Chain free with immediate occupation.<br><br>Energy Efficiency Rating - D",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 bedroom flat",
+                "Private garden",
+                "Prime location",
+                "Open plan kitchen/reception",
+                "Modern shower room",
+                "Chain free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "48ec98ee0ec8b77ecb879dcd9ae2e9e68defc1e8.jpg",
+                    "caption": "Flat 1 3 Temple Gardens Nw11 Floorplan.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "1851615a2883c275480986577475c6f9429d03ee.jpg",
+                "caption": "P05.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "920e43ae8390c5abb954bc96caf7a5fee5e3ee75.jpg",
+                "caption": "P07.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f230ebd137d8f4ef33a2a0e2436f736caf330ab4.jpg",
+                "caption": "P08.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "74bcf29fc144dd95c15d5121eb485f483647dea2.jpg",
+                "caption": "P18.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "395156149ea9c731eb032a35f165b90b954913c1.jpg",
+                "caption": "P13.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a25c7d9e66cad35d5c7d1babd88879e03d85544e.jpg",
+                "caption": "P03.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ff725f46469c8c24ba7251f5fb934460af00a060.jpg",
+                "caption": "P17.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1797f1075607927812911461213dc5ed24cb2c8b.jpg",
+                "caption": "P20.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "08a712d45b7a76bebba3bb922185c4c0cf492faf.jpg",
+                "caption": "P10.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6e10248f09c371c719c664bbffe65b23ab103b41.jpg",
+                "caption": "P06.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 13550,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(496237).png",
+            "branchName": "Moreland",
+            "brandName": "Moreland",
+            "chainFree": true,
+            "companyId": 8724,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Temple Gardens, London NW11",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0LP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60684236,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "NW11",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "702",
+            "tenure": null,
+            "zindex": 898332
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Temple Gardens, London NW11 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Temple Gardens, London NW11, selling for \u00a3575,000 from Moreland. See property details on Zoopla or browse all our range of properties in Temple Gardens, London NW11.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60684236/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.580196,
+                "longitude": -0.199888
+            }
+        },
+        "displayAddress": "Temple Gardens, London NW11",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-04T10:39:12",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2016-09-19",
+                "newBuild": false,
+                "price": 949950,
+                "priceLabel": "\u00a3949,950",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 151
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/48ec98ee0ec8b77ecb879dcd9ae2e9e68defc1e8.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 702
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 819,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Moreland",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60684236,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "63615004-8FEB-11EC-AE2D-D5350E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW11",
+            "areaNameUri": "london/nw11/hampstead-garden-suburb-golders-green",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2246.796610169492
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 584765,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 594735,
+                    "pctChangeSince": -1.676,
+                    "date": "2021-11-26",
+                    "changeSince": -9970
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 613205,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -28440
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 640751,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -55986
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 604540,
+                    "pctChangeSince": -3.271,
+                    "date": "2017-02-26",
+                    "changeSince": -19775
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 417409,
+                    "pctChangeSince": 40.094,
+                    "date": "2012-02-26",
+                    "changeSince": 167356
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 372547,
+                    "pctChangeSince": 56.964,
+                    "date": "2007-02-26",
+                    "changeSince": 212218
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 220004,
+                    "pctChangeSince": 165.797,
+                    "date": "2002-02-26",
+                    "changeSince": 364761
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 608036,
+                    "newBuilds": 0,
+                    "numSales": 60
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 602523,
+                    "newBuilds": 1,
+                    "numSales": 161
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 594471,
+                    "newBuilds": 4,
+                    "numSales": 295
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 600671,
+                    "newBuilds": 44,
+                    "numSales": 525
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1095000,
+                    "propertyId": 17342372,
+                    "streetAddress": "100 Willifield Way",
+                    "uri": "100-willifield-way/london/nw11-6yg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 2390000,
+                    "propertyId": 17346701,
+                    "streetAddress": "25 Basing Hill",
+                    "uri": "25-basing-hill/london/nw11-8te"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1800000,
+                    "propertyId": 29389877,
+                    "streetAddress": "Flat 12, 1b Hodford Road",
+                    "uri": "flat-12/1b-hodford-road/london/nw11-8nl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 17345814,
+                    "streetAddress": "Flat 6, Nedahall Court, Golders Green Crescent",
+                    "uri": "flat-6/nedahall-court/golders-green-crescent/london/nw11-8lb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 1420000,
+                    "propertyId": 17340429,
+                    "streetAddress": "9 Brookland Rise",
+                    "uri": "9-brookland-rise/london/nw11-6dn"
+                }
+            ]
+        }
+    }
+}

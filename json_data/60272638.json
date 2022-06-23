@@ -1,0 +1,591 @@
+{
+    "address": "Ringcroft Street, London N7",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 68.0,
+    "sqft": 732.0,
+    "text": "RINGCROFT STREET \u2014\nBEDROOM\ns 1rax Ba | vow |\n| Gam x 2.5m) LAL |\n\u201cep |\n\u201d\n\u2018SECOND FLOOR\nee oa\nil\n1210198\n\u2014 @.anx 29m) RECEPTION ROOM\nro for a\n[| OU meals [4 (47m ra7m)\nze, ~ T l\n\u2122 eimrzin\nKee) es EE\nPcie tm > em Me\nGROUND FLOOR FIRSTFLOOR\nAPPROXIMATE GROSS INTERNAL AREA {EXCLUDING VOID) =\nGROUND FLOOR = 21 SQ. FT. (1.95Q. M.)\nFIRST FLOOR = 536 SQ. FT. (49.8 SQ. M.)\nSECOND FLOOR = 175 SQ. FT. (16.3 SQ. M.)\nTOTAL = 732 SQ. FT. (68.0 SQ. M.)\nThis plan is for layout guidance only. Not drawn to scale unless stated. Windows & door\nopenings are approximate. Whilst every care is taken in the preparation of this plan, please\ncheck all dimensions, shapes & compass bearings before making any decisions reliant upon them.\nPlease be advised that Hamptons Intemational / our agents have not seen or reviewed any\nbuilding regulations or planning perrrission in relation to works carried out to the property.\n",
+    "image": "./extracted_images/60272638.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60272638/",
+    "listing_no": "60272638",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.549,
+        "longitude": -0.109473
+    },
+    "first_published": "2021-11-25T21:21:31",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60272638",
+        "publishedOn": "2021-11-25T21:21:31",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.hamptons.co.uk/index.asp?spid=ISL210193",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://assets.reapit.net/ham/live/pdf.php?p=ISL210193",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 3592,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "branchName": "Hamptons - Islington Sales",
+            "brandName": "Hamptons",
+            "chainFree": false,
+            "companyId": 1612,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Ringcroft Street, London N7",
+            "furnishedState": "",
+            "groupId": 8,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8ND",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60272638,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 23,
+            "numRecepts": 1,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 829414
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/hamptons-islington-sales-london-3592/",
+            "branchId": "3592",
+            "branchResultsUri": "/for-sale/branch/hamptons-islington-sales-london-3592/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "phone": "020 3589 0856",
+            "name": "Hamptons - Islington Sales",
+            "memberType": "agent",
+            "address": "97-99 Upper Street, Islington, London",
+            "postcode": "N1 0NP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary Magdalene Academy",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary Magdalene Academy: the Courtyard",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Holloway Road",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Highbury & Islington",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "84a6ef74d92a93dc2b0bc5b66108849df571afce.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "An attractive, well-presented apartment occupying the upper two floors of this Victorian terrace. The property has been well looked after, maintaining many of its original features, and currently comprises two double bedrooms, living room, separate kitchen and bathroom as well as storage space in the attic. The property comes with a share of the freehold.<br><br>Situation<br>Ringcroft Street is just off Madras Place and the nearest underground station can be found at Highbury &amp; Islington (Victoria and London Overground lines). Further transport links can be found at Holloway, Angel and Caledonian Road. This provides further access to the North, City and West End.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Period Conversion",
+                "Upper Floors",
+                "Living Room",
+                "Separate Kitchen",
+                "Two Bedrooms",
+                "Bathroom"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "844dd60aebdbc5fee8aa049b95080509fd4ab6d0.gif",
+                    "caption": "Picture No. 12"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d044d1283e1aec73d1712c50a37cd3c5ee818887.jpg",
+                "caption": "Picture No. 22"
+            },
+            {
+                "__typename": "Media",
+                "filename": "031c58bc48376c87ee6edb1c97bdaa32a114894f.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6c1887352a75c754848f577ae43572f8da5f8271.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "efcfa9f256acbbb47d0a7e3002167db7a53c9db1.jpg",
+                "caption": "Picture No. 30"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b11b4e1d33a920312c18f221295d010e17a8f325.jpg",
+                "caption": "Picture No. 34"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0a2032e233f92fde6b153bb8acda2ab7bc498490.jpg",
+                "caption": "Picture No. 25"
+            },
+            {
+                "__typename": "Media",
+                "filename": "56f4ce17ada551c0fa3201274c3f69b01f0cf99a.jpg",
+                "caption": "Picture No. 23"
+            },
+            {
+                "__typename": "Media",
+                "filename": "117cefc5e849008c3526b2ffa2f233af7ff46521.jpg",
+                "caption": "Picture No. 21"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c3edc27f81e5b0643ea84138f67fb6828e1ce42a.jpg",
+                "caption": "Picture No. 26"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ef0129138baa599383f980d123da157ef6118f0e.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ef234419e7cbf6cbbba431ed11ac6983473da8b0.jpg",
+                "caption": "Picture No. 17"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9a304a687db2e7d9b958403c2be628fc9f84cd1b.jpg",
+                "caption": "Picture No. 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "90cd7d09be82ee3d2a7ea51e847ad17ba7ae155e.jpg",
+                "caption": "Picture No. 18"
+            },
+            {
+                "__typename": "Media",
+                "filename": "670c294337ea0dd022d7b0d27c0602aa43eb82d1.jpg",
+                "caption": "Picture No. 19"
+            },
+            {
+                "__typename": "Media",
+                "filename": "99b7444e33062579026246c3f633b408162dfc94.jpg",
+                "caption": "Picture No. 20"
+            },
+            {
+                "__typename": "Media",
+                "filename": "63849b3efed60289ab054ef40e4d2ea337ceb73b.jpg",
+                "caption": "Picture No. 24"
+            },
+            {
+                "__typename": "Media",
+                "filename": "86bfd64331846c2bb56b7ef122f570574bf5ee4e.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c4bf42a77401fd358bc5111fc0413f70eae079d8.jpg",
+                "caption": "Picture No. 27"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6f91908b42e41ea554a506f978b3625dd0702a11.jpg",
+                "caption": "Picture No. 28"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1c2e8b4c057b5deb3115fcdde177c6dd411ac7d0.jpg",
+                "caption": "Picture No. 29"
+            },
+            {
+                "__typename": "Media",
+                "filename": "38083e927ba0f0b1ebbc56ec5cdd2a22867949bb.jpg",
+                "caption": "Picture No. 31"
+            },
+            {
+                "__typename": "Media",
+                "filename": "40fbe51e09e6d05f26afcdcf485fe916381373b6.jpg",
+                "caption": "Picture No. 32"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0ee62e3329b1e19f0ef9830768d8ef3719670f83.jpg",
+                "caption": "Picture No. 33"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 3592,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "branchName": "Hamptons - Islington Sales",
+            "brandName": "Hamptons",
+            "chainFree": false,
+            "companyId": 1612,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Ringcroft Street, London N7",
+            "furnishedState": "",
+            "groupId": 8,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8ND",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60272638,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 23,
+            "numRecepts": 1,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 829414
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Ringcroft Street, London N7 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Ringcroft Street, London N7, selling for \u00a3600,000 from Hamptons - Islington Sales. See property details on Zoopla or browse all our range of properties in Ringcroft Street, London N7.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60272638/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.549,
+                "longitude": -0.109473
+            }
+        },
+        "displayAddress": "Ringcroft Street, London N7",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-25T21:21:31",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "7.7",
+                    "priceChangeDate": "2022-02-22T09:16:41",
+                    "priceChangeLabel": "\u00a350,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 244
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/844dd60aebdbc5fee8aa049b95080509fd4ab6d0.gif"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Hamptons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60272638,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium"
+        },
+        "uuid": "6029A82C-93C0-11EC-AFC9-CCDA0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N7",
+            "areaNameUri": "london/n7/holloway",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2225.222222222224
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 506811,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 515573,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8762
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 531722,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -24911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 558515,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -51704
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 516722,
+                    "pctChangeSince": -1.918,
+                    "date": "2017-02-26",
+                    "changeSince": -9911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 338762,
+                    "pctChangeSince": 49.607,
+                    "date": "2012-02-26",
+                    "changeSince": 168049
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 317783,
+                    "pctChangeSince": 59.483,
+                    "date": "2007-02-26",
+                    "changeSince": 189028
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 191290,
+                    "pctChangeSince": 164.944,
+                    "date": "2002-02-26",
+                    "changeSince": 315521
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 524496,
+                    "newBuilds": 0,
+                    "numSales": 200
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 518653,
+                    "newBuilds": 8,
+                    "numSales": 549
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 499646,
+                    "newBuilds": 8,
+                    "numSales": 1035
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 499177,
+                    "newBuilds": 124,
+                    "numSales": 1796
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 545000,
+                    "propertyId": 15124434,
+                    "streetAddress": "17 Ringcroft Street",
+                    "uri": "17-ringcroft-street/london/n7-8nd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 755000,
+                    "propertyId": 15118599,
+                    "streetAddress": "11 Empire Square",
+                    "uri": "11-empire-square/london/n7-6jn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1620000,
+                    "propertyId": 15124242,
+                    "streetAddress": "6 Orleston Mews",
+                    "uri": "6-orleston-mews/london/n7-8ll"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 309000,
+                    "propertyId": 27250808,
+                    "streetAddress": "Flat 3, 17 Carleton Road",
+                    "uri": "flat-3/17-carleton-road/london/n7-0qz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 15121738,
+                    "streetAddress": "21 Selden Walk",
+                    "uri": "21-selden-walk/london/n7-7rl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 15114386,
+                    "streetAddress": "81 Penderyn Way, Carleton Road",
+                    "uri": "81-penderyn-way/carleton-road/london/n7-0ey"
+                }
+            ]
+        }
+    }
+}

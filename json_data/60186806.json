@@ -1,0 +1,515 @@
+{
+    "address": "Naomi Street, Surrey Quays, London SE8",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 71.0,
+    "sqft": 760.0,
+    "text": "BEDROOM\n13'5 x 107\n(4.1m x 3.2m)\nEN-SUITE |MBL |\n68 x5'5 VY la BEDROOM\n(2m x 1.7m) | i a 156 x9'2\nae _/) (4.7m x 2.8m)\n[BATHROOM | ~~!\n75x68 19) |\n(2.3m x 2m) | \u2014\nINC> Ke <I].\n( OK ><qi| BALCONY\n\u00ae ie \u201cA 9'5 x 4'2\n= KZN / MB (2.9m x 1.3m)\n\u00a9 RECEPTION pA 7S\n\u2014 KITCHEN Vy Se SK\n| 199 x 196 =\nfer | (6m x 5.9m) |\n| |\n| Lal\nFIRST FLOOR x\nGROSS INTERNAL \\\nFLOOR AREA 760 SQ FT\nAPPROX. GROSS INTERNAL FLOOR AREA: 760SQFT/ 71SQM\nPROPERTY PHOT PLANS...\nONE STOP SHOP FOR PROPERTY MARKETING\nWhilst every attempt has been made to ensure the accuracy of the floor plan contained here, measurements of the doors, windows, rooms and\nany other items are approximate and no responsibility is taken for any errors, omissions, or miss-statement. This plan is for illustrative purposes\nonly and should be used as such by any prospective client. The services, systems and appliances shown have not been tested\nand no guarantee as to the operability or efficiency can be given.\n",
+    "image": "./extracted_images/60186806.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60186806/",
+    "listing_no": "60186806",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.490651,
+        "longitude": -0.037849
+    },
+    "first_published": "2021-11-13T18:32:47",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60186806",
+        "publishedOn": "2021-11-13T18:32:47",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 102038,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(711498).png",
+            "branchName": "Andrea & Co - Harrow",
+            "brandName": "Andrea & Co - Harrow",
+            "chainFree": false,
+            "companyId": 77971,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Naomi Street, Surrey Quays, London SE8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5EX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60186806,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SE8",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/andrea-and-co-harrow-harrow-102038/",
+            "branchId": "102038",
+            "branchResultsUri": "/for-sale/branch/andrea-and-co-harrow-harrow-102038/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(711498).png",
+            "phone": "020 3641 7283",
+            "name": "Andrea & Co - Harrow",
+            "memberType": "agent",
+            "address": "14 Havelock Place, Harrow",
+            "postcode": "HA1 1LJ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Marathon Science School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Deptford Park Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Greenland Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Surrey Quays",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://360.propertyphotoplans.co.uk/share/collection/7kQ85?logo=1&info=0&fs=1&vr=1&zoom=1&initload=0&thumbs=1"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "3ade2ee5cb1ff13470b53a4392b871077c7fefe3.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Do you work in the City of London? Are you looking for a luxury apartment to go home to in the evenings? Now for sale is this first floor, 2 bedroom 2 bathroom Surrey Quays flat. Own a car? The home has an allocated underground park space. Need to commute to another part of London? Surrey Quays Railway Station (Overground) is 0.45 of a mile from the property.<br><br>So, what is luxury living like in Surrey Quays? Included, whilst as a resident or owner of this beautiful property, you get the extra added benefits of the residents only gym, concierge and a communal roof terrace! Inside the apartment, there are 2 spacious bedrooms with the main bedroom having the bonus of an ensuite bathroom. But, the main show piece of the property is the wonderfully bright kitchen/living room. A real entertaining space with a gorgeous balcony overlooking the communal grounds.<br><br>Naomi Street, is located just off Lower Road, one of the most well-known roads around Surrey Quays and enjoys ease of access to an array of local shops, takeaways, and conveniences. Along with that, there is also Clyde Nursery School and Cavendish School, both of which are rated outstanding by Ofsted. If you need an underground tube station, Canada Water Tube Station (Jubilee Line) is within easy reach on foot, providing easy access to the northern side of the river.<br><br>Get in touch today with Steven, our local property partner to book in.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "First Floor Apartment",
+                "Underground Parking",
+                "Residents Gym &amp; Conceirge",
+                "Broadband Suppliers Available - BT &amp; Sky",
+                "Estimated Broadband Speeds - Up to 1000Mbps",
+                "Council Tax - Band C - \u00a31549.88 (2021/22)",
+                "Tenure - Leasehold",
+                "Lease - 990 years remaining"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "a1bfb1107ced1bfe3b6fea388035bf8cb5165d9d.jpg",
+                    "caption": "Picture No. 12"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "e9bceb676beb4fbad31ee70157b2841a8939c37e.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "416aa526884447e5e0afdc8005cf5bf418cb7c07.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c99212746b026244e034d7a2bd75ca758945e247.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c3b42d32200b6f756ff53714a42b57f98aa3b1a4.jpg",
+                "caption": "Picture No. 01"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e0111ab5376a97e9ce144a6887213507dc0c6872.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ea2befc29c0b884593ba462126f7309c47ed7510.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4c9866839f3112a87e11c17d5847f58b1419b259.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d7da28fc8fcbf141f140849592b9d8bf1da62549.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "57484e359323a40c239486e36702e346e98103dd.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4c19e0f3e18031c6ba783504e793f1bebc9a17ce.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7b71f7685d4d9cb0568c71b8c48c8845d1c253da.jpg",
+                "caption": "Picture No. 10"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 102038,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(711498).png",
+            "branchName": "Andrea & Co - Harrow",
+            "brandName": "Andrea & Co - Harrow",
+            "chainFree": false,
+            "companyId": 77971,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Naomi Street, Surrey Quays, London SE8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5EX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60186806,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SE8",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Naomi Street, Surrey Quays, London SE8 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Naomi Street, Surrey Quays, London SE8, selling for \u00a3550,000 from Andrea & Co - Harrow. See property details on Zoopla or browse all our range of properties in Naomi Street, Surrey Quays, London SE8.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60186806/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.490651,
+                "longitude": -0.037849
+            }
+        },
+        "displayAddress": "Naomi Street, Surrey Quays, London SE8",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-13T18:32:47",
+                "priceLabel": "\u00a3560,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "1.8",
+                    "priceChangeDate": "2022-02-10T17:06:45",
+                    "priceChangeLabel": "\u00a310,000",
+                    "priceLabel": "\u00a3550,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 27
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/a1bfb1107ced1bfe3b6fea388035bf8cb5165d9d.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Andrea & Co - Harrow",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60186806,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "39683972-8A94-11EC-B664-773E0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE8",
+            "areaNameUri": "london/se8/deptford",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1800.6666666666686
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 363196,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 365697,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2501
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 367254,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -4058
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 384300,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -21104
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 349510,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 13686
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 228483,
+                    "pctChangeSince": 58.96,
+                    "date": "2012-02-26",
+                    "changeSince": 134713
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 220785,
+                    "pctChangeSince": 64.502,
+                    "date": "2007-02-26",
+                    "changeSince": 142411
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 131005,
+                    "pctChangeSince": 177.238,
+                    "date": "2002-02-26",
+                    "changeSince": 232191
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 356506,
+                    "newBuilds": 1,
+                    "numSales": 109
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 362597,
+                    "newBuilds": 17,
+                    "numSales": 326
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 388112,
+                    "newBuilds": 133,
+                    "numSales": 786
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 383349,
+                    "newBuilds": 285,
+                    "numSales": 1541
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 332500,
+                    "propertyId": 20966820,
+                    "streetAddress": "Flat 210, Inwen Court, Grinstead Road",
+                    "uri": "flat-210/inwen-court/grinstead-road/london/se8-5bn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 650000,
+                    "propertyId": 20959348,
+                    "streetAddress": "Apartment 9, Meridian Point, Creek Road",
+                    "uri": "apartment-9/meridian-point/creek-road/london/se8-3db"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 625000,
+                    "propertyId": 20966056,
+                    "streetAddress": "36 Alloa Road",
+                    "uri": "36-alloa-road/london/se8-5aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 335000,
+                    "propertyId": 20966397,
+                    "streetAddress": "21 Sybil Phoenix Close",
+                    "uri": "21-sybil-phoenix-close/london/se8-5ba"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 20960179,
+                    "streetAddress": "Flat 97, Corbidge Court, Glaisher Street",
+                    "uri": "flat-97/corbidge-court/glaisher-street/london/se8-3et"
+                }
+            ]
+        }
+    }
+}

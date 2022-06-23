@@ -1,0 +1,587 @@
+{
+    "address": "Deveraux House, Woolwich Riverside, London SE18",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": "758 sq. ft",
+    "sqm": 70.46,
+    "sqft": 758.0,
+    "text": "Foxtons Duke of Wellington Avenue, SE18\nogj2o2 2,286,791 70.46 sqm / 758.43 saft\nN\nKITCHEN/RECEPTION\nSi 8.53m x 4.90m J\n(28'0 x 16'1)\nBALCONY\n4.78m x 1.68m\n(15'8 x 5'6)\naoe\nY\n: J BEDROOM 2\n} % 4.19m x 2.74m\n> , \\. ; (13\u00b09 x 9'0)\n4 ~ TSN\n- be \u2018\\\nv \\\nV\n/\ny\n\u2018 -\ni) \\ MAIN BEDROOM\nSS 5.49m x 2.76m\noo (18'0 x 9'1)\nC = \\\nnis )\n= Sixth Floor\n70.46 sqm / 758.43 sqft 66.06 sqm / 711.06 sqft 7.94 sqm / 85.47 sqft 0.00 sqm / 0.00 saft\nfMspec\u2019\nVerified \u00a9\n",
+    "image": "./extracted_images/60167494.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60167494/",
+    "listing_no": "60167494",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.49431,
+        "longitude": 0.06732
+    },
+    "first_published": "2021-11-11T01:13:23",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60167494",
+        "publishedOn": "2021-11-11T01:13:23",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/se18/chpk4628513/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/se18/chpk4628513",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/se18/chpk4628513/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 121246,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Woolwich",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Deveraux House, Woolwich Riverside, London SE18",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6NP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60167494,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 19,
+            "numRecepts": 1,
+            "outcode": "SE18",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "758",
+            "tenure": null,
+            "zindex": 645186
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-woolwich-london-121246/",
+            "branchId": "121246",
+            "branchResultsUri": "/for-sale/branch/foxtons-woolwich-london-121246/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3641 4934",
+            "name": "Foxtons - Woolwich",
+            "memberType": "agent",
+            "address": "14 Major Draper Street, Royal Arsenal, London",
+            "postcode": "SE18 6GD"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Right Choice Independent Special School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Woolwich Arsenal Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Woolwich Ferry South Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Pulse and Water College",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/618b980da3aa580a7a15cc83"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Set in the renowned Royal Arsenal Riverside, this 2 bedroom apartment benefits from fantastic on site amenities and transport connections. It offers chic interiors, parking and a private balcony with superb river views.<br><br>Royal Arsenal Riverside offers an excellent setting, rapidly emerging as a top spot. The prime riverside location offers excellent transport links with the Thames Clipper, DLR, Rail, and the forthcoming Elizabeth line nearby.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Excellent 6th floor apartment with parking in the sought after Royal Arsenal Riverside",
+                "Large private balcony with direct river views",
+                "Contemporary open plan kitchen with integrated appliances and breakfast bar",
+                "Main bedroom with built in wardrobes and en suite",
+                "Second double bedroom and family bathroom",
+                "Concierge, gym, swimming pool, sauna and cinema room",
+                "Desirable village lifestyle with on site gastro pubs, a restaurant, supermarkets, boulangerie and more",
+                "Moments from the Thames Clipper, Woolwich Arsenal DLR, Rail and the forthcoming Elizabeth Line"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "abf80ce7c7704177492a19d7cdd2b9255fd054e3.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "cd680bc2bb9ea1e05ed66a5ad4a86114b3629f86.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "953b1296473e15e5f8a79293b2b23e232b17e6cc.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "297481c11ce3b20cc767edef0ee34f27fe5b63f9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "95d8390c308047d852ae154326fce72120d03026.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e5f7c57c29594a8012136ceb178bd0ea862bff4b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ae0fe510f0f873e3f6534ecb6436a28719e17823.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "45f8930d49407fb61a3662ef13fd62d1f58f3163.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0337b13319bba2ffcc54187d096b048e260b56cb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e9874fce6d62ef935775b808d966e2c2b93db1ff.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b99fd06ed2943de84c5a3ad0d0bd29035206bb3e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fb37406b27dcea3bd01041cd411ae8a7c7b4a4b2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0aaecdcfcba0cd34d60c1db7ce95709ca973d134.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6229b113d387ed2f2b7ec7fbbf884f53fbb897f4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9c15049f2a76b0ab24f2b6cc03837da4844aca79.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f80baad4c1a8fe5545d044606f1abe569220071c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8da039196cca4a18115fede40162de1e052a04e7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "23b49d68b5072fdef71fbee21c067814d436db1b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "66d47b8ee62b61eaab7518b5368b55ad718b34a8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "84c57e62ef795b8f91837909f568cadbcf36ee10.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 121246,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Woolwich",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Deveraux House, Woolwich Riverside, London SE18",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6NP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60167494,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 19,
+            "numRecepts": 1,
+            "outcode": "SE18",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "758",
+            "tenure": null,
+            "zindex": 645186
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Deveraux House, Woolwich Riverside, London SE18 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Deveraux House, Woolwich Riverside, London SE18, selling for \u00a3600,000 from Foxtons - Woolwich. See property details on Zoopla or browse all our range of properties in Deveraux House, Woolwich Riverside, London SE18.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60167494/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.49431,
+                "longitude": 0.06732
+            }
+        },
+        "displayAddress": "Deveraux House, Woolwich Riverside, London SE18",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-11T01:13:23",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 3
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/abf80ce7c7704177492a19d7cdd2b9255fd054e3.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 758
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 792,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60167494,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "33D6D296-5FD0-11EC-90BC-F5100E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE18",
+            "areaNameUri": "london/se18/woolwich-plumstead",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1794.604651162791
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 347244,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 349634,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2390
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 351123,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -3879
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 367418,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -20174
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 334152,
+                    "pctChangeSince": 3.918,
+                    "date": "2017-02-26",
+                    "changeSince": 13092
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 218444,
+                    "pctChangeSince": 58.962,
+                    "date": "2012-02-26",
+                    "changeSince": 128800
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 211084,
+                    "pctChangeSince": 64.505,
+                    "date": "2007-02-26",
+                    "changeSince": 136160
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 125249,
+                    "pctChangeSince": 177.243,
+                    "date": "2002-02-26",
+                    "changeSince": 221995
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 337021,
+                    "newBuilds": 24,
+                    "numSales": 209
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 341936,
+                    "newBuilds": 119,
+                    "numSales": 580
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 382429,
+                    "newBuilds": 473,
+                    "numSales": 1592
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 350150,
+                    "newBuilds": 714,
+                    "numSales": 2651
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 490000,
+                    "propertyId": 32572665,
+                    "streetAddress": "Flat 101, Hampton Apartments, Duke Of Wellington Avenue",
+                    "uri": "flat-101/hampton-apartments/duke-of-wellington-avenue/london/se18-6nx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-09T00:00:00Z",
+                    "price": 350000,
+                    "propertyId": 32908371,
+                    "streetAddress": "84 Imperial Building, 2 Duke Of Wellington Avenue",
+                    "uri": "84-imperial-building/2-duke-of-wellington-avenue/london/se18-6fr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-29T00:00:00Z",
+                    "price": 555000,
+                    "propertyId": 33090019,
+                    "streetAddress": "Flat 501, Deveraux House, Duke Of Wellington Avenue",
+                    "uri": "flat-501/deveraux-house/duke-of-wellington-avenue/london/se18-6np"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 387000,
+                    "propertyId": 21121803,
+                    "streetAddress": "46 Alabama Street",
+                    "uri": "46-alabama-street/london/se18-2sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 210000,
+                    "propertyId": 21125656,
+                    "streetAddress": "134 Barnfield Gardens, Plumstead Common Road",
+                    "uri": "134-barnfield-gardens/plumstead-common-road/london/se18-3qz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 21114573,
+                    "streetAddress": "124 Marmadon Road",
+                    "uri": "124-marmadon-road/london/se18-1ef"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 428500,
+                    "propertyId": 21118059,
+                    "streetAddress": "8 Leghorn Road",
+                    "uri": "8-leghorn-road/london/se18-1sz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 385000,
+                    "propertyId": 21122147,
+                    "streetAddress": "71 Palmerston Crescent",
+                    "uri": "71-palmerston-crescent/london/se18-2tt"
+                }
+            ]
+        }
+    }
+}

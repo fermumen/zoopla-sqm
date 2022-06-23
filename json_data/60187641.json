@@ -1,0 +1,552 @@
+{
+    "address": "Maygood House, Maygood Street, London N1",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": 2021.0,
+    "text": "Winkworth Maygood House, N1\nos/tt/2021 1.027794 49.28 sqm / 530.45 sqft\n52\nBEDROOM 2\n4.20m x 2.25m\n(13'9 x 7\u00b05) ~\nS\nN\n| \u2018\n\\\nRECEPTION\n4.24m x 3.58m\n(13\u00b011 x 11'9)\n= Wi\n12 |W\n\u2014_ =\ni = S\n\\\n> ) \\\nat \" :\n| l KITCHEN ae ent\n; 3.15m x 1.83m mx eam\n+ (OAKEO) (13'11 x 9'0)\n= Fourth Floor\n49.28 sqm / 530.45 saft 45.19 sqm / 486.42 sqft 0.00 sqm / 0.00 saft 0.00 sqm / 0.00 saft\nfM@spec\u2019\nVerified @\n",
+    "image": "./extracted_images/60187641.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60187641/",
+    "listing_no": "60187641",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.534429,
+        "longitude": -0.112543
+    },
+    "first_published": "2021-11-14T14:38:04",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60187641",
+        "publishedOn": "2021-11-14T14:38:04",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/ISL170079",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=ISL170079",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8144,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Islington",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Maygood House, Maygood Street, London N1",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9QR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60187641,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 440729
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-islington-islington-8144/",
+            "branchId": "8144",
+            "branchResultsUri": "/for-sale/branch/winkworth-islington-islington-8144/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8115 2926",
+            "name": "Winkworth - Islington",
+            "memberType": "agent",
+            "address": "65 Upper Street, Islington",
+            "postcode": "N1 0NY"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Vittoria Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Elizabeth Garrett Anderson School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Angel",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "London Kings Cross",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/6186242e28ddf30a421fa78d?brochureEmbed"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "e19f044315276a8c9ea875b8014f5288f939df14.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This charming two bedroom apartment is set on the fourth floor of Maygood House, an early 1900's private purpose built development, located moments from Angel.<br>The property is offered in fantastic condition with the current owners having carried out extensive upgrades throughout.<br>The fitted kitchen offers ample worktop and storage space and has been beautifully designed with high end appliances. The living room is flooded in natural light and boasts feature fireplace. Both double bedrooms are of even proportions and the shower room benefits from underfloor heating and anti-steam mirror.<br><br>Maygood House is perfectly situated for an array of fantastic transport links as well as being just moments from the restaurants, bars and shops located on Upper Street. The exciting new development at Granary Square, famous for its' stunning architecture alongside high end shops, restaurants and waterside location is easily reached via Regents Canal.<br>A superb selection of transport links are at hand with an array of bus routes providing effortless access across London whilst Angel and Kings Cross offer a selection of underground and overground links as well as international travel from St Pancras.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Set on the fourth floor",
+                "1900's purpoise built development",
+                "Fantastic condition",
+                "Extensive upgrades throughout",
+                "Natural light to the living room",
+                "Feature fireplace",
+                "Double bedrooms",
+                "Underfloor heating to shower room"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "20b31f077d7cedfc3c2427a52acda32cdafea5bf.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "e60011171d4422298702fb3434ffe81837be076b.jpg",
+                "caption": "Picture No. 23"
+            },
+            {
+                "__typename": "Media",
+                "filename": "55bcfcef9d6076790dfcb890459fb7f284bbe694.jpg",
+                "caption": "Picture No. 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "90612f3e2ed30c958e958e21ec1fc4e2cc951766.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3742225b7bb22829e997a574814c513b3a9c6d7c.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4077454b4403c42318810b68c3d3be1707f8fd66.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3010d8a59057be3b9b36591e31c357dc72df65cd.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "999ffd7f563da21cc9f3eaec520d72270bfdf755.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e387b4972c990404b4188fe62c391e2b0c9974f9.jpg",
+                "caption": "Picture No. 19"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b7e4002cad72450825f15eb2ad76ecccaa884dff.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "51efecb74094be0e75a31b7a34f18ba77c40fc47.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "55e5ce9fab7019a5bfb89ef14509f95268544135.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "51579aa2a8e7420784ec025e93806a69ee7578b2.jpg",
+                "caption": "Picture No. 17"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1b15b94e0efd4d0df6d70ee8929c90d129de8839.jpg",
+                "caption": "Picture No. 18"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6fffebf9733577a8a5ae9b9d8f7b3a4e5ab34466.jpg",
+                "caption": "Picture No. 22"
+            },
+            {
+                "__typename": "Media",
+                "filename": "28be810cdfd12e513fb2bdfdbe785e2306dd0f65.jpg",
+                "caption": "Picture No. 21"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f96abdd08d3fb913cca212f7beb4df8705b8c874.jpg",
+                "caption": "Picture No. 03"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8144,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Islington",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Maygood House, Maygood Street, London N1",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9QR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60187641,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 440729
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Maygood House, Maygood Street, London N1 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Maygood House, Maygood Street, London N1, selling for \u00a3550,000 from Winkworth - Islington. See property details on Zoopla or browse all our range of properties in Maygood House, Maygood Street, London N1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60187641/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.534429,
+                "longitude": -0.112543
+            }
+        },
+        "displayAddress": "Maygood House, Maygood Street, London N1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-14T14:38:04",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 162
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/20b31f077d7cedfc3c2427a52acda32cdafea5bf.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60187641,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium"
+        },
+        "uuid": "56BEC4A4-95AD-11EC-9CAE-C6EB0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N1",
+            "areaNameUri": "london/n1/islington-barnsbury-canonbury",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2906.287878787878
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 602354,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 612767,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -10413
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 631961,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -29607
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 663806,
+                    "pctChangeSince": -9.258,
+                    "date": "2021-02-26",
+                    "changeSince": -61452
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 614141,
+                    "pctChangeSince": -1.919,
+                    "date": "2017-02-26",
+                    "changeSince": -11787
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 402630,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 199724
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 377696,
+                    "pctChangeSince": 59.481,
+                    "date": "2007-02-26",
+                    "changeSince": 224658
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 227355,
+                    "pctChangeSince": 164.94,
+                    "date": "2002-02-26",
+                    "changeSince": 374999
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 622356,
+                    "newBuilds": 1,
+                    "numSales": 395
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 661296,
+                    "newBuilds": 71,
+                    "numSales": 1075
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 646936,
+                    "newBuilds": 170,
+                    "numSales": 2109
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 637559,
+                    "newBuilds": 448,
+                    "numSales": 3526
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 15060413,
+                    "streetAddress": "Flat H, 7 Maygood Street",
+                    "uri": "flat-h/7-maygood-street/london/n1-9qp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 710000,
+                    "propertyId": 15056656,
+                    "streetAddress": "2 Elliotts Place",
+                    "uri": "2-elliotts-place/london/n1-8hx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760001,
+                    "propertyId": 15027781,
+                    "streetAddress": "Flat 3, 80 Copenhagen Street",
+                    "uri": "flat-3/80-copenhagen-street/london/n1-0jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 1350000,
+                    "propertyId": 27513282,
+                    "streetAddress": "Ground First And Second Floor Fl, 7 Brooksby Street",
+                    "uri": "ground-first-and-second-floor-fl/7-brooksby-street/london/n1-1ex"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 15035647,
+                    "streetAddress": "Flat D, 13 Compton Road",
+                    "uri": "flat-d/13-compton-road/london/n1-2pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 15035975,
+                    "streetAddress": "1 Walney Walk",
+                    "uri": "1-walney-walk/london/n1-2pu"
+                }
+            ]
+        }
+    }
+}

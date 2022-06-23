@@ -1,0 +1,548 @@
+{
+    "address": "Clapham Road, London SW9",
+    "price": "\u00a3650,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 84.3,
+    "sqft": 907.0,
+    "text": "GT a\n| ()\non Bedroom\n\u2018B= 3.24m x 2.10m\n| \\(10'8 ng (y'all)\nBedroom ]\n4.00m x 3.79m ~\u2014\u2014= E\u00a3\n(13'1 x 12'5) \\ 8\n\\ il\nVa\n/\n. Bedroom\n3.78m x 2.93m\n(12'5 x 9'7)\n= ta / (= ge |\nKitchen /\nDining Room\n5.22m x 4.31m\n(17'2 x 14'2)\n\u00ab \u00bb\nFirst Floor\nTotal area (approx.): 84.3 sq. m (907.4 sq. ft)\nBalcony area (approx.): 1.6 sq. m (17.2 sq. ft)\n",
+    "image": "./extracted_images/60064684.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60064684/",
+    "listing_no": "60064684",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.465778,
+        "longitude": -0.128953
+    },
+    "first_published": "2021-10-28T10:28:54",
+    "last_sale_date": "2013-10-29",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60064684",
+        "publishedOn": "2021-10-28T10:28:54",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/09bfb775bf39882921a7799df06e6cc66ab51781.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 56771,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Clapham",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Clapham Road, London SW9",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9BT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60064684,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW9",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 638301
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-clapham-clapham-56771/",
+            "branchId": "56771",
+            "branchResultsUri": "/for-sale/branch/dexters-clapham-clapham-56771/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 8742 4140",
+            "name": "Dexters - Clapham",
+            "memberType": "agent",
+            "address": "28 Abbeville Road, Clapham",
+            "postcode": "SW4 9NG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham North",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham High Street",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Andrew's Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lark Hall Primary School (Including Lark Hall Centre for Pupils with Autism)",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "16117015d142bc08af3aec410b351daa703b1b66.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A first floor, lateral period conversion presented in excellent order throughout, extending to 907 sq.ft. Comprising an open plan reception room, three double bedrooms, a balcony and a bathroom.<br><br>Clapham Road is located a short walk from Clapham's many shops, bars and restaurants, with Clapham North (Northern Line) and Stockwell (Victoria Line) stations just around the corner.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Period Conversion",
+                "Open Plan Reception",
+                "Three Double Bedrooms",
+                "Balcony",
+                "Off Street Parking",
+                "Chain Free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "9c98550bd495d034952295a02d7d00485d391f6f.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "af1e3380c9bba9682b1b052f2ca12a41c762c3d5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b8326df30fe204207c21bf847d3788b86e3f9234.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e976b6930fb75ba8c4c8988e93f2bb2a01c10fff.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "44d04af2ea99849b0ebff59492992faf1f7c84ac.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9548286caf7338369dd35bf5c1d210214896d768.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c89a4bcae0c342a29020b9807cd3b03a1bd6266e.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 56771,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Clapham",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Clapham Road, London SW9",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9BT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60064684,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW9",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 638301
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Clapham Road, London SW9 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Clapham Road, London SW9, selling for \u00a3650,000 from Dexters - Clapham. See property details on Zoopla or browse all our range of properties in Clapham Road, London SW9.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60064684/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.465778,
+                "longitude": -0.128953
+            }
+        },
+        "displayAddress": "Clapham Road, London SW9",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-10-28T10:28:54",
+                "priceLabel": "\u00a3725,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2013-10-29",
+                "newBuild": false,
+                "price": 530000,
+                "priceLabel": "\u00a3530,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.1",
+                    "priceChangeDate": "2021-12-24T10:57:37",
+                    "priceChangeLabel": "\u00a330,000",
+                    "priceLabel": "\u00a3695,000"
+                },
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "6.5",
+                    "priceChangeDate": "2022-02-01T09:27:52",
+                    "priceChangeLabel": "\u00a345,000",
+                    "priceLabel": "\u00a3650,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 108
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/9c98550bd495d034952295a02d7d00485d391f6f.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60064684,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "1EBD520E-8E3D-11EC-AEE1-A4CE0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW9",
+            "areaNameUri": "london/sw9/stockwell-brixton-north",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2713.2444444444427
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 478668,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 481031,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2363
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 481337,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2669
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 501414,
+                    "pctChangeSince": -4.536,
+                    "date": "2021-02-26",
+                    "changeSince": -22746
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 485851,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -7183
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 334931,
+                    "pctChangeSince": 42.915,
+                    "date": "2012-02-26",
+                    "changeSince": 143737
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 305962,
+                    "pctChangeSince": 56.447,
+                    "date": "2007-02-26",
+                    "changeSince": 172706
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 186410,
+                    "pctChangeSince": 156.782,
+                    "date": "2002-02-26",
+                    "changeSince": 292258
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 476500,
+                    "newBuilds": 1,
+                    "numSales": 216
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 465414,
+                    "newBuilds": 26,
+                    "numSales": 559
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 458735,
+                    "newBuilds": 74,
+                    "numSales": 1085
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 464302,
+                    "newBuilds": 167,
+                    "numSales": 1840
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 599750,
+                    "propertyId": 27163030,
+                    "streetAddress": "Flat C, 384 Clapham Road",
+                    "uri": "flat-c/384-clapham-road/london/sw9-9ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-17T00:00:00Z",
+                    "price": 485000,
+                    "propertyId": 23224540,
+                    "streetAddress": "Flat 6, 359 Clapham Road",
+                    "uri": "flat-6/359-clapham-road/london/sw9-9bt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 520000,
+                    "propertyId": 23224053,
+                    "streetAddress": "Flat 27, 378 Clapham Road",
+                    "uri": "flat-27/378-clapham-road/london/sw9-9af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 453000,
+                    "propertyId": 23224068,
+                    "streetAddress": "Flat 14, Surridge Court, Clapham Road",
+                    "uri": "flat-14/surridge-court/clapham-road/london/sw9-9ag"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 27259952,
+                    "streetAddress": "First Floor Flat At, 331 Clapham Road",
+                    "uri": "first-floor-flat-at/331-clapham-road/london/sw9-9bs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 23217134,
+                    "streetAddress": "27 Patmos Road",
+                    "uri": "27-patmos-road/london/sw9-6sq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 27220411,
+                    "streetAddress": "A, 128 Landor Road",
+                    "uri": "a/128-landor-road/london/sw9-9jb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 452500,
+                    "propertyId": 23212677,
+                    "streetAddress": "Flat B, 38 Crewdson Road",
+                    "uri": "flat-b/38-crewdson-road/london/sw9-0lj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 599750,
+                    "propertyId": 27163030,
+                    "streetAddress": "Flat C, 384 Clapham Road",
+                    "uri": "flat-c/384-clapham-road/london/sw9-9ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-23T00:00:00Z",
+                    "price": 640000,
+                    "propertyId": 23213466,
+                    "streetAddress": "44a Hackford Road",
+                    "uri": "44a-hackford-road/london/sw9-0rf"
+                }
+            ]
+        }
+    }
+}

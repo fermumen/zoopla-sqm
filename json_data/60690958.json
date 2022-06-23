@@ -1,0 +1,512 @@
+{
+    "address": "Temple Gardens, London NW11",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 62.21,
+    "sqft": 2021.0,
+    "text": "reundtree Temple Gardens, NW11 ROSSINTERNALAR\nSnes 7/09/2021 1s. 2791419 62.21 sqm / 669.62 sqft\n !\nsth tf 866mx6.o2m' tt\n. . . . (285 x 199). . # &\ni re\nSag | MAIN BEDROOM\nous 5.10m x 2.54m\n\u201c st (16'9 x 8'4)\nI\nKITCHEN/RECEPTION <.\n8.81m x 3.78m aa\nos\na\nS\n\u2018 2\nBEDROOM 2\n3.78m x 3.21m \u201c\u201d\n(12'5 x 10\u00b06)\n\u2014\u2014-\u2014 7\n~ Ground Floor\n4 62.21 sqm / 669.62 saft E 4 58.99 sqm / 634.96 sqft I 0.00 sqm / 0.00 saft - nt 0.60 sqm / 6.46 saft\nMspec\u2019 a cs\nNieYalitereK~) \u00a9 IBA\n",
+    "image": "./extracted_images/60690958.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60690958/",
+    "listing_no": "60690958",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.580505,
+        "longitude": -0.200611
+    },
+    "first_published": "2022-02-04T20:40:17",
+    "last_sale_date": "1997-11-03",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60690958",
+        "publishedOn": "2022-02-04T20:40:17",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Click To View Full Details",
+                "original": "https://lc.zoocdn.com/8399c030f5e8386804d1551ba2c521a03f485e8b.pdf",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 35732,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(432915).png",
+            "branchName": "Roundtree Real Estate",
+            "brandName": "Roundtree Real Estate",
+            "chainFree": true,
+            "companyId": 16718,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Temple Gardens, London NW11",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0LP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60690958,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "NW11",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 898332
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/roundtree-real-estate-london-35732/",
+            "branchId": "35732",
+            "branchResultsUri": "/for-sale/branch/roundtree-real-estate-london-35732/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(432915).png",
+            "phone": "020 8022 5895",
+            "name": "Roundtree Real Estate",
+            "memberType": "agent",
+            "address": "1 Sentinel Square, Brent Street,  Hendon, London",
+            "postcode": "NW4 2EL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lubavitch Yeshiva Ketanah of London",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kisharon School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brent Cross",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Golders Green",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/61487ad5133efe0a83f5be55/details"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "c6ce745d3f1a1bd63e625d82850f2151e5408cb5.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Situated within Walking distance to Golders Green underground station is this newly renovated 2 bedroom, 2 bathroom ground floor garden apartment. Internally the property has been modernized to a high specification to include an open plan Fitted kitchen dining living room with doors opening to a private rear garden, two double bedrooms with the master benefiting from fitted wardrobes and a luxury en-suite shower room and an additional guest shower room. The properties location is perfect for all the high end shopping amenities of Temple Fortune. Chain Free<br><br>General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if<br>there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if<br>you are contemplating travelling some distance to view the property. Measurements: These approximate room sizes are only intended as general<br>guidance. You must verify the dimensions carefully before ordering carpets or any built-in furniture. Services: Please note we have not tested the<br>services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or<br>service reports before finalizing their offer to purchase. These particulars are issued in good faith but do not constitute<br>representations of fact or form part of any offer or contract. The matters referred to in these particulars should be<br>independently verified by prospective buyers or tenants. Neither roundtree nor any of its employees or agents has any<br>authority to make or give any representation or warranty whatever in relation to this property.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two double bedrooms",
+                "2 shower rooms (one being en-suite to master bedroom)",
+                "Luxury open plan fitted kitchen dining living room",
+                "Top of the range appliances",
+                "Private garden",
+                "Chain free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "ff3388f2579b2fe324061fc8d38ed9608a862f05.jpg",
+                    "caption": "Floorplan 1"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "7a4c1fad4dffba59e84e9045c867ceb0e7e032e5.jpg",
+                "caption": "(Main)"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4a0d9e32b29a9f81b50c63d90109f21d6813c9a8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6186935ddb6653e96404980299e3306869ed6d7d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a6107888cf44127155c4726de1b3bf2e924fd69d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "29c62df9679ffd9c3a5164826cfb4e043f3164d1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4a720d1eafcdea3e9b64f40758c15eea064eb0fe.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "dafa469d258e5e6de608a70787281918c8895c58.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5411032a7edd0e3296cf2c6dfe26078e0967004e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "17b022474996f06e4fb2c421b08ae730edb30b5f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "60d28f49544cf5ca6015a21a6726dbcdc6119b53.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 35732,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(432915).png",
+            "branchName": "Roundtree Real Estate",
+            "brandName": "Roundtree Real Estate",
+            "chainFree": true,
+            "companyId": 16718,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Temple Gardens, London NW11",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0LP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60690958,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "NW11",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 898332
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Temple Gardens, London NW11 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Temple Gardens, London NW11, selling for \u00a3575,000 from Roundtree Real Estate. See property details on Zoopla or browse all our range of properties in Temple Gardens, London NW11.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60690958/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.580505,
+                "longitude": -0.200611
+            }
+        },
+        "displayAddress": "Temple Gardens, London NW11",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-04T20:40:17",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "1997-11-03",
+                "newBuild": false,
+                "price": 164500,
+                "priceLabel": "\u00a3164,500",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 221
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/ff3388f2579b2fe324061fc8d38ed9608a862f05.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Roundtree Real Estate",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60690958,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "D26FA144-8852-11EC-A47F-CD020E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW11",
+            "areaNameUri": "london/nw11/hampstead-garden-suburb-golders-green",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2246.796610169492
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 584765,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 594735,
+                    "pctChangeSince": -1.676,
+                    "date": "2021-11-26",
+                    "changeSince": -9970
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 613205,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -28440
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 640751,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -55986
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 604540,
+                    "pctChangeSince": -3.271,
+                    "date": "2017-02-26",
+                    "changeSince": -19775
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 417409,
+                    "pctChangeSince": 40.094,
+                    "date": "2012-02-26",
+                    "changeSince": 167356
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 372547,
+                    "pctChangeSince": 56.964,
+                    "date": "2007-02-26",
+                    "changeSince": 212218
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 220004,
+                    "pctChangeSince": 165.797,
+                    "date": "2002-02-26",
+                    "changeSince": 364761
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 608036,
+                    "newBuilds": 0,
+                    "numSales": 60
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 602523,
+                    "newBuilds": 1,
+                    "numSales": 161
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 594471,
+                    "newBuilds": 4,
+                    "numSales": 295
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 600671,
+                    "newBuilds": 44,
+                    "numSales": 525
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1095000,
+                    "propertyId": 17342372,
+                    "streetAddress": "100 Willifield Way",
+                    "uri": "100-willifield-way/london/nw11-6yg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 2390000,
+                    "propertyId": 17346701,
+                    "streetAddress": "25 Basing Hill",
+                    "uri": "25-basing-hill/london/nw11-8te"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1800000,
+                    "propertyId": 29389877,
+                    "streetAddress": "Flat 12, 1b Hodford Road",
+                    "uri": "flat-12/1b-hodford-road/london/nw11-8nl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 17345814,
+                    "streetAddress": "Flat 6, Nedahall Court, Golders Green Crescent",
+                    "uri": "flat-6/nedahall-court/golders-green-crescent/london/nw11-8lb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 1420000,
+                    "propertyId": 17340429,
+                    "streetAddress": "9 Brookland Rise",
+                    "uri": "9-brookland-rise/london/nw11-6dn"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,559 @@
+{
+    "address": "Wulfstan Street, London W12",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 83.0,
+    "sqft": 894.0,
+    "text": "Wulfstan Street, London\nApproximate Area = 887 sq ft / 82 sq m (excludes store)\nLimited Use Area(s) = 7 sq ft/1sqm\nTotal = 894 sq ft/ 83 sqm\nFor identification only - Not to scale\nStore\n(Unmeasured)\n\u2018Denotes restricted\nhead height\nEten ertbec are Hall\nGarden\n[_-\u2014\u2014ei\u2014\nit: m {\nLs ween\nitch\n108 x5'9\n(3.25) x (1.75)\nReception Room Bedroom\n15'3 x 10'5 15'2 x 107\n(4.65) x (3.18) ' (4.62) x (3.23) \u2018p von ;\nit wo\n| \\\n\u00a5 Up * /\nDining Room iM Bedroom\n111x107 16'5 x 10'11\n(3.38) x (3.23) (5.00) x (3.33)\n\u2014\u2014\u2014 \u2014\n\u2014_\u2014\u2014\u20144 \u2014\nFIRST FLOOR\nPatio\nGROUND FLOOR\n; if ith RICS Pi M sta i i\nOM) Gerttis | hrtematonal propery Measurement Standards (PMS2 Residentaly Onichecom 2021, @O\u00ae @\nLei Measurer Produced for Barnard Marcus. REF: 792403 barnard marcus\n",
+    "image": "./extracted_images/60427713.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60427713/",
+    "listing_no": "60427713",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.51675,
+        "longitude": -0.244029
+    },
+    "first_published": "2021-12-26T06:08:56",
+    "last_sale_date": "2016-07-20",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60427713",
+        "publishedOn": "2021-12-26T06:08:56",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "PDF Property Particulars",
+                "original": "https://lc.zoocdn.com/4eeacb7723c180fb32dd8bb6480b3f512ee2fa94.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.barnardmarcus.co.uk/property/WKT106219",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 860,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - West Kensington",
+            "brandName": "Barnard Marcus",
+            "chainFree": false,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Wulfstan Street, London W12",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0AH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60427713,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 2,
+            "outcode": "W12",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Town Centre Location|Available Now",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 469977
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/barnard-marcus-west-kensington-west-kensington-860/",
+            "branchId": "860",
+            "branchResultsUri": "/for-sale/branch/barnard-marcus-west-kensington-west-kensington-860/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "phone": "020 3463 0174",
+            "name": "Barnard Marcus - West Kensington",
+            "memberType": "agent",
+            "address": "66-68 Shepherds Bush Road, West Kensington",
+            "postcode": "W6 7PH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Acton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Old Oak Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ark Conway Primary Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "North Acton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=aPRVgMCiajA"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "8cd5baece4dd2a9faea0b6e07f3e218a986ab244.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Summary</strong><br>This well presented two bedroom house boasts modern interiors, two bedrooms, two spacious reception rooms, a separate kitchen and a private garden.<br><br><strong>Description</strong><br>Due to the size and location of the house this will make a great family home or a fantastic investment opportunity for a buy to let investor looking to secure continuous rental income as well as capital growth. The property is currently is arranged as two bedrooms however can be turned into a three bedroom with ease.<br><br>Wulfstan Street is within 160 metres of East Acton station (Central Line) and the green open space of Wormwood Scrubs. The A40 also provides easy access in and out of London. Also, within the catchment area of the well reputed Ark Conway Primary Academy (ofsted rated outstanding).<br><br>There are number of excellent bus routes to Ladbroke Grove or Shepherds Bush Green. Westfield White City is also only a short walk away, offering an abundance of shops, bars and restaurants.<br><br><strong>Agents Note</strong><br>This property has an offer accepted subject to contract but is still currently available to view.<br><br>1. Money laundering regulations: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale. <br>2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property. <br>3. The measurements indicated are supplied for guidance only and as such must be considered incorrect. <br>4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase. <br>5. These particulars are issued in good faith but do not constitute representations of fact or form part of any offer or contract. The matters referred to in these particulars should be independently verified by prospective buyers or tenants. Neither sequence (UK) limited nor any of its employees or agents has any authority to make or give any representation or warranty whatever in relation to this property.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Freehold House",
+                "Two Bedrooms",
+                "Two Receptions",
+                "Separate Kitchen",
+                "Private Garden",
+                "Excellent Transport Links"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Town Centre Location"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Available Now"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "ad8d2b3bb0d7cb314bfc8ea4fd23e2d51eb7bd8f.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "ca786d29658166164edaa2ffa4eec32757ecbb53.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5311422de747a5ef6530d27f4181a771f1e4c123.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "518363f4cded784b0a560190f89fabf8afeca525.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ef18312027325996603aeec406c0a59156809ef7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9cba7386516b9b96e0932b44dc1f939bf3517721.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bae1ad8403de7651b96b20dae3ca9a3f38ba3d91.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "58de65ca9151e35c74b10a18f40e571433da07f7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a5f0b79537450dfa7eaa9f3fc455a016456ac2ba.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "db519d6d8115ed9f145eee5c8c4ce8016b93703d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3c8e530213bce699655db111dbfa14204fe54e0f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d21cf026f56e781cc96f35ac226cf76a0337702e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b5d3b2792584384129a511d00e43479ecd608f1c.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 860,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - West Kensington",
+            "brandName": "Barnard Marcus",
+            "chainFree": false,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Wulfstan Street, London W12",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0AH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60427713,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 2,
+            "outcode": "W12",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Town Centre Location|Available Now",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 469977
+        },
+        "title": "2 bed terraced house for sale",
+        "metaTitle": "2 bed terraced house for sale in Wulfstan Street, London W12 - Zoopla",
+        "metaDescription": "2 bed terraced house for sale in Wulfstan Street, London W12, selling for \u00a3600,000 from Barnard Marcus - West Kensington. See property details on Zoopla or browse all our range of properties in Wulfstan Street, London W12.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60427713/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.51675,
+                "longitude": -0.244029
+            }
+        },
+        "displayAddress": "Wulfstan Street, London W12",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-26T06:08:56",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2016-07-20",
+                "newBuild": false,
+                "price": 460000,
+                "priceLabel": "\u00a3460,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": false,
+                    "isPriceIncrease": true,
+                    "percentageChangeLabel": "4.3",
+                    "priceChangeDate": "2022-02-08T16:48:10",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 287
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/ad8d2b3bb0d7cb314bfc8ea4fd23e2d51eb7bd8f.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 2
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Barnard Marcus",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60427713,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "DB76A7D8-94AA-11EC-855A-CF360E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W12",
+            "areaNameUri": "london/w12/shepherds-bush",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1993.3333333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 914983,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 922099,
+                    "pctChangeSince": -0.772,
+                    "date": "2021-11-26",
+                    "changeSince": -7116
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 949627,
+                    "pctChangeSince": -3.648,
+                    "date": "2021-08-26",
+                    "changeSince": -34644
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 959567,
+                    "pctChangeSince": -4.646,
+                    "date": "2021-02-26",
+                    "changeSince": -44584
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 894684,
+                    "pctChangeSince": 2.269,
+                    "date": "2017-02-26",
+                    "changeSince": 20299
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 643684,
+                    "pctChangeSince": 42.148,
+                    "date": "2012-02-26",
+                    "changeSince": 271299
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 541365,
+                    "pctChangeSince": 69.014,
+                    "date": "2007-02-26",
+                    "changeSince": 373618
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 320714,
+                    "pctChangeSince": 185.296,
+                    "date": "2002-02-26",
+                    "changeSince": 594269
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 1016280,
+                    "newBuilds": 0,
+                    "numSales": 101
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1021215,
+                    "newBuilds": 0,
+                    "numSales": 231
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1052096,
+                    "newBuilds": 13,
+                    "numSales": 399
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1027023,
+                    "newBuilds": 24,
+                    "numSales": 618
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-25T00:00:00Z",
+                    "price": 441000,
+                    "propertyId": 25147425,
+                    "streetAddress": "184 Wulfstan Street",
+                    "uri": "184-wulfstan-street/london/w12-0ad"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 1090000,
+                    "propertyId": 25163420,
+                    "streetAddress": "107 Percy Road",
+                    "uri": "107-percy-road/london/w12-9qh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 271000,
+                    "propertyId": 25164402,
+                    "streetAddress": "Flat 16, Abbey Court, Emlyn Gardens",
+                    "uri": "flat-16/abbey-court/emlyn-gardens/london/w12-9ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 900000,
+                    "propertyId": 31866429,
+                    "streetAddress": "Flat 1p, Woodstock Studios, 36 Woodstock Grove",
+                    "uri": "flat-1p/woodstock-studios/36-woodstock-grove/london/w12-8le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 25162244,
+                    "streetAddress": "37 Lefroy Road",
+                    "uri": "37-lefroy-road/london/w12-9lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 25164157,
+                    "streetAddress": "35a Ashchurch Park Villas",
+                    "uri": "35a-ashchurch-park-villas/london/w12-9sp"
+                }
+            ]
+        }
+    }
+}

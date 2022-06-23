@@ -1,0 +1,535 @@
+{
+    "address": "Priory Road, London N8",
+    "price": "\u00a3625,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 95.4,
+    "sqft": 1027.0,
+    "text": "FIRST FLOOR\n1027 sq.ft. (95.4 sq.m.) approx.\nKITcHEN |\nBEDROOM 9'7\" x 11'6\"\n15'5\" x 11'10\" 2.92m x 3.51m \u2014\n4.70m x 3.60m\nOO\nBEDROOM * Gru noon |\n15'5\"_ x 10'0\" :\n4.70m x 3.05m a\non\nBATHROOM\nea\" Be\"\n1.93m x \u201c~)\nRECEPTION ROOM \\ CT\n15'5\" x 13'0\"\n4.70m x 3.96m A\n/\nPRIORY ROAD\nTOTAL FLOOR AREA : 1027 sq.ft. (95.4 sq.m.) approx. BEDROOM\n\"Weoos Rone tock aan) cts hare we pernitane au po espace & ono ay 2 10'7\" x 14'3\"\nCANSSbaN Or is Saar Ts fone Beara MIDE TL OMMURIEN del SoeLeN SO 3.23m x 4.34m\nsrenpneiry pucesot The senien,eyserarted ayaaees sae averel town ind es rogue\nSots thel opesy ot eflcecy canbe ren\nMade wth tpi 22021\n",
+    "image": "./extracted_images/60394009.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60394009/",
+    "listing_no": "60394009",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.586849,
+        "longitude": -0.126799
+    },
+    "first_published": "2021-12-17T22:17:08",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60394009",
+        "publishedOn": "2021-12-17T22:17:08",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/pae/live/pdf.php?p=CEN210116&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 6095,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(567868).png",
+            "branchName": "Prickett & Ellis",
+            "brandName": "Prickett & Ellis",
+            "chainFree": true,
+            "companyId": 3035,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Priory Road, London N8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7EX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60394009,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 690389
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/prickett-and-ellis-london-6095/",
+            "branchId": "6095",
+            "branchResultsUri": "/for-sale/branch/prickett-and-ellis-london-6095/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(567868).png",
+            "phone": "020 8115 0166",
+            "name": "Prickett & Ellis",
+            "memberType": "agent",
+            "address": "134 Crouch Hill, Hornsey, London",
+            "postcode": "N8 9DX"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "North London Rudolf Steiner School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Campsbourne Junior School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hornsey",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Alexandra Palace",
+                "type": "national_rail_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://premium.giraffe360.com/prickettandellis/prioryrdn8"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "2b0fe3a0dff4d641d5a510c81509b79369e63903.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A spacious three double bedroom Edwardian conversion of over 1000 sq ft overlooking Priory Park<br><br>This superb first floor Edwardian conversion offers spacious rooms throughout including three large double bedrooms, a bay fronted reception room, kitchen diner, separate utility room and bathroom and use of the communal garden. Whilst the property has been looked after by the current owner it would benefit from updating to reach its full potential. The property is in an enviable location on Priory Road just opposite Priory Park. The property is being sold with no onward chain.<br><br>Located close to both Priory Park and Alexandra Palace. Crouch End and Muswell Hill Broadways are equidistant, with their lively array of independent shops, cafes, restaurants and cinemas. Hornsey overground is within reach (20 minutes to the City) as are links to Finsbury Park underground.&lt;br /&gt;&lt;br /&gt;",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Spacious bay fronted reception room",
+                "Three double bedrooms",
+                "Kitchen diner",
+                "Utility room",
+                "First floor conversion",
+                "Superb location overlooking Priory Park",
+                "Bathroom with natural light",
+                "Chain free",
+                "Communal garden"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "fc71709f35177c33ea42ef90e7d953d386c9ab5a.jpg",
+                    "caption": "Picture No. 11"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "85c4b9cf2d3414532a3a3f9b28369d83f7c25246.jpg",
+                "caption": "Front External"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2d8db6c5919c7b9d4d39d197f9981f1e1344fd11.jpg",
+                "caption": "Reception A"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c52a9b690c60dfa757015f909559361e4f3abc5d.jpg",
+                "caption": "Kitchen B"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b479a2d2b44fd302f2adc02dba159c18118eb804.jpg",
+                "caption": "Bedroom 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "208122c72b2e369449c3777d505c5dd177ed5e99.jpg",
+                "caption": "Bedroom 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e9dd67e1675eba11340ac84da22279b355bb0e94.jpg",
+                "caption": "Reception B"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f34d6e17645c83b0115b3e0db9dee6c016705705.jpg",
+                "caption": "Bedroom 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8784fd69e6fbb6341b308e0d3cf7a0fd9a40ee94.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8c7f6a697d31136b8c9c1662d576ace184dc0263.jpg",
+                "caption": "Garden Rear Views"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8c5b46c6fc01017b9ebd2fefe5fa8b37ec5b057e.jpg",
+                "caption": "Kitchen A"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 6095,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(567868).png",
+            "branchName": "Prickett & Ellis",
+            "brandName": "Prickett & Ellis",
+            "chainFree": true,
+            "companyId": 3035,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Priory Road, London N8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7EX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60394009,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 690389
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Priory Road, London N8 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Priory Road, London N8, selling for \u00a3625,000 from Prickett & Ellis. See property details on Zoopla or browse all our range of properties in Priory Road, London N8.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60394009/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.586849,
+                "longitude": -0.126799
+            }
+        },
+        "displayAddress": "Priory Road, London N8",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-17T22:17:08",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3.8",
+                    "priceChangeDate": "2022-02-22T11:54:00",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3625,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 185
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/fc71709f35177c33ea42ef90e7d953d386c9ab5a.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Prickett & Ellis",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60394009,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "6990F9C2-93D6-11EC-A3A5-B13C0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N8",
+            "areaNameUri": "london/n8/hornsey-crouch-end",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1845.9999999999998
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 510150,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 518969,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8819
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 535223,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -25073
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 562194,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -52044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 520132,
+                    "pctChangeSince": -1.919,
+                    "date": "2017-02-26",
+                    "changeSince": -9982
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 340998,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 169152
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 319880,
+                    "pctChangeSince": 59.482,
+                    "date": "2007-02-26",
+                    "changeSince": 190270
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 192552,
+                    "pctChangeSince": 164.941,
+                    "date": "2002-02-26",
+                    "changeSince": 317598
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 525009,
+                    "newBuilds": 1,
+                    "numSales": 194
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 511616,
+                    "newBuilds": 59,
+                    "numSales": 570
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 500575,
+                    "newBuilds": 59,
+                    "numSales": 1181
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 496272,
+                    "newBuilds": 67,
+                    "numSales": 1729
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 1090000,
+                    "propertyId": 15138632,
+                    "streetAddress": "107 Priory Road",
+                    "uri": "107-priory-road/london/n8-8ly"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 585000,
+                    "propertyId": 27144957,
+                    "streetAddress": "96a Priory Road",
+                    "uri": "96a-priory-road/london/n8-7ey"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 380000,
+                    "propertyId": 15132181,
+                    "streetAddress": "245 Wightman Road",
+                    "uri": "245-wightman-road/london/n8-0nb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 1090000,
+                    "propertyId": 15138632,
+                    "streetAddress": "107 Priory Road",
+                    "uri": "107-priory-road/london/n8-8ly"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 920000,
+                    "propertyId": 15142037,
+                    "streetAddress": "4 Harvey Road",
+                    "uri": "4-harvey-road/london/n8-9pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 496590,
+                    "propertyId": 15137282,
+                    "streetAddress": "Flat 6, 4 Crescent Road",
+                    "uri": "flat-6/4-crescent-road/london/n8-8at"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-23T00:00:00Z",
+                    "price": 780000,
+                    "propertyId": 15130784,
+                    "streetAddress": "54 Hewitt Road",
+                    "uri": "54-hewitt-road/london/n8-0bl"
+                }
+            ]
+        }
+    }
+}

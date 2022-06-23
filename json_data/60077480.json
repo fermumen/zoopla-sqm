@@ -1,0 +1,547 @@
+{
+    "address": "Brouncker Road, Acton W3",
+    "price": "\u00a3600,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": 1043.0,
+    "text": "Brounker Road N\n\u2018Approximate Gross Intemal Area = 96,9 sq m/ 1043 sq ft ,\nfs\n= Reduced headroom below 1.5m / 50\nBedroom 1\n429x277 \u2014+| in\niaixot\nBedroom 3\n| + 303x264 +]\n| 91x88\n_Oo__Up E\not = ip i\no\n1\nLup\nBedroom 2 4\n4564.38\n160x143\nLiving Room / Kitchen\n3.57 x4.52 /\n183 x 1410 \u2014 fl\noF i \" \u2014\nIN ba i ZA\n\u20ac \u00bb\nGround Floor First Floor Second Floor\nIustaton for dent eaten surposs ony,\nmeasurements sre approximate, not eae. 10808275)\n",
+    "image": "./extracted_images/60077480.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60077480/",
+    "listing_no": "60077480",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.503837,
+        "longitude": -0.270015
+    },
+    "first_published": "2021-10-29T14:04:37",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60077480",
+        "publishedOn": "2021-10-29T14:04:37",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 6635,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(718536).png",
+            "branchName": "Rolfe East",
+            "brandName": "Rolfe East",
+            "chainFree": true,
+            "companyId": 3312,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brouncker Road, Acton W3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8AE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60077480,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 834326
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/rolfe-east-london-6635/",
+            "branchId": "6635",
+            "branchResultsUri": "/for-sale/branch/rolfe-east-london-6635/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(718536).png",
+            "phone": "020 3551 4543",
+            "name": "Rolfe East",
+            "memberType": "agent",
+            "address": "66 High Street, Acton, London",
+            "postcode": "W3 6LE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Berrymede Infant School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Berrymede Junior School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "South Acton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Acton Central",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "93895d113eaffa5ed09b7dab60ff58ced8c663b6.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "An exquisite, stylish, bright and spacious split level flat, set in a Victorian House. This three bedroom property is in excess of 1000 sq ft and is situated amongst other period properties in a choice residential address close to Chiswick W4 and Acton High Street. It has excellent transport links with Acton Town Tube (Piccadilly/District lines) and South Acton Station (London Overground) a short walk away, and is in close proximity to Chiswick Park Station (District Line) and Acton Main Line (Forthcoming Crossrail).<br><br>This newly finished apartment is bright and homely with a spacious feel and a well thought space and design, finished to a high specification.<br><br>The property is a short walk to the ever-trendy Chiswick High Road with its popular 'out culture' and vast selection of artisan bakeries, gastropubs and designer boutiques. It is also conveniently located less than five minutes walk to Acton High Street and Acton Leisure Centre. No chain.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three Bedrooms",
+                "Set in a Victorian Building",
+                "High Spec Finish",
+                "Two Bathrooms",
+                "Spacious Accommodation",
+                "Share of Freehold",
+                "Close to Chiswick High Road &amp; Acton High Street",
+                "Good Range of Local Amenities Nearby",
+                "In excess of 1000 sq ft",
+                "No chain"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "cf7fb453812e9ba23fc043bef0219659aede4494.gif",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "6f8585153d5e506de695b19cf1a85edabc96059b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6238bce1caedcfb1c3604fe0166ed36301bbe380.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "85d79c855e0480d4ac89b4200137afaaa5b5f64a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "367e396ae491960d61fe8fdf63ab148845d8cac9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8b442855edd05f15ef2b7346b10ba6cc7dcc8dd3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "720af4134e0536ad87a336fb118e459df60866b1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bd4d88fd383252c86313ac67fa87300b4030451d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3a8b8f68dac25a785421e2565ff66afd7b2b36f7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d1e2fd3049bb1cc033a8269e7531b117332f7e75.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0e6dcefc069a75751ea7002801c0a6be62804267.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f365ab7c11642abca8be8c2b84c81a5fa7abe444.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "39d45e7f905fbcdbebc0156e2d7d2fdb12b0377d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "83cace9df0e428748bbed7c55c9096c41c58d66d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "24e24584a76edca7ee93dc804124abe03d5329c4.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 6635,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(718536).png",
+            "branchName": "Rolfe East",
+            "brandName": "Rolfe East",
+            "chainFree": true,
+            "companyId": 3312,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brouncker Road, Acton W3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8AE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60077480,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 834326
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Brouncker Road, Acton W3 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Brouncker Road, Acton W3, selling for \u00a3600,000 from Rolfe East. See property details on Zoopla or browse all our range of properties in Brouncker Road, Acton W3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60077480/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.503837,
+                "longitude": -0.270015
+            }
+        },
+        "displayAddress": "Brouncker Road, Acton W3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-10-29T14:04:37",
+                "priceLabel": "\u00a3615,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "2.4",
+                    "priceChangeDate": "2022-01-24T17:48:14",
+                    "priceChangeLabel": "\u00a315,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 147
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/cf7fb453812e9ba23fc043bef0219659aede4494.gif"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Rolfe East",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60077480,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "B1212960-7EC8-11EC-B25D-B93A0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W3",
+            "areaNameUri": "london/w3/acton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2183.3809523809527
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 404918,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 411489,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -6571
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 423656,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -18738
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 446579,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -41661
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 443072,
+                    "pctChangeSince": -8.611,
+                    "date": "2017-02-26",
+                    "changeSince": -38154
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 295132,
+                    "pctChangeSince": 37.199,
+                    "date": "2012-02-26",
+                    "changeSince": 109786
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 263193,
+                    "pctChangeSince": 53.848,
+                    "date": "2007-02-26",
+                    "changeSince": 141725
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 155985,
+                    "pctChangeSince": 159.588,
+                    "date": "2002-02-26",
+                    "changeSince": 248933
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 435683,
+                    "newBuilds": 0,
+                    "numSales": 146
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 422801,
+                    "newBuilds": 39,
+                    "numSales": 486
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 426404,
+                    "newBuilds": 119,
+                    "numSales": 1029
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 427267,
+                    "newBuilds": 208,
+                    "numSales": 1779
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-24T00:00:00Z",
+                    "price": 380000,
+                    "propertyId": 25030736,
+                    "streetAddress": "Flat 44, Carisbrooke Court, Brouncker Road",
+                    "uri": "flat-44/carisbrooke-court/brouncker-road/london/w3-8ba"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-30T00:00:00Z",
+                    "price": 285000,
+                    "propertyId": 25030740,
+                    "streetAddress": "Flat 48, Carisbrooke Court, Brouncker Road",
+                    "uri": "flat-48/carisbrooke-court/brouncker-road/london/w3-8ba"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 25030352,
+                    "streetAddress": "57 Brouncker Road",
+                    "uri": "57-brouncker-road/london/w3-8af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 827500,
+                    "propertyId": 25020302,
+                    "streetAddress": "72 Princes Gardens",
+                    "uri": "72-princes-gardens/london/w3-0lq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 910000,
+                    "propertyId": 25022231,
+                    "streetAddress": "24 Stuart Road",
+                    "uri": "24-stuart-road/london/w3-6dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 830000,
+                    "propertyId": 25034544,
+                    "streetAddress": "14 Gunnersbury Crescent",
+                    "uri": "14-gunnersbury-crescent/london/w3-9aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 840000,
+                    "propertyId": 25020344,
+                    "streetAddress": "139 Princes Gardens",
+                    "uri": "139-princes-gardens/london/w3-0ls"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 315000,
+                    "propertyId": 25027951,
+                    "streetAddress": "33 Larch Avenue",
+                    "uri": "33-larch-avenue/london/w3-7lh"
+                }
+            ]
+        }
+    }
+}

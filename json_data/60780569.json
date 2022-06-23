@@ -1,0 +1,576 @@
+{
+    "address": "Brixton Road, Oval SW9",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 70.9,
+    "sqft": 763.0,
+    "text": "Brixton Road, London, SW9\nK Approximate Area = 739 sq ft / 68.7 sqm\nJEN Shed = 24 sq ft/2.2sqm\nZ2yW Total = 763 sq ft/ 70.9 sqm\nSef For identification only - Not to scale\nz vf\nhed\n5'11 (1.80) A\nx 3\u00b011 (1.19) es\nGarden\nApproximate\n18'3 (5.56)\nx 169 (5.11)\na\n\\\n\u2014 I \u2014\n| |\nla iti He sehr Bedroom\niS Co x 10'10 (3.30) max ert oan\nO-O \\\nmK Nm / \\pown [| of\n. \\ \\ A LP \\ | fo?\nZa y\u2014\n| Nw |\nUp. \\oN /\n|\ncA\n\u2014 Reception Room\n13'6 (4.11)\nBedroom 2 x 12'2 (3.71)\n17'11 (5.46)\nZ x 9'3 (2.82) ;\nae SF SF 7\n[_ ae ae a\nLOWER GROUND FLOOR GROUND FLOOR\nInemetional Property Measurement Standards (PMS? Residenll). Onichecom 2002.\nLie 8| Measurer Produced for Davis & Gibbs. REF: 808292\n",
+    "image": "./extracted_images/60780569.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60780569/",
+    "listing_no": "60780569",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.477339,
+        "longitude": -0.112769
+    },
+    "first_published": "2022-02-17T00:15:20",
+    "last_sale_date": "2001-05-30",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60780569",
+        "publishedOn": "2022-02-17T00:15:20",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/3d7dedce117e4c1d49852c2ffbc2400fc40b64f1.pdf",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/2287709d506aecff424e7cdc7fcde73a23ebf55a.pdf",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 15263,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(38761).gif",
+            "branchName": "Davis and Gibbs",
+            "brandName": "Davis and Gibbs",
+            "chainFree": true,
+            "companyId": 1061,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brixton Road, Oval SW9",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6BE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60780569,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SW9",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 821232
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/davis-and-gibbs-15263/",
+            "branchId": "15263",
+            "branchResultsUri": "/for-sale/branch/davis-and-gibbs-15263/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(38761).gif",
+            "phone": "020 3641 0375",
+            "name": "Davis and Gibbs",
+            "memberType": "agent",
+            "address": "36 Brixton Road",
+            "postcode": "SW9 6BU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Reay Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Christ Church Primary SW9",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Oval",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stockwell",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://property-teaser-video.s3.eu-west-1.amazonaws.com/80782a42-8a84-47ce-b31d-dba59a6d0c56.mp4"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "b888ca4fc2542570b0b3c0aef34b8b823802255e.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This beautiful property is set over two floors of an impressive Georgian building. The ground floor entrance lead you to the reception room with its impressive curved sash windows, high ceilings and cornicing. The floor to ceiling windows not only are a lovely feature but maximises the natural light flow giving it a bright and airy feel. Original wood flooring and alcoves either side of the chimney breast further enhance the period features this room has to offer. The bedroom on this floor, again naturally bright with wooden flooring, would make a great second bedroom or office space.<br><br>Down on the lower level you will find the main bedroom with excellent storage options and two sash windows keeping the airy and light feel throughout. A family bathroom, finished with white tiles and a three piece suite which includes a shower over the bath. A great size bright kitchen with excellent storage and counter space. Leading on from here we finish with the mature and pretty staggered back garden complete with a large storage shed.<br><br>This property is available chain free. Brixton Road offers excellent transport links and is within walking distance to Camberwell, Brixton and Vauxhall. Oval Tube is a short walk away from the property as is Stockwell Tube Station, which offers an additional tube line. This is a fantastic starter home for a young professional or even a growing family. Oval is very much a community run area with lots of independent cafes, restaurants, local shops and more. This property is priced to sell, please book in at your earliest convenience.<br><strong>Ground floor<br><br>reception</strong><br><br>4.11m x 3.71m (13' 6\" x 12' 2\") Great size reception room with two full length sash windows overlooking the front of the building. Natural alcoves ideal for shelving or storage. Original wood flooring and high ceilings with cornicing detail.<br><strong>Ground floor bedroom</strong><br><br>3.68m x 2.41m (12' 1\" x 7' 11\") Bedroom with sash window and shelving alcove. High ceilings and original wooden flooring. Ideal office or second bedroom.<br><strong>Lower ground<br><br>main bedroom</strong><br><br>5.46m x 2.82m (17' 11\" x 9' 3\") Lower ground double bedroom. Naturally light with two sash windows and high ceilings. Plenty of built in wardrobe and shelving space and laminate wood flooring.<br><strong>Bathroom</strong><br><br>Fully tiled bathroom with sash window. Storage shelves, heated chrome towel rail and shower over bathtub.<br><strong>Kitchen</strong><br><br>3.58m x 3.30m (11' 9\" x 10' 10\") Great size kitchen with white units and wooden counter tops. Plenty of counter and storage space. Leads out to private back garden.<br><strong>Garden</strong><br><br>5.56m x 5.11m (18' 3\" x 16' 9\") Staggered courtyard garden, secluded and leafy, with a large storage shed and back gate.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedrooms",
+                "Split Level Apartment",
+                "Private Garden",
+                "Leasehold",
+                "Popular Location",
+                "Sash Windows",
+                "Period Features",
+                "Grade II Listed Building"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "0e85b520bb59709b97f093d2c36a1fe572f2c0be.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "15df5cfddda99b3570e5e35c6c01ba5595ce757d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "79a1ac2a1b2cfce32a3cb5e1e82420614cee9149.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b3fe65ccb993769439a15e93c3dcfd8ba6af3756.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ef34a8b6b9b4106e2237d3cb8181af5de749a22a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2d8c31aa1c12b3b00cddd2773084527438575224.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "996390da00fae85761723d0afdc96a1974025430.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "60294be070b9e43506c51d2fc8936bf6d1b91a7c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d08f9fc250749361c57a75a16d8a89e5eafe6d93.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "142cd1b4987e2460c280769ef68151e1d07f1b57.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "329c2aeb1afe189a93d7b0c9e09f843e6cadd441.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f1cb0749d959a1a21d75d53b0aee04ae61983e1b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "58226a2e672ec806dcd9d9d78a093258eaa098f6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1c5cb053591e92d94a378dead5e7229677170b80.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 15263,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(38761).gif",
+            "branchName": "Davis and Gibbs",
+            "brandName": "Davis and Gibbs",
+            "chainFree": true,
+            "companyId": 1061,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brixton Road, Oval SW9",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6BE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60780569,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SW9",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 821232
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Brixton Road, Oval SW9 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Brixton Road, Oval SW9, selling for \u00a3575,000 from Davis and Gibbs. See property details on Zoopla or browse all our range of properties in Brixton Road, Oval SW9.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60780569/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.477339,
+                "longitude": -0.112769
+            }
+        },
+        "displayAddress": "Brixton Road, Oval SW9",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-17T00:15:20",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2001-05-30",
+                "newBuild": false,
+                "price": 185000,
+                "priceLabel": "\u00a3185,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 147
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/0e85b520bb59709b97f093d2c36a1fe572f2c0be.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Davis and Gibbs",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60780569,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "C7C5EC04-8F86-11EC-9337-9A3E0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW9",
+            "areaNameUri": "london/sw9/stockwell-brixton-north",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2148.840909090911
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 478668,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 481031,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2363
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 481337,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2669
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 501414,
+                    "pctChangeSince": -4.536,
+                    "date": "2021-02-26",
+                    "changeSince": -22746
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 485851,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -7183
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 334931,
+                    "pctChangeSince": 42.915,
+                    "date": "2012-02-26",
+                    "changeSince": 143737
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 305962,
+                    "pctChangeSince": 56.447,
+                    "date": "2007-02-26",
+                    "changeSince": 172706
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 186410,
+                    "pctChangeSince": 156.782,
+                    "date": "2002-02-26",
+                    "changeSince": 292258
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 476500,
+                    "newBuilds": 1,
+                    "numSales": 216
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 465414,
+                    "newBuilds": 26,
+                    "numSales": 559
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 458735,
+                    "newBuilds": 74,
+                    "numSales": 1085
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 464302,
+                    "newBuilds": 167,
+                    "numSales": 1840
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 23216152,
+                    "streetAddress": "251 Brixton Road",
+                    "uri": "251-brixton-road/london/sw9-6lj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 490000,
+                    "propertyId": 31862866,
+                    "streetAddress": "413a Brixton Road",
+                    "uri": "413a-brixton-road/london/sw9-7dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 537500,
+                    "propertyId": 23215272,
+                    "streetAddress": "119 Brixton Road",
+                    "uri": "119-brixton-road/london/sw9-6ed"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-23T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 27463261,
+                    "streetAddress": "B, 345 Brixton Road",
+                    "uri": "b/345-brixton-road/london/sw9-7da"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-21T00:00:00Z",
+                    "price": 570000,
+                    "propertyId": 28169792,
+                    "streetAddress": "7, Sibley House, 328 Brixton Road",
+                    "uri": "7/sibley-house/328-brixton-road/london/sw9-7ad"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 23217134,
+                    "streetAddress": "27 Patmos Road",
+                    "uri": "27-patmos-road/london/sw9-6sq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 27220411,
+                    "streetAddress": "A, 128 Landor Road",
+                    "uri": "a/128-landor-road/london/sw9-9jb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 452500,
+                    "propertyId": 23212677,
+                    "streetAddress": "Flat B, 38 Crewdson Road",
+                    "uri": "flat-b/38-crewdson-road/london/sw9-0lj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 599750,
+                    "propertyId": 27163030,
+                    "streetAddress": "Flat C, 384 Clapham Road",
+                    "uri": "flat-c/384-clapham-road/london/sw9-9ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-23T00:00:00Z",
+                    "price": 640000,
+                    "propertyId": 23213466,
+                    "streetAddress": "44a Hackford Road",
+                    "uri": "44a-hackford-road/london/sw9-0rf"
+                }
+            ]
+        }
+    }
+}

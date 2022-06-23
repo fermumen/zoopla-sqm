@@ -1,0 +1,578 @@
+{
+    "address": "The Polygon, London SW4",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 70.1,
+    "sqft": 754.0,
+    "text": "a 5 Ss\nrHE POLYGON me\nApproximate Gross Internal Area E. Le \\\nGround floor = 66 sq. ft. (6.1 sq. m.) al id\nFirst floor = 344 sq. ft. (32 sq.m.) N\nSecond floor = 344 sq. ft. (32 sq. m.))\nTotal = 754 sq. ft. (70.1 sq.m.)\n| anal My \" nit] fl\n| SoH | | KI oo\na Reception Room | bese a Bedroom\n4:37 x 3.78 \u2014 = 4.37% 3.33 f)\nii 1A'A% 12'5 inl 14'4x 10'11 a\npom Kitchen Bedroom\nCoH 3.35 x 2.92 |[*] AN 2.84 x 2.49\n\" ae 11':0x9'7 (im \u00bb x | 9'4x8'2 Tf\n== = ; Si e\nFirst Floor Second Floor\nIN << | (74/22) Ceiling Height\nGround Floor if\nThis plan is for layout guidance only. Not drawn to scale unless stated. Windows and door openings are approximate. Whilst every care is taken\nin the preparation of this plan, please check all dimensions, shapes and compass bearings before making any decisions reliant upon them.\nID 820643\n",
+    "image": "./extracted_images/60431692.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60431692/",
+    "listing_no": "60431692",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.46349,
+        "longitude": -0.141388
+    },
+    "first_published": "2021-12-26T21:21:06",
+    "last_sale_date": "2015-04-24",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60431692",
+        "publishedOn": "2021-12-26T21:21:06",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.hamptons.co.uk/index.asp?spid=CLA210231",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://assets.reapit.net/ham/live/pdf.php?p=CLA210231",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 3591,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "branchName": "Hamptons - Clapham Sales",
+            "brandName": "Hamptons",
+            "chainFree": false,
+            "companyId": 1612,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Polygon, London SW4",
+            "furnishedState": "",
+            "groupId": 8,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0JG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60431692,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 21,
+            "numRecepts": 1,
+            "outcode": "SW4",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 777658
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/hamptons-clapham-sales-london-3591/",
+            "branchId": "3591",
+            "branchResultsUri": "/for-sale/branch/hamptons-clapham-sales-london-3591/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "phone": "020 3542 2753",
+            "name": "Hamptons - Clapham Sales",
+            "memberType": "agent",
+            "address": "27-31 The Pavement, Clapham, London",
+            "postcode": "SW4 0JE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham Manor Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham Common",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Macaulay Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham High Street",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "68d6bc168f9bf0e785398b391e3d053af04cb6b8.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Situated in the heart of Clapham Old Town and located just off the common this split level apartment is well presented and offers excellent living space. The property benefits from a private entrance and is split level. The Living space is generous and retains some characterful features such as a fire place and has high ceilings and windows creating a very light space. The Kitchen is adjacent and is of a high quality. Upstairs provides two bedrooms both double and a well fitted and equipped bathroom. The property extends to 754 square feet.<br><br>Situation<br>The Polygon is central to Clapham Old Town and therefore a wealth of retail outlets, supermarkets, bars and eateries are all close by. Of note are number 32 and the Sun pubs, with the Rose and Crown having been recently refurbished. Michelin star dining can be found at Trinity restaurant. Clapham Common is essentially on the doorstep providing wide open green space and Clapham Common tube is found close by, providing access to Central London on the Northern Line. Local bus routes are extensive.<br><br>Additional Information<br>Leasehold: 171 years remaining<br>Buildings insurance: \u00a31,085 per annum<br>Ground rent: \u00a3250 per annum",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two bedrooms",
+                "Living Space",
+                "Kitchen/Dining",
+                "Split Level",
+                "Ideal Location",
+                "Private Entrance",
+                "754 Square Feet"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "5778ff12ceda02a23df2f36b5a4bca8944e4774b.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "484470efb2defe645cd3af4e0e28901447a83897.jpg",
+                "caption": "Picture 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a49949d3dea15a334d52fa7444f8bb8607a0a0ea.jpg",
+                "caption": "Picture 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "669e9a4b2c9dff7ea25c107289451dacf548711c.jpg",
+                "caption": "Picture 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e19ed53759fd04557a267e28b2b7e58421374500.jpg",
+                "caption": "Picture 4"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5b25ccbdb50122d6a7aee30e914b1000ea51d8ed.jpg",
+                "caption": "Picture 5"
+            },
+            {
+                "__typename": "Media",
+                "filename": "19bc23d531cb9aefc5b8c9758983680d74e9c22d.jpg",
+                "caption": "Picture 6"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b17f902f05a7a0c120c24192617fbdae17a31f42.jpg",
+                "caption": "Picture 7"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a3df105e84d4bbc16bb652fd6a82e5cf2bb2f9af.jpg",
+                "caption": "Picture 8"
+            },
+            {
+                "__typename": "Media",
+                "filename": "50e468685a6bc875e8ff8c2ec5d458c2676e4a56.jpg",
+                "caption": "Picture 9"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6cbeab67c243fa446edbe3b4bd5c556d06e12095.jpg",
+                "caption": "Picture 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "551be724ce7fdb7f8e1f2df909632d39a40cc906.jpg",
+                "caption": "Picture 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b994947ca2d0294fc4dda5b5a6227cecef4296d8.jpg",
+                "caption": "Picture 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1d91157d9aa44ce00eb1bc41e3a23cf6d3fa053c.jpg",
+                "caption": "Picture 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d322665894c5fbd56a271151b585568a01a7109d.jpg",
+                "caption": "Picture 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1800155bcbd7017e1caeabcb329f1c53476074d8.jpg",
+                "caption": "Picture 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4a46c4da45c0e0eae9b65389c9bfc3aba2d8f157.jpg",
+                "caption": "Picture 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2e86813018aba4c84d9e00e29491640417ffb7e1.jpg",
+                "caption": "Picture 17"
+            },
+            {
+                "__typename": "Media",
+                "filename": "827fa4f3de2cd2460e4c5fd90b07847725c1ee79.jpg",
+                "caption": "Picture 18"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f417993e4b0c90846166e342a08765bdf1def516.jpg",
+                "caption": "Picture 19"
+            },
+            {
+                "__typename": "Media",
+                "filename": "69358b177feee62de1935d123ced1b56a3246bb1.jpg",
+                "caption": "Picture 20"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a00a42414e435bfc511025b15413df3f45ca37b6.jpg",
+                "caption": "Picture 21"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 3591,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "branchName": "Hamptons - Clapham Sales",
+            "brandName": "Hamptons",
+            "chainFree": false,
+            "companyId": 1612,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Polygon, London SW4",
+            "furnishedState": "",
+            "groupId": 8,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0JG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60431692,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 21,
+            "numRecepts": 1,
+            "outcode": "SW4",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 777658
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in The Polygon, London SW4 - Zoopla",
+        "metaDescription": "2 bed flat for sale in The Polygon, London SW4, selling for \u00a3650,000 from Hamptons - Clapham Sales. See property details on Zoopla or browse all our range of properties in The Polygon, London SW4.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60431692/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.46349,
+                "longitude": -0.141388
+            }
+        },
+        "displayAddress": "The Polygon, London SW4",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-26T21:21:06",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2015-04-24",
+                "newBuild": false,
+                "price": 521278,
+                "priceLabel": "\u00a3521,278",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 95
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/5778ff12ceda02a23df2f36b5a4bca8944e4774b.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Hamptons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60431692,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "BD3D7A68-6691-11EC-8EA0-63020E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW4",
+            "areaNameUri": "london/sw4/clapham",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2108.1666666666665
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 573300,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 576131,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2831
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 576497,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3197
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 600546,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -27246
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 581912,
+                    "pctChangeSince": -1.48,
+                    "date": "2017-02-26",
+                    "changeSince": -8612
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 401153,
+                    "pctChangeSince": 42.913,
+                    "date": "2012-02-26",
+                    "changeSince": 172147
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 366456,
+                    "pctChangeSince": 56.444,
+                    "date": "2007-02-26",
+                    "changeSince": 206844
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 223266,
+                    "pctChangeSince": 156.779,
+                    "date": "2002-02-26",
+                    "changeSince": 350034
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 587997,
+                    "newBuilds": 0,
+                    "numSales": 244
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 575053,
+                    "newBuilds": 6,
+                    "numSales": 647
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 575154,
+                    "newBuilds": 23,
+                    "numSales": 1209
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 567641,
+                    "newBuilds": 124,
+                    "numSales": 1986
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-30T00:00:00Z",
+                    "price": 642500,
+                    "propertyId": 23142506,
+                    "streetAddress": "3 The Polygon",
+                    "uri": "3-the-polygon/london/sw4-0jg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 23154437,
+                    "streetAddress": "35a Hambalt Road",
+                    "uri": "35a-hambalt-road/london/sw4-9ea"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 437000,
+                    "propertyId": 23145384,
+                    "streetAddress": "Flat 7, Grove Court, 99 Larkhall Rise",
+                    "uri": "flat-7/grove-court/99-larkhall-rise/london/sw4-6hr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1250000,
+                    "propertyId": 23155923,
+                    "streetAddress": "61 Briarwood Road",
+                    "uri": "61-briarwood-road/london/sw4-9pj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 535000,
+                    "propertyId": 23145482,
+                    "streetAddress": "1 Kelman Close",
+                    "uri": "1-kelman-close/london/sw4-6je"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 23148670,
+                    "streetAddress": "175 William Bonney Estate",
+                    "uri": "175-william-bonney-estate/london/sw4-7je"
+                }
+            ]
+        }
+    }
+}

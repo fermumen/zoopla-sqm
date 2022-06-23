@@ -1,0 +1,543 @@
+{
+    "address": "Irving Mansions, Barons Court, London W14",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": "600 sq. ft",
+    "sqm": 55.7,
+    "sqft": 600.0,
+    "text": "A %\nN\nBEDROOM 2\n11'9x 11'8 MASTER BEDROOM\n3.58m x 3.56m  & 12'4 x 1110 a\n3.76m x 3.61m\nO a -\u2014\nVF /)\nfa \\ \u2014 a\n)\\ & | (IN\ni) | @ (\n\u00a9) KITCHEN\n\u00a9\u00a9) 910x6'8 ]\n3.00m x 2.03m /\n| RECEPTION ROOM\n\u2014=\u2014\u2014 11111 x 10'3\n3.63m x 3.12m\n1 \u2014\nFIRST FLOOR\n600 SQ FT/55.7SQM\n",
+    "image": "./extracted_images/60492664.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60492664/",
+    "listing_no": "60492664",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.486199,
+        "longitude": -0.210665
+    },
+    "first_published": "2022-01-11T15:06:30",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60492664",
+        "publishedOn": "2022-01-11T15:06:30",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/w14/chpk0043768/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/w14/chpk0043768",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/w14/chpk0043768/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2883,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Fulham Broadway",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Irving Mansions, Barons Court, London W14",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9SL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60492664,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "600",
+            "tenure": null,
+            "zindex": 668027
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-fulham-broadway-london-2883/",
+            "branchId": "2883",
+            "branchResultsUri": "/for-sale/branch/foxtons-fulham-broadway-london-2883/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3463 8392",
+            "name": "Foxtons - Fulham Broadway",
+            "memberType": "agent",
+            "address": "55 Fulham Broadway, Fulham, London",
+            "postcode": "SW6 1AE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Fulham Prep School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Augustine's RC Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barons Court",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Kensington",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Presented in excellent condition throughout, this stylish and well proportioned 2 bedroom apartment features a fantastic fitted kitchen and access to communal gardens with tennis courts.<br><br>Situated moments from the amenities of Baron's Court and within easy reach of the shops, bars and restaurants of High Street Kensington, Queen's Club Gardens offers motorists easy access to the A4/M4 links to central London and the west.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Fabulous 2 bedroom 1st floor flat",
+                "Beautifully presented with spacious rooms throughout",
+                "Generous reception room with ample space to dine",
+                "Stylish integrated kitchen",
+                "2 good-sized double bedrooms",
+                "Chic bathroom suite",
+                "Fabulous communal gardens with tennis courts",
+                "Excellent location for Barons Court's local amenities"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "934c79684b471a0cf986cd157040e20c69bba48f.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "5e46f7ed5db5d57ecf3c938b7fea4db72a8e596b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5162f6728766fb05cb5eff0d5ad246fc2babe57b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2057ef18c528d67e0e23b77d4b7ab8b471c846d8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8fcd1bddb607ee741736813a5d39d8fc33ca71a6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b5f41962d8efc27d2f2389b240b84f862727c0f3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "caf589d8907d56a1ca26c896b91a253e43c35844.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7db88b7b906c5f219102527bdeeca2943bab9067.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1be6b2048dcb990db6ecc8b0d3386a8784dfc3e2.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2883,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Fulham Broadway",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Irving Mansions, Barons Court, London W14",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9SL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60492664,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "600",
+            "tenure": null,
+            "zindex": 668027
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Irving Mansions, Barons Court, London W14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Irving Mansions, Barons Court, London W14, selling for \u00a3600,000 from Foxtons - Fulham Broadway. See property details on Zoopla or browse all our range of properties in Irving Mansions, Barons Court, London W14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60492664/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.486199,
+                "longitude": -0.210665
+            }
+        },
+        "displayAddress": "Irving Mansions, Barons Court, London W14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-11T15:06:30",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 218
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/934c79684b471a0cf986cd157040e20c69bba48f.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 600
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 1000,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60492664,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "104088F8-72F0-11EC-9F3D-DD320E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W14",
+            "areaNameUri": "london/w14/west-kensington-holland-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3482.6566666666668
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 776035,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 788630,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -12595
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 811949,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -35914
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 855883,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -79848
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 849182,
+                    "pctChangeSince": -8.614,
+                    "date": "2017-02-26",
+                    "changeSince": -73147
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 565644,
+                    "pctChangeSince": 37.195,
+                    "date": "2012-02-26",
+                    "changeSince": 210391
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 504431,
+                    "pctChangeSince": 53.844,
+                    "date": "2007-02-26",
+                    "changeSince": 271604
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 298959,
+                    "pctChangeSince": 159.579,
+                    "date": "2002-02-26",
+                    "changeSince": 477076
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 727058,
+                    "newBuilds": 0,
+                    "numSales": 188
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 755004,
+                    "newBuilds": 0,
+                    "numSales": 520
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 777600,
+                    "newBuilds": 18,
+                    "numSales": 982
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 856570,
+                    "newBuilds": 225,
+                    "numSales": 1794
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-05T00:00:00Z",
+                    "price": 950000,
+                    "propertyId": 25189351,
+                    "streetAddress": "Flat 18, Owen Mansions, Queen's Club Gardens",
+                    "uri": "flat-18/owen-mansions/queen-s-club-gardens/london/w14-9rs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 950000,
+                    "propertyId": 25189848,
+                    "streetAddress": "Flat 4, Palmerston Mansions, Queen's Club Gardens",
+                    "uri": "flat-4/palmerston-mansions/queen-s-club-gardens/london/w14-9ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-02T00:00:00Z",
+                    "price": 828750,
+                    "propertyId": 25189793,
+                    "streetAddress": "Flat 14, Ruskin Mansions, Queen's Club Gardens",
+                    "uri": "flat-14/ruskin-mansions/queen-s-club-gardens/london/w14-9tn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-30T00:00:00Z",
+                    "price": 892500,
+                    "propertyId": 25189810,
+                    "streetAddress": "Flat 2, Purcell Mansions, Queen's Club Gardens",
+                    "uri": "flat-2/purcell-mansions/queen-s-club-gardens/london/w14-9tp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 715000,
+                    "propertyId": 25189254,
+                    "streetAddress": "Flat 17, Heber Mansions, Queen's Club Gardens",
+                    "uri": "flat-17/heber-mansions/queen-s-club-gardens/london/w14-9rl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 567500,
+                    "propertyId": 27184805,
+                    "streetAddress": "Flat 3, 73 Sinclair Road",
+                    "uri": "flat-3/73-sinclair-road/london/w14-0nr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 27285623,
+                    "streetAddress": "Basement Flat, 1 Chesson Road",
+                    "uri": "basement-flat/1-chesson-road/london/w14-9qr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 804011,
+                    "propertyId": 32593125,
+                    "streetAddress": "Flat 11, Trinity House, 377 Kensington High Street",
+                    "uri": "flat-11/trinity-house/377-kensington-high-street/london/w14-8qa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 25178458,
+                    "streetAddress": "142 Blythe Road",
+                    "uri": "142-blythe-road/london/w14-0hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 2950000,
+                    "propertyId": 25178619,
+                    "streetAddress": "24 Sterndale Road",
+                    "uri": "24-sterndale-road/london/w14-0hs"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,517 @@
+{
+    "address": "Broomsleigh Street, West Hampstead NW6",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": "719 sq. ft",
+    "sqm": 66.8,
+    "sqft": 719.0,
+    "text": "=\nBroomsleight Str NW6\n[-\u2014~+ \u2014\u2014\u2014\u2014,\nReception Bedroom\n| Room nm 14'0\" x 11'8\"\n15'3\" x 14'2 4.27 x 3.56M\n4.65 x 4.32M\n- \\e\nBEN\nLy |\nAN\nHy\nny rt\n20\n\u2014\u2014|\n\u2014\nBedroom\n17'11\" x 9'10\"\n5.46 x 3.00M\n|\u2014_\u2014___]\nFirst Floor Ground Floor\nApprox Gross Internal Area 719 Sq Ft - 66.80 Sq M\nMeasured in accordance with RICS guidelines. Every attempt is made to ensure accuracy\nHowever all measurments are approximate.\nThe floor plan is illustrative purposes only and is not to scale\nwww.tomekphotography.co.uk pa 4\n",
+    "image": "./extracted_images/58368293.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/58368293/",
+    "listing_no": "58368293",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.549884,
+        "longitude": -0.198471
+    },
+    "first_published": "2022-01-19T15:18:17",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "58368293",
+        "publishedOn": "2022-01-19T15:18:17",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://lc.zoocdn.com/a68095650f2ff465a8172322fdce4bd76d05eb5b.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 23299,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(496444).png",
+            "branchName": "ML Estates",
+            "brandName": "Michael Leonard Estates",
+            "chainFree": false,
+            "companyId": 11892,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Broomsleigh Street, West Hampstead NW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1QH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 58368293,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "719",
+            "tenure": "leasehold",
+            "zindex": 774489
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/ml-estates-london-23299/",
+            "branchId": "23299",
+            "branchResultsUri": "/for-sale/branch/ml-estates-london-23299/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(496444).png",
+            "phone": "020 3641 4806",
+            "name": "ML Estates",
+            "memberType": "agent",
+            "address": "367 West End Lane, London",
+            "postcode": "NW6 1LP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Beckford Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Emmanuel Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Hampstead Thameslink",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilburn",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "e3000edb91438871dbfd8ec9fccc88869ecb831c.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Detailed Description</strong><br><br>Arranged over the entire first floor of this double fronted Victorian end terrace house is this two-double bedroom split level converted flat on this quite residential turning just off Mill Lane. This spacious home has a large open plan reception room with hardwood flooring and access to the loft storage space. Broomsleigh Street is located within moments walking distance of West Hampstead's three train stations.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Ideal first buy",
+                "Private entrance",
+                "Two bathrooms",
+                "Close to bars and restaurants",
+                "High ceilings"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "14a0e26abc5f632218f8663979317fd9b4df1c50.jpg",
+                    "caption": "Floor Plan 1"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "613faae0550cfc76ba4f0fb8b6909e4f167baf71.jpg",
+                "caption": "Photo 7"
+            },
+            {
+                "__typename": "Media",
+                "filename": "803264ec0543b91b761b9d0ccf8c9bd9a5328504.jpg",
+                "caption": "Photo 6"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d194276c4e4b2c42a2d4ab249768184ef224e944.jpg",
+                "caption": "Photo 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "690b868b0608af28b311383115b6195fcce071f0.jpg",
+                "caption": "Photo 9"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3f134b43f2ceb05bb8868b383d92d4fc57b51bbb.jpg",
+                "caption": "Photo 1"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 23299,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(496444).png",
+            "branchName": "ML Estates",
+            "brandName": "Michael Leonard Estates",
+            "chainFree": false,
+            "companyId": 11892,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Broomsleigh Street, West Hampstead NW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1QH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 58368293,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "719",
+            "tenure": "leasehold",
+            "zindex": 774489
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Broomsleigh Street, West Hampstead NW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Broomsleigh Street, West Hampstead NW6, selling for \u00a3550,000 from ML Estates. See property details on Zoopla or browse all our range of properties in Broomsleigh Street, West Hampstead NW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/58368293/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.549884,
+                "longitude": -0.198471
+            }
+        },
+        "displayAddress": "Broomsleigh Street, West Hampstead NW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-19T15:18:17",
+                "priceLabel": "\u00a3525,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": false,
+                    "isPriceIncrease": true,
+                    "percentageChangeLabel": "4.8",
+                    "priceChangeDate": "2022-01-21T10:14:40",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3550,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 106
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/14a0e26abc5f632218f8663979317fd9b4df1c50.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 719
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 765,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Michael Leonard Estates",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 58368293,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "1890E794-89C7-11EC-86FA-EFFA0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW6",
+            "areaNameUri": "london/nw6/kilburn-queens-park-south-and-west-hampstead-brondesbury-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2462.275362318841
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 639412,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 650315,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10903
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 670511,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -31099
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 700633,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -61221
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 661041,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -21629
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 456421,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 182991
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 407367,
+                    "pctChangeSince": 56.962,
+                    "date": "2007-02-26",
+                    "changeSince": 232045
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 240567,
+                    "pctChangeSince": 165.794,
+                    "date": "2002-02-26",
+                    "changeSince": 398845
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 667712,
+                    "newBuilds": 3,
+                    "numSales": 291
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 672521,
+                    "newBuilds": 45,
+                    "numSales": 870
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 677804,
+                    "newBuilds": 112,
+                    "numSales": 1709
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 662927,
+                    "newBuilds": 321,
+                    "numSales": 2863
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-30T00:00:00Z",
+                    "price": 1525000,
+                    "propertyId": 17243043,
+                    "streetAddress": "5 Broomsleigh Street",
+                    "uri": "5-broomsleigh-street/london/nw6-1qq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 1630500,
+                    "propertyId": 17243132,
+                    "streetAddress": "2 Broomsleigh Street",
+                    "uri": "2-broomsleigh-street/london/nw6-1qw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-30T00:00:00Z",
+                    "price": 1290000,
+                    "propertyId": 17243074,
+                    "streetAddress": "67 Broomsleigh Street",
+                    "uri": "67-broomsleigh-street/london/nw6-1qq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760000,
+                    "propertyId": 17241471,
+                    "streetAddress": "Flat 3, Lawn Mansions, Gondar Gardens",
+                    "uri": "flat-3/lawn-mansions/gondar-gardens/london/nw6-1er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 3350000,
+                    "propertyId": 17259571,
+                    "streetAddress": "98 Christchurch Avenue",
+                    "uri": "98-christchurch-avenue/mapesbury/london/nw6-7pe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1196750,
+                    "propertyId": 17241043,
+                    "streetAddress": "1 Norman Terrace, Agamemnon Road",
+                    "uri": "1-norman-terrace/agamemnon-road/london/nw6-1bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 262500,
+                    "propertyId": 17252821,
+                    "streetAddress": "Flat 4, Kilburn Gate, Kilburn Priory",
+                    "uri": "flat-4/kilburn-gate/kilburn-priory/london/nw6-5nd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 875000,
+                    "propertyId": 17260049,
+                    "streetAddress": "10 Douglas Road",
+                    "uri": "10-douglas-road/london/nw6-7rp"
+                }
+            ]
+        }
+    }
+}

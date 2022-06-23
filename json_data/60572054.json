@@ -1,0 +1,544 @@
+{
+    "address": "28 Welsford Street, London SE1",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 78.7,
+    "sqft": 847.0,
+    "text": "Courtyard\n1.80m x 1.80m\n(5' 11\" x 5\u00b0 11\")\naN \u2014\u2014\u2014\u2014\u2014\u2014\u2014\naa | \u2014\u2014r \u2014\u2014]\na)\nBedroom 1 : A\n\u201csemi 305m Kitchen/Living Room\n(15' 0\" x 13' 0\") 5.11m x 4.66m\n(16' 9\" x 15' 3\") bl\n|\n{\u2014N a\nox? (=\nae 7 \\\nFn\nHall a\n| | | || i\neI =\naa aa |\nol Eo\n\\- = Bedroom 2 =\nBathroom\n278m 1 90m ee 300m x 223m\na (12'8\"x 7' 4\")\nStore , i\nLower Ground Floor Ground Floor\nTotal floor area 78.7 sq.m. (847 sq.ft.) approx\nThis floor plan is for illustrative purposes only. It is not drawn to scale. Any measurements, floor areas (including any total floor area), openings and orientation are\napproximate. No details are guaranteed, they cannot be relied upon for any purpose and they do not form part of any agreement. No liability is taken for any error, omission\nor misstatement. A party must rely upon its own inspection(s). Plan produced for Purple Bricks. Powered by www.focalagent.com\n",
+    "image": "./extracted_images/60572054.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60572054/",
+    "listing_no": "60572054",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.489673,
+        "longitude": -0.069478
+    },
+    "first_published": "2022-01-20T14:38:27",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60572054",
+        "publishedOn": "2022-01-20T14:38:27",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://www.purplebricks.co.uk/brochure/1297565",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": false,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "28 Welsford Street, London SE1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5RA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60572054,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "SE1",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 432453
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/purplebricks-head-office-solihull-58933/",
+            "branchId": "58933",
+            "branchResultsUri": "/for-sale/branch/purplebricks-head-office-solihull-58933/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "phone": "024 7511 8874",
+            "name": "Purplebricks, Head Office",
+            "memberType": "agent",
+            "address": "Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull",
+            "postcode": "B90 4RZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Spa School, Bermondsey",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "City of London Academy (Southwark)",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bermondsey",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "South Bermondsey",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=ZT6Cw4A53QW&back=1"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "caption": "epc",
+                    "original": "https://lc.zoocdn.com/54b8bee8fa34248567c4cd1a1af0bf82e390df0f.pdf"
+                }
+            ]
+        },
+        "detailedDescription": "A fantastic opportunity to acquire an immaculate, two double bedroom, split level apartment within a stunning Victorian pub conversion. Set on the corner of tree lined Lynton Road and quiet Welsford Street. Further features include high ceilings, gas, bike store, and on street permit parking.<br><br>With light and spacious accommodation as well as neutral decoration and modern interiors this property comprises entrance hall with solid oak floors throughout and carpet in the bedroom for extra comfort. The property has been lovingly looked after by the current owner the property is offered in excellent condition, combining high quality modern fixtures and fittings with an abundance of natural light and period charm.<br><br>On entering the ground floor, you discover a large hallway with store on your right a large double bedroom, leading into the bright and spacious open plan kitchen/reception, a wonderfully bright room that boast four large windows and has a lovely ambience and plenty of space for comfortable and practical living. The fully fitted kitchen comprises a modern range of wall and base units with work surfaces incorporating inset sink unit, induction hob with overhead extractor and electric oven, and further space for appliances.<br><br>Downstairs you discover a large storage cupboard in the hallway a stylist bathroom, a huge master bedroom that boasts a large en-suite, with access out to a private, sunken patio area. The master bathroom is a great size and very much in keeping with the quality throughout.<br><br>Centrally located within SE1, you are ideally placed to enjoy the bars, restaurants, boutiques and galleries of Bermondsey Street with Maltby Street Market, Shad Thames and Borough also in close proximity. Other local attractions include, The Shard, Tate Modern and of course, The South Bank. Transport links are plentiful with Bermondsey and South Bermondsey just a short walk away, offering easy access to The City, Canary Wharf and West End.<br><br><strong>Lease Information</strong><br><br>Remaining Lease 116 years remain<br>Service charge - \u00a3 1936 pa<br>Ground rent - \u00a3 300 pa<br><br>All prospective purchasers are advised to make their own enquiries via a solicitor.<br><br><strong>Disclaimer For Virtual Viewings</strong><br><br>Some or all information pertaining to this property may have been provided solely by the vendor, and although we always make every effort to verify the information provided to us, we strongly advise you to make further enquiries before continuing.<br><br>If you book a viewing or make an offer on a property that has had its valuation conducted virtually, you are doing so under the knowledge that this information may have been provided solely by the vendor, and that we may not have been able to access the premises to confirm the information or test any equipment. We therefore strongly advise you to make further enquiries before completing your purchase of the property to ensure you are happy with all the information provided.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Charming two double bedroom flat",
+                "Close to excellent transport links and amenities",
+                "Open plan living",
+                "Fully fitted kitchen",
+                "Split level",
+                "Stylish bathroom and en-suite",
+                "Perfect first time purchase"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "f7db18a9b04a630a9009bc22a635fe2a1f7b0295.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "ff3299998d909a52805bb388cf1b4f999e18a642.jpg",
+                "caption": "View Of The Property"
+            },
+            {
+                "__typename": "Media",
+                "filename": "770ad4de35c6675c925d0be3112cc4c7da90044f.jpg",
+                "caption": "Open Plan Living"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9fa5551985f581c51453a7c776eae6414189032f.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2c04a16d919ea548e06a2028e5bc429bc702020d.jpg",
+                "caption": "Open Plan Living"
+            },
+            {
+                "__typename": "Media",
+                "filename": "99f90f4eef100e8f735882f550df9939a1dc8e2a.jpg",
+                "caption": "Upstairs"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f3e409d6f5dafd33a9d2792e03d0fc1a0df3d427.jpg",
+                "caption": "Hallway"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c394990500551dce337b1a01441fd08f18ef11d5.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "57e909a66b6593ec5dd5d346f84f7f42dea310c2.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3724ffc5d4908246bc9b6919528012a300772dc5.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9406286281d9058abbbb029b26f2d57f93eb48c5.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "872c7f5b3622717c05d5b4ab768efc6edbaabee4.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "69bc30e22da968344a2a83768c7034a2e0741476.jpg",
+                "caption": "Courtyard"
+            },
+            {
+                "__typename": "Media",
+                "filename": "63a730c07c12c7e7dd5ee671e88eed92f527ada9.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "199de800f6dc70e1f30578018f7ed0cd317d7827.jpg",
+                "caption": "View Of The Property"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": false,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "28 Welsford Street, London SE1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5RA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60572054,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "SE1",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 432453
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in 28 Welsford Street, London SE1 - Zoopla",
+        "metaDescription": "2 bed flat for sale in 28 Welsford Street, London SE1, selling for \u00a3550,000 from Purplebricks, Head Office. See property details on Zoopla or browse all our range of properties in 28 Welsford Street, London SE1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60572054/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.489673,
+                "longitude": -0.069478
+            }
+        },
+        "displayAddress": "28 Welsford Street, London SE1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-20T14:38:27",
+                "priceLabel": "\u00a3565,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "2.7",
+                    "priceChangeDate": "2022-02-21T11:15:13",
+                    "priceChangeLabel": "\u00a315,000",
+                    "priceLabel": "\u00a3550,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 145
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/f7db18a9b04a630a9009bc22a635fe2a1f7b0295.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Purplebricks",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60572054,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "E3FB0EA2-9307-11EC-8C2E-76C20D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE1",
+            "areaNameUri": "london/se1/waterloo-bermondsey-south-bank-the-borough-north-lambeth",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3689.3737373737354
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 737858,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 742939,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -5081
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 746105,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -8247
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 780738,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -42880
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 710078,
+                    "pctChangeSince": 3.912,
+                    "date": "2017-02-26",
+                    "changeSince": 27780
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 464196,
+                    "pctChangeSince": 58.954,
+                    "date": "2012-02-26",
+                    "changeSince": 273662
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 448557,
+                    "pctChangeSince": 64.496,
+                    "date": "2007-02-26",
+                    "changeSince": 289301
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 266156,
+                    "pctChangeSince": 177.228,
+                    "date": "2002-02-26",
+                    "changeSince": 471702
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 672517,
+                    "newBuilds": 7,
+                    "numSales": 342
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 732618,
+                    "newBuilds": 146,
+                    "numSales": 1094
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 734821,
+                    "newBuilds": 469,
+                    "numSales": 2563
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 739640,
+                    "newBuilds": 1154,
+                    "numSales": 4560
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 485000,
+                    "propertyId": 30567005,
+                    "streetAddress": "9, Carpenters Arms Apartments, 28 Welsford Street",
+                    "uri": "9/carpenters-arms-apartments/28-welsford-street/london/se1-5ra"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 20861951,
+                    "streetAddress": "171 St. James's Road",
+                    "uri": "171-st-james-s-road/london/se1-5bp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 20865933,
+                    "streetAddress": "22 Marcia Road",
+                    "uri": "22-marcia-road/london/se1-5xf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 826000,
+                    "propertyId": 20866398,
+                    "streetAddress": "Flat 1, 19 Harper Road",
+                    "uri": "flat-1/19-harper-road/london/se1-6aw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 726000,
+                    "propertyId": 20866401,
+                    "streetAddress": "Flat 4, 19 Harper Road",
+                    "uri": "flat-4/19-harper-road/london/se1-6aw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1202000,
+                    "propertyId": 20866402,
+                    "streetAddress": "Flat 5, 19 Harper Road",
+                    "uri": "flat-5/19-harper-road/london/se1-6aw"
+                }
+            ]
+        }
+    }
+}

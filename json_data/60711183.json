@@ -1,0 +1,508 @@
+{
+    "address": "Marsden Road, Peckham Rye, London SE15",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 58.0,
+    "sqft": 624.0,
+    "text": "y; N\nry\nMASTER BEDROOM\n13'7 x 12'3 5\n4.14m x 3.73m\nIN\nBEDROOM 2\n10'9 x 10'5\n3.28m x 3.18m\nRECEPTION ROOM/\nKITCHEN\n2 19'0 x 13'3\n5.79m x 4.04m\nGARDEN\nEXTENDS TO\n38'4 (11.7m) 2\u00a2\nT\nZY\nGROUND FLOOR\nAPPROXIMATE GROSS INTERNAL AREA\n624 SQ FT/58 SQM\n",
+    "image": "./extracted_images/60711183.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60711183/",
+    "listing_no": "60711183",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.463423,
+        "longitude": -0.074358
+    },
+    "first_published": "2022-02-08T14:18:41",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60711183",
+        "publishedOn": "2022-02-08T14:18:41",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/DUL220022",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=DUL220022",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8169,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Dulwich",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Marsden Road, Peckham Rye, London SE15",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4EE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60711183,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SE15",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 748714
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-dulwich-east-dulwich-8169/",
+            "branchId": "8169",
+            "branchResultsUri": "/for-sale/branch/winkworth-dulwich-east-dulwich-8169/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8115 8427",
+            "name": "Winkworth - Dulwich",
+            "memberType": "agent",
+            "address": "97 Lordship Lane, East Dulwich",
+            "postcode": "SE22 8HU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Johns' and St Clements Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Belham Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Dulwich",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Peckham Rye",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "a19c10260d0e7297ca359ee590cbe3e703f0d990.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A fantastic opportunity to purchase a stunning, ground floor garden flat, situated on one of the most popular roads in Peckham Rye. This beautiful property is offered to the market in remarkable condition, comprising two large double bedrooms with bespoke built in wardrobes, beautiful d\u00e9cor and original features. A large stunning shower room with stunning fittings. To the rear, the property comprises a large open-plan kitchen/ diner with beautiful flooring, fully integrated kitchen and French doors leading out to a large, private, sunny garden to rear. The property is situated equilaterally between Lordship Lane and Bellenden Road, offering a fantastic array of shops, bars, restaurants, cinemas and nightlife. Transport links are very well located with Peckham Rye for the overground and East Dulwich station for direct links to London Bridge. Further benefits include large, green open spaces at Peckham Rye park and Goose Green as well as fantastic primary and secondary school catchments.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Ground Floor Flat",
+                "Period Conversion",
+                "Large Open-Plan Kitchen-Diner",
+                "Two Double Bedrooms",
+                "Private Garden",
+                "Share of Freehold"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "80666d8b4c17d9f6ca8cfd105fced1ba8384674b.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "7eb3efdb9bd31211ccaeb3c45d1334527e29f161.jpg",
+                "caption": "Kitchen-Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "abac93c46edadebf439e1cc4823194b87e4e9af4.jpg",
+                "caption": "External"
+            },
+            {
+                "__typename": "Media",
+                "filename": "21be2a1f0343ec87e2ae9310809a0e67ef6dd4d0.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2dfdfb7353307f700b94c515d2720de6e0784482.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a1d5a0beaea455a9a01d211f91b6abcd82567d6c.jpg",
+                "caption": "Garden Part Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5457fedc557104055cea41331c6dbef23ffc2b0f.jpg",
+                "caption": "Bedroom One Part One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "890b273d7f12a912036c12c45daafbca6cd47b36.jpg",
+                "caption": "Bedroom Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1023eeac8918abd54523b4dc3030790fc7fc25fd.jpg",
+                "caption": "Shower Room"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8169,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Dulwich",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Marsden Road, Peckham Rye, London SE15",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4EE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60711183,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SE15",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 748714
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Marsden Road, Peckham Rye, London SE15 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Marsden Road, Peckham Rye, London SE15, selling for \u00a3625,000 from Winkworth - Dulwich. See property details on Zoopla or browse all our range of properties in Marsden Road, Peckham Rye, London SE15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60711183/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.463423,
+                "longitude": -0.074358
+            }
+        },
+        "displayAddress": "Marsden Road, Peckham Rye, London SE15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-08T14:18:41",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3.8",
+                    "priceChangeDate": "2022-02-21T19:22:06",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3625,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 167
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/80666d8b4c17d9f6ca8cfd105fced1ba8384674b.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60711183,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "24C4AF28-9354-11EC-9278-A6340E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE15",
+            "areaNameUri": "london/se15/peckham-nunhead",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1671.1190476190468
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 395607,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 398331,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2724
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 400027,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -4420
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 418593,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -22986
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 380699,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 14908
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 248873,
+                    "pctChangeSince": 58.959,
+                    "date": "2012-02-26",
+                    "changeSince": 146734
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 240488,
+                    "pctChangeSince": 64.502,
+                    "date": "2007-02-26",
+                    "changeSince": 155119
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 142696,
+                    "pctChangeSince": 177.238,
+                    "date": "2002-02-26",
+                    "changeSince": 252911
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 439321,
+                    "newBuilds": 0,
+                    "numSales": 205
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 425683,
+                    "newBuilds": 18,
+                    "numSales": 623
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 418250,
+                    "newBuilds": 75,
+                    "numSales": 1237
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 399404,
+                    "newBuilds": 115,
+                    "numSales": 2053
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 21077836,
+                    "streetAddress": "66 Latona Road",
+                    "uri": "66-latona-road/london/se15-6ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 431500,
+                    "propertyId": 21069681,
+                    "streetAddress": "48b Nutbrook Street",
+                    "uri": "48b-nutbrook-street/london/se15-4le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 945000,
+                    "propertyId": 21062590,
+                    "streetAddress": "212 Ivydale Road",
+                    "uri": "212-ivydale-road/london/se15-3bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 32800154,
+                    "streetAddress": "Apartment 41, 2 Woods Road",
+                    "uri": "apartment-41/2-woods-road/london/se15-2px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-17T00:00:00Z",
+                    "price": 377000,
+                    "propertyId": 31064196,
+                    "streetAddress": "Flat B, 62 Choumert Road",
+                    "uri": "flat-b/62-choumert-road/london/se15-4ax"
+                }
+            ]
+        }
+    }
+}

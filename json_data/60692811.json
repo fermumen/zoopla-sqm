@@ -1,0 +1,569 @@
+{
+    "address": "Manor Gardens, Holloway, London N7",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": "978 sq. ft",
+    "sqm": 61.44,
+    "sqft": 661.0,
+    "text": "BEDROOM\n20' x 159\n6.10m x 4.80m |\nMEZZANINE GROSS INTERNAL FLOOR AREA\n317 SQ FT/29.44 SQM\nPd\n> BEDROOM\n15'9x 11\"\n4,80m x 3.35m\nOo\n[ele]\nKITCHEN\n12'x 53\nB.66m x 1.60m i\nRECEPTION ROOM\n179x149\n5.41m x 4.50m\nTHIRD FLOOR GROSS INTERNAL FLOOR AREA\n661 SQ FT/61.44 SQM\n",
+    "image": "./extracted_images/60692811.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60692811/",
+    "listing_no": "60692811",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.560534,
+        "longitude": -0.120503
+    },
+    "first_published": "2022-02-05T08:04:17",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60692811",
+        "publishedOn": "2022-02-05T08:04:17",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/n7/chpk0110551/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/n7/chpk0110551",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/n7/chpk0110551/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 52940,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Crouch End",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Manor Gardens, Holloway, London N7",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6JW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60692811,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "978",
+            "tenure": null,
+            "zindex": 661890
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-crouch-end-london-52940/",
+            "branchId": "52940",
+            "branchResultsUri": "/for-sale/branch/foxtons-crouch-end-london-52940/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3544 2505",
+            "name": "Foxtons - Crouch End",
+            "memberType": "agent",
+            "address": "3-5 Crouch End Hill, London",
+            "postcode": "N8 8DH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Grafton Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Montem Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Upper Holloway",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Holloway Road",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A stylish and spacious 2 bedroom flat offering elegant and contemporary living space set within a fantastic portered building, benefiting from off-street parking and access to a communal garden, roof terrace and gym.<br><br>Manor Gardens is located moments from the shops, bars and restaurants on Holloway Road. Transport links include Holloway Road Station, Archway Station and for the motorist the nearby A1 leads to routes out of London.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Stylish and contemporary flat",
+                "Split level with spacious and naturally bright rooms",
+                "Stunning reception room flooded with natural light",
+                "Large main bedroom and spacious mezzanine",
+                "Situated in a portered building",
+                "Access to communal gardens and communal roof terrace",
+                "Access to a gym, sauna and steam room",
+                "Benefiting from off-street parking"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "6e114b5e7be63f5af20b9f0fa1436a9659f6d89d.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "c853526ea80f63e974c1e08b1d26665aa24371c3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "db35da0e7ff8620bd304751f534bac1691350853.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c824c9f283cf3f980b0d16fa1b02ed8344d1eb76.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "618a8fa44862d385606de49b38920f31bb63ecb8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "90282cec043196a7a3a32f785f273907e0074a20.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2a8243262da06385027fdb788ffa49ddb6d3d49a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "160541ac09d01801daee89869176e9fe92bdce8b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fcfe39d8a0761303acdaba138daa3ebf7c7cf85e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0d30f983f4acff6565b9263f11ab6be3e3d5e3f6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1e6c5b12d5206a7d330d20930c9c5463c00ce1fa.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "68ff62dd6981338ceca3649255a64d197fb5a538.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 52940,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Crouch End",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Manor Gardens, Holloway, London N7",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6JW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60692811,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "978",
+            "tenure": null,
+            "zindex": 661890
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Manor Gardens, Holloway, London N7 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Manor Gardens, Holloway, London N7, selling for \u00a3650,000 from Foxtons - Crouch End. See property details on Zoopla or browse all our range of properties in Manor Gardens, Holloway, London N7.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60692811/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.560534,
+                "longitude": -0.120503
+            }
+        },
+        "displayAddress": "Manor Gardens, Holloway, London N7",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-05T08:04:17",
+                "priceLabel": "\u00a3700,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "7.1",
+                    "priceChangeDate": "2022-02-22T11:02:53",
+                    "priceChangeLabel": "\u00a350,000",
+                    "priceLabel": "\u00a3650,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 281
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/6e114b5e7be63f5af20b9f0fa1436a9659f6d89d.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 978
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 665,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60692811,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "45EB96C8-93CF-11EC-84BD-32F60D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N7",
+            "areaNameUri": "london/n7/holloway",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2225.222222222224
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 506811,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 515573,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8762
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 531722,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -24911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 558515,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -51704
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 516722,
+                    "pctChangeSince": -1.918,
+                    "date": "2017-02-26",
+                    "changeSince": -9911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 338762,
+                    "pctChangeSince": 49.607,
+                    "date": "2012-02-26",
+                    "changeSince": 168049
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 317783,
+                    "pctChangeSince": 59.483,
+                    "date": "2007-02-26",
+                    "changeSince": 189028
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 191290,
+                    "pctChangeSince": 164.944,
+                    "date": "2002-02-26",
+                    "changeSince": 315521
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 524496,
+                    "newBuilds": 0,
+                    "numSales": 200
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 518653,
+                    "newBuilds": 8,
+                    "numSales": 549
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 499646,
+                    "newBuilds": 8,
+                    "numSales": 1035
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 499177,
+                    "newBuilds": 124,
+                    "numSales": 1796
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 401500,
+                    "propertyId": 15118223,
+                    "streetAddress": "Flat 47, Sherard Court, 3 Manor Gardens",
+                    "uri": "flat-47/sherard-court/3-manor-gardens/london/n7-6fb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 435000,
+                    "propertyId": 15118209,
+                    "streetAddress": "Flat 39, Sherard Court, 3 Manor Gardens",
+                    "uri": "flat-39/sherard-court/3-manor-gardens/london/n7-6fa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 15118418,
+                    "streetAddress": "Flat 1, Devonshire Court, 19 Manor Gardens",
+                    "uri": "flat-1/devonshire-court/19-manor-gardens/london/n7-6gr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-07T00:00:00Z",
+                    "price": 360000,
+                    "propertyId": 15118425,
+                    "streetAddress": "Flat 3, Devonshire Court, 19 Manor Gardens",
+                    "uri": "flat-3/devonshire-court/19-manor-gardens/london/n7-6gr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-07T00:00:00Z",
+                    "price": 555000,
+                    "propertyId": 15118429,
+                    "streetAddress": "Flat 7, Devonshire Court, 19 Manor Gardens",
+                    "uri": "flat-7/devonshire-court/19-manor-gardens/london/n7-6gr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 755000,
+                    "propertyId": 15118599,
+                    "streetAddress": "11 Empire Square",
+                    "uri": "11-empire-square/london/n7-6jn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1620000,
+                    "propertyId": 15124242,
+                    "streetAddress": "6 Orleston Mews",
+                    "uri": "6-orleston-mews/london/n7-8ll"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 309000,
+                    "propertyId": 27250808,
+                    "streetAddress": "Flat 3, 17 Carleton Road",
+                    "uri": "flat-3/17-carleton-road/london/n7-0qz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 15121738,
+                    "streetAddress": "21 Selden Walk",
+                    "uri": "21-selden-walk/london/n7-7rl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 15114386,
+                    "streetAddress": "81 Penderyn Way, Carleton Road",
+                    "uri": "81-penderyn-way/carleton-road/london/n7-0ey"
+                }
+            ]
+        }
+    }
+}

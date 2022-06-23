@@ -1,0 +1,530 @@
+{
+    "address": "Burnthwaite Road, Fulham, London SW6",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 67.4,
+    "sqft": 2021.0,
+    "text": "Burnthwaite Road, SW6 S\no1nia/2021 X 2,248,483 67.40 sqm / 725.49 saft\nyp\nte W arr aes\nA Lit\n| | MAIN BEDROOM \u2014| ra\nET GReeeg I] m4\nBa : \u2014 |\nhd I \u201cSe\npt aan\nfi a KA\n~ Fourth Floor\nVy if 4 ww\na hae al\n\\\\| i |\n| Recertion/oinine Room a |\ni} 5.32m x 3.72m - |\n(7's x12) \u2014 |\nBal socuss\n| BEDROOM 2\nif KITCHEN 3.35m x 2.54m\n, \\ 249m x 164m \u2014\n\\\\ Yee 2055)\n\\ \u00e9 [wcll\n| _ ILS\n= Third Floor\nCE\n+\n~ Second Floor\n67.40 sqm / 725.49 saft ti 4 60.49 sqm / 651.11 sqft 0.00 sam / 0.00 sqft 6.02 sam / 64.80 saft\nMspec (A9 \u2018\nVerified &\n",
+    "image": "./extracted_images/60322715.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60322715/",
+    "listing_no": "60322715",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.479355,
+        "longitude": -0.202176
+    },
+    "first_published": "2021-12-03T21:25:33",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60322715",
+        "publishedOn": "2021-12-03T21:25:33",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "https://www.chestertons.com/properties/property-KEN210069/",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://chips.chestertons.com/chips/brochures/KEN210069.PDF",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 9279,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Fulham Road",
+            "brandName": "Chestertons",
+            "chainFree": false,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Burnthwaite Road, Fulham, London SW6",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5BG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60322715,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1013791
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/chestertons-fulham-road-london-9279/",
+            "branchId": "9279",
+            "branchResultsUri": "/for-sale/branch/chestertons-fulham-road-london-9279/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "phone": "020 8115 2530",
+            "name": "Chestertons - Fulham Road",
+            "memberType": "agent",
+            "address": "654 Fulham Road, Fulham, London",
+            "postcode": "SW6 5RU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kensington Prep School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Evergreen Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Parsons Green",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Fulham Broadway",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "b885966db581005dcd03aab727abfda58253a044.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A wonderfully bright 2 double bedroom, 2 bathroom split level conversion flat extending to approx. 725 Sq ft. And located on this quiet residential road.<br><br>The property is arranged over the top two floors of a period building and being on the corner enjoys a dual aspect allowing for plenty on natural light.<br><br>Burnthwaite Road is a lovely quiet residential road tucked away yet conveniently located moments from all shops, bars, boutiques and restaurants in Fulham Broadway &amp; Parsons Green Station.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Lovely split level conversion flat",
+                "2 bedrooms : 2 bathrooms",
+                "Extending to approx. 725 sq ft",
+                "Quiet residential road"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "149bcff2c2db2c0824d03c4460106c9612e1d6f9.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "f9ce78e4f0e01380018f7414e66af242c7916eab.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "466cd35ac83ea7b36cbf47bcf16c33e470cbdeb3.jpg",
+                "caption": "Dining"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a7789bcca9ec150acfdf118713190f021e31a95a.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4cfe2197b282dfb662e47c64c0f64637ef4a4b13.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c6e27dbff79e67825e6161c4eb590b326113679b.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "490f7964780898a38e413d7b5ad852a84bd55da3.jpg",
+                "caption": "External"
+            },
+            {
+                "__typename": "Media",
+                "filename": "40c8c551239f9f07e532bd58aef4eea29644b18d.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "de2164ca6a047767f21408e5d25e46e6e934b58c.jpg",
+                "caption": "Bedroom"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 9279,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Fulham Road",
+            "brandName": "Chestertons",
+            "chainFree": false,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Burnthwaite Road, Fulham, London SW6",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5BG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60322715,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1013791
+        },
+        "title": "2 bed maisonette for sale",
+        "metaTitle": "2 bed maisonette for sale in Burnthwaite Road, Fulham, London SW6 - Zoopla",
+        "metaDescription": "2 bed maisonette for sale in Burnthwaite Road, Fulham, London SW6, selling for \u00a3575,000 from Chestertons - Fulham Road. See property details on Zoopla or browse all our range of properties in Burnthwaite Road, Fulham, London SW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60322715/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.479355,
+                "longitude": -0.202176
+            }
+        },
+        "displayAddress": "Burnthwaite Road, Fulham, London SW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-03T21:25:33",
+                "priceLabel": "\u00a3599,950"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.2",
+                    "priceChangeDate": "2022-01-28T14:46:32",
+                    "priceChangeLabel": "\u00a324,950",
+                    "priceLabel": "\u00a3575,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 240
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/149bcff2c2db2c0824d03c4460106c9612e1d6f9.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Chestertons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60322715,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "72D2125C-8060-11EC-9A07-CCF40D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW6",
+            "areaNameUri": "london/sw6/fulham-parsons-green",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3102.639751552796
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 741749,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 745413,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -3664
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 745886,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -4137
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 777001,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -35252
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 752893,
+                    "pctChangeSince": -1.48,
+                    "date": "2017-02-26",
+                    "changeSince": -11144
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 519022,
+                    "pctChangeSince": 42.913,
+                    "date": "2012-02-26",
+                    "changeSince": 222727
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 474130,
+                    "pctChangeSince": 56.444,
+                    "date": "2007-02-26",
+                    "changeSince": 267619
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 288868,
+                    "pctChangeSince": 156.778,
+                    "date": "2002-02-26",
+                    "changeSince": 452881
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 712416,
+                    "newBuilds": 0,
+                    "numSales": 315
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 692544,
+                    "newBuilds": 3,
+                    "numSales": 929
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 701679,
+                    "newBuilds": 50,
+                    "numSales": 1653
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 747775,
+                    "newBuilds": 285,
+                    "numSales": 2791
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 990000,
+                    "propertyId": 23177039,
+                    "streetAddress": "32 Burnthwaite Road",
+                    "uri": "32-burnthwaite-road/london/sw6-5be"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 1310000,
+                    "propertyId": 23177193,
+                    "streetAddress": "75 Burnthwaite Road",
+                    "uri": "75-burnthwaite-road/london/sw6-5bq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 985000,
+                    "propertyId": 23177031,
+                    "streetAddress": "16 Burnthwaite Road",
+                    "uri": "16-burnthwaite-road/london/sw6-5be"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-21T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 23174037,
+                    "streetAddress": "Flat 14, Alex Gossip House, Basuto Road",
+                    "uri": "flat-14/alex-gossip-house/basuto-road/london/sw6-4ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 1275000,
+                    "propertyId": 23186386,
+                    "streetAddress": "27 Rosaline Road",
+                    "uri": "27-rosaline-road/london/sw6-7qs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 1750000,
+                    "propertyId": 29512493,
+                    "streetAddress": "5 Parsons Gate Mews",
+                    "uri": "5-parsons-gate-mews/london/sw6-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1140000,
+                    "propertyId": 23181929,
+                    "streetAddress": "Flat 17, Elm Lodge, 75 Stevenage Road",
+                    "uri": "flat-17/elm-lodge/75-stevenage-road/london/sw6-6nz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 23185397,
+                    "streetAddress": "42 Orbain Road",
+                    "uri": "42-orbain-road/london/sw6-7jy"
+                }
+            ]
+        }
+    }
+}

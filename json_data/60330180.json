@@ -1,0 +1,578 @@
+{
+    "address": "Kilburn Lane, London W10",
+    "price": "\u00a3570,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 85.0,
+    "sqft": 915.0,
+    "text": "cs)\nSI\n[AYO sees.\nOO] tere\ntonen\nel i\nDiner\n3.95m x 3.73m\n(13 0\" x 12' 3\")\naa\n| |\nLiving Room EH\n3.69m x 3.47m Ee 4\n(12! 4\"x 115\") EI | Ree KoA\neo A ae Wt\nac i et i\n| Tancsen iF Tee) ae\nty Ka | Bedroom 1 ash\nI | \u201ceS ARN\nPS _ an\nZa\n7 i\nBedroom 2\n3.61m x 3.11m\n(11 10\" x 10' 2\") Bedroom 3\n267m x 1.67m\nHall | (@o\"x5'6\")\nGround Floor First Floor Second Floor\nTotal floor area 85.0 sq.m. (915 sq.ft.) approx\nThis floor plan is for illustrative purposes only. It is not drawn to scale. Any measurements, floor areas (including any total floor area), openings and orientation are\napproximate. No details are guaranteed, they cannot be relied upon for any purpose and they do not form part of any agreement. No liability is taken for any error, omission\nor misstatement. A party must rely upon its own inspection(s). Plan produced for Purple Bricks. Powered by www.focalagent.com\n",
+    "image": "./extracted_images/60330180.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60330180/",
+    "listing_no": "60330180",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.532761,
+        "longitude": -0.208593
+    },
+    "first_published": "2021-12-06T14:15:15",
+    "last_sale_date": "2016-12-07",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60330180",
+        "publishedOn": "2021-12-06T14:15:15",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://www.purplebricks.co.uk/brochure/667100",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": true,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Kilburn Lane, London W10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4BQ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60330180,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "W10",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 570000,
+            "price": 570000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 446624
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/purplebricks-head-office-solihull-58933/",
+            "branchId": "58933",
+            "branchResultsUri": "/for-sale/branch/purplebricks-head-office-solihull-58933/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "phone": "024 7511 8874",
+            "name": "Purplebricks, Head Office",
+            "memberType": "agent",
+            "address": "Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull",
+            "postcode": "B90 4RZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wilberforce Primary",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Queens Park (London)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Queen's Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Luke's CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=4XjUca53z4m"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "caption": "epc",
+                    "original": "https://lc.zoocdn.com/52ce5f778de9fa62ac1a52a189b4ab6580f673ab.pdf"
+                }
+            ]
+        },
+        "detailedDescription": "A fantastic upper maisonette benefitting from its own front door at street level. The accommodation comprises stairs leading up to the landing where you will find a large living room, diner, modern kitchen and bathroom. Also on this floor are two bedrooms with a further bedroom on the floor above.<br><br>The property is ideally located to access the varied amenities of Queen\u2019s Park and Kensal Rise with the open space of Queen's Park and the hustle and bustle of both Salusbury Road and Chamberlayne Road. There is an exceptional mix of shops, bars and cafes on your doorstep.<br><br>Local transport links include Queen\u2019s Park (Bakerloo &amp; Overground and Kensal Rise (Overground).<br><br>The property is in the catchment area of a number of good or outstanding primary schools.<br><br>The new Moberly Sports Centre, with its fitness and spa facilities, is a four-minute walk away. To the south run the Grand Union Canal and the Harrow Road, and the lively neighbourhoods of Portobello Road and Notting Hill are close by<br><br>*To book a viewing on this great property 24 hours a day, 7 days a week please visit the Purplebricks website for viewing availability and to confirm your date and appointment time. Alternatively, you can download our award-winning App*<br><br><strong>Disclaimer For Virtual Viewings</strong><br><br>Some or all information pertaining to this property may have been provided solely by the vendor, and although we always make every effort to verify the information provided to us, we strongly advise you to make further enquiries before continuing.<br><br>If you book a viewing or make an offer on a property that has had its valuation conducted virtually, you are doing so under the knowledge that this information may have been provided solely by the vendor, and that we may not have been able to access the premises to confirm the information or test any equipment. We therefore strongly advise you to make further enquiries before completing your purchase of the property to ensure you are happy with all the information provided.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three bedrooms",
+                "Maisonette",
+                "Modern kitchen &amp; bathroom",
+                "Spacious, split level reception room",
+                "Great location",
+                "Private entrance",
+                "No onward chain",
+                "Potential for roof terrace (stpp)"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "22071c3caee6418f9eccc046e495ac0db146f403.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "acff853913041c72fccb9bffbd4734e625e87b23.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f5c50340f11acd200aed5627702a252f1d407568.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "540db1b331955651798055f6327f89c9ce050cd5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b0df3deff3621de1620f21fcfe7c16a8b1e0fdbd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8e99e5321a71d1bac66e8fb894e2e0540a71ccb6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7eeb30373bb4dc7c8fec5eed99a3c46b396d6e47.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "454cf2270355a6f5522f88508b6c488d3a892504.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ac37900e914937207367ef4458a0e77740dd3464.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "37d7b1d5cf0e994fabc65e44aaf266167ba76cda.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5be7b920b9eabe5976b62ab5907b91866d21448f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "995ea27a89561f4a9ff07cc1b82805375d9b217e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "43d97940a6bc0ee6b1bdc04e80b202325d1b1ae7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6bae1f5f995b959dea091ca97c14789a7153f6e0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a55c77640ae54dea160a03be9cfe69fad9326d41.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1e2c5799dd23a3ce95650f20424007028ee79dba.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": true,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Kilburn Lane, London W10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4BQ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60330180,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "W10",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 570000,
+            "price": 570000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 446624
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Kilburn Lane, London W10 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Kilburn Lane, London W10, selling for \u00a3570,000 from Purplebricks, Head Office. See property details on Zoopla or browse all our range of properties in Kilburn Lane, London W10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60330180/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.532761,
+                "longitude": -0.208593
+            }
+        },
+        "displayAddress": "Kilburn Lane, London W10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-06T14:15:15",
+                "priceLabel": "\u00a3570,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2016-12-07",
+                "newBuild": false,
+                "price": 570000,
+                "priceLabel": "\u00a3570,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 118
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/22071c3caee6418f9eccc046e495ac0db146f403.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3570,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Purplebricks",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60330180,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "D191F0BC-91C4-11EC-9E98-E50D0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W10",
+            "areaNameUri": "london/w10/north-kensington-ladbroke-grove",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 4968.888888888902
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 587111,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 596640,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -9529
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 614282,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -27171
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 647518,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -60407
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 642442,
+                    "pctChangeSince": -8.613,
+                    "date": "2017-02-26",
+                    "changeSince": -55331
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 427933,
+                    "pctChangeSince": 37.197,
+                    "date": "2012-02-26",
+                    "changeSince": 159178
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 381623,
+                    "pctChangeSince": 53.846,
+                    "date": "2007-02-26",
+                    "changeSince": 205488
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 226175,
+                    "pctChangeSince": 159.583,
+                    "date": "2002-02-26",
+                    "changeSince": 360936
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 643648,
+                    "newBuilds": 1,
+                    "numSales": 79
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 663556,
+                    "newBuilds": 10,
+                    "numSales": 203
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 665037,
+                    "newBuilds": 14,
+                    "numSales": 374
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 649877,
+                    "newBuilds": 80,
+                    "numSales": 723
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-20T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 25122456,
+                    "streetAddress": "201a Kilburn Lane",
+                    "uri": "201a-kilburn-lane/london/w10-4ax"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-20T00:00:00Z",
+                    "price": 420000,
+                    "propertyId": 25122651,
+                    "streetAddress": "Flat 4, 284 Kilburn Lane",
+                    "uri": "flat-4/284-kilburn-lane/london/w10-4bw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-04T00:00:00Z",
+                    "price": 820000,
+                    "propertyId": 25122159,
+                    "streetAddress": "68 Kilburn Lane",
+                    "uri": "68-kilburn-lane/london/w10-4ah"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 547500,
+                    "propertyId": 25122265,
+                    "streetAddress": "95a Kilburn Lane",
+                    "uri": "95a-kilburn-lane/london/w10-4an"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-22T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 25122576,
+                    "streetAddress": "227 Kilburn Lane",
+                    "uri": "227-kilburn-lane/london/w10-4bq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 855000,
+                    "propertyId": 25132688,
+                    "streetAddress": "34 Kelfield Gardens",
+                    "uri": "34-kelfield-gardens/london/w10-6nb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 330000,
+                    "propertyId": 25122296,
+                    "streetAddress": "Flat 18, Noko 3-6, Banister Road",
+                    "uri": "flat-18/noko-3-6/banister-road/london/w10-4ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 820000,
+                    "propertyId": 25123668,
+                    "streetAddress": "29 Nutbourne Street",
+                    "uri": "29-nutbourne-street/london/w10-4hw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 1525000,
+                    "propertyId": 25130758,
+                    "streetAddress": "36 Bracewell Road",
+                    "uri": "36-bracewell-road/london/w10-6af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 565000,
+                    "propertyId": 25128269,
+                    "streetAddress": "194 Ladbroke Grove",
+                    "uri": "194-ladbroke-grove/london/w10-5lz"
+                }
+            ]
+        }
+    }
+}

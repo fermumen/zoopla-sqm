@@ -1,0 +1,503 @@
+{
+    "address": "World's End Estate, London SW10",
+    "price": "\u00a3580,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60779140/",
+    "listing_no": "60779140",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.481284,
+        "longitude": -0.180857
+    },
+    "first_published": "2022-02-16T19:16:50",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60779140",
+        "publishedOn": "2022-02-16T19:16:50",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Full Brochure",
+                "original": "http://www.dezrez.com/DRApp/Search.ASP?WCI=Particular&WCE=004938706",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Book A Viewing Now On This Property",
+                "original": "https://www.expressestateagency.co.uk/LP-Viewing-n-RMZ/web/index.php/bookviewing/4938706",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 15566,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(654815).png",
+            "branchName": "Express Estate Agency",
+            "brandName": "Express Estate Agency",
+            "chainFree": false,
+            "companyId": 18887,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "World's End Estate, London SW10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "0EA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60779140,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": null,
+            "outcode": "SW10",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 612353
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/express-estate-agency-manchester-15566/",
+            "branchId": "15566",
+            "branchResultsUri": "/for-sale/branch/express-estate-agency-manchester-15566/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(654815).png",
+            "phone": "0333 016 5458",
+            "name": "Express Estate Agency",
+            "memberType": "agent",
+            "address": "St George's House, 56 Peter Street, Manchester",
+            "postcode": "M2 3NQ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ashburnham Community School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Chelsea  Community Hospital  School (SEN)",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Imperial Wharf",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Chelsea Harbour Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Key features:</strong><br><ul><li>*Guide Price \u00a3580,000 - \u00a3600,000*</li><li>Well Presented 16th Floor Flat</li><li>Two Double Bedrooms</li><li>Open Plan Living Space</li><li>Modern Kitchen with Integral Appliances</li><li>Modern Shower Room &amp; WC</li><li>Balcony with Views of the River Thames</li><li>Local Amenities, Shops Bars &amp; Restaurants</li><li>Excellent Transport Links around London</li><li>Ideal for First Time Buyers &amp; Rental Investors</li></ul><br><strong>Full description:</strong><br>We are proud to offer this Two Bedroom Flat \u2013 all interest and offers are invited.<br><br>*Guide Price \u00a3580,000 - \u00a3600,000*<br><br>internal:<br>Entrance Hall - The entrance door opens to the hall, with a storage cupboard and doors to the reception room/kitchen, both bedrooms, the WC and the shower room.<br><br>Reception Room/Kitchen - Bright and spacious open plan living space with ample space for furniture for both living and dining and a modern fitted kitchen, with dual aspect double glazed windows, a door to the balcony and wood laminate flooring. The kitchen is fitted with a range of grey gloss wall and base units with worktops over and a breakfast bar. Inset sink basin with a drainer and mixer tap and an integrated set of appliances including a dishwasher, fridge-freezer and electric oven with a countertop ceramic hob and overhead extractor system.<br><br>Bedroom One - Double size room with a large double glazed window, wood laminate flooring and a built-in wardrobe with overhead cupboards.<br><br>Bedroom Two - Double size room with a double glazed window and wood laminate flooring, with ample space for furniture.<br><br>Cloakroom WC - Modern suite comprising a vanity unit fitted wash hand basin, a large fitted mirror and a push-button WC.<br><br>Shower Room - Modern suite comprising a vanity unit fitted wash hand basin with a mirror over, a chrome heated towel rail and a large shower enclosure with a sliding glass screen.<br><br>External:<br>The property has its own balcony offering elevated views from the sixteenth floor overlooking the River Thames, with space for outdoor seating/dining.<br><br>The property is close to Kings Road with a range of shops, pubs, restaurants and cafes and is a short walk to the River Thames. Local transport Links to Sloane Square, South Kensington, Fulham Broadway and Imperial Wharf.<br><br>Early viewing is highly recommended due to the property being realistically priced.<br><br>Disclaimer:<br><br>These particulars, whilst believed to be accurate are set out as a general guideline and do not constitute any part of an offer or contract. Intending Purchasers should not rely on them as statements of representation of fact, but must satisfy themselves by inspection or otherwise as to their accuracy. Please note that we have not tested any apparatus, equipment, fixtures, fittings or services including gas central heating and so cannot verify they are in working order or fit for their purpose. Furthermore, Solicitors should confirm moveable items described in the sales particulars and, in fact, included in the sale since circumstances do change during the marketing or negotiations. Although we try to ensure accuracy, if measurements are used in this listing, they may be approximate. Therefore if intending Purchasers need accurate measurements to order carpeting or to ensure existing furniture will fit, they should take such measurements themselves. Photographs are reproduced general information and it must not be inferred that any item is included for sale with the property.<br><strong>Tenure</strong><br><br>To be confirmed by the Vendor\u2019s Solicitors<br><strong>Possession</strong><br><br>Vacant possession upon completion<br><strong>Viewing</strong><br><br>Viewing strictly by appointment through The Express Estate Agency",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Tenure: Leasehold"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "4739cb4724bfd7aaace8120ce03175e7018eb0fa.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f0fc3a0aa54225970857c4bdc0f244b0e7adb515.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "da298ddffe188ddd6dd6e20711b785bae9994fe2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2c20f9dcb34720875f0fb47f2c2798ca2b6a2c0d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "63e11944372a2e0d47ac989530faecde041bacbf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e342be5a1abe0a0347a3a86bbbc599a3adff3b1d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ebf4551aa1b8780421bb18b983f8c475b0793930.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "895a799ce424e4ed12fcad68bf4951ec85d5af95.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c0de9f0c7333f09aad5353275fd891c30dd1584f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b5da1afbd6bf30476d8cbed8edca07163ef1ae6e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b32ffc8b3e9c4c1b64c150c5457e9da3a6302c19.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c6cc6fafa0d5fa624dc4f50854cdbbaf3d2a5a37.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a0c3012b6bdf8f258e6570e30c8edaa8d1274580.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 15566,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(654815).png",
+            "branchName": "Express Estate Agency",
+            "brandName": "Express Estate Agency",
+            "chainFree": false,
+            "companyId": 18887,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "World's End Estate, London SW10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "0EA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60779140,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": null,
+            "outcode": "SW10",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 612353
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in World's End Estate, London SW10 - Zoopla",
+        "metaDescription": "2 bed flat for sale in World's End Estate, London SW10, selling for \u00a3580,000 from Express Estate Agency. See property details on Zoopla or browse all our range of properties in World's End Estate, London SW10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60779140/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.481284,
+                "longitude": -0.180857
+            }
+        },
+        "displayAddress": "World's End Estate, London SW10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-16T19:16:50",
+                "priceLabel": "\u00a3580,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 83
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": null,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3580,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Express Estate Agency",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60779140,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "C3BA0782-9736-11EC-B23E-D2F70D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW10",
+            "areaNameUri": "london/sw10/west-brompton-worlds-end",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3391.9908675799074
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 1267335,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 1273596,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -6261
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 1274406,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -7071
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1327570,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -60235
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1286397,
+                    "pctChangeSince": -1.482,
+                    "date": "2017-02-26",
+                    "changeSince": -19062
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 886805,
+                    "pctChangeSince": 42.91,
+                    "date": "2012-02-26",
+                    "changeSince": 380530
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 810103,
+                    "pctChangeSince": 56.441,
+                    "date": "2007-02-26",
+                    "changeSince": 457232
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 493562,
+                    "pctChangeSince": 156.773,
+                    "date": "2002-02-26",
+                    "changeSince": 773773
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 1013529,
+                    "newBuilds": 0,
+                    "numSales": 100
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1070612,
+                    "newBuilds": 3,
+                    "numSales": 331
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1099145,
+                    "newBuilds": 4,
+                    "numSales": 544
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1118752,
+                    "newBuilds": 8,
+                    "numSales": 870
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 465000,
+                    "propertyId": 23228822,
+                    "streetAddress": "Flat 25, Ashburnham Tower, World's End Estate",
+                    "uri": "flat-25/ashburnham-tower/world-s-end-estate/london/sw10-0ee"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 3800000,
+                    "propertyId": 23229427,
+                    "streetAddress": "29 Lamont Road",
+                    "uri": "29-lamont-road/london/sw10-0hs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 2820000,
+                    "propertyId": 23233231,
+                    "streetAddress": "10 Farrier Walk",
+                    "uri": "10-farrier-walk/london/sw10-9fw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 5750000,
+                    "propertyId": 23235384,
+                    "streetAddress": "35 Drayton Gardens",
+                    "uri": "35-drayton-gardens/london/sw10-9ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-08T00:00:00Z",
+                    "price": 1650000,
+                    "propertyId": 23230231,
+                    "streetAddress": "7 Stadium Street",
+                    "uri": "7-stadium-street/london/sw10-0pu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-02T00:00:00Z",
+                    "price": 875000,
+                    "propertyId": 23233443,
+                    "streetAddress": "3 Brompton Cottages, Hollywood Road",
+                    "uri": "3-brompton-cottages/hollywood-road/london/sw10-9hl"
+                }
+            ]
+        }
+    }
+}

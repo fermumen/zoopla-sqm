@@ -1,0 +1,543 @@
+{
+    "address": "Prospect House, Sun Passage, London SE16",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 62.6,
+    "sqft": 674.0,
+    "text": "x ala bl Wh N\nPROSPECT HOUSE ws\nApproximate Gross Internal Area ( LE\n674 sq. ft. (62.6 sq. m.) We; E\n\n=\nLee 3/= Ceiling Height\n_\u2014\u2014\u2014 pad\nJ [_\u2014\u2014 [_\u2014\u2014\u2014$\u2014$\u2014]\n= ah pT\n| Bedroom Bedroom\n_ 5 x Bae 5.25 x 3.08\n\u2018cH \u2018 10'6x 7S 10'7 x 10'2\n\\7'8/2.3/\nBalcony Reception Room / |\nKitchen\n669 '% 3.52\n2411 SAV\nB |\nqt\nFifth Floor IN\nThis plan is for layout guidance only. Not drawn to scale unless stated. Windows and door openings are approximate. Whilst every care is taken\nin the preparation of this plan, please check all dimensions, shapes and compass bearings before making any decisions reliant upon them\nID 809935\n",
+    "image": "./extracted_images/60125684.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60125684/",
+    "listing_no": "60125684",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.496962,
+        "longitude": -0.068506
+    },
+    "first_published": "2021-11-05T09:56:24",
+    "last_sale_date": "2018-01-22",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60125684",
+        "publishedOn": "2021-11-05T09:56:24",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.hamptons.co.uk/index.asp?spid=TOW210004",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://assets.reapit.net/ham/live/pdf.php?p=TOW210004",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 3613,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "branchName": "Hamptons - Tower Bridge Sales",
+            "brandName": "Hamptons",
+            "chainFree": false,
+            "companyId": 1612,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Prospect House, Sun Passage, London SE16",
+            "furnishedState": "",
+            "groupId": 8,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4AF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60125684,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SE16",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Balcony|Parking",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 379363
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/hamptons-tower-bridge-sales-london-3613/",
+            "branchId": "3613",
+            "branchResultsUri": "/for-sale/branch/hamptons-tower-bridge-sales-london-3613/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "phone": "020 3463 6975",
+            "name": "Hamptons - Tower Bridge Sales",
+            "memberType": "agent",
+            "address": "41 Shad Thames, Tower Bridge, London",
+            "postcode": "SE1 2NJ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St James' Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Joseph's Roman Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bermondsey",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Katharine's Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "a00bf44fc17e2ace9a85bb6f4272c3c4c04ae1e1.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A beautifully presented light and airy two bedroom apartment with a large west facing terrace. The property benefits from a spacious and modern open-plan fully fitted kitchen and reception, two well-proportioned bedrooms and a modern bathroom. The property has lift access, allocated underground parking and is EWS1 compliant.<br><br>Situation<br>Located only a 10 minute walk from the vibrant and trendy Bermondsey Street characterised by a selection of quirky bars, restaurants, boutique shops and cafes. Maltby Street Market and Borough Market are within walking distance, both offering a variety of fresh foods and drink. The closest Underground station is Bermondsey station (Jubilee line) offering links to Canary Wharf and the West End. London Bridge, with links to the tube (Northern and Jubilee lines) and the national rail, is and easy walking distance. With the on-going redevelopment in the area, we feel this property is a sound investment for the future.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Lease Length- 125 years from May 2008",
+                "Service Charge- \u00a32536 pa",
+                "Balcony",
+                "674 sqft",
+                "Parking",
+                "Fifth Floor",
+                "EWS1 Completed",
+                "Corner Plot"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Balcony"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Parking"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "8dbc10ef73272a6abedf1339dc524831d2ca561d.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "68b592f36ff7d4e033fe53b7a13056840f9e8346.jpg",
+                "caption": "Picture 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0104a38be5ff931556b68f0004a5901e7309c6ee.jpg",
+                "caption": "Picture 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ecaabba914041212efb94049c4706815203477f7.jpg",
+                "caption": "Picture 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8d2a9435ad3bb4a5b0a81ff5df54447d7efac9b2.jpg",
+                "caption": "Picture 4"
+            },
+            {
+                "__typename": "Media",
+                "filename": "95019c6a3a5c0a8aeff18b161a5f4bbfc2a3e823.jpg",
+                "caption": "Picture 5"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e82bab27e0bfe2b5eb2ebdc2ad008b580853684b.jpg",
+                "caption": "Picture 6"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4931c59a2e28490b07c4950d6d9e36674eb66828.jpg",
+                "caption": "Picture 7"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9f931772919f1637a6287e1032950d4c1144cfa0.jpg",
+                "caption": "Picture 8"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bb0243e2a543a20ac9844f16f89b5a110294acc5.jpg",
+                "caption": "Picture 9"
+            },
+            {
+                "__typename": "Media",
+                "filename": "da1c3f61020137044c24658ce88dcf6d04f597c5.jpg",
+                "caption": "Picture 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "89c4e96ca09758be97c220d87611744af291147b.jpg",
+                "caption": "Picture 11"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 3613,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "branchName": "Hamptons - Tower Bridge Sales",
+            "brandName": "Hamptons",
+            "chainFree": false,
+            "companyId": 1612,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Prospect House, Sun Passage, London SE16",
+            "furnishedState": "",
+            "groupId": 8,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4AF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60125684,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SE16",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Balcony|Parking",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 379363
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Prospect House, Sun Passage, London SE16 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Prospect House, Sun Passage, London SE16, selling for \u00a3575,000 from Hamptons - Tower Bridge Sales. See property details on Zoopla or browse all our range of properties in Prospect House, Sun Passage, London SE16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60125684/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.496962,
+                "longitude": -0.068506
+            }
+        },
+        "displayAddress": "Prospect House, Sun Passage, London SE16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-05T09:56:24",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2018-01-22",
+                "newBuild": false,
+                "price": 570000,
+                "priceLabel": "\u00a3570,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.2",
+                    "priceChangeDate": "2022-01-26T21:20:52",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3575,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 84
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/8dbc10ef73272a6abedf1339dc524831d2ca561d.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Hamptons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60125684,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "B6A1DA38-8AB7-11EC-83B7-B0F90D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE16",
+            "areaNameUri": "london/se16/rotherhithe-south-bermonsey-surrey-docks",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2224.213333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 471740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 474988,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3248
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 477012,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5272
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 499153,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -27413
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 453967,
+                    "pctChangeSince": 3.915,
+                    "date": "2017-02-26",
+                    "changeSince": 17773
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 296770,
+                    "pctChangeSince": 58.958,
+                    "date": "2012-02-26",
+                    "changeSince": 174970
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 286772,
+                    "pctChangeSince": 64.5,
+                    "date": "2007-02-26",
+                    "changeSince": 184968
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 170159,
+                    "pctChangeSince": 177.235,
+                    "date": "2002-02-26",
+                    "changeSince": 301581
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 450307,
+                    "newBuilds": 0,
+                    "numSales": 232
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 436769,
+                    "newBuilds": 65,
+                    "numSales": 678
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 452137,
+                    "newBuilds": 183,
+                    "numSales": 1544
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 446815,
+                    "newBuilds": 355,
+                    "numSales": 2646
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 268000,
+                    "propertyId": 21086900,
+                    "streetAddress": "62 Amina Way",
+                    "uri": "62-amina-way/london/se16-3uj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 835000,
+                    "propertyId": 21097466,
+                    "streetAddress": "42 Rope Street",
+                    "uri": "42-rope-street/london/se16-7te"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 21090848,
+                    "streetAddress": "Flat 1, Old Fire Station Court, 241 Rotherhithe Street",
+                    "uri": "flat-1/old-fire-station-court/241-rotherhithe-street/london/se16-5el"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 347500,
+                    "propertyId": 21098418,
+                    "streetAddress": "Flat 6, Mast Court, 1 Boat Lifter Way",
+                    "uri": "flat-6/mast-court/1-boat-lifter-way/london/se16-7wh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 21096228,
+                    "streetAddress": "Flat 8, Gabriel House, 10 Odessa Street",
+                    "uri": "flat-8/gabriel-house/10-odessa-street/london/se16-7hq"
+                }
+            ]
+        }
+    }
+}

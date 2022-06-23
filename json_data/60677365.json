@@ -1,0 +1,552 @@
+{
+    "address": "Holcombe Road, London N17",
+    "price": "\u00a3650,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60677365/",
+    "listing_no": "60677365",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.592735,
+        "longitude": -0.064249
+    },
+    "first_published": "2022-02-03T14:07:15",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60677365",
+        "publishedOn": "2022-02-03T14:07:15",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "http://www.expertagent.co.uk/EstateAgentSoftware/EstateAgencyProperties.aspx?pid=26f32d40-29a2-4387-ad55-8258fce05a38&aid=%7B6f5dc1f8-8ebe-4973-bf66-1f489301ec8a%7D",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 28,
+            "acornType": 28,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 13252,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(74755).jpeg",
+            "branchName": "Castles - Tottenham",
+            "brandName": "Castles Estate Agents",
+            "chainFree": true,
+            "companyId": 660,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Holcombe Road, London N17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": false,
+            "incode": "9AS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60677365,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 21,
+            "numRecepts": 2,
+            "outcode": "N17",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 498452
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/castles-tottenham-13252/",
+            "branchId": "13252",
+            "branchResultsUri": "/for-sale/branch/castles-tottenham-13252/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(74755).jpeg",
+            "phone": "020 3641 9024",
+            "name": "Castles - Tottenham",
+            "memberType": "agent",
+            "address": "44/46 West Green Road",
+            "postcode": "N15 5NR"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hyland House School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Harris Academy Tottenham",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bruce Grove",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tottenham Hale",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "Energy Performance Certificate",
+                    "filename": "700512373634deea5af1f6898c50ce669454a004.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Here at Castles, we are pleased to offer this newly decorated family home. The property is arranged over two floors. The ground floor consists of a front reception room, down stairs W.C and large kitchen/diner to the rear over looking the garden. The second floor has three bedrooms, a bathroom with enclosed shower cubical. This lovely home also benefits from a shared drive and own garage with door leading to the garden. Set just moments from Tottenham Hale which enables you to jump on the Stansted Express, Victoria Line tube and over ground to Stratford and Liverpool Street. At the bottom of the road, you have the lovely Down Lane Park where local residents and sports groups regularly use in the summer months.<br><br>The property is also offered chain free.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "End of Terrace House",
+                "Quiet Residential Turning",
+                "Three Bedrooms",
+                "Kitchen/Diner",
+                "Off street parking",
+                "Newly decorated"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "dd85bf65fbdf62d96fb983570a61dbaa7324eedd.jpg",
+                "caption": "Photo 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "442c173dffc82e28ab5857b312050d72af9e4f1b.jpg",
+                "caption": "Photo 19"
+            },
+            {
+                "__typename": "Media",
+                "filename": "51fc19a7162df49baa463d7c1eecd35d76a5c98c.jpg",
+                "caption": "Photo 21"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fe97fbc222bc58e18b7438f8752bb4f5554329fa.jpg",
+                "caption": "Photo 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2c60488b27f0603a40381553d96784b49a0fe3f7.jpg",
+                "caption": "Photo 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "792c0fde8cbd6ce648ab1de8a6f988556bf36ef5.jpg",
+                "caption": "Photo 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c7f1622bf2c5d6a47a4172ce03e4546b04cf8516.jpg",
+                "caption": "Photo 6"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f51ebac7dbb873ce3ffdecfe070673fa1cb15efd.jpg",
+                "caption": "Photo 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "eda9a14718a2314f1716480edcf13cabe6c382ef.jpg",
+                "caption": "Photo 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "824ecf1ebfa819166f1b302ef5a5eb67f5bb12bb.jpg",
+                "caption": "Photo 4"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a6c021ecd67f09c97e5e14abd44ec65cab664e71.jpg",
+                "caption": "Photo 5"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4966494b2d1adc397dc27b78bcfe1b5314018778.jpg",
+                "caption": "Photo 8"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a51c0d216aa56b308502df2008571e4e9f1bd4b6.jpg",
+                "caption": "Photo 9"
+            },
+            {
+                "__typename": "Media",
+                "filename": "722114fe546f46426ed8da94b98dbfacd3d3fcc3.jpg",
+                "caption": "Photo 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d797c2b369472fd5099042ff85611d5c98f4fc0e.jpg",
+                "caption": "Photo 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "408c777d6baea885bba6ebac815aa8342744f104.jpg",
+                "caption": "Photo 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4a993e5f5f9b93101c2d667265d4efceff840a24.jpg",
+                "caption": "Photo 17"
+            },
+            {
+                "__typename": "Media",
+                "filename": "16738edbc0d7358b1ff81f0b4f3c4504932dbd39.jpg",
+                "caption": "Photo 18"
+            },
+            {
+                "__typename": "Media",
+                "filename": "425ad90a093813fccb335be5d690c5a0f3a0d703.jpg",
+                "caption": "Photo 20"
+            },
+            {
+                "__typename": "Media",
+                "filename": "219a6ec443291bdc07f78da88625a3ba189416a1.jpg",
+                "caption": "Photo 22"
+            },
+            {
+                "__typename": "Media",
+                "filename": "abf209214fedd39036f8757326a6ab55dd4fe875.jpg",
+                "caption": "Photo 23"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 28,
+            "acornType": 28,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 13252,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(74755).jpeg",
+            "branchName": "Castles - Tottenham",
+            "brandName": "Castles Estate Agents",
+            "chainFree": true,
+            "companyId": 660,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Holcombe Road, London N17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": false,
+            "incode": "9AS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60677365,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 21,
+            "numRecepts": 2,
+            "outcode": "N17",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 498452
+        },
+        "title": "3 bed end terrace house for sale",
+        "metaTitle": "3 bed end terrace house for sale in Holcombe Road, London N17 - Zoopla",
+        "metaDescription": "3 bed end terrace house for sale in Holcombe Road, London N17, selling for \u00a3650,000 from Castles - Tottenham. See property details on Zoopla or browse all our range of properties in Holcombe Road, London N17.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60677365/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.592735,
+                "longitude": -0.064249
+            }
+        },
+        "displayAddress": "Holcombe Road, London N17",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-03T14:07:15",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 503
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 2
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Castles Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60677365,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "E8F726AA-955C-11EC-8A10-0DD30D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N17",
+            "areaNameUri": "london/n17/tottenham",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1917.8095238095257
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 456771,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 464795,
+                    "pctChangeSince": -1.726,
+                    "date": "2021-11-26",
+                    "changeSince": -8024
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 479620,
+                    "pctChangeSince": -4.764,
+                    "date": "2021-08-26",
+                    "changeSince": -22849
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 509430,
+                    "pctChangeSince": -10.337,
+                    "date": "2021-02-26",
+                    "changeSince": -52659
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 452436,
+                    "pctChangeSince": 0.958,
+                    "date": "2017-02-26",
+                    "changeSince": 4335
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 307741,
+                    "pctChangeSince": 48.427,
+                    "date": "2012-02-26",
+                    "changeSince": 149030
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 282288,
+                    "pctChangeSince": 61.81,
+                    "date": "2007-02-26",
+                    "changeSince": 174483
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 168241,
+                    "pctChangeSince": 171.498,
+                    "date": "2002-02-26",
+                    "changeSince": 288530
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 535916,
+                    "newBuilds": 1,
+                    "numSales": 130
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 514942,
+                    "newBuilds": 14,
+                    "numSales": 352
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 506471,
+                    "newBuilds": 14,
+                    "numSales": 625
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 478820,
+                    "newBuilds": 14,
+                    "numSales": 968
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-05T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 15269900,
+                    "streetAddress": "56 Holcombe Road",
+                    "uri": "56-holcombe-road/london/n17-9ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 260000,
+                    "propertyId": 15268774,
+                    "streetAddress": "100 Somerset Gardens, Creighton Road",
+                    "uri": "100-somerset-gardens/creighton-road/london/n17-8jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 179000,
+                    "propertyId": 15270393,
+                    "streetAddress": "5 Reed Road",
+                    "uri": "5-reed-road/london/n17-9bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 522500,
+                    "propertyId": 15271167,
+                    "streetAddress": "90 Seymour Avenue",
+                    "uri": "90-seymour-avenue/london/n17-9ed"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 350000,
+                    "propertyId": 15270755,
+                    "streetAddress": "187 Bream Close",
+                    "uri": "187-bream-close/london/n17-9dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 15273336,
+                    "streetAddress": "19 Rosebery Avenue",
+                    "uri": "19-rosebery-avenue/london/n17-9ry"
+                }
+            ]
+        }
+    }
+}

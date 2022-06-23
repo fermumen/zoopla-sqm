@@ -1,0 +1,445 @@
+{
+    "address": "King Court, Canary Wharf E14",
+    "price": "\u00a3564,900",
+    "beds": "2 beds",
+    "area": "692 sq. ft",
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//new-homes/details/60721873/",
+    "listing_no": "60721873",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.5143754313725,
+        "longitude": -0.0321635450980392
+    },
+    "first_published": "2022-02-09T15:52:55",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60721873",
+        "publishedOn": "2022-02-09T15:52:55",
+        "section": "new-homes",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 122497,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(334888).png",
+            "branchName": "Beauchamp Estates (New Homes)",
+            "brandName": "Beauchamp Estates",
+            "chainFree": true,
+            "companyId": 16772,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "King Court, Canary Wharf E14",
+            "furnishedState": "unfurnished",
+            "groupId": 120,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "7EQ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60721873,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 2,
+            "numImages": 3,
+            "numRecepts": null,
+            "outcode": "E14",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 564900,
+            "price": 564900,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "692",
+            "tenure": null,
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/beauchamp-estates-new-homes-london-122497/",
+            "branchId": "122497",
+            "branchResultsUri": "/for-sale/branch/beauchamp-estates-new-homes-london-122497/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(334888).png",
+            "phone": "020 8033 1697",
+            "name": "Beauchamp Estates (New Homes)",
+            "memberType": "agent",
+            "address": "24 Curzon Street, London",
+            "postcode": "W1J 7TF"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stepney Greencoat Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Sir William Burrough Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Limehouse",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Limehouse",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Situated within walking distance to Canary Wharf, adjacent to the tranquil Limehouse Cut Canal, and minutes from the open spaces of Bartlett Park, We are delighted to offer to the market this brand-new recently completed development offering nine exceptional one, two, and three-bedroom apartments with unparalleled living close to London\u2019s elite financial district.<br><br>Designed to very high specifications throughout, each apartment offers spacious open plan living accommodation, wood flooring, and a bespoke fitted kitchen. Further benefits include panoramic canal views from 4 of the apartments, as well as private balconies and terraces",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": {
+                    "__typename": "Label",
+                    "name": "unfurnished",
+                    "label": "Unfurnished"
+                },
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "a415ff830479b42a03c59ef39085831e1998a9e8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b2fb88c330386bd85ebdc9c321cc58dbe49f5ae6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "98e4c9d640c2a8c3e152dafc069f9316d21cf958.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 122497,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(334888).png",
+            "branchName": "Beauchamp Estates (New Homes)",
+            "brandName": "Beauchamp Estates",
+            "chainFree": true,
+            "companyId": 16772,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "King Court, Canary Wharf E14",
+            "furnishedState": "unfurnished",
+            "groupId": 120,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "7EQ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60721873,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 2,
+            "numImages": 3,
+            "numRecepts": null,
+            "outcode": "E14",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 564900,
+            "price": 564900,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "692",
+            "tenure": null,
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in King Court, Canary Wharf E14 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in King Court, Canary Wharf E14, selling for \u00a3564,900 from Beauchamp Estates (New Homes). See property details on Zoopla or browse all our range of properties in King Court, Canary Wharf E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60721873/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.5143754313725,
+                "longitude": -0.0321635450980392
+            }
+        },
+        "displayAddress": "King Court, Canary Wharf E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-09T15:52:55",
+                "priceLabel": "\u00a3564,900"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 37
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": null,
+            "numLivingRooms": null
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 692
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3564,900",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 816,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Beauchamp Estates",
+            "category": "for-sale/resi/agent/new/gb",
+            "id": 60721873,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "73FEC084-8FD4-11EC-8E72-D8350E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3199.821151716501
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

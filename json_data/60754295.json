@@ -1,0 +1,495 @@
+{
+    "address": "Rosenburg Road, London W3",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 80.5,
+    "sqft": 866.0,
+    "text": "Third Floor\nHt ] OW 1]\niat \u2019 L = mis 7 lo al\nBedroom | \u2014\n2.74m x 5.26m vt 1 | \\\n(9' x 17\u00b03\") / =\n( \u2014. Balcony\n| |\n. : .67m x 1.69m\n| Reception/ Kitchen i (18\u00b07\" x 57\")\n\\ Room\n| Se _ 5.67m x 5.74m i\n| ~ 18'7\" x 18'10\"\nBedroom \\ ( \u2018 ) |\n2.83m x 5.25m / #\n(9'3\" x 17\u00b03\") we\nfLL 4 \\V\n\u2018a \u2018 s\nMain area: Approx. 80.5 sq. metres (866.7 sq. feet)\nPlus balconies, approx. 9.6 sq. metres (103.4 sq. feet)\n",
+    "image": "./extracted_images/60754295.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60754295/",
+    "listing_no": "60754295",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.501262,
+        "longitude": -0.274879
+    },
+    "first_published": "2022-02-14T15:00:11",
+    "last_sale_date": "2016-09-26",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60754295",
+        "publishedOn": "2022-02-14T15:00:11",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/4da5dd361bb373356b510a54ef2d31642ad68b1a.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 9455,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Acton",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Rosenburg Road, London W3",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8FX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60754295,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 494945
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-acton-london-9455/",
+            "branchId": "9455",
+            "branchResultsUri": "/for-sale/branch/dexters-acton-london-9455/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 8896 2112",
+            "name": "Dexters - Acton",
+            "memberType": "agent",
+            "address": "170 High Street, London",
+            "postcode": "W3 6QZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Berrymede Junior School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Berrymede Infant School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "South Acton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Acton Town",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "a4e1b81fb60af81c444f0fa9766ebbf79e8d1dbb.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A dual aspect apartment situated on the third floor with just under 900 sq.ft of living space. The flat has two double bedrooms, two bathrooms, a covered balcony and access to a cpz on street parking permit.<br><br>Situated within close proximity of Chiswick's array of shops, bars and eateries and just over a quarter of a mile from South Acton station (Overground) and Acton Town tube station.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedrooms",
+                "No Onward Chain",
+                "Two Bathrooms",
+                "Just Under 900 sq.ft",
+                "Cpz Parking Available",
+                "EWS1 Form Granted"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "779c6c4e7d6d772c7fc6357c7fd7c6a40eeae08b.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "20f5c8b338cda426e4445184ff998e8726b8789d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ce59b82fa1d90a8341ed400784d0a77ef6b2e60a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3d17f8a05da5ae2d3c48f192f4f25b3672d31d0c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c0796de11e11b04c495a77cfdd8f2e5593bab74f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "92ba3a9191f15cf103cac809922d64eadd4423c9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9f2ed03b7d6a69e024515dd9bede440b7941e15e.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 9455,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Acton",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Rosenburg Road, London W3",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8FX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60754295,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 494945
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Rosenburg Road, London W3 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Rosenburg Road, London W3, selling for \u00a3575,000 from Dexters - Acton. See property details on Zoopla or browse all our range of properties in Rosenburg Road, London W3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60754295/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.501262,
+                "longitude": -0.274879
+            }
+        },
+        "displayAddress": "Rosenburg Road, London W3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-14T15:00:11",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2016-09-26",
+                "newBuild": false,
+                "price": 580000,
+                "priceLabel": "\u00a3580,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 84
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/779c6c4e7d6d772c7fc6357c7fd7c6a40eeae08b.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60754295,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "7A6DFD8A-8E40-11EC-8349-BAD30D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W3",
+            "areaNameUri": "london/w3/acton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1956.199999999999
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 404918,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 411489,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -6571
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 423656,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -18738
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 446579,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -41661
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 443072,
+                    "pctChangeSince": -8.611,
+                    "date": "2017-02-26",
+                    "changeSince": -38154
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 295132,
+                    "pctChangeSince": 37.199,
+                    "date": "2012-02-26",
+                    "changeSince": 109786
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 263193,
+                    "pctChangeSince": 53.848,
+                    "date": "2007-02-26",
+                    "changeSince": 141725
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 155985,
+                    "pctChangeSince": 159.588,
+                    "date": "2002-02-26",
+                    "changeSince": 248933
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 435683,
+                    "newBuilds": 0,
+                    "numSales": 146
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 422801,
+                    "newBuilds": 39,
+                    "numSales": 486
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 426404,
+                    "newBuilds": 119,
+                    "numSales": 1029
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 427267,
+                    "newBuilds": 208,
+                    "numSales": 1779
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-10T00:00:00Z",
+                    "price": 390000,
+                    "propertyId": 32797845,
+                    "streetAddress": "21, Marvell Court, Rosenburg Road",
+                    "uri": "21/marvell-court/rosenburg-road/london/w3-8fx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 827500,
+                    "propertyId": 25020302,
+                    "streetAddress": "72 Princes Gardens",
+                    "uri": "72-princes-gardens/london/w3-0lq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 910000,
+                    "propertyId": 25022231,
+                    "streetAddress": "24 Stuart Road",
+                    "uri": "24-stuart-road/london/w3-6dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 830000,
+                    "propertyId": 25034544,
+                    "streetAddress": "14 Gunnersbury Crescent",
+                    "uri": "14-gunnersbury-crescent/london/w3-9aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 840000,
+                    "propertyId": 25020344,
+                    "streetAddress": "139 Princes Gardens",
+                    "uri": "139-princes-gardens/london/w3-0ls"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 315000,
+                    "propertyId": 25027951,
+                    "streetAddress": "33 Larch Avenue",
+                    "uri": "33-larch-avenue/london/w3-7lh"
+                }
+            ]
+        }
+    }
+}

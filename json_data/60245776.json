@@ -1,0 +1,533 @@
+{
+    "address": "Chaplin Road, London NW2",
+    "price": "\u00a3600,000",
+    "beds": "3 beds",
+    "area": "1,011 sq. ft",
+    "sqm": 94.0,
+    "sqft": null,
+    "text": "A A\nChaplin Road NW2 N\nApprox. Gross Internal Area = 94.0sqm / 1011.8sqft \\\nGarden\n4,38m x 14.60m\n(14'4\" x 479\")\nHoe \u00bb)\nE Z Bath\nKe) \u2014# _ fj191mx1.82m\nmf 7 (6'3\u201d x 60\")\nIO L_/ _\n0) 5\n80)\nr Bedroom\n| | aoamxa.otm 3.02m x 3,08m\n| (ea (9'9\" x 99\") ('9\"x 101\u201d)\n{aa ee\n| /s\n\\ 1\nSS\nBing 3.86mic3 04\n56m x 3.04m\n4.38m x 2.9m oneal\naaacoe\") (HT x80)\n~ ~ Va\n\\\\ \\ (\nmri |7 wiwh/< \u2019\n/ _ Reception Bedroom -\n\\ 7 3.45m x 2.93m 4.39m x 3.04m\n(113\" x 96\") (14'4\u201d x 9110\")\n\u201cA Yi\na\nGround Floor First Floor\nA) Portland mre renenmnrnnass genes mem tame rote ta rato cree\n",
+    "image": "./extracted_images/60245776.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60245776/",
+    "listing_no": "60245776",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.548076,
+        "longitude": -0.234262
+    },
+    "first_published": "2021-11-22T18:56:26",
+    "last_sale_date": "2001-07-30",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60245776",
+        "publishedOn": "2021-11-22T18:56:26",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Chaplin Road, London",
+                "original": "https://lc.zoocdn.com/e72d6d7a3f0ea82866b52ae64ff703ddb6a08939.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31121403",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 68772,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(300439).png",
+            "branchName": "Portland Estate Agents",
+            "brandName": "Portland Estate Agents",
+            "chainFree": false,
+            "companyId": 36517,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Chaplin Road, London NW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5PN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60245776,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 10,
+            "numRecepts": 2,
+            "outcode": "NW2",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "1011",
+            "tenure": "freehold",
+            "zindex": 472851
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/portland-estate-agents-london-68772/",
+            "branchId": "68772",
+            "branchResultsUri": "/for-sale/branch/portland-estate-agents-london-68772/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(300439).png",
+            "phone": "020 8022 4988",
+            "name": "Portland Estate Agents",
+            "memberType": "agent",
+            "address": "90 Walm Lane, London",
+            "postcode": "NW2 4QY"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Andrew and St Francis CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary Magdalen's Catholic Junior School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Dollis Hill",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Willesden Green",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "183c90f8156173c6b540e13f4a3f90f5fd3bf84f.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "**investment opportunity for cash buyers** with tenants in situ and future development potential via extending and reconfiguring the internal space (subject to planning)**<br>This three bedroom mid terrace house is currently on lease to Notting Hill Genesis Housing Association, at a rent of \u00a31907 per calendar month, providing an instant income for a purchaser. The Lease expires in June 2022 and you either have the option to renew or request vacant possession.<br><br>This property is located on a quiet road close to Dollis Hill Tube Station (Jubilee Line), and Willesden High Road, where you will find an array of shops and eateries along with numerous bus links. Internally the property requires refurbishment and has good potential to add value by extending and developing.<br><br>The ground floor comprises a bay-fronted reception, further dining or family room, separate kitchen and a bathroom. The first floor consists of three good size bedrooms with storage cupboards in the larger two. The large rear garden extends to 15 meters, and currently comprises of both paving and raised plant beds.<br><br>This property is suitable for investors only.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Investors Only - Tenant in Situ",
+                "Rented at \u00a31,907 Per Month",
+                "Three Bedroom Mid Terrace House",
+                "Requires Renovation",
+                "Close to Dollis Hill Station",
+                "Close to Willesden High Road"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "0e74e03afa330637a097cca07b810e05126b5c87.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "6579d29e797acc26089a4d2a34706a1c45b2beda.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4cf132ce1dc5c9024e9eba77b41817096150906a.jpg",
+                "caption": "Garden"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7d8d43435e904dfa5ffa9fcf27c1b2ec25fadc80.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2804bc64ecd032c78a06ea08cbb1b5f19ebe9224.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "40f5abe98f0616f03423ba6deb06568f1408977d.jpg",
+                "caption": "Dining"
+            },
+            {
+                "__typename": "Media",
+                "filename": "afe9213777311e057e9ee699edd39ec7cb099b05.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "301860379dcba415306d59e754528061616bcd42.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "37c4033a02967c2eb0de811f7e2496feb5f3ce56.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "890b09edc65448d0f047c00d69972dda52d0bdf7.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a4a73de94c2cd94ad89587b0b957539837d1014b.jpg",
+                "caption": "Bathroom"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 68772,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(300439).png",
+            "branchName": "Portland Estate Agents",
+            "brandName": "Portland Estate Agents",
+            "chainFree": false,
+            "companyId": 36517,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Chaplin Road, London NW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5PN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60245776,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 10,
+            "numRecepts": 2,
+            "outcode": "NW2",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "1011",
+            "tenure": "freehold",
+            "zindex": 472851
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Chaplin Road, London NW2 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Chaplin Road, London NW2, selling for \u00a3600,000 from Portland Estate Agents. See property details on Zoopla or browse all our range of properties in Chaplin Road, London NW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60245776/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.548076,
+                "longitude": -0.234262
+            }
+        },
+        "displayAddress": "Chaplin Road, London NW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-22T18:56:26",
+                "priceLabel": "\u00a3630,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2001-07-30",
+                "newBuild": false,
+                "price": 201000,
+                "priceLabel": "\u00a3201,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.8",
+                    "priceChangeDate": "2021-12-26T12:32:07",
+                    "priceChangeLabel": "\u00a330,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 117
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/0e74e03afa330637a097cca07b810e05126b5c87.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 2
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 1011
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 593,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Portland Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60245776,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "CC1BBB7E-933E-11EC-9135-8AD40D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW2",
+            "areaNameUri": "london/nw2/cricklewood-dollis-hill-neasden",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3256.5
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 635977,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 648018,
+                    "pctChangeSince": -1.858,
+                    "date": "2021-11-26",
+                    "changeSince": -12041
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 670196,
+                    "pctChangeSince": -5.106,
+                    "date": "2021-08-26",
+                    "changeSince": -34219
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 654005,
+                    "pctChangeSince": -2.757,
+                    "date": "2021-02-26",
+                    "changeSince": -18028
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 559409,
+                    "pctChangeSince": 13.687,
+                    "date": "2017-02-26",
+                    "changeSince": 76568
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 401017,
+                    "pctChangeSince": 58.591,
+                    "date": "2012-02-26",
+                    "changeSince": 234960
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 357455,
+                    "pctChangeSince": 77.918,
+                    "date": "2007-02-26",
+                    "changeSince": 278522
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 209064,
+                    "pctChangeSince": 204.202,
+                    "date": "2002-02-26",
+                    "changeSince": 426913
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 770356,
+                    "newBuilds": 0,
+                    "numSales": 45
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 674466,
+                    "newBuilds": 0,
+                    "numSales": 123
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 651721,
+                    "newBuilds": 0,
+                    "numSales": 241
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 643808,
+                    "newBuilds": 0,
+                    "numSales": 398
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 775000,
+                    "propertyId": 17194397,
+                    "streetAddress": "20a Gratton Terrace",
+                    "uri": "20a-gratton-terrace/london/nw2-6qe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 435000,
+                    "propertyId": 17182280,
+                    "streetAddress": "Flat 4, Vernon Court, Hendon Way",
+                    "uri": "flat-4/vernon-court/hendon-way/london/nw2-2pd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 560000,
+                    "propertyId": 17199198,
+                    "streetAddress": "806 North Circular Road",
+                    "uri": "806-north-circular-road/london/nw2-7td"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 17198152,
+                    "streetAddress": "55 Cairnfield Avenue",
+                    "uri": "55-cairnfield-avenue/london/nw2-7ph"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 817500,
+                    "propertyId": 17194750,
+                    "streetAddress": "148 Dollis Hill Avenue",
+                    "uri": "148-dollis-hill-avenue/london/nw2-6rf"
+                }
+            ]
+        }
+    }
+}

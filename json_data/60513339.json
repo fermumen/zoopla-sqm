@@ -1,0 +1,518 @@
+{
+    "address": "Spooners Mews, Acton, London W3",
+    "price": "\u00a3599,900",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 62.6,
+    "sqft": 674.0,
+    "text": "Spooners Mews\nApproximate Gross Internal Area = 62.6 sq m/ 674 sq ft VX\n= ry ARS ry\n\u00a9 fl , Bedroom 2\nXe} i \\ GiB 2.79 2.64\n. a 92 x 88\n\n\\ Dn\n\\ Living Room / ;\nJ Kitchen /\nia 6.40 x 4.71\n\n\u2018 2110 x 15'5 ' Red 1\n\n\u2018Approx\u2019 earoom\n(Approx) 3.64 x 3.53\n\nTo 11'11x 117\n\nUp Store\n1 a\n4 i:\nUp\nq Driveway\nIN .\nGround Floor First Floor\nIllustration for identification purposes only,\n",
+    "image": "./extracted_images/60513339.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60513339/",
+    "listing_no": "60513339",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.508458,
+        "longitude": -0.26445
+    },
+    "first_published": "2022-01-13T11:18:46",
+    "last_sale_date": "2007-06-12",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60513339",
+        "publishedOn": "2022-01-13T11:18:46",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 107017,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(687076).png",
+            "branchName": "Proper Genies",
+            "brandName": "Proper Genies Ltd",
+            "chainFree": false,
+            "companyId": 83329,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Spooners Mews, Acton, London W3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6BB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60513339,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 599900,
+            "price": 599900,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 525943
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/proper-genies-london-107017/",
+            "branchId": "107017",
+            "branchResultsUri": "/for-sale/branch/proper-genies-london-107017/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(687076).png",
+            "phone": "020 8128 9329",
+            "name": "Proper Genies",
+            "memberType": "agent",
+            "address": "85 Great Portland Street, London",
+            "postcode": "W1W 7LT"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Acton Central",
+                "type": "national_rail_station",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Derwentwater Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ark Byron Primary Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Acton Main Line",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "b6fadc5bb2e0180648f7abc3f50b9391a3ce71b1.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Proper Genies is pleased to offer this amazing 2 Bed End Terrace House located in a gated development and boasts secure off road parking<br><br>It features Open Plan Kitchen, Two Double Bedrooms, Ground Floor WC &amp; Modern Family Bathroom, Off Road Parking.<br><br>This totally unique, deceptively spacious mews cottage is situated in a beautiful 'tucked-away' gated cul-de-sac immediately on the edge of the cool Churchfield Road/Poets Corner area of Acton W3 with its sought-after 'out culture' and selection of trendy artisan bakeries, independent cafes, hairdressers/barbers, butchers and gastro-pubs<br><br>Viewings Highly Recommended!",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Off Road Parking",
+                "Modern Kitchen",
+                "Professional CCTV Fitted",
+                "Close to Transport Links",
+                "Exclusive Freehold House"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "89b03a7627479da5ca94edf4324148a1d59dc0f1.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "47e96b28f206b89337d52fd335f0de5985e5b989.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bb57e6aa996f54d7889dfff862b00b8f1fba2727.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "faf5e50b78db7fd3b3e661fe600477b569bb0474.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "79f94951d91beed65de97192e4155b191dcdec0c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "53e81d9cddc7cb17da23bed79ea9e0c33eb96262.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "80cb578c571bb8bf84fef1b8a89f84ba24b43edd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ebd723cfdb3d7c77a219ca7bb74ea334612ae15d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e934d74f9b28f201fab47bf07bc9306fe899da76.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5c1cf3d97c728aa97b1dfaf433c1271b6be998f1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8b60d7f55d8566e640fe2989dd7fac7afeee1980.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "59cd2264cc68914fb09679976cf716df9e1ec15b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8673d6c6c013babac42592d0c584e4e544621a6a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8c8a68d152aaa474a3b4c21ea60e7cc56d10fbd8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "29506099b6ffa07c1a8022a1c39c15a8b43e48fd.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 107017,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(687076).png",
+            "branchName": "Proper Genies",
+            "brandName": "Proper Genies Ltd",
+            "chainFree": false,
+            "companyId": 83329,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Spooners Mews, Acton, London W3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6BB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60513339,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 599900,
+            "price": 599900,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 525943
+        },
+        "title": "2 bed end terrace house for sale",
+        "metaTitle": "2 bed end terrace house for sale in Spooners Mews, Acton, London W3 - Zoopla",
+        "metaDescription": "2 bed end terrace house for sale in Spooners Mews, Acton, London W3, selling for \u00a3599,900 from Proper Genies. See property details on Zoopla or browse all our range of properties in Spooners Mews, Acton, London W3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60513339/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.508458,
+                "longitude": -0.26445
+            }
+        },
+        "displayAddress": "Spooners Mews, Acton, London W3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-13T11:18:46",
+                "priceLabel": "\u00a3599,900"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2007-06-12",
+                "newBuild": false,
+                "price": 235000,
+                "priceLabel": "\u00a3235,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 97
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/89b03a7627479da5ca94edf4324148a1d59dc0f1.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3599,900",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Proper Genies Ltd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60513339,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "935C560E-7462-11EC-9917-06090E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W3",
+            "areaNameUri": "london/w3/acton",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1499.3333333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 794260,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 800437,
+                    "pctChangeSince": -0.772,
+                    "date": "2021-11-26",
+                    "changeSince": -6177
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 824333,
+                    "pctChangeSince": -3.648,
+                    "date": "2021-08-26",
+                    "changeSince": -30073
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 832961,
+                    "pctChangeSince": -4.646,
+                    "date": "2021-02-26",
+                    "changeSince": -38701
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 776633,
+                    "pctChangeSince": 2.27,
+                    "date": "2017-02-26",
+                    "changeSince": 17627
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 558752,
+                    "pctChangeSince": 42.149,
+                    "date": "2012-02-26",
+                    "changeSince": 235508
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 469933,
+                    "pctChangeSince": 69.016,
+                    "date": "2007-02-26",
+                    "changeSince": 324327
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 278397,
+                    "pctChangeSince": 185.298,
+                    "date": "2002-02-26",
+                    "changeSince": 515863
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 870949,
+                    "newBuilds": 0,
+                    "numSales": 61
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 836602,
+                    "newBuilds": 5,
+                    "numSales": 160
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 830032,
+                    "newBuilds": 6,
+                    "numSales": 296
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 826158,
+                    "newBuilds": 7,
+                    "numSales": 466
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 827500,
+                    "propertyId": 25020302,
+                    "streetAddress": "72 Princes Gardens",
+                    "uri": "72-princes-gardens/london/w3-0lq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 910000,
+                    "propertyId": 25022231,
+                    "streetAddress": "24 Stuart Road",
+                    "uri": "24-stuart-road/london/w3-6dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 830000,
+                    "propertyId": 25034544,
+                    "streetAddress": "14 Gunnersbury Crescent",
+                    "uri": "14-gunnersbury-crescent/london/w3-9aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 840000,
+                    "propertyId": 25020344,
+                    "streetAddress": "139 Princes Gardens",
+                    "uri": "139-princes-gardens/london/w3-0ls"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 315000,
+                    "propertyId": 25027951,
+                    "streetAddress": "33 Larch Avenue",
+                    "uri": "33-larch-avenue/london/w3-7lh"
+                }
+            ]
+        }
+    }
+}

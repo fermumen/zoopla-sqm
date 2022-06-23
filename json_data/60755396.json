@@ -1,0 +1,492 @@
+{
+    "address": "Ratcliffe Cross Street, London E1",
+    "price": "\u00a3600,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 91.0,
+    "sqft": 980.0,
+    "text": "[7 (374x226)\ntt Reception Room / OD\nLJ Kitchen 777\nLJ 8.68m x 3.35m _\n\n(28'6 x 11'0) ~<a\nBedroom =\n(9'5 x 9'3) 4.89m x 2.91m Vy\nyo a \\491mx3.5am |i)\nLe an rt) (16'1 x 11'9) \u201cLY\nGround Floor\nTotal area (approx.): 91.0 sq. m (980 Sq. ft)\n18.7 sq. m (201 Sq. ft)\n",
+    "image": "./extracted_images/60755396.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/60755396/",
+    "listing_no": "60755396",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.512564,
+        "longitude": -0.04286
+    },
+    "first_published": "2022-02-14T16:01:26",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60755396",
+        "publishedOn": "2022-02-14T16:01:26",
+        "section": "new-homes",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/f975e2094f9ad018d32dae7610dbf8c9d9273f8c.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 93428,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters New Homes - East London",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Ratcliffe Cross Street, London E1",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0FD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60755396,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "E1",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-new-homes-east-london-shoreditch-93428/",
+            "branchId": "93428",
+            "branchResultsUri": "/for-sale/branch/dexters-new-homes-east-london-shoreditch-93428/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7749 3810",
+            "name": "Dexters New Homes - East London",
+            "memberType": "agent",
+            "address": "44 Great Eastern Street, Shoreditch",
+            "postcode": "EC2A 3EP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Limehouse",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Marion Richardson Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stephen Hawking School (SEN)",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Limehouse",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A well thought out 3 bedroom apartment located in the heart of East London close to the historic docks of Wapping and the glittering towers of Canary Wharf, This 970 sq ft home comes with a full length balcony, integrated Siemens appliances and offers a South East outlook with views of Canary Wharf. Ready to move in now.<br><br>Limehouse station is a less than a 3 minute walk away with access directly into the city on the DLR &amp; C2C Rail service. 24 Hours bus routes run at the end of the road and cyclists can make use of the cycle highways or canal paths.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three Bedrooms",
+                "970 Sq Ft",
+                "Private Full Length Balcony",
+                "Close To Station",
+                "Integrated Appliances",
+                "Communal Garden",
+                "Ready To Move In"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "fe4c6e1ec260a4784b00736e288c1888ca152339.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "e4bf17f25eae3b79ad77b7b6a0d6654fb2d470c2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "87bcbca2facc1f7f210080a3a9d2247bb7a4d17e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8f0cfa98bff11007ba5ec37a0f064cf589f3172f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f13c696385696182af5dbfb14ef815aeeb803530.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5dd640aae34b56be52aaff9569e37fa891067413.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "34bbaaf69242392ab972a8c8b44d242ee9771ef3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a883aad6643b7d5542ab05098d5cabc3c12c93e8.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 93428,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters New Homes - East London",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Ratcliffe Cross Street, London E1",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0FD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60755396,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "E1",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "New home, 3 bed flat for sale in Ratcliffe Cross Street, London E1 - Zoopla",
+        "metaDescription": "A new 3 bed flat for sale in Ratcliffe Cross Street, London E1, selling for \u00a3600,000 from Dexters New Homes - East London. See property details on Zoopla or browse all our range of properties in Ratcliffe Cross Street, London E1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60755396/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.512564,
+                "longitude": -0.04286
+            }
+        },
+        "displayAddress": "Ratcliffe Cross Street, London E1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-14T16:01:26",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 119
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/fe4c6e1ec260a4784b00736e288c1888ca152339.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/new/gb",
+            "id": 60755396,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "818E1D18-8DB7-11EC-841A-CBD00D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E1",
+            "areaNameUri": "london/e1/aldgate-stepney-mile-end-whitechapel",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 4812.532467532486
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 558247,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 568496,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -10249
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 587375,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -29128
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 619566,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -61319
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 551975,
+                    "pctChangeSince": 1.136,
+                    "date": "2017-02-26",
+                    "changeSince": 6272
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 352800,
+                    "pctChangeSince": 58.233,
+                    "date": "2012-02-26",
+                    "changeSince": 205447
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 353510,
+                    "pctChangeSince": 57.915,
+                    "date": "2007-02-26",
+                    "changeSince": 204737
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 205261,
+                    "pctChangeSince": 171.969,
+                    "date": "2002-02-26",
+                    "changeSince": 352986
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 550168,
+                    "newBuilds": 3,
+                    "numSales": 309
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 550854,
+                    "newBuilds": 66,
+                    "numSales": 935
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 553065,
+                    "newBuilds": 87,
+                    "numSales": 1743
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 566126,
+                    "newBuilds": 271,
+                    "numSales": 3216
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-25T00:00:00Z",
+                    "price": 430000,
+                    "propertyId": 29354922,
+                    "streetAddress": "Flat 23, Lavender House 1b, Ratcliffe Cross Street",
+                    "uri": "flat-23/lavender-house-1b/ratcliffe-cross-street/london/e1-0hs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1250000,
+                    "propertyId": 7609296,
+                    "streetAddress": "22 Parfett Street",
+                    "uri": "22-parfett-street/london/e1-1jr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 296000,
+                    "propertyId": 7611312,
+                    "streetAddress": "17a Sidney Street",
+                    "uri": "17a-sidney-street/london/e1-2hh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 127500,
+                    "propertyId": 28756974,
+                    "streetAddress": "Flat 39, Coalstore Court, 5 Candle Street",
+                    "uri": "flat-39/coalstore-court/5-candle-street/london/e1-4rs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 7604719,
+                    "streetAddress": "Flat 9, Donovan House, Cable Street",
+                    "uri": "flat-9/donovan-house/cable-street/london/e1-0aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 7629709,
+                    "streetAddress": "Flat 22, Swan Court, Star Place",
+                    "uri": "flat-22/swan-court/star-place/london/e1w-1af"
+                }
+            ]
+        }
+    }
+}

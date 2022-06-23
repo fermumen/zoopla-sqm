@@ -1,0 +1,474 @@
+{
+    "address": "St. Laurence Close, London NW6",
+    "price": "\u00a3570,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 97.45,
+    "sqft": null,
+    "text": "St. Laurence Close, NW6\nAPPROX. GROSS INTERNAL FLOOR AREA 1049 SQFT / 97.45 SQM\n(Including Eaves Storage)\nEaves Storage\n117 SQFT / 10.87 SQM\nKey:\nCH - Ceiling Height\ni i s\n|\na\nf \u2014_ =i\nSe\nEaves i\ni Storage |\nReception! 4\nDining Bedroom \\ ,\nRoom 18'9\" (5.71)\n18'4\" (5.60) x 9'6\" (2.90) \u2014 coe\nx12'9\" (3.89) Lo Bedroom\n\u2018xt 19\u00b040\" (6.04)\n\u2014~\\ x 1841\" (5.76)\nzi \u2014_\n1 |\nbe]\n\u2018xa !\n\u2014_\u2014:\nKitchen |---|\n9'8\" (2.95) O\nx61\" (2.10 [|\n\u2014\n= z_\u2014_=_\n_\u2014\u2014 =\nSECOND FLOOR THIRD FLOOR\nThe floor plan is not to scale and measurements and\nareas shown are approximate and therefore should be used for illustrative purposes only.\nThe plan has been prepared in accordance with the RICS code of Measuring Practice\nand whilst we have confidence in the information produced, it must not be relied on.\nIf there is any aspect of particular importance, you should carry out or\ncommission your own inspection of the property.\nCopyright of FeaturePRO.\n",
+    "image": "./extracted_images/60318861.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60318861/",
+    "listing_no": "60318861",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.536823,
+        "longitude": -0.21422
+    },
+    "first_published": null,
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60318861",
+        "publishedOn": "2021-12-03T14:21:05",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/mpa/live/pdf.php?p=QPK210127&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 68656,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "branchName": "Marsh & Parsons - Queens Park",
+            "brandName": "Marsh & Parsons",
+            "chainFree": false,
+            "companyId": 7059,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "St. Laurence Close, London NW6",
+            "furnishedState": "",
+            "groupId": 10,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6DF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60318861,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 570000,
+            "price": 570000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 444730
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/marsh-and-parsons-queens-park-london-68656/",
+            "branchId": "68656",
+            "branchResultsUri": "/for-sale/branch/marsh-and-parsons-queens-park-london-68656/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "phone": "020 8022 6057",
+            "name": "Marsh & Parsons - Queens Park",
+            "memberType": "agent",
+            "address": "91 Salusbury Road, London",
+            "postcode": "NW6 6NH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Manor School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Al-Sadiq and Al-Zahra Schools",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brondesbury Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kensal Rise",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "5589fe1e3029609ea4fc71843a11d97689e88cbf.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This fantastic property is arranged over the first and second floor of a well-maintained purpose built block, offering over 1000 sqft of contemporary living space. The first floor briefly comprises; a spacious kitchen, family bathroom, double bedroom and separate reception room leading onto a private terrace. The second floor provides one large double bedroom Additional features include off-street parking and communal gardens.<br><br>St Laurence's Close is ideally located to the plethora of shops, restaurants and amenities of Salusbury Road. Local transport links include Queen's Park (Bakerloo Line) &amp; Brondesbury Park (London Overground).",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Duplex apartment",
+                "Two double bedrooms",
+                "Balcony",
+                "Residents Parking"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "6952bbc660fff1f9cc44b89a30121ee9e7700ec1.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "66c8c456b9d9f57f4ce4c04721c30ca0b26e540e.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a04013e39a6056506dd2d3d082fd6f44c4a3a562.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e0e22c601c76aa16ddd1a31b95f58b75c865f091.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6ed1a1015cac6623c0ec3289069a2384cef75af6.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f65fe84af09874546dd8b9396b45d429eacabd20.jpg",
+                "caption": "Living Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8709415c845e36370b26abc5a9a8f7a8a563fe4f.jpg",
+                "caption": "Balcony"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 68656,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "branchName": "Marsh & Parsons - Queens Park",
+            "brandName": "Marsh & Parsons",
+            "chainFree": false,
+            "companyId": 7059,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "St. Laurence Close, London NW6",
+            "furnishedState": "",
+            "groupId": 10,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6DF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60318861,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 570000,
+            "price": 570000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 444730
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in St. Laurence Close, London NW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in St. Laurence Close, London NW6, selling for \u00a3570,000 from Marsh & Parsons - Queens Park. See property details on Zoopla or browse all our range of properties in St. Laurence Close, London NW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60318861/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.536823,
+                "longitude": -0.21422
+            }
+        },
+        "displayAddress": "St. Laurence Close, London NW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": null,
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 128
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/6952bbc660fff1f9cc44b89a30121ee9e7700ec1.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3570,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Marsh & Parsons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60318861,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "BA18A17C-93C4-11EC-975A-A83C0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW6",
+            "areaNameUri": "london/nw6/kilburn-queens-park-south-and-west-hampstead-brondesbury-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2462.275362318841
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 639412,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 650315,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10903
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 670511,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -31099
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 700633,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -61221
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 661041,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -21629
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 456421,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 182991
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 407367,
+                    "pctChangeSince": 56.962,
+                    "date": "2007-02-26",
+                    "changeSince": 232045
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 240567,
+                    "pctChangeSince": 165.794,
+                    "date": "2002-02-26",
+                    "changeSince": 398845
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 667712,
+                    "newBuilds": 3,
+                    "numSales": 291
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 672521,
+                    "newBuilds": 45,
+                    "numSales": 870
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 677804,
+                    "newBuilds": 112,
+                    "numSales": 1709
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 662927,
+                    "newBuilds": 321,
+                    "numSales": 2863
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760000,
+                    "propertyId": 17241471,
+                    "streetAddress": "Flat 3, Lawn Mansions, Gondar Gardens",
+                    "uri": "flat-3/lawn-mansions/gondar-gardens/london/nw6-1er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 3350000,
+                    "propertyId": 17259571,
+                    "streetAddress": "98 Christchurch Avenue",
+                    "uri": "98-christchurch-avenue/mapesbury/london/nw6-7pe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1196750,
+                    "propertyId": 17241043,
+                    "streetAddress": "1 Norman Terrace, Agamemnon Road",
+                    "uri": "1-norman-terrace/agamemnon-road/london/nw6-1bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 262500,
+                    "propertyId": 17252821,
+                    "streetAddress": "Flat 4, Kilburn Gate, Kilburn Priory",
+                    "uri": "flat-4/kilburn-gate/kilburn-priory/london/nw6-5nd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 875000,
+                    "propertyId": 17260049,
+                    "streetAddress": "10 Douglas Road",
+                    "uri": "10-douglas-road/london/nw6-7rp"
+                }
+            ]
+        }
+    }
+}

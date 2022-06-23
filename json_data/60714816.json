@@ -1,0 +1,543 @@
+{
+    "address": "Pilot Walk, Greenwich, London SE10",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": "777 sq. ft",
+    "sqm": 72.24,
+    "sqft": 2022.0,
+    "text": "Foxtons Pilot Walk, SE10\n05/02/2022 2,050,756 72.24 sqm / 777.58 sqft\nSK\nBALCONY\n\u2014\u2014 pq 3.65m x 1.78m\n(12'0 x 510)\nKITCHEN/RECEPTION\n6.97m x 5.44m\nBD (22'10 x 17\u00b010)\nI||I - \u00b0\nBEDROOM 2\n~s 4.85m x 2.78m\n_ (15\"11 x 911)\naN\n\\\n\\\n~S 1\nN a ve\n> Vo oN\n\\ -- \\\n1 \\\niD . MAIN BEDROOM\n4 4.85m x 3.54m\na EJ (15111 x 11'7)\n7\nal N\n= Sixth Floor\n72.24 sqm / 777.58 sqft 68.90 sqm / 741.63 sqft 6.24 sqm / 67.17 sqft 0.00 sqm / 0.00 saft\nMspec\"\nVerified \u00a9\n",
+    "image": "./extracted_images/60714816.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60714816/",
+    "listing_no": "60714816",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.497,
+        "longitude": 0.01078
+    },
+    "first_published": "2022-02-08T19:06:54",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60714816",
+        "publishedOn": "2022-02-08T19:06:54",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/se10/chpk4333428/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/se10/chpk4333428",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/se10/chpk4333428/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 62677,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Greenwich",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Pilot Walk, Greenwich, London SE10",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0NW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60714816,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SE10",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "777",
+            "tenure": null,
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-greenwich-greenwich-62677/",
+            "branchId": "62677",
+            "branchResultsUri": "/for-sale/branch/foxtons-greenwich-greenwich-62677/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 8128 2418",
+            "name": "Foxtons - Greenwich",
+            "memberType": "agent",
+            "address": "326-328 Creek Road, Greenwich",
+            "postcode": "SE10 9SW"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Millennium Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "North Greenwich Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "North Greenwich",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Christ Church Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/6201046f88002a0a4ade59ac"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Set along the River Thames, this superb 2 bedroom apartment is moments from the O2 Arena and Greenwich Peninsula attractions. Modern and naturally lit interiors are accompanied by a private balcony to the rear.<br><br>Pilot Walk is in an excellent location on the edge of the River Thames and with the O2 Arena close by. Cutty Sark, the National Maritime Museum and Old Royal Naval College are nearby attractions with North Greenwich Station moments away.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Bright and airy 6th floor apartment in a popular riverside building",
+                "Open plan kitchen with sleek gloss cabinets",
+                "Lovely reception with room to relax and dine and floor to ceiling windows",
+                "Private balcony and private parking space",
+                "Main double bedroom with fitted wardrobe",
+                "Underfloor heating throughout the apartment",
+                "Chic bathroom and main ensuite shower room",
+                "Access to a gym and concierge"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "a1f8f4ffeb75eecd10ecd63e61eea09f14f069eb.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "c9fb047b1ea00d5b393adcc3b3af0507204ef271.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "09d7b4cdebb1f7f06acca375c73adffda256d1ae.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ae6466b51233a42215dc7f5e77ae6acd10b25ca7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c3f686e0b3558faf9f070dedfdbc727b5cbcbd21.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7bb7107c6ef6392dd6cd43b86751018497066b6b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5a7e3893d207b4af19d4fc5d5acba5412992194b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "add190b0671c9036c4a0781bd8b97a21957d33d8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "64ebf87d8650e41df74cef35186686ac760e3d7f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7dbbdbe9bd9bd08290497cc27601b4dcf472c8be.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1e4690a439490fe09ebe99469dac35b6155e62c3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fd6abf39806516bed195906ae6d7232f9f7d759f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8bf0d8edc53b35df4a57ab854532f473094b1694.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "07a6047f6bfb6677b498a205f0bb6a272cb3ea13.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d3f9f5d49a8c77130a82a3a4516a682629879804.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a3e927d4b5a50dc7c3abd13e5b3eda3cbe38cd02.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 62677,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Greenwich",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Pilot Walk, Greenwich, London SE10",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0NW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60714816,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SE10",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "777",
+            "tenure": null,
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Pilot Walk, Greenwich, London SE10 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Pilot Walk, Greenwich, London SE10, selling for \u00a3650,000 from Foxtons - Greenwich. See property details on Zoopla or browse all our range of properties in Pilot Walk, Greenwich, London SE10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60714816/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.497,
+                "longitude": 0.01078
+            }
+        },
+        "displayAddress": "Pilot Walk, Greenwich, London SE10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-08T19:06:54",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 134
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/a1f8f4ffeb75eecd10ecd63e61eea09f14f069eb.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 777
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 837,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60714816,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "A23287D4-9091-11EC-8DE0-9F340E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE10",
+            "areaNameUri": "london/se10/greenwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2236
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 487489,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 490846,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3357
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 492937,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5448
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 515817,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -28328
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 469124,
+                    "pctChangeSince": 3.915,
+                    "date": "2017-02-26",
+                    "changeSince": 18365
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 306678,
+                    "pctChangeSince": 58.958,
+                    "date": "2012-02-26",
+                    "changeSince": 180811
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 296346,
+                    "pctChangeSince": 64.5,
+                    "date": "2007-02-26",
+                    "changeSince": 191143
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 175840,
+                    "pctChangeSince": 177.234,
+                    "date": "2002-02-26",
+                    "changeSince": 311649
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 509351,
+                    "newBuilds": 26,
+                    "numSales": 175
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 501732,
+                    "newBuilds": 177,
+                    "numSales": 615
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 476740,
+                    "newBuilds": 511,
+                    "numSales": 1538
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 469105,
+                    "newBuilds": 1370,
+                    "numSales": 3123
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1030000,
+                    "propertyId": 21004877,
+                    "streetAddress": "10 Feathers Place",
+                    "uri": "10-feathers-place/london/se10-9ne"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 1320000,
+                    "propertyId": 21002409,
+                    "streetAddress": "57 Ashburnham Grove",
+                    "uri": "57-ashburnham-grove/london/se10-8uj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 386000,
+                    "propertyId": 32075205,
+                    "streetAddress": "Flat 21, Poldo House, 24 Cable Walk",
+                    "uri": "flat-21/poldo-house/24-cable-walk/london/se10-0tq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 845000,
+                    "propertyId": 20999024,
+                    "streetAddress": "27 Dartmouth Hill",
+                    "uri": "27-dartmouth-hill/london/se10-8aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 552500,
+                    "propertyId": 21003732,
+                    "streetAddress": "78 Colomb Street",
+                    "uri": "78-colomb-street/london/se10-9ez"
+                }
+            ]
+        }
+    }
+}

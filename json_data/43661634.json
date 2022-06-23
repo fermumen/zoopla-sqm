@@ -1,0 +1,565 @@
+{
+    "address": "Dunstans Road, East Dulwich, London SE22",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 88.9,
+    "sqft": 957.0,
+    "text": "_N\nSK\nx <x xxx >\n( \\ tm b < > 4 ~)\nVU \u2014 i XKKKK, I\nLe) YE OPPS OPS BESSON\n~ COC ee. xKK XK\n3 = BK KSC < SEO SS\n( o 7 2 Ce rae OS LX S24\n\u2014= bk GARDEN | OC\n[= | XXX QSEXTENDS TOC XXX)\n\u2014! \" KOK, 38! (10.05m) OO]\nncenenecececececececaceces\nKITCHEN/DINING RRR RLRE <<]\njae] _ 198x105 POR QPR QL x\n($3)) 5.9m x 3.18m QR CRO CORDOOCE_\nixx<\u2122* xxx\nNeecestee <e\ni OS. : |\nb KX KK\u00bb CI\nie LX :\n\u2014 T : ry\na : me =F Hom \u00b0\na | =a ;\n/ | DN BEDROOM 2 1\n| 11'5 x 10'11 :\nAI 3.48m x 3.33m\n7c\n. \\ MASTER BEDROOM\n7 / 169 x 13'1\n- 5.11m x 3.99m\n|_/ / my\nx RS ry\nane ile et\nRECEPTION ROOM , \u201cAN AI\n16'5 x 14'2 /\n7 5.00m x 4.31m mee\n\u2014/ TO EAVES\nFj SECOND FLOOR\nyP 252 SQFT /23.4SQM\nft oe\nIN / oe\nGROUND FLOOR FIRST FLOOR\n39 SQFT/3.6SQM 666 SQFT/61.9SQM\nAPPROXIMATE GROSS INTERNAL AREA\n957 SQ FT/ 88.9 SQM\n",
+    "image": "./extracted_images/43661634.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/43661634/",
+    "listing_no": "43661634",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.450748,
+        "longitude": -0.066457
+    },
+    "first_published": "2022-02-22T20:21:10",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "43661634",
+        "publishedOn": "2022-02-22T20:21:10",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/DUL160258",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=DUL160258",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8169,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Dulwich",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Dunstans Road, East Dulwich, London SE22",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0HE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 43661634,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SE22",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 645914
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-dulwich-east-dulwich-8169/",
+            "branchId": "8169",
+            "branchResultsUri": "/for-sale/branch/winkworth-dulwich-east-dulwich-8169/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8115 8427",
+            "name": "Winkworth - Dulwich",
+            "memberType": "agent",
+            "address": "97 Lordship Lane, East Dulwich",
+            "postcode": "SE22 8HU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Goodrich Community Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Anthony's Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Honor Oak Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.9
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Dulwich",
+                "type": "national_rail_station",
+                "distanceMiles": 1
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "5b8f19d74888925d21a9585045049208808e0993.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A bright, spacious and beautifully presented two double bedroom flat, in a highly sought after residential area in SE22. Close to both Peckham Rye and Dulwich Park, the property offers a large reception with high ceilings, working fireplace and original bay window. Two large double bedrooms, one currently a nursery, boasts high ceilings and a sash window. Whilst the master offers extensive storage and views over London. A utility room connects the modern bathroom and spacious kitchen-diner, perfect for entertaining. There is direct access via an internal staircase to a large, West facing garden to the rear. School catchments are in abundance with Goodrich and Heber to name a couple. Shops, bars and restaurants can be found on either Forest Hill Road, Lordship Lane or Bellenden road within close proximity. The property is share of freehold.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedrooms",
+                "Split Level Flat",
+                "Large Reception",
+                "Modern Kitchen-Diner",
+                "Modern Bathroom",
+                "Private Section of Garden",
+                "Bike Storage",
+                "Share Of Freehold",
+                "Excellent Location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "3330a7b36461846b71f7c723e2cda4bffc810a91.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "4d19d3e480bc7b80b55e36ce89fe3dfdf9264f28.jpg",
+                "caption": "Reception Part Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0ba1eaea53ecb2eb2fde362a527341a7b2354f6b.jpg",
+                "caption": "Kitchen-Diner Part 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9ce172ef2bf64070fdfbac41d2b1e76c9eed2b08.jpg",
+                "caption": "External"
+            },
+            {
+                "__typename": "Media",
+                "filename": "67b64f887600606dce2e319613e7fa935348960f.jpg",
+                "caption": "Reception Part One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "56ba764906c5ef3d42a710786f3dbd193f4206fc.jpg",
+                "caption": "Kitchen-Diner Part 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d6daf2e944d5ea86a8f0a63d5006f6528d8af107.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1f8dc575bb4bce2ebc7609f850f14c94e273c708.jpg",
+                "caption": "View"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e4788e0996c9f42fede70f4d76b996a0e3a9f435.jpg",
+                "caption": "Bedroom One Part One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "67bb89b2e7a7668b672bdd8cbe673fca120dafde.jpg",
+                "caption": "Bedroom One Part Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9a293b1c7e25a4c1d7f1ec94b3eef97b622dfb1f.jpg",
+                "caption": "Bedroom Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "61991677e204448f4fb278a3a28c4c249a57dc37.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "04b9125042ede186580146a24c275cef830234a7.jpg",
+                "caption": "Garden Part One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "69e6e921e1bdd39e8241a1f688b518a7adb77b25.jpg",
+                "caption": "Garden Part Two"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8169,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Dulwich",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Dunstans Road, East Dulwich, London SE22",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0HE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 43661634,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SE22",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 645914
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Dunstans Road, East Dulwich, London SE22 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Dunstans Road, East Dulwich, London SE22, selling for \u00a3650,000 from Winkworth - Dulwich. See property details on Zoopla or browse all our range of properties in Dunstans Road, East Dulwich, London SE22.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/43661634/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.450748,
+                "longitude": -0.066457
+            }
+        },
+        "displayAddress": "Dunstans Road, East Dulwich, London SE22",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-22T20:21:10",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 117
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/3330a7b36461846b71f7c723e2cda4bffc810a91.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 43661634,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "24898F78-941D-11EC-BD9E-ACE10D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE22",
+            "areaNameUri": "london/se22/east-dulwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1906.9374999999998
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 456902,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 460048,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3146
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 462008,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5106
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 483451,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -26549
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 439686,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 17216
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 287434,
+                    "pctChangeSince": 58.959,
+                    "date": "2012-02-26",
+                    "changeSince": 169468
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 277750,
+                    "pctChangeSince": 64.501,
+                    "date": "2007-02-26",
+                    "changeSince": 179152
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 164806,
+                    "pctChangeSince": 177.236,
+                    "date": "2002-02-26",
+                    "changeSince": 292096
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 488265,
+                    "newBuilds": 0,
+                    "numSales": 148
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 483479,
+                    "newBuilds": 1,
+                    "numSales": 372
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 478928,
+                    "newBuilds": 5,
+                    "numSales": 733
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 467029,
+                    "newBuilds": 7,
+                    "numSales": 1166
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-10T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 21172379,
+                    "streetAddress": "83 Dunstans Road",
+                    "uri": "83-dunstans-road/london/se22-0hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-20T00:00:00Z",
+                    "price": 1250000,
+                    "propertyId": 21172666,
+                    "streetAddress": "10 Dunstans Road",
+                    "uri": "10-dunstans-road/london/se22-0hq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 355000,
+                    "propertyId": 21172339,
+                    "streetAddress": "Flat 6, St. Davids Mansions, Dunstans Road",
+                    "uri": "flat-6/st-davids-mansions/dunstans-road/london/se22-0ha"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 545000,
+                    "propertyId": 21172390,
+                    "streetAddress": "105 Dunstans Road",
+                    "uri": "105-dunstans-road/london/se22-0hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 1242500,
+                    "propertyId": 21172661,
+                    "streetAddress": "4 Dunstans Road",
+                    "uri": "4-dunstans-road/london/se22-0hq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 21172468,
+                    "streetAddress": "19 Crebor Street",
+                    "uri": "19-crebor-street/london/se22-0hf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 884000,
+                    "propertyId": 21173603,
+                    "streetAddress": "47 Mundania Road",
+                    "uri": "47-mundania-road/london/se22-0nw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 910000,
+                    "propertyId": 21182224,
+                    "streetAddress": "21 Rodwell Road",
+                    "uri": "21-rodwell-road/london/se22-9lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 21176816,
+                    "streetAddress": "Flat B, 18 Lordship Lane",
+                    "uri": "flat-b/18-lordship-lane/london/se22-8hn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 638500,
+                    "propertyId": 21180897,
+                    "streetAddress": "148a Crystal Palace Road",
+                    "uri": "148a-crystal-palace-road/london/se22-9ep"
+                }
+            ]
+        }
+    }
+}

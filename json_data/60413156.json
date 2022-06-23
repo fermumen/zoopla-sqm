@@ -1,0 +1,552 @@
+{
+    "address": "The Octave, 203 Willesden Lane, Willesden Green, London NW6",
+    "price": "\u00a3570,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 60.9,
+    "sqft": 656.0,
+    "text": "The Octave, London, NW6\nAPPROX. GROSS INTERNAL FLOOR AREA 656 SQ FT 60.9 SQ METRES\nBalcony\n8't (2.46)\nx61 (2.11)\ni\nReception Room\n20'10 (6.35)\nx11\" (8.35)\nY\nKitchen |\n8'7 (2.62) ||~ ~\nh x72 (2.18).0_O\n\\ \\ .\n\\ Ce\n\\ L33)\n\\ 0)\nCH\nRX\n\\\nBedroom 2\n11'1 (3.38) max\nx73 (2.21) max\n_Y\nBedroom 4\n13'10 (4.22) max\nx 10'4 (3.15) max\nSECOND FLOOR\n\u2018Whilst every attempt has been made to ensure the accuracy of the floor plan contained here, measurements of doors, windows and\nrooms are approximate and no responsibly is taken for any error, omission o misstatement. These plans are for representation\npurposes only as defined by RICS Code of Measuring Practice and should be used as such by any prospective purchaser.\nSpecifically no guarantee is given on the total square footage of the property if quoted on this plan. Any figure given is for initial\nquidance only and should not be relied on as a basis of valuation\nCopyright nichecom.co.uk 2019 Produced for Residently Services (UK) REF : 425909\n",
+    "image": "./extracted_images/60413156.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60413156/",
+    "listing_no": "60413156",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.544971,
+        "longitude": -0.214233
+    },
+    "first_published": "2021-12-22T16:34:06",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60413156",
+        "publishedOn": "2021-12-22T16:34:06",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 116104,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(675618).png",
+            "branchName": "OIG Real Estate",
+            "brandName": "OIG Real Estate",
+            "chainFree": false,
+            "companyId": 86409,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Octave, 203 Willesden Lane, Willesden Green, London NW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7YR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60413156,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 570000,
+            "price": 570000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 455470
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/oig-real-estate-london-116104/",
+            "branchId": "116104",
+            "branchResultsUri": "/for-sale/branch/oig-real-estate-london-116104/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(675618).png",
+            "phone": "020 3641 5665",
+            "name": "OIG Real Estate",
+            "memberType": "agent",
+            "address": "Labs Atrium, Stables Market, Camden Town, London",
+            "postcode": "NW1 8AH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "North West London Jewish Day School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brondesbury College London",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brondesbury Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilburn",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "O.I.G Real Estate are pleased to present this newly refurbished two bedroom apartment.<br><br>Long<br>The property benefits from wooden flooring, an open plan kitchen/reception room, air conditioning, private balcony, passenger lift &amp; communal gardens. In addition, off-street parking is available. Furthermore, The Octave is perfectly located for easy access to the amenities of Willesden Green, Brondesbury &amp; West Hampstead.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Wooden Flooring",
+                "Passenger Lift",
+                "Air Conditioning",
+                "Off-Street Parking",
+                "Private Balcony",
+                "Communal Gardens"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "b1e8d391aabdadcff18bc74f314d546ea184eef2.jpg",
+                    "caption": "Picture No. 15"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "58b6571675ba21ed0364ca2b64460829fda0870e.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9b1d99d60f11479e7bc630a9147ea5681f1af28f.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "05bd8a785029a40f4b048103569d05c86d7ab2ed.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9cc6de3ccf524f74c1f753bad4c3b511025ab031.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "834a0f45609fe0f35ea473721b227a928c1d1b3f.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "aefd03f56653f859ebf8cf133a0c534e348e3b75.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2f4fe63770d743c03387207f63bac7abf0bab861.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cf72dbc4a12f6277f32f18911ad7ec5e71020141.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d866d02583e299a3b4be2c3f45abba5f8ab1dea5.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e687e507cf3d8813661d4e3b49bfab76d55cbbb1.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4a78fa4d31a7713efb8fb1949093835c604a7daf.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0ce9363df2a9fa32f5e79b34f6b8a386b601ccaa.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b5348a867264910276a707c2c1a814d64aa6ad89.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d365ea9136ae019eb60432f70ab3aaab35e9b92a.jpg",
+                "caption": "Picture No. 01"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 116104,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(675618).png",
+            "branchName": "OIG Real Estate",
+            "brandName": "OIG Real Estate",
+            "chainFree": false,
+            "companyId": 86409,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Octave, 203 Willesden Lane, Willesden Green, London NW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7YR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60413156,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 570000,
+            "price": 570000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 455470
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in The Octave, 203 Willesden Lane, Willesden Green, London NW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in The Octave, 203 Willesden Lane, Willesden Green, London NW6, selling for \u00a3570,000 from OIG Real Estate. See property details on Zoopla or browse all our range of properties in The Octave, 203 Willesden Lane, Willesden Green, London NW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60413156/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.544971,
+                "longitude": -0.214233
+            }
+        },
+        "displayAddress": "The Octave, 203 Willesden Lane, Willesden Green, London NW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-22T16:34:06",
+                "priceLabel": "\u00a3599,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.8",
+                    "priceChangeDate": "2022-01-19T16:12:22",
+                    "priceChangeLabel": "\u00a329,000",
+                    "priceLabel": "\u00a3570,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 89
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/b1e8d391aabdadcff18bc74f314d546ea184eef2.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3570,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "OIG Real Estate",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60413156,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "D9EA1252-7942-11EC-974D-BF3D0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW6",
+            "areaNameUri": "london/nw6/kilburn-queens-park-south-and-west-hampstead-brondesbury-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2462.275362318841
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 639412,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 650315,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10903
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 670511,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -31099
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 700633,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -61221
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 661041,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -21629
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 456421,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 182991
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 407367,
+                    "pctChangeSince": 56.962,
+                    "date": "2007-02-26",
+                    "changeSince": 232045
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 240567,
+                    "pctChangeSince": 165.794,
+                    "date": "2002-02-26",
+                    "changeSince": 398845
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 667712,
+                    "newBuilds": 3,
+                    "numSales": 291
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 672521,
+                    "newBuilds": 45,
+                    "numSales": 870
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 677804,
+                    "newBuilds": 112,
+                    "numSales": 1709
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 662927,
+                    "newBuilds": 321,
+                    "numSales": 2863
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 270000,
+                    "propertyId": 17259618,
+                    "streetAddress": "Flat 27, Tarranbrae, Willesden Lane",
+                    "uri": "flat-27/tarranbrae/willesden-lane/london/nw6-7pl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 29005259,
+                    "streetAddress": "90 Willesden Lane",
+                    "uri": "90-willesden-lane/london/nw6-7ta"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-14T00:00:00Z",
+                    "price": 425000,
+                    "propertyId": 17259630,
+                    "streetAddress": "Flat 32, Tarranbrae, Willesden Lane",
+                    "uri": "flat-32/tarranbrae/willesden-lane/london/nw6-7pn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-03T00:00:00Z",
+                    "price": 370000,
+                    "propertyId": 17259652,
+                    "streetAddress": "Flat 54, Tarranbrae, Willesden Lane",
+                    "uri": "flat-54/tarranbrae/willesden-lane/london/nw6-7pn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-16T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 17261484,
+                    "streetAddress": "Flat 34, Beechworth, Willesden Lane",
+                    "uri": "flat-34/beechworth/willesden-lane/london/nw6-7yz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760000,
+                    "propertyId": 17241471,
+                    "streetAddress": "Flat 3, Lawn Mansions, Gondar Gardens",
+                    "uri": "flat-3/lawn-mansions/gondar-gardens/london/nw6-1er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 3350000,
+                    "propertyId": 17259571,
+                    "streetAddress": "98 Christchurch Avenue",
+                    "uri": "98-christchurch-avenue/mapesbury/london/nw6-7pe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1196750,
+                    "propertyId": 17241043,
+                    "streetAddress": "1 Norman Terrace, Agamemnon Road",
+                    "uri": "1-norman-terrace/agamemnon-road/london/nw6-1bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 262500,
+                    "propertyId": 17252821,
+                    "streetAddress": "Flat 4, Kilburn Gate, Kilburn Priory",
+                    "uri": "flat-4/kilburn-gate/kilburn-priory/london/nw6-5nd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 875000,
+                    "propertyId": 17260049,
+                    "streetAddress": "10 Douglas Road",
+                    "uri": "10-douglas-road/london/nw6-7rp"
+                }
+            ]
+        }
+    }
+}

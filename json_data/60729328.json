@@ -1,0 +1,538 @@
+{
+    "address": "King Edward's Road, London E9",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 67.6,
+    "sqft": 728.0,
+    "text": "First Floor\nMezzanine\nBedroom\n4.77m (15'8\") max\nx 2.60m (8'6\")\nReception\nRoom\nPa 7.03m x 3.16m\n7 (23'1\" x 10'4\") Bedroom\n{ 5.12m x 1.83m\n(16'9\" x 6')\n\u2018a\no ; \\\n__| Kitchen 7\" y\n\u00a9 \u00a98.06m x 1.72mj}\noc {(1or1\" x 5'8\") is yon :\nT \u2014_ 7\nTotal area: approx. 67.6 sq. metres (728.1 sq. feet)\n",
+    "image": "./extracted_images/60729328.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60729328/",
+    "listing_no": "60729328",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.537911,
+        "longitude": -0.054824
+    },
+    "first_published": "2022-02-10T14:02:51",
+    "last_sale_date": "2016-05-05",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60729328",
+        "publishedOn": "2022-02-10T14:02:51",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/2db5cedbf6b314cccb0fac57e2f1e14e45aa11c0.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79340,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Hackney",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "King Edward's Road, London E9",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7SG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60729328,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "E9",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 601938
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-hackney-london-79340/",
+            "branchId": "79340",
+            "branchResultsUri": "/for-sale/branch/dexters-hackney-london-79340/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7247 2440",
+            "name": "Dexters - Hackney",
+            "memberType": "agent",
+            "address": "10 Broadway Market, London",
+            "postcode": "E8 4QJ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "London Fields Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St John of Jerusalem Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "London Fields",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Cambridge Heath",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "31cb30af971972adbae1d5919e276c29f95b9bc8.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A unique one bedroom apartment set within an old clothing factory. This property benefits from double height ceilings, large windows, secure parking and a mezzanine floor perfect for a bedroom, office or additional living space.<br><br>King Edward's Road is one of Hackney's most sought after warehouse conversions, situated between Victoria Park and London Fields. Formerly a 1920's clothing factory, it has been converted into live-work units.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Offers In Excess Of \u00a3600,000",
+                "Warehouse Conversion",
+                "Mezzanine Floor",
+                "Private Secure Parking",
+                "Lift Serviced",
+                "London Fields"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "bb2b2a3e69442d5cdf2d6d8281bcda2e2e49e8a5.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "ac96116257e3c6f9cf77b7d4aa6ee77311d5f0a1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "28c3b572f8e52bb52d47005fde3a34b1bb8ce66f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c71fbe689e15dbc52ba3589508c6299273ad0f7c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "17fca2d72202750c243914e51a9c1b96d3de2298.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a8b825440a446e549a9b92ddb10cc36f82c7b0f3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "efb7e38cd4d3a1fd357477d7d4a91b8942a8478c.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79340,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Hackney",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "King Edward's Road, London E9",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7SG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60729328,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "E9",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 601938
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in King Edward's Road, London E9 - Zoopla",
+        "metaDescription": "2 bed flat for sale in King Edward's Road, London E9, selling for \u00a3600,000 from Dexters - Hackney. See property details on Zoopla or browse all our range of properties in King Edward's Road, London E9.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60729328/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.537911,
+                "longitude": -0.054824
+            }
+        },
+        "displayAddress": "King Edward's Road, London E9",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-10T14:02:51",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2016-05-05",
+                "newBuild": false,
+                "price": 590000,
+                "priceLabel": "\u00a3590,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "7.7",
+                    "priceChangeDate": "2022-02-21T16:00:33",
+                    "priceChangeLabel": "\u00a350,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 333
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/bb2b2a3e69442d5cdf2d6d8281bcda2e2e49e8a5.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60729328,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "AADAB866-932F-11EC-B255-120E0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E9",
+            "areaNameUri": "london/e9/homerton-south-hackney",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2225.6481481481474
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 445269,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 453444,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -8175
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 468502,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -23233
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 494176,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -48907
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 440258,
+                    "pctChangeSince": 1.138,
+                    "date": "2017-02-26",
+                    "changeSince": 5011
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 281395,
+                    "pctChangeSince": 58.236,
+                    "date": "2012-02-26",
+                    "changeSince": 163874
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 281961,
+                    "pctChangeSince": 57.919,
+                    "date": "2007-02-26",
+                    "changeSince": 163308
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 163717,
+                    "pctChangeSince": 171.975,
+                    "date": "2002-02-26",
+                    "changeSince": 281552
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 473159,
+                    "newBuilds": 0,
+                    "numSales": 140
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 482499,
+                    "newBuilds": 47,
+                    "numSales": 416
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 462592,
+                    "newBuilds": 55,
+                    "numSales": 720
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 450054,
+                    "newBuilds": 115,
+                    "numSales": 1215
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 7781135,
+                    "streetAddress": "Flat 9, Williams House, 2 King Edward's Road",
+                    "uri": "flat-9/williams-house/2-king-edward-s-road/london/e9-7sj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 605000,
+                    "propertyId": 7781051,
+                    "streetAddress": "Flat G11, 5 King Edward's Road",
+                    "uri": "flat-g11/5-king-edward-s-road/london/e9-7sg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-26T00:00:00Z",
+                    "price": 802000,
+                    "propertyId": 7781055,
+                    "streetAddress": "Flat G16, 5 King Edward's Road",
+                    "uri": "flat-g16/5-king-edward-s-road/london/e9-7sg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-21T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 27325588,
+                    "streetAddress": "Second Floor Flat, 4 King Edward's Road",
+                    "uri": "second-floor-flat/4-king-edward-s-road/london/e9-7sf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-12T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 7781087,
+                    "streetAddress": "Flat 201, 5 King Edward's Road",
+                    "uri": "flat-201/5-king-edward-s-road/london/e9-7sg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 340000,
+                    "propertyId": 7772557,
+                    "streetAddress": "Flat 143, Banister House, Homerton High Street",
+                    "uri": "flat-143/banister-house/homerton-high-street/london/e9-6bn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 276000,
+                    "propertyId": 7774596,
+                    "streetAddress": "38 Trelawney Estate, Paragon Road",
+                    "uri": "38-trelawney-estate/paragon-road/london/e9-6ns"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 390000,
+                    "propertyId": 7769217,
+                    "streetAddress": "34 Leabank Square",
+                    "uri": "34-leabank-square/london/e9-5lp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 7781135,
+                    "streetAddress": "Flat 9, Williams House, 2 King Edward's Road",
+                    "uri": "flat-9/williams-house/2-king-edward-s-road/london/e9-7sj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-22T00:00:00Z",
+                    "price": 1775000,
+                    "propertyId": 7767014,
+                    "streetAddress": "13 Brookfield Road",
+                    "uri": "13-brookfield-road/london/e9-5ah"
+                }
+            ]
+        }
+    }
+}

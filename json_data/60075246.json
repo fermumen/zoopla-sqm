@@ -1,0 +1,506 @@
+{
+    "address": "Ashley Road, Tottenham Hale, London N17",
+    "price": "\u00a3605,000",
+    "beds": "2 beds",
+    "area": "767 sq. ft",
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//new-homes/details/60075246/",
+    "listing_no": "60075246",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.589241,
+        "longitude": -0.061996
+    },
+    "first_published": "2021-10-29T13:20:17",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60075246",
+        "publishedOn": "2021-10-29T13:20:17",
+        "section": "new-homes",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/4bf290dd008d899151a459f5a2fdee74ffba53b3.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/43b3af5cb95926eda3f93a191766120836c555a9.jpg",
+                "type": "site_plan",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 128828,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(726124).png",
+            "branchName": "Argent Related - Heart of Hale",
+            "brandName": "Kings Cross",
+            "chainFree": true,
+            "companyId": 46082,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Ashley Road, Tottenham Hale, London N17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9RZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60075246,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "",
+            "memberType": "developer",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "N17",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 605000,
+            "price": 605000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "En Suite|Close to Tube Station",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "767",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/new-homes/developers/branch/argent-related-heart-of-hale-london-128828/",
+            "branchId": "128828",
+            "branchResultsUri": "/new-homes/branch/argent-related-heart-of-hale-london-128828/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(726124).png",
+            "phone": "020 8022 4852",
+            "name": "Argent Related - Heart of Hale",
+            "memberType": "developer",
+            "address": "2 Ashley Road, Tottenham Hale, London",
+            "postcode": "N17 9RZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tottenham Hale",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tottenham Hale",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Harris Academy Tottenham",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ferry Lane Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Now available with help to buy. Two bedroom, east facing, seventh floor apartment, with stunning views towards the Walthamstow Wetlands. Residents will also have access to estate concierge services from summer 2022.<br><br>About 2 Ashley Road<br>2 Ashley Road is a collection of 54 one- and two-bedroom homes, with prices starting from \u00a3442,0000.<br><br>Designed by Pollard Thomas Edwards, architects that specialise in creating neighbourhoods, 2 Ashley Road is characterised by its unique form that helps to frame Hale Square. The masonry weave brickwork fa\u00e7ade and the use of black and brass metalwork features, draws on the area's proud industrial heritage, helping to nod to the past while paving the way for the area's future.<br><br>Residents will have access to a host of amenities, including The Deck, a residents'-only roof terrace on the 5th floor, designed by award-winning independent landscape architecture practice, Allen Pyke Associates, plus access to estate concierge services from Summer 2022.<br><br>About Heart of Hale:<br>The vibrant future of Tottenham Hale is here. Argent Related are delivering a visionary masterplan across seven new buildings, set around a new central public square, with independent restaurants, shops, cafes, office space, a new health centre and 1,030 new homes to totally transform the area.<br><br>Heart of Hale is next to the Tottenham Hale transport interchange (Victoria Line, Stansted Express, National Rail and earmarked for Crossrail 2), which connects you to King's Cross in 11 mins and the West End in 16 mins. London's world-leading universities are also within easy reach.<br><br>Argent Related is working with a world-class consultant team including Alison Brooks Architects, Allford Hall Monaghan Morris, Pollard Thomas Edwards and RUFFarchitects, with landscaping design by Adams &amp; Sutherland and Grant Associates.<br><br>The vision is expected to complete in early 2025.<br><br>Help to Buy available. Great schools nearby - Ferry Lane Primary and Harris Academy.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Communal garden",
+                "Balcony",
+                "Wood floors",
+                "Close to Tube station, Tottenham Hale zone 3",
+                "High-quality interior specification and finish",
+                "Moments from the vibrant new central square alive with bars, shops &amp; restaurants",
+                "Stunning views across London and nature on the doorstep - Walthamstow Wetlands",
+                "Access to estate concierge services"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "En Suite"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Close to Tube Station"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/830f1ad3e92c3cd2ee517e57047a4d9ac7319114.pdf",
+                    "caption": null
+                }
+            ]
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "4a942985825afb139c4f0e53e0f3c44e55c98cf1.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b4f01224dafa1067972be56e8500defd8d599c04.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "173a23d4f9a7c1f62aed787cbb069bbc28754e68.jpg",
+                "caption": "Open-Plan Living"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0f1f87d3c68ecc3ab37f2dbdbef1829956e5dd1c.jpg",
+                "caption": "Family Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "79c44f17fd79c564ae4b79ee37a7f0515dc104ca.jpg",
+                "caption": "Residents' Roof Garden"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e3c1e90fae04be220f52b46b77b8793218541206.jpg",
+                "caption": "Entrance"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 128828,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(726124).png",
+            "branchName": "Argent Related - Heart of Hale",
+            "brandName": "Kings Cross",
+            "chainFree": true,
+            "companyId": 46082,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Ashley Road, Tottenham Hale, London N17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9RZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60075246,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "developer",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "N17",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 605000,
+            "price": 605000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "En Suite|Close to Tube Station",
+            "propertyType": "flat",
+            "sizeSqFeet": "767",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in Ashley Road, Tottenham Hale, London N17 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in Ashley Road, Tottenham Hale, London N17, selling for \u00a3605,000 from Argent Related - Heart of Hale. See property details on Zoopla or browse all our range of properties in Ashley Road, Tottenham Hale, London N17.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60075246/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.589241,
+                "longitude": -0.061996
+            }
+        },
+        "displayAddress": "Ashley Road, Tottenham Hale, London N17",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-10-29T13:20:17",
+                "priceLabel": "\u00a3605,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 35
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/830f1ad3e92c3cd2ee517e57047a4d9ac7319114.pdf"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 767
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3605,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 789,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Kings Cross",
+            "category": "for-sale/resi/developer/new/gb",
+            "id": 60075246,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "946E5FC4-5F77-11EC-9B88-631B0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N17",
+            "areaNameUri": "london/n17/tottenham",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1638.180555555557
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 292025,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 297073,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -5048
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 306377,
+                    "pctChangeSince": -4.684,
+                    "date": "2021-08-26",
+                    "changeSince": -14352
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 321813,
+                    "pctChangeSince": -9.256,
+                    "date": "2021-02-26",
+                    "changeSince": -29788
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 297723,
+                    "pctChangeSince": -1.914,
+                    "date": "2017-02-26",
+                    "changeSince": -5698
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 195187,
+                    "pctChangeSince": 49.613,
+                    "date": "2012-02-26",
+                    "changeSince": 96838
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 183099,
+                    "pctChangeSince": 59.49,
+                    "date": "2007-02-26",
+                    "changeSince": 108926
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 110217,
+                    "pctChangeSince": 164.955,
+                    "date": "2002-02-26",
+                    "changeSince": 181808
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 324187,
+                    "newBuilds": 1,
+                    "numSales": 60
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 316896,
+                    "newBuilds": 14,
+                    "numSales": 197
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 319636,
+                    "newBuilds": 31,
+                    "numSales": 417
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 301994,
+                    "newBuilds": 180,
+                    "numSales": 1018
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 260000,
+                    "propertyId": 15268774,
+                    "streetAddress": "100 Somerset Gardens, Creighton Road",
+                    "uri": "100-somerset-gardens/creighton-road/london/n17-8jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 179000,
+                    "propertyId": 15270393,
+                    "streetAddress": "5 Reed Road",
+                    "uri": "5-reed-road/london/n17-9bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 522500,
+                    "propertyId": 15271167,
+                    "streetAddress": "90 Seymour Avenue",
+                    "uri": "90-seymour-avenue/london/n17-9ed"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 350000,
+                    "propertyId": 15270755,
+                    "streetAddress": "187 Bream Close",
+                    "uri": "187-bream-close/london/n17-9dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 15273336,
+                    "streetAddress": "19 Rosebery Avenue",
+                    "uri": "19-rosebery-avenue/london/n17-9ry"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,500 @@
+{
+    "address": "Tadworth Road, London NW2",
+    "price": "\u00a3575,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 85.8,
+    "sqft": 923.0,
+    "text": "Tadworth Road, NW2 7UE\nApprox. Gross Internal Area = 85.8 sq m/ 923 sq ft\nT\n\\ ? 4h\n,|\\ oe\nLe Garden \\ 4\n536\" x 18'8\"\n16.30m x 5.69m\nil (\nT T I AN\ni Kitchen BP\nDining Room orks Becioet 25 aN\n141\" 11'6\" 336m x 1,80m| 13'9\" x 11'3 / \u2018B)\n4.29m x 3.50m 4.19m x 3.43m\n- AT \\ Dat Z\ni Ze\nT 7 > i\n/ a it\n_ is f t\nt 7\nLiving Room Up Bedroom 1 \\\n41'9\" x 11'6\" 11'8\" x 10'7\" :\n3.57m x 3.50m - 3.56m x 3.22m Bedroom 3\n/ Bb 80\"x70\" |\nt 2.44m x 2.13m|\n1 1 1\nGround Floor First Floor\nRef com SE EY\nel copyright BL AN\nThe Floor plan is not to scale and measurements and areas shown are approximate and therefore should be used for\nillustrative purposes only. The plan has been prepared in accordance with the RICS code of Measuring Practice and whist we\nhave confidence in the information produced it must not be relied on. If there is any aspect of particular importance, you should\ncarry out or commission your own inspection ofthe property\nCopyright @ BLEUPLAN\n",
+    "image": "./extracted_images/60266930.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60266930/",
+    "listing_no": "60266930",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.565784,
+        "longitude": -0.237451
+    },
+    "first_published": "2021-11-25T09:51:41",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60266930",
+        "publishedOn": "2021-11-25T09:51:41",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Tadworth Road, Neasden",
+                "original": "https://lc.zoocdn.com/7707e3f5ce781806c513bac79ef94c3997b5590d.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31127642",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 25,
+            "acornType": 25,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 13459,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(381722).png",
+            "branchName": "Daniels - Dollis Hill & Neasden",
+            "brandName": "Daniels",
+            "chainFree": true,
+            "companyId": 1017,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Tadworth Road, London NW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7UB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60266930,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 9,
+            "numRecepts": 2,
+            "outcode": "NW2",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 513754
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/daniels-dollis-hill-and-neasden-london-13459/",
+            "branchId": "13459",
+            "branchResultsUri": "/for-sale/branch/daniels-dollis-hill-and-neasden-london-13459/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(381722).png",
+            "phone": "020 3478 3471",
+            "name": "Daniels - Dollis Hill & Neasden",
+            "memberType": "agent",
+            "address": "352 Neasden Lane, Neasden, London",
+            "postcode": "NW10 0AD"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Menorah High School for Girls",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Crest Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Dollis Hill",
+                "type": "london_underground_station",
+                "distanceMiles": 1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Neasden",
+                "type": "london_underground_station",
+                "distanceMiles": 1
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=cMSbS56pYbH"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A mid-terrace house located in Neasden. The property comprises three bedrooms, two reception rooms, kitchen and a bathroom. Added benefits include off street parking and potential to extend (stpp). Neasden Underground Station is situated 1 mile from the property and is served by the Jubilee Line (Zone 3). To avoid disappointment, call now to arrange a viewing.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "No Upper Chain",
+                "Off Street Parking",
+                "Close to Amenities",
+                "Potential to Extend (Stpp)",
+                "Three Bedrooms",
+                "Two Reception Rooms"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "419c5f0ca1fed7b0ba384fd0bca650d962f44aa3.jpg",
+                    "caption": "Tadworth_Road__Nw2_7Ue_A4_Portrait.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "269ef36bb029765753a41adc4cd92ca2792858c5.jpg",
+                "caption": "Tadworth_Road_11242021_220553.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0598897cfe73b241a1b551b13b4d3cc5a42781b6.jpg",
+                "caption": "Tadworth_Road_11242021_215810.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7ab62e7a0674c76e4acfcf38ed9d22bd21fe82d7.jpg",
+                "caption": "Tadworth_Road_11242021_215927.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8177740b1fc89abb17d551777b88c147cea215c1.jpg",
+                "caption": "Tadworth_Road_11242021_220028.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "10840c15217a13ddc78804a9cfce255a80b9bbeb.jpg",
+                "caption": "Tadworth_Road_11242021_220300.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "757338209ac1d514a7e17a7ec1b95fd40a44c437.jpg",
+                "caption": "Tadworth_Road_11242021_220202.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8de45c6d85956b476aec55a01551fb9aa05a490b.jpg",
+                "caption": "Tadworth_Road_11242021_220122.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6a64bbf84f01047ebf2ff41451a29efe5595af56.jpg",
+                "caption": "Tadworth_Road_11242021_220437.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d683524c333018c537431a65b0bbd5f7d6ab6571.jpg",
+                "caption": "Tadworth_Road_11242021_220619.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 25,
+            "acornType": 25,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 13459,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(381722).png",
+            "branchName": "Daniels - Dollis Hill & Neasden",
+            "brandName": "Daniels",
+            "chainFree": true,
+            "companyId": 1017,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Tadworth Road, London NW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7UB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60266930,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 9,
+            "numRecepts": 2,
+            "outcode": "NW2",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 513754
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Tadworth Road, London NW2 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Tadworth Road, London NW2, selling for \u00a3575,000 from Daniels - Dollis Hill & Neasden. See property details on Zoopla or browse all our range of properties in Tadworth Road, London NW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60266930/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.565784,
+                "longitude": -0.237451
+            }
+        },
+        "displayAddress": "Tadworth Road, London NW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-25T09:51:41",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 51
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/419c5f0ca1fed7b0ba384fd0bca650d962f44aa3.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 2
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Daniels",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60266930,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "96E2C82E-9633-11EC-A0CD-86090E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW2",
+            "areaNameUri": "london/nw2/cricklewood-dollis-hill-neasden",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3256.5
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 635977,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 648018,
+                    "pctChangeSince": -1.858,
+                    "date": "2021-11-26",
+                    "changeSince": -12041
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 670196,
+                    "pctChangeSince": -5.106,
+                    "date": "2021-08-26",
+                    "changeSince": -34219
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 654005,
+                    "pctChangeSince": -2.757,
+                    "date": "2021-02-26",
+                    "changeSince": -18028
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 559409,
+                    "pctChangeSince": 13.687,
+                    "date": "2017-02-26",
+                    "changeSince": 76568
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 401017,
+                    "pctChangeSince": 58.591,
+                    "date": "2012-02-26",
+                    "changeSince": 234960
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 357455,
+                    "pctChangeSince": 77.918,
+                    "date": "2007-02-26",
+                    "changeSince": 278522
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 209064,
+                    "pctChangeSince": 204.202,
+                    "date": "2002-02-26",
+                    "changeSince": 426913
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 770356,
+                    "newBuilds": 0,
+                    "numSales": 45
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 674466,
+                    "newBuilds": 0,
+                    "numSales": 123
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 651721,
+                    "newBuilds": 0,
+                    "numSales": 241
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 643808,
+                    "newBuilds": 0,
+                    "numSales": 398
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 775000,
+                    "propertyId": 17194397,
+                    "streetAddress": "20a Gratton Terrace",
+                    "uri": "20a-gratton-terrace/london/nw2-6qe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 435000,
+                    "propertyId": 17182280,
+                    "streetAddress": "Flat 4, Vernon Court, Hendon Way",
+                    "uri": "flat-4/vernon-court/hendon-way/london/nw2-2pd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 560000,
+                    "propertyId": 17199198,
+                    "streetAddress": "806 North Circular Road",
+                    "uri": "806-north-circular-road/london/nw2-7td"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 17198152,
+                    "streetAddress": "55 Cairnfield Avenue",
+                    "uri": "55-cairnfield-avenue/london/nw2-7ph"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 817500,
+                    "propertyId": 17194750,
+                    "streetAddress": "148 Dollis Hill Avenue",
+                    "uri": "148-dollis-hill-avenue/london/nw2-6rf"
+                }
+            ]
+        }
+    }
+}

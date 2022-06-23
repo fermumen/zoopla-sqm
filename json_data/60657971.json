@@ -1,0 +1,536 @@
+{
+    "address": "Shirland Road, London W9",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 62.0,
+    "sqft": 665.0,
+    "text": "159 Shirland Road W9\nApproximate Gross Internal Area\n665 sq ft-62 sqm\nrE. ANE\nKitchen TF\nPf 178\" x8'10\"\n5.38 x 2.69m_\n+\ni Bedroom\n12'6\" x 9'6\"\n< 3.81 x 2.90m\n7 =\n\u2018\nr\nBedroom\n106\"x7\"11\"\n3.20x2.41m First Floor\nReception Room\n187\" x 129\"\n4.75 x 3.89m\nWa Y/\nGround Floor\nIllustration for identification purposes only, not to scale\n",
+    "image": "./extracted_images/60657971.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60657971/",
+    "listing_no": "60657971",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.527103,
+        "longitude": -0.194766
+    },
+    "first_published": "2022-02-01T14:28:38",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60657971",
+        "publishedOn": "2022-02-01T14:28:38",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Shirland Road, Maida Vale",
+                "original": "https://lc.zoocdn.com/2e2280f3d8441c40c1d5e37f7d52ca0b44810d10.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31240673",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 23159,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(728269).png",
+            "branchName": "Braithwait - Little Venice",
+            "brandName": "Braithwait",
+            "chainFree": false,
+            "companyId": 492,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Shirland Road, London W9",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2EP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60657971,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "W9",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_in_region_of",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 571478
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/braithwait-little-venice-london-23159/",
+            "branchId": "23159",
+            "branchResultsUri": "/for-sale/branch/braithwait-little-venice-london-23159/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(728269).png",
+            "phone": "020 8115 7536",
+            "name": "Braithwait - Little Venice",
+            "memberType": "agent",
+            "address": "44 Formosa Street, Maida Vale, London",
+            "postcode": "W9 2JP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Essendine Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Paddington Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Maida Vale",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Westbourne Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A beautifully presented two bedroom duplex set within a Victorian terrace on the ground and first floor of Shirland Road, immaculately renovated with clever use of space in the dining area of the eat in kitchen, overlooking sunny gardens.<br>The accommodation further comprises a bright stylish reception, two generous proportioned double bedrooms with fitted wardrobes, and stylish white tiled family bathroom. The flat benefits from having share of freehold and its proximity to Essendine road and access to Paddington Recreation Grounds.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Abundance of natural light",
+                "Close to public transport",
+                "Share of Freehold",
+                "Shops and amenities nearby",
+                "Two Double Bedroom",
+                "Wooden Floors",
+                "Modern building"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "4da9d957a0d03a4449cf264b5fb2554a79c2df91.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "61cbab239602800d694a3286d8298606ca2aa8bf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c79ca0de0468779a7e74339653f58c73e6ef2c11.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0be4e50fdcf4bc418f987025556043ed1a7146ec.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "de1d7668bd318fd84e345baed95f24f1e2867a0c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7a0f4e9cfe223927817f11d75833f3979efe2436.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e029c3c2dcef4c6b007bd4897b2502568085eddb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e96d87b7d39df2d824c549ebaa70bd3e31b7938d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f2f96c17d29fe44a01f53b8c3cdebd57401a4d9c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d3ef11658fc20d1eab83c45fd7362bce8e5c07a7.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 23159,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(728269).png",
+            "branchName": "Braithwait - Little Venice",
+            "brandName": "Braithwait",
+            "chainFree": false,
+            "companyId": 492,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Shirland Road, London W9",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2EP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60657971,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "W9",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_in_region_of",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 571478
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Shirland Road, London W9 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Shirland Road, London W9, selling for \u00a3600,000 from Braithwait - Little Venice. See property details on Zoopla or browse all our range of properties in Shirland Road, London W9.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60657971/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.527103,
+                "longitude": -0.194766
+            }
+        },
+        "displayAddress": "Shirland Road, London W9",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-01T14:28:38",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 286
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/4da9d957a0d03a4449cf264b5fb2554a79c2df91.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": "Offers in region of",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Braithwait",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60657971,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "E29A0A9A-8F42-11EC-A66E-A8C60D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W9",
+            "areaNameUri": "london/w9/maida-vale-warwick-avenue-maida-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3799.972222222223
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 742547,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 754599,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -12052
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 776912,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -34365
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 818950,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -76403
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 812535,
+                    "pctChangeSince": -8.614,
+                    "date": "2017-02-26",
+                    "changeSince": -69988
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 541233,
+                    "pctChangeSince": 37.195,
+                    "date": "2012-02-26",
+                    "changeSince": 201314
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 482662,
+                    "pctChangeSince": 53.844,
+                    "date": "2007-02-26",
+                    "changeSince": 259885
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 286057,
+                    "pctChangeSince": 159.58,
+                    "date": "2002-02-26",
+                    "changeSince": 456490
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 799815,
+                    "newBuilds": 1,
+                    "numSales": 181
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 775463,
+                    "newBuilds": 3,
+                    "numSales": 503
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 796543,
+                    "newBuilds": 14,
+                    "numSales": 941
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 783996,
+                    "newBuilds": 32,
+                    "numSales": 1571
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-01T00:00:00Z",
+                    "price": 570000,
+                    "propertyId": 25115446,
+                    "streetAddress": "89 Shirland Road",
+                    "uri": "89-shirland-road/london/w9-2el"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 335000,
+                    "propertyId": 32698742,
+                    "streetAddress": "Flat B, Welford House, 114 Shirland Road",
+                    "uri": "flat-b/welford-house/114-shirland-road/london/w9-2bt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 32698744,
+                    "streetAddress": "Flat D, Welford House, 114 Shirland Road",
+                    "uri": "flat-d/welford-house/114-shirland-road/london/w9-2bt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-22T00:00:00Z",
+                    "price": 535000,
+                    "propertyId": 27337748,
+                    "streetAddress": "Ground Floor Flat, 85 Shirland Road",
+                    "uri": "ground-floor-flat/85-shirland-road/london/w9-2el"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-20T00:00:00Z",
+                    "price": 540000,
+                    "propertyId": 25115445,
+                    "streetAddress": "87 Shirland Road",
+                    "uri": "87-shirland-road/london/w9-2el"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 647000,
+                    "propertyId": 25119033,
+                    "streetAddress": "23 Shirland Mews",
+                    "uri": "23-shirland-mews/london/w9-3dy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1110000,
+                    "propertyId": 25113905,
+                    "streetAddress": "Flat 34, Sandringham Court, Maida Vale",
+                    "uri": "flat-34/sandringham-court/maida-vale/london/w9-1ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 27436863,
+                    "streetAddress": "Upper Ground Floor Flat, 8 Oakington Road",
+                    "uri": "upper-ground-floor-flat/8-oakington-road/london/w9-2dh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 25115298,
+                    "streetAddress": "3 Marylands Road",
+                    "uri": "3-marylands-road/london/w9-2du"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 687000,
+                    "propertyId": 25116721,
+                    "streetAddress": "Flat 146, Delaware Mansions, Delaware Road",
+                    "uri": "flat-146/delaware-mansions/delaware-road/london/w9-2ll"
+                }
+            ]
+        }
+    }
+}

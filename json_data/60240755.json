@@ -1,0 +1,503 @@
+{
+    "address": "Western Circus, Acton W3",
+    "price": "\u00a3640,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "sT\n\nge)\n\nZi\n\nloo\n\nhs\n\nKITCHEN\n\nBATHROOM\n\nil\n\nAA\n\nJE\n\nLIVING / DINING\n\n7\n\n==\n\n=\n\nai\n\nEN\n\nSUITE\n\nol)\n\nBEDROOM 2\n\nBEDROOM 1\n\nBALCONY\n\nal I5)\n",
+    "image": "./extracted_images/60240755.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/60240755/",
+    "listing_no": "60240755",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.513264,
+        "longitude": -0.250079
+    },
+    "first_published": "2021-11-22T11:32:37",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60240755",
+        "publishedOn": "2021-11-22T11:32:37",
+        "section": "new-homes",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 60045,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(473010).png",
+            "branchName": "Fraser & Co - New Homes",
+            "brandName": "Fraser & Co",
+            "chainFree": true,
+            "companyId": 6623,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Western Circus, Acton W3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7XX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60240755,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 640000,
+            "price": 640000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/fraser-and-co-new-homes-london-60045/",
+            "branchId": "60045",
+            "branchResultsUri": "/for-sale/branch/fraser-and-co-new-homes-london-60045/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(473010).png",
+            "phone": "020 7768 1816",
+            "name": "Fraser & Co - New Homes",
+            "memberType": "agent",
+            "address": "Unit 12 West End Quay, 1 South Wharf Road, Paddington, London",
+            "postcode": "W2 1JB"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barbara Speake Stage School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "King Fahad Academy",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Acton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Acton Central",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/mhb46VZ194k?rel=0"
+                },
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/BFptoFn3LY4?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Re-Sale Apartment | 2 Bedroom, 2 Bathroom | 888 sq. Ft internal | 3rd floor elevation | Dual Aspect South West | 125 sq. Ft. Private winter balcony | Fantastic Apartment Layout |Residents landscaped courtyard gardens | 5 minute walk to East Acton Underground Station | Crossrail coming to nearby Acton Mainline Station | one tube to Westfield Shopping Centre | Excellent investment opportunity<br><br>Presenting this spacious 2 bedroom 2 bathroom re sale apartment located in Western Circus development in Acton. This apartment has 888 sq. Ft* of internal space, a large private balcony facing into the internal gardens.<br><br>Western Circus is a new development with 365 new apartments within the building. The development also includes communal garden areas, a supermarket, and spaces for cafe's or shops.<br><br>Located a 5 minute* walk from East Acton underground station, it can take 23 minutes* to get to Oxford Circus, and 32 minutes* to Bank via the Central Line.<br><br>999 Year Leasehold<br><br>Completion Expected May 2022",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Re-assignment",
+                "May 2022 Completion",
+                "888 sq. Ft of internal space",
+                "5th Floor / sw Aspect",
+                "Large Private Balcony",
+                "Views into Communal Gardens",
+                "Low Service Charge",
+                "Onsite cafe &amp; shop",
+                "5 Minute* walk to East Acton Underground",
+                "Crossrail coming to Acton Mainline Station (2021)"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "90f756faf59bc51eb21a871b6c2bd920b06b9455.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "cd68cbe793262af594835a9f303e8a07292f64aa.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ff03cb4319cd149ae05c83e45640da44d67ec083.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a4d965ca84d62bfceb5cecfe2aadcc76907f086b.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "457c1541fcb8638395bdd8560d20f7f03bb1a3a2.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9589f44eda702dc17ff6dab15bfe5fd3ce930d9c.jpg",
+                "caption": "Picture No. 18"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9c96cce6bddc972d14373b8053202beaa8db87ca.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5ee96468660e96efb98bb068077138374777f9a7.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "04089e7137389756dcf9171a368889befc1c70d5.jpg",
+                "caption": "Picture No. 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "327a20b83ee2503181834f9e89e5ed4628bff34f.jpg",
+                "caption": "Picture No. 17"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ff187b9d044c62b5bedb55c34b12c44f594ee4a8.jpg",
+                "caption": "Picture No. 08"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 60045,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(473010).png",
+            "branchName": "Fraser & Co - New Homes",
+            "brandName": "Fraser & Co",
+            "chainFree": true,
+            "companyId": 6623,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Western Circus, Acton W3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7XX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60240755,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 640000,
+            "price": 640000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in Western Circus, Acton W3 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in Western Circus, Acton W3, selling for \u00a3640,000 from Fraser & Co - New Homes. See property details on Zoopla or browse all our range of properties in Western Circus, Acton W3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60240755/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.513264,
+                "longitude": -0.250079
+            }
+        },
+        "displayAddress": "Western Circus, Acton W3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-22T11:32:37",
+                "priceLabel": "\u00a3640,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 4
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/90f756faf59bc51eb21a871b6c2bd920b06b9455.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3640,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Fraser & Co",
+            "category": "for-sale/resi/agent/new/gb",
+            "id": 60240755,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "71658A54-8E8C-11EC-BA72-02E70D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W3",
+            "areaNameUri": "london/w3/acton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1956.199999999999
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 404918,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 411489,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -6571
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 423656,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -18738
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 446579,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -41661
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 443072,
+                    "pctChangeSince": -8.611,
+                    "date": "2017-02-26",
+                    "changeSince": -38154
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 295132,
+                    "pctChangeSince": 37.199,
+                    "date": "2012-02-26",
+                    "changeSince": 109786
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 263193,
+                    "pctChangeSince": 53.848,
+                    "date": "2007-02-26",
+                    "changeSince": 141725
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 155985,
+                    "pctChangeSince": 159.588,
+                    "date": "2002-02-26",
+                    "changeSince": 248933
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 435683,
+                    "newBuilds": 0,
+                    "numSales": 146
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 422801,
+                    "newBuilds": 39,
+                    "numSales": 486
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 426404,
+                    "newBuilds": 119,
+                    "numSales": 1029
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 427267,
+                    "newBuilds": 208,
+                    "numSales": 1779
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 827500,
+                    "propertyId": 25020302,
+                    "streetAddress": "72 Princes Gardens",
+                    "uri": "72-princes-gardens/london/w3-0lq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 910000,
+                    "propertyId": 25022231,
+                    "streetAddress": "24 Stuart Road",
+                    "uri": "24-stuart-road/london/w3-6dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 830000,
+                    "propertyId": 25034544,
+                    "streetAddress": "14 Gunnersbury Crescent",
+                    "uri": "14-gunnersbury-crescent/london/w3-9aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 840000,
+                    "propertyId": 25020344,
+                    "streetAddress": "139 Princes Gardens",
+                    "uri": "139-princes-gardens/london/w3-0ls"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 315000,
+                    "propertyId": 25027951,
+                    "streetAddress": "33 Larch Avenue",
+                    "uri": "33-larch-avenue/london/w3-7lh"
+                }
+            ]
+        }
+    }
+}

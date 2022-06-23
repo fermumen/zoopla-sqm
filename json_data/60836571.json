@@ -1,0 +1,524 @@
+{
+    "address": "Exeter House, Putney Heath, Putney, London SW15",
+    "price": "\u00a3650,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 111.3,
+    "sqft": null,
+    "text": "Approximate Area = 111.3 sq m/ 1198 sq ft\nIncluding Limited Use Area (2.7 sq m/ 29 sq ft) =\nBalcony Area = 5 sq m/54 sq ft\nFor identification only. Not to scale.\n\u00a9 Fourwalls ; : ; :\n| SY ee ST\nPY\nAY i= \u201d\n|B | Bedroom 2 :\nBedroom 1 onesie\n4.50 x 3.00 \u2014_ x\ncana 14'9 x 9110 \u2014\n>\nOO Cc\nBs\nKitchen / fF To)\nDining Room mH] 8 \u2014=\u00abOo ?\n4.51 x 2.41 (T) Tl\n1410x711 BL Family Room / Study / Bedroom 3 [4\n\\ 5.16 x 3.04 7\n-\u2014\u2014 \\ 16'11 x 10'0 i\nFirst Floor \u2014 .\n} Reception /\nIN Dining Room\n6.21 x 3.93\n20'4 x 12'11\nPe\nSurveyed and drawn in accordance with the International Property Measurement Standards (IPMS 2: Residential)\nfourwalls-group.com 292768\n",
+    "image": "./extracted_images/60836571.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60836571/",
+    "listing_no": "60836571",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.453004,
+        "longitude": -0.229708
+    },
+    "first_published": "2022-02-23T20:01:54",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60836571",
+        "publishedOn": "2022-02-23T20:01:54",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://search.savills.com/property-detail/gbPURSPUS220031?utm_source=zoopla.co.uk&utm_medium=referrer&utm_campaign=WebDetails",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 7,
+            "acornType": 7,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 61050,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(648969).png",
+            "branchName": "Savills - Putney",
+            "brandName": "Savills",
+            "chainFree": false,
+            "companyId": 3399,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Exeter House, Putney Heath, Putney, London SW15",
+            "furnishedState": "",
+            "groupId": 70,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3SU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60836571,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 720148
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/savills-putney-london-61050/",
+            "branchId": "61050",
+            "branchResultsUri": "/for-sale/branch/savills-putney-london-61050/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(648969).png",
+            "phone": "020 8022 3373",
+            "name": "Savills - Putney",
+            "memberType": "agent",
+            "address": "198 Upper Richmond Road, London",
+            "postcode": "SW15 2SH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ark Putney Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Granard Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Putney",
+                "type": "national_rail_station",
+                "distanceMiles": 0.8
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Putney",
+                "type": "london_underground_station",
+                "distanceMiles": 0.9
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=Q5fqhegQvja"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "2325a605b7ee0e1e6cc7606e2f8fcdacb32cce83.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A delightful period apartment close to Putney Heath.<br><br><strong>Location</strong><br><br>Located opposite Putney Heath, the property is close to local bus routes with the nearest underground being East Putney (District) and mainline rail (Waterloo) on Putney High Street.<br><br><strong>Description</strong><br><br>An impressive purpose-built period apartment situated on the first floor of an attractive period 1930\u2019s mansion block.<br><br>It is situated in its own pretty landscaped grounds with a tennis court and barbeque areas as well as parking spaces (non-allocated) for up to two cars.<br><br>The property offers generous (approximately 1,200 sq ft) and lateral space with a pleasant dual aspect. Its flexible layout allows for up to three bedrooms or two reception rooms depending on one\u2019s needs, all well-proportioned. There is attractive wood flooring throughout most of the property as well as extensive bespoke shelving.<br><br>Outside, the property also benefits from a south facing balcony, ideal for an al fresco drink on a summer\u2019s evening.<br><br>Square Footage: 1198 sq ft<br><br>Leasehold with approximately 137 years remaining",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Parking spaces",
+                "South facing balcony",
+                "Flexible layout",
+                "Great lateral space",
+                "Opposite Putney Heath",
+                "Tennis court"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "5bdd48d787ebbdc884616abbaa2dbcb7d3cad9e9.png",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "c874231da80f1ad71b789abbde45191251ca2f2e.jpg",
+                "caption": "Exeter House"
+            },
+            {
+                "__typename": "Media",
+                "filename": "dd5d0130b3f541095e40ca9907155fadf4d93338.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1362fe483e83eb0904e9b1c23a07c8e8c0a2e2a8.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "622afe0d8d83f47aff921bacc647883ccd5fdb76.jpg",
+                "caption": "Hallway"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f6df4a4c4caf3fb0f5d77e37836a2c61c41695fe.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ae82d89a6e653c3aaa22e1ca2dee86fcae00b62d.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "47dad5f930c5c1e07011777146c08ccbc796c06e.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "dd26340da56900af51ea89e93f74b92a2897fb2d.jpg",
+                "caption": "Balcony"
+            },
+            {
+                "__typename": "Media",
+                "filename": "51f2fcec48dbf3a28ccc86d16e7729649d86c48e.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4196146925db00808d25b6d5d6f480dd05e13916.jpg",
+                "caption": "Garden/Tennis Court"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 7,
+            "acornType": 7,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 61050,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(648969).png",
+            "branchName": "Savills - Putney",
+            "brandName": "Savills",
+            "chainFree": false,
+            "companyId": 3399,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Exeter House, Putney Heath, Putney, London SW15",
+            "furnishedState": "",
+            "groupId": 70,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3SU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60836571,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 720148
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Exeter House, Putney Heath, Putney, London SW15 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Exeter House, Putney Heath, Putney, London SW15, selling for \u00a3650,000 from Savills - Putney. See property details on Zoopla or browse all our range of properties in Exeter House, Putney Heath, Putney, London SW15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60836571/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.453004,
+                "longitude": -0.229708
+            }
+        },
+        "displayAddress": "Exeter House, Putney Heath, Putney, London SW15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-23T20:01:54",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 83
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/5bdd48d787ebbdc884616abbaa2dbcb7d3cad9e9.png"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Savills",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60836571,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "96F3DB06-94E3-11EC-BB99-78CA0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW15",
+            "areaNameUri": "london/sw15/putney-roehampton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2780.2976190476193
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 520826,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 523398,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2572
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 523730,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2904
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 545577,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -24751
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 528643,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -7817
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 364431,
+                    "pctChangeSince": 42.915,
+                    "date": "2012-02-26",
+                    "changeSince": 156395
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 332910,
+                    "pctChangeSince": 56.446,
+                    "date": "2007-02-26",
+                    "changeSince": 187916
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 202828,
+                    "pctChangeSince": 156.782,
+                    "date": "2002-02-26",
+                    "changeSince": 317998
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 529131,
+                    "newBuilds": 0,
+                    "numSales": 335
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 533508,
+                    "newBuilds": 3,
+                    "numSales": 926
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 527780,
+                    "newBuilds": 37,
+                    "numSales": 1765
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 544252,
+                    "newBuilds": 318,
+                    "numSales": 3178
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-22T00:00:00Z",
+                    "price": 745000,
+                    "propertyId": 23304763,
+                    "streetAddress": "Flat 20, Exeter House, Putney Heath",
+                    "uri": "flat-20/exeter-house/putney-heath/london/sw15-3su"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-15T00:00:00Z",
+                    "price": 780000,
+                    "propertyId": 23304966,
+                    "streetAddress": "Flat 91, Exeter House, Putney Heath",
+                    "uri": "flat-91/exeter-house/putney-heath/london/sw15-3tq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 23306525,
+                    "streetAddress": "30 Swanwick Close",
+                    "uri": "30-swanwick-close/london/sw15-4ef"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 210000,
+                    "propertyId": 33225271,
+                    "streetAddress": "Flat 26, Devonshire House, 50 Putney Hill",
+                    "uri": "flat-26/devonshire-house/50-putney-hill/london/sw15-6dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 31858841,
+                    "streetAddress": "Flat 51, College House, 52 Putney Hill",
+                    "uri": "flat-51/college-house/52-putney-hill/london/sw15-6bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 677500,
+                    "propertyId": 23309178,
+                    "streetAddress": "231 Dover House Road",
+                    "uri": "231-dover-house-road/london/sw15-5af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 23303933,
+                    "streetAddress": "53 Keswick Avenue",
+                    "uri": "53-keswick-avenue/london/sw15-3qh"
+                }
+            ]
+        }
+    }
+}

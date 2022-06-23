@@ -1,0 +1,537 @@
+{
+    "address": "Archway Road, Highgate, London N6",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 85.0,
+    "sqft": 920.0,
+    "text": "Archway Road, Highgate N6\nApproximate gross internal area\n85 sq m/920 sq ft\nKey: at\nCH - Ceiling Height \u201c Se\ne\u2014~\u2014>\u2014>\u2014\u2014\u2014\n| i\n|\n| GARDEN i\n| 7.00 x 4.70M\ni 23'0\" x 15'5\" i\n| |\nee\n\u2014_\u2014 4\na 4\niT i\nfee) \\\nCO} KITCHEN! |\nDINING\nROOM i\n5.40 x3.70M PATIO i\n47\u00b09\" x 12'2\"\n7 i i\nXY |\nPRINCIPAL i\nBEDROOM\n4.82 x 2.60M\n15\u00b010\" x 86\" \\\n4\n\u2014T J\n3 BEDROOM {\n\\ 3.24 x 2.85M {\n40'8\" x9'4\" |\nLe |\nCH \\ {\n@ |\nRECEPTION _ |\nROOM {\n6.00 x 3,95M = bal\n19'8\" x 13'0\"\n_\u2014_\u2014=\nGround Floor\nThe floor plan is not to scale and measurements and\nareas shown are approximate and therefore should be used for illustrative purposes only.\nThe plan has been prepared in accordance with the RICS code of Measuring Practice\nand whilst we have confidence in the information produced, it must not be relied on.\nIf there is any aspect of particular importance, you should carry out or\ncommission your own inspection of the property.\nCopyright of Stu J Beesley.\n",
+    "image": "./extracted_images/60855430.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60855430/",
+    "listing_no": "60855430",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.579522,
+        "longitude": -0.151838
+    },
+    "first_published": "2022-02-25T17:58:05",
+    "last_sale_date": "2013-09-24",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60855430",
+        "publishedOn": "2022-02-25T17:58:05",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 3143,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(586694).png",
+            "branchName": "Goldschmidt & Howland - Highgate",
+            "brandName": "Goldschmidt & Howland",
+            "chainFree": false,
+            "companyId": 1500,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Archway Road, Highgate, London N6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4HT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60855430,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": null,
+            "outcode": "N6",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 644456
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/goldschmidt-and-howland-highgate-london-3143/",
+            "branchId": "3143",
+            "branchResultsUri": "/for-sale/branch/goldschmidt-and-howland-highgate-london-3143/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(586694).png",
+            "phone": "020 3478 3174",
+            "name": "Goldschmidt & Howland - Highgate",
+            "memberType": "agent",
+            "address": "Stanhope House, 4-8 Highgate High Street, Highgate, London",
+            "postcode": "N6 5JL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Highgate Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Highgate",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Avenue Nursery and Pre-Preparatory School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Finchley",
+                "type": "london_underground_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "663b9345f0a48553d5e72efe1aedf901418b6e08.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A spacious 920 sq ft garden apartment, occupying the entire ground floor of an end of terrace Victorian house and moments from Highgate Underground station. The accommodation, accessed via its own entrance, comprises a bay fronted reception room boasting high ceilings, an impressive open plan kitchen/dining room with direct access to the south westerly orientated garden, principal suite with shower room, second bedroom and bathroom. The property also benefits from a share of the freehold and is ideally located for Highgate Village and the open spaces of Queen's Wood.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 Bathrooms",
+                "2 Bedrooms",
+                "0 Reception",
+                "Flat/Apartment",
+                "Garden",
+                "Share of Freehold"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "a8135b4ed2a658070a4d1a17882f4b959e4ea091.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "f5b08ad0f8761d52fa8cb814294bbe5c5d44e893.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0e0cf6ab2d55d2e2358a05f3babf332e34e19935.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6dfd1eb69692f2f5ec9afb40f3d9eb26ec4f3911.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "dfddbf81bdbc6a9d6e96faa049bfb6a9c8396e48.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b4fcef4cb28d4e5c5cd0df0ab9c9e1067461e57c.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ee79ab1ff429dfccd1ffe564c67f988932ae6200.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2458e47404e83f57d2ce375ed3f6b3e8ba5aa7fb.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "649bd5df4135d8fa195c3f37b560f3fb9c004f21.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c18c8f94b04b9e13abd696c6f55ce634345a834a.jpg",
+                "caption": "Picture No. 10"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 3143,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(586694).png",
+            "branchName": "Goldschmidt & Howland - Highgate",
+            "brandName": "Goldschmidt & Howland",
+            "chainFree": false,
+            "companyId": 1500,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Archway Road, Highgate, London N6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4HT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60855430,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": null,
+            "outcode": "N6",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 644456
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Archway Road, Highgate, London N6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Archway Road, Highgate, London N6, selling for \u00a3625,000 from Goldschmidt & Howland - Highgate. See property details on Zoopla or browse all our range of properties in Archway Road, Highgate, London N6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60855430/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.579522,
+                "longitude": -0.151838
+            }
+        },
+        "displayAddress": "Archway Road, Highgate, London N6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-25T17:58:05",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2013-09-24",
+                "newBuild": false,
+                "price": 472500,
+                "priceLabel": "\u00a3472,500",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 56
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/a8135b4ed2a658070a4d1a17882f4b959e4ea091.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Goldschmidt & Howland",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60855430,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "7D8CFCB0-9664-11EC-A8C9-F7D60D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N6",
+            "areaNameUri": "london/n6/highgate",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2404.174603174604
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 774104,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 787487,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -13383
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 812153,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -38049
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 853080,
+                    "pctChangeSince": -9.258,
+                    "date": "2021-02-26",
+                    "changeSince": -78976
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 789265,
+                    "pctChangeSince": -1.921,
+                    "date": "2017-02-26",
+                    "changeSince": -15161
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 517441,
+                    "pctChangeSince": 49.602,
+                    "date": "2012-02-26",
+                    "changeSince": 256663
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 485397,
+                    "pctChangeSince": 59.479,
+                    "date": "2007-02-26",
+                    "changeSince": 288707
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 292186,
+                    "pctChangeSince": 164.935,
+                    "date": "2002-02-26",
+                    "changeSince": 481918
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 728077,
+                    "newBuilds": 0,
+                    "numSales": 108
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 697639,
+                    "newBuilds": 0,
+                    "numSales": 282
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 713731,
+                    "newBuilds": 10,
+                    "numSales": 524
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 716904,
+                    "newBuilds": 12,
+                    "numSales": 809
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-05T00:00:00Z",
+                    "price": 1237600,
+                    "propertyId": 15105898,
+                    "streetAddress": "411 Archway Road",
+                    "uri": "411-archway-road/london/n6-4ht"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-19T00:00:00Z",
+                    "price": 315000,
+                    "propertyId": 15105681,
+                    "streetAddress": "371b Archway Road",
+                    "uri": "371b-archway-road/london/n6-4ej"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 770000,
+                    "propertyId": 15107216,
+                    "streetAddress": "292 Archway Road",
+                    "uri": "292-archway-road/london/n6-5au"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-04T00:00:00Z",
+                    "price": 850000,
+                    "propertyId": 28879592,
+                    "streetAddress": "3 Acorn Terrace, Archway Road",
+                    "uri": "3-acorn-terrace/archway-road/london/n6-4bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-21T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 15105926,
+                    "streetAddress": "467 Archway Road",
+                    "uri": "467-archway-road/london/n6-4ht"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 6150000,
+                    "propertyId": 15112655,
+                    "streetAddress": "Merton House, Merton Lane",
+                    "uri": "merton-house/merton-lane/london/n6-6na"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 2175000,
+                    "propertyId": 15108357,
+                    "streetAddress": "5 Dukes Head Yard",
+                    "uri": "5-dukes-head-yard/london/n6-5jq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 1567000,
+                    "propertyId": 15111565,
+                    "streetAddress": "Flat 19, Brookfield, Highgate West Hill",
+                    "uri": "flat-19/brookfield/highgate-west-hill/london/n6-6as"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 545000,
+                    "propertyId": 15108515,
+                    "streetAddress": "Flat 2, 2 Stanhope Road",
+                    "uri": "flat-2/2-stanhope-road/london/n6-5lp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-24T00:00:00Z",
+                    "price": 785000,
+                    "propertyId": 30571184,
+                    "streetAddress": "Flat 247, Makepeace Mansions, Makepeace Avenue",
+                    "uri": "flat-247/makepeace-mansions/makepeace-avenue/london/n6-6et"
+                }
+            ]
+        }
+    }
+}

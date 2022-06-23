@@ -1,0 +1,564 @@
+{
+    "address": "Castlewood Road, Stamford Hill, Clapton Common E5",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 72.0,
+    "sqft": null,
+    "text": "Barbel Court, Third Floor\n\n4\n\nBalcony 2\n\nwe\n\nde\n\nfa\n\nor?\n\n80\n\noo?\n\nBedroom 2\n\n\u2014\n\nMaster Bedroom\n\n=\n\nA SITE LOCATOR\n\nY FLOOR INDICATOR\n\na\n\n=\n\ngt\n\n4\u2122\n\nKitchen/Living/Dining\n\nArea\n\nae\n\n95 ?\n\nFA\n\n3K\n\nne\n\n<=\n\nBathroom\n\n=\n\n=\n\n4st\n\n95 2 BED APARTMENT\n\nKITCHEN/LIVING/DINING AREA\n\n6.65M X 3.84M = 21\u00b010\" X 12'7\"\n\nMASTER BEDROOM\n\n4.66M X 3.10M\n\n15'3\" X 10'2\"\n\nKEY:\n\nBEDROOM 2\n\nU Cup'd \u2014 Utility Cupboard\n\n5.14M X 2.39M\n\n16110\" X 7'10\u00b0\n\nWIC \u2014 Cloakroom\n\nTOTAL INTERNAL AREA\n\n2 bedroom\n\n72 SQM\n\n775 SQFT\n\nI- 3 bedroom\n\nBALCONY 1\n\n5.87M X 1.20M\n\n193\" X 311\"\n\nAll r\n\noximate,\n\nTotal Internal Floor Space measureme!\n\nt excludes\n\nouta)\n\nitems of\n\nd measurem\n\nsand\n\ninten\n\nrd for\n\nBALCONY 2\n\ncarpet\n\ndevelopme\n\n\u2018and all roam layouts may be subject to minor modifications. Kitchen\n\nnf: Ouaitetoperinc.s piley of cardincous protic\n\n2.15MX1.19M 7'1\"X3'9\"\n\n\u2018and bath\n\nm layouts shown are indicative only. Please ask Sales Consultants for\n\ndetoiled information regarding specific properties.\n",
+    "image": "./extracted_images/60697857.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60697857/",
+    "listing_no": "60697857",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.564984942029,
+        "longitude": -0.0545757536231884
+    },
+    "first_published": "2022-02-07T10:09:26",
+    "last_sale_date": "2014-10-28",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60697857",
+        "publishedOn": "2022-02-07T10:09:26",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 104536,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(628783).png",
+            "branchName": "JBrown Property UK",
+            "brandName": "JBrown Property UK",
+            "chainFree": false,
+            "companyId": 80753,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Castlewood Road, Stamford Hill, Clapton Common E5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9AJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60697857,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "E5",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jbrown-property-uk-london-104536/",
+            "branchId": "104536",
+            "branchResultsUri": "/for-sale/branch/jbrown-property-uk-london-104536/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(628783).png",
+            "phone": "020 8033 1915",
+            "name": "JBrown Property UK",
+            "memberType": "agent",
+            "address": "264 Westferry Road, London",
+            "postcode": "E14 3AG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Leaways School (SEN)",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Southwold Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Rectory Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/473958429"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Quartet is the new collection of apartments and duplexes in the heart of the vibrant, well-established community of Clapton Common.<br><br>Near to School, Synagogue and Georgian Orthodox Church this development is perfect for families.<br><br>Modern 2 bedroom, third-floor apartment with two private balconies, perfect for al fresco dining!<br><br>- Featuring open plan living area<br>- Appliances and flooring included throughout<br>- Double fitted wardrobe in the master bedroom<br>- Just a short walk from the local stations making your commute even easier and surrounded in - open green spaces to relax in.<br>- First 3 months free Hyperoptic broadband for all your browsing needs!<br><br>New collection of 1,2 &amp; 3-bedroom apartments and 2 and 3-bedroom duplexes are also available. Set in the very centre of Clapton Common, Quartet is at the heart of this vibrant, well-established community.<br><br>All apartments are spacious throughout and finished to the highest standard. Residents will benefit from superior specifications, including:<br><br>Contemporary Nobilia Kitchen with integrated appliances<br>Floor to ceiling windows<br>Great sized private balcony or terrace<br>Amtico Spacia flooring and carpet with underfloor heating<br>Wired for Sky Q television*, Super-fast Hyper-optic broadband with first 3 months free<br>Audio/video secure entry system<br>Beautifully landscaped courtyards<br>Access to Car Share scheme or make the most of the Bike Stores<br><br>The development is the epitome of passion, care, and quality which is amplified through the many individual qualities, including stylish interiors and contemporary fixtures and fittings, stylish communal spaces with enhanced landscaping, fob-controlled access, external lighting, and many other well-planned features.<br><br>Quartet gives you much more than just a place to live. It\u2019s somewhere you will love, where you can happily feel at home and be a part of the things that matter most to you.<br><br>Stamford Hill High Street is a few moments from your doorstep, offering great local shops, restaurants, supermarkets, and coffee shops.<br><br>A number of schools, both state and independent from infant to Sixth Form are within a short distance from the development. The closest having Good to Outstanding in Ofsted ratings<br><br>The location of your new home is key. Quartet benefits from scenic views over Clapton Common, a lovely, open grass area edged with mature London Plane trees. The common also has an exciting play area which was short-listed for a Hackney Design Award, and a great-sized pond with an ornamental fountain. Nearby you have the highly regarded Woodberry Wetlands; offers great opportunities to enjoy nature, waterside walks, relaxation, and tranquillity in the heart of London.<br><br>For all your transport needs, you are 20 minutes from the City in Zone 2. Stamford Hill station is only a 10-minute walk and offers access to Liverpool Street Station.<br><br>Local buses serve many locations, including Hackney Central and Aldgate.<br><br>All Photos are for Marketing Purposes Only",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Shops and amenities nearby",
+                "Close to public transport",
+                "Brand New Development",
+                "Two Private Balconies",
+                "Two-Double Bedrooms",
+                "Highly Desired Location",
+                "Close to Local Park",
+                "Highly Desirable Development"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "c8ec99b6db6ba44762734d3e63c341ab53af5aca.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "fe7565c7bfac495930de1c58380159f8df04f771.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7f1d20d95f759ac6f049ea0cb44ce8eef3df7312.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2aadd31dbb80080c7f99d662ee705567502e13ab.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0c6ad7d60bd3d62fe5fc3337e98c457faadf9b09.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d32c586d03a840c4d3223895fb103d3fd6657a2f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d74a20517bebe5c74e64c59c088dc51b7bb2f3a2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8cbc185ab89972b9b12a9f72cfbfd87ce0162d74.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "714e0d90a95d79576e7b987983832f6c6df89fd4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "623ec9f38dad2fb168cc5818f6122fce1155a49d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "41f0e22867aaee98e5c9edb35584d1dfe629d2e2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1e00b43d98d14c68ec63eeab524cb5bbfbc86362.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "dd65a975d7407902cce41c26b5723448d482fcb3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "82d2cbabc568ef55ba37223f8a6adb7bc562e5f4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7419b42109410c0f82c4eb8ae1c39d853c156282.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "308ccaf2d0536d165f1aa2992d698eacd08b577f.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 104536,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(628783).png",
+            "branchName": "JBrown Property UK",
+            "brandName": "JBrown Property UK",
+            "chainFree": false,
+            "companyId": 80753,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Castlewood Road, Stamford Hill, Clapton Common E5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9AJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60697857,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "E5",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Castlewood Road, Stamford Hill, Clapton Common E5 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Castlewood Road, Stamford Hill, Clapton Common E5, selling for \u00a3600,000 from JBrown Property UK. See property details on Zoopla or browse all our range of properties in Castlewood Road, Stamford Hill, Clapton Common E5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60697857/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.564984942029,
+                "longitude": -0.0545757536231884
+            }
+        },
+        "displayAddress": "Castlewood Road, Stamford Hill, Clapton Common E5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-07T10:09:26",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2014-10-28",
+                "newBuild": false,
+                "price": 275000,
+                "priceLabel": "\u00a3275,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 78
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/c8ec99b6db6ba44762734d3e63c341ab53af5aca.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "JBrown Property UK",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60697857,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "B6C06370-96CB-11EC-9AD5-3ED60D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E5",
+            "areaNameUri": "london/e5/clapton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2064.1111111111095
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 385394,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 392469,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -7075
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 405502,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -20108
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 427725,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -42331
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 381057,
+                    "pctChangeSince": 1.138,
+                    "date": "2017-02-26",
+                    "changeSince": 4337
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 243556,
+                    "pctChangeSince": 58.236,
+                    "date": "2012-02-26",
+                    "changeSince": 141838
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 244046,
+                    "pctChangeSince": 57.919,
+                    "date": "2007-02-26",
+                    "changeSince": 141348
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 141702,
+                    "pctChangeSince": 171.975,
+                    "date": "2002-02-26",
+                    "changeSince": 243692
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 468536,
+                    "newBuilds": 0,
+                    "numSales": 148
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 470585,
+                    "newBuilds": 7,
+                    "numSales": 436
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 453637,
+                    "newBuilds": 38,
+                    "numSales": 811
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 435308,
+                    "newBuilds": 137,
+                    "numSales": 1418
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-24T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 7708859,
+                    "streetAddress": "Flat 13, Buccleuch House, Clapton Common",
+                    "uri": "flat-13/buccleuch-house/clapton-common/london/e5-9an"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-05T00:00:00Z",
+                    "price": 484563,
+                    "propertyId": 7708599,
+                    "streetAddress": "1 Clapton Common",
+                    "uri": "1-clapton-common/london/e5-9aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-05T00:00:00Z",
+                    "price": 330829,
+                    "propertyId": 7708856,
+                    "streetAddress": "Flat 10, Buccleuch House, Clapton Common",
+                    "uri": "flat-10/buccleuch-house/clapton-common/london/e5-9an"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-05T00:00:00Z",
+                    "price": 333252,
+                    "propertyId": 7708858,
+                    "streetAddress": "Flat 12, Buccleuch House, Clapton Common",
+                    "uri": "flat-12/buccleuch-house/clapton-common/london/e5-9an"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-24T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 7708859,
+                    "streetAddress": "Flat 13, Buccleuch House, Clapton Common",
+                    "uri": "flat-13/buccleuch-house/clapton-common/london/e5-9an"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 31858272,
+                    "streetAddress": "15, Mountside Walk, Leaside Road",
+                    "uri": "15/mountside-walk/leaside-road/london/e5-9qf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 370000,
+                    "propertyId": 7706154,
+                    "streetAddress": "Flat 16, Monkton House, Pembury Road",
+                    "uri": "flat-16/monkton-house/pembury-road/london/e5-8ly"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 7706676,
+                    "streetAddress": "139 Rendlesham Road",
+                    "uri": "139-rendlesham-road/london/e5-8pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-10T00:00:00Z",
+                    "price": 148000,
+                    "propertyId": 32592318,
+                    "streetAddress": "Flat 14, Saxony Court, 32a, Geldeston Road",
+                    "uri": "flat-14/saxony-court-32a/geldeston-road/london/e5-8rq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-04T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 27188386,
+                    "streetAddress": "Flat B, 151 Elderfield Road",
+                    "uri": "flat-b/151-elderfield-road/london/e5-0ay"
+                }
+            ]
+        }
+    }
+}

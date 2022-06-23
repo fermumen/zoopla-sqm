@@ -1,0 +1,466 @@
+{
+    "address": "Silverdale Gardens, Hayes UB3",
+    "price": "\u00a3634,950",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60435585/",
+    "listing_no": "60435585",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.509865,
+        "longitude": -0.118092
+    },
+    "first_published": "2021-12-29T13:51:07",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60435585",
+        "publishedOn": "2021-12-29T13:51:07",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 25,
+            "acornType": 25,
+            "areaName": "Hayes",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 15371,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(121325).png",
+            "branchName": "Reinhardts Estate Agents",
+            "brandName": "Reinhardts Estate Agents",
+            "chainFree": false,
+            "companyId": 7677,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Silverdale Gardens, Hayes UB3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "3LW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60435585,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "Hayes",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 7,
+            "numRecepts": 2,
+            "outcode": "UB3",
+            "postalArea": "UB",
+            "postTownName": "Hayes",
+            "priceActual": 634950,
+            "price": 634950,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "semi_detached",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 455709
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/reinhardts-estate-agents-hayes-15371/",
+            "branchId": "15371",
+            "branchResultsUri": "/for-sale/branch/reinhardts-estate-agents-hayes-15371/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(121325).png",
+            "phone": "020 3641 3988",
+            "name": "Reinhardts Estate Agents",
+            "memberType": "agent",
+            "address": "48 Coldharbour Lane, Hayes",
+            "postcode": "UB3 3EP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Savoy Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Temple",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Clement Danes CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Royal Ballet School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "<strong>A very rare opportunity to acquire an extended three bedroom semi detached property in a much sought-after location. </strong><br><br>The charming scott and speedy property is located minutes away from all local amenities and has scope for further development <strong>(s.t.p.p)</strong><br><br>This spacious property consists of two reception rooms, large fully fitted kitchen, downstairs cloakroom, two double bedrooms, one single bedroom, and a bathroom with a separate WC. The property also boasts features such as double glazed windows, gas central heating, large front and rear garden, driveway for several vehicles and a large garage.<br><br>Local amenities include local shops, reputable schools, local places of worship, Botwell common park, Botwell leisure centre, Hesa medical centre, Lidl supermarket, Asda superstore and Hayes and Harlington station.<br><br>Local routes allowing easy access into Harrow, Heathrow Airport and Central London are all located minutes away (A312, M4 and A40).<br><br><strong>EPC rating: D Council Tax Band: D</strong>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Kitchen-Diner",
+                "Garden",
+                "Full Double Glazing",
+                "Gas Central Heating",
+                "Combi Boiler"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "82e0f444e772c804609be1427818841b32bd3ba1.jpg",
+                "caption": "79 Silverdale Gardens"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c43bc1927a09c30a85d6244466be9fb992744710.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "090d68b3b6f6f4996f156286ef7bdc4af3d39f0d.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b316eafe859f825458933ddbb09ac970e52b89b9.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8345598d6ca81884c0db2b1049804e658c10c66e.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "abc304da89e1314472179a6864f2970fd84de0f7.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "48ee7bc839f4f4cd778d5b3a7889bf0d94e22774.jpg",
+                "caption": "Gallery"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "Hayes",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 25,
+            "acornType": 25,
+            "areaName": "Hayes",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 15371,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(121325).png",
+            "branchName": "Reinhardts Estate Agents",
+            "brandName": "Reinhardts Estate Agents",
+            "chainFree": false,
+            "companyId": 7677,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Silverdale Gardens, Hayes UB3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "3LW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60435585,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 7,
+            "numRecepts": 2,
+            "outcode": "UB3",
+            "postalArea": "UB",
+            "postTownName": "Hayes",
+            "priceActual": 634950,
+            "price": 634950,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "semi_detached",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 455709
+        },
+        "title": "3 bed semi-detached house for sale",
+        "metaTitle": "3 bed semi-detached house for sale in Silverdale Gardens, Hayes UB3 - Zoopla",
+        "metaDescription": "3 bed semi-detached house for sale in Silverdale Gardens, Hayes UB3, selling for \u00a3634,950 from Reinhardts Estate Agents. See property details on Zoopla or browse all our range of properties in Silverdale Gardens, Hayes UB3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60435585/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.509865,
+                "longitude": -0.118092
+            }
+        },
+        "displayAddress": "Silverdale Gardens, Hayes UB3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-29T13:51:07",
+                "priceLabel": "\u00a3634,950"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 217
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 2
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3634,950",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Reinhardts Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60435585,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "5FE16EBE-68AE-11EC-8D4A-C2FF0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "UB3",
+            "areaNameUri": "ub3",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1668.3333333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 436566,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 443807,
+                    "pctChangeSince": -1.632,
+                    "date": "2021-11-26",
+                    "changeSince": -7241
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 457174,
+                    "pctChangeSince": -4.508,
+                    "date": "2021-08-26",
+                    "changeSince": -20608
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 456145,
+                    "pctChangeSince": -4.292,
+                    "date": "2021-02-26",
+                    "changeSince": -19579
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 440386,
+                    "pctChangeSince": -0.867,
+                    "date": "2017-02-26",
+                    "changeSince": -3820
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 289869,
+                    "pctChangeSince": 50.608,
+                    "date": "2012-02-26",
+                    "changeSince": 146697
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 288110,
+                    "pctChangeSince": 51.528,
+                    "date": "2007-02-26",
+                    "changeSince": 148456
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 171611,
+                    "pctChangeSince": 154.393,
+                    "date": "2002-02-26",
+                    "changeSince": 264955
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 450013,
+                    "newBuilds": 0,
+                    "numSales": 79
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 429080,
+                    "newBuilds": 0,
+                    "numSales": 223
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 425504,
+                    "newBuilds": 0,
+                    "numSales": 442
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 402594,
+                    "newBuilds": 0,
+                    "numSales": 697
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-01T00:00:00Z",
+                    "price": 525000,
+                    "propertyId": 24887374,
+                    "streetAddress": "31 Silverdale Gardens",
+                    "uri": "31-silverdale-gardens/hayes/ub3-3ln"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 250000,
+                    "propertyId": 24887332,
+                    "streetAddress": "42 Mount Road",
+                    "uri": "42-mount-road/hayes/ub3-3lj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 615000,
+                    "propertyId": 24881038,
+                    "streetAddress": "181 Botwell Lane",
+                    "uri": "181-botwell-lane/hayes/ub3-2aq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 285000,
+                    "propertyId": 24888062,
+                    "streetAddress": "48 Gade Close",
+                    "uri": "48-gade-close/hayes/ub3-3py"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 605500,
+                    "propertyId": 24890921,
+                    "streetAddress": "218 Nestles Avenue",
+                    "uri": "218-nestles-avenue/hayes/ub3-4qg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 548000,
+                    "propertyId": 24884258,
+                    "streetAddress": "10 Lancaster Walk",
+                    "uri": "10-lancaster-walk/hayes/ub3-2ql"
+                }
+            ]
+        }
+    }
+}

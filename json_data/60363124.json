@@ -1,0 +1,502 @@
+{
+    "address": "Coming Soon, East Putney SW15",
+    "price": "\u00a3635,000",
+    "beds": "2 beds",
+    "area": "652 sq. ft",
+    "sqm": null,
+    "sqft": null,
+    "text": "-\n\n2\n\n3\n\nsn\n\nGARDEN\n\n285 x 172\n\n(7.7m x 5.2m)\n\nBEDROOM\n\n93x71\n\n(28m x24m)\n\n2s\n\nKITCHEN!\n\nDINING ROOM\n\n128x99\n\n(8.9m x 3m)\n\nBATHROOM\n\n68x63\n\n(2mx 1.9m)\n\njuP\n\nBEDROOM\n\n198x112\n\n(6m x 3.4m)\n\n|\n\nUp\n\nup\n\nIN\n\nRECEPTION\n\n18x 13\"\n\n(4.6m x 4m)\n\nCELLAR\n\nSTORAGE\n\n28'x5)\n\n(7.3m x 1.5m)\n\n\"\u00bb\n\nCELLAR\n\nGROUND FLOOR\n\nGROSS INTERNAL\n\nGROSS INTERNAL\n\nFLOOR AREA 120 SQFT\n\nFLOOR AREA 652 SQFT\n\nAPPROX. GROSS INTERNAL FLOOR AREA 652 SQFT /61 SOM\n\nRef: RED PROPERTY\n\nCopyright photeplon\n\nDisclaimer: Floor plan measurements are approximate and are for ilustrative purposes only.\n\nWhile we do not doubt the floor plan accuracy and completeness, you or your advisors should\n\nConduct a careful, independent investigation ofthe property in respect of monetary valuation\n",
+    "image": "./extracted_images/60363124.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60363124/",
+    "listing_no": "60363124",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.457344,
+        "longitude": -0.203568
+    },
+    "first_published": "2021-12-23T12:25:41",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60363124",
+        "publishedOn": "2021-12-23T12:25:41",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Coming Soon, East Putney, Sw15",
+                "original": "https://lc.zoocdn.com/d7955914467ad44a95d3b05fcd003d843d84a725.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31159067",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 33569,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(277776).png",
+            "branchName": "RED Property Partnership",
+            "brandName": "RED Property Partnership",
+            "chainFree": false,
+            "companyId": 15432,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Coming Soon, East Putney SW15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2RZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60363124,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 3,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 635000,
+            "price": 635000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "652",
+            "tenure": null,
+            "zindex": 1287036
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/red-property-partnership-london-33569/",
+            "branchId": "33569",
+            "branchResultsUri": "/for-sale/branch/red-property-partnership-london-33569/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(277776).png",
+            "phone": "020 3463 2543",
+            "name": "RED Property Partnership",
+            "memberType": "agent",
+            "address": "501 Kingsland Road, London",
+            "postcode": "E8 4AU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Joseph's RC Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ashcroft Technology Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Putney",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Riverside Quarter Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "53a8bd01da36b91696f882c37c5649de75ca061f.png",
+                    "url": null
+                },
+                {
+                    "__typename": "Media",
+                    "caption": "EI Rating",
+                    "filename": "03bb5c4cb7433cad975536f1c52615f91869b016.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "An idyllic two bedroom garden flat with private west facing garden located a short walk from East Putney Tube Station. The property boasts high ceilings through the living room and master bedroom, eat-in kitchen with direct access to the rear garden and large basement. We see potential to develop this property with the correct planning approval.<br><br>This lovely garden flat would great for a first-time buyer or someone looking to downsize within the local area.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Garden Maisonette",
+                "Two Bedrooms",
+                "One Bathroom",
+                "Gas Central Heating",
+                "Large Basement",
+                "Sunny Garden",
+                "High Ceilings",
+                "Double Glazing Throughout",
+                "Large Eat-In Kitchen",
+                "EPC Rating C"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "80054b79bfdfcaabfe00adee0c745d754e60a47f.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "3c459c8ba85abd9fa0a43d797ca6bba7ee317509.jpg",
+                "caption": "Street View"
+            },
+            {
+                "__typename": "Media",
+                "filename": "75a000d32c087b7f94c32434c7bd88cbd87ca60f.jpg",
+                "caption": "Garden 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5bba3d7edea97ca19af268e2282211c787baa97c.jpg",
+                "caption": "Garden"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 33569,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(277776).png",
+            "branchName": "RED Property Partnership",
+            "brandName": "RED Property Partnership",
+            "chainFree": false,
+            "companyId": 15432,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Coming Soon, East Putney SW15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2RZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60363124,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 3,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 635000,
+            "price": 635000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "652",
+            "tenure": null,
+            "zindex": 1287036
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Coming Soon, East Putney SW15 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Coming Soon, East Putney SW15, selling for \u00a3635,000 from RED Property Partnership. See property details on Zoopla or browse all our range of properties in Coming Soon, East Putney SW15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60363124/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.457344,
+                "longitude": -0.203568
+            }
+        },
+        "displayAddress": "Coming Soon, East Putney SW15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-23T12:25:41",
+                "priceLabel": "\u00a3635,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 132
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/80054b79bfdfcaabfe00adee0c745d754e60a47f.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 652
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3635,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 974,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "RED Property Partnership",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60363124,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "AF623896-63EB-11EC-9F45-3A030E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW15",
+            "areaNameUri": "london/sw15/putney-roehampton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2601.444444444443
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 520826,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 523398,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2572
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 523730,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2904
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 545577,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -24751
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 528643,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -7817
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 364431,
+                    "pctChangeSince": 42.915,
+                    "date": "2012-02-26",
+                    "changeSince": 156395
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 332910,
+                    "pctChangeSince": 56.446,
+                    "date": "2007-02-26",
+                    "changeSince": 187916
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 202828,
+                    "pctChangeSince": 156.782,
+                    "date": "2002-02-26",
+                    "changeSince": 317998
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 529131,
+                    "newBuilds": 0,
+                    "numSales": 335
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 533508,
+                    "newBuilds": 3,
+                    "numSales": 926
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 527780,
+                    "newBuilds": 37,
+                    "numSales": 1765
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 544252,
+                    "newBuilds": 318,
+                    "numSales": 3178
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-07T00:00:00Z",
+                    "price": 640000,
+                    "propertyId": 27210874,
+                    "streetAddress": "Flat 1, 4 Galveston Road",
+                    "uri": "flat-1/4-galveston-road/london/sw15-2sa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-31T00:00:00Z",
+                    "price": 1210000,
+                    "propertyId": 23299884,
+                    "streetAddress": "39 Galveston Road",
+                    "uri": "39-galveston-road/london/sw15-2rz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 23306525,
+                    "streetAddress": "30 Swanwick Close",
+                    "uri": "30-swanwick-close/london/sw15-4ef"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 210000,
+                    "propertyId": 33225271,
+                    "streetAddress": "Flat 26, Devonshire House, 50 Putney Hill",
+                    "uri": "flat-26/devonshire-house/50-putney-hill/london/sw15-6dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 31858841,
+                    "streetAddress": "Flat 51, College House, 52 Putney Hill",
+                    "uri": "flat-51/college-house/52-putney-hill/london/sw15-6bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 677500,
+                    "propertyId": 23309178,
+                    "streetAddress": "231 Dover House Road",
+                    "uri": "231-dover-house-road/london/sw15-5af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 490500,
+                    "propertyId": 28918754,
+                    "streetAddress": "29 Holford Way",
+                    "uri": "29-holford-way/london/sw15-5gb"
+                }
+            ]
+        }
+    }
+}

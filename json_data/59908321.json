@@ -1,0 +1,555 @@
+{
+    "address": "Grove Green Road, London E11",
+    "price": "\u00a3585,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 116.9,
+    "sqft": 1258.0,
+    "text": "APPROX. GROSS INTERNAL FLOOR AREA\n1258 sq, ft/ 116.90 sq.m\nProduced by\nCP Creative Ltd\n\u00a9 7 ve\n~\nBEDROOM? I J pe\nWonee \\ i (104x550\n(420m x 260m) (10.38 x550m)\nfo \u00a3;\nBEDROOM | DROONT ia\nean _ ==\n(468m x3.2n) | 2am: 1 65m) it J\n20] sal ae\n2 \u2014 151064 1 oy\nws Vj = (480m x 192m)] laMt boxe\n\u2014_\u2014 fal 1 G&mx302m |\nFIRSTFLOOR | x\nGROSS INTERNAL ae ST\nFLOOR AREA 472 SQ FT L\\ \u2018I\n#\n\\\nDINING ROOM of\n1310x 1010 /\n(420m x3.28m)\nI E 1 [ \u201c\n| FR\n| \u201cdl aan\n1 i | ua) 4\n! . 178x511 up\n\u2018 636m x 175m)\n1 1 RECEPTIONROOM\n1 i 156.x 1010\nI ' 47m x32m) in\nI i \u2018t\nQty\nCELLAR i\nGROSS INTERNAL\nFLOOR AREA 103 $0 FT\nFRONT GARDEN |\n182x 132\n(650m x4.00m)\nGROUND FLOOR\nGROSS INTERNAL\nFLOOR AREAGB4 SQ FT\nFloorplan is for illustrative purposes only and is not to scale.\nEvery attempt has been made to ensure the accuracy of the floorplan shown, however all measurements,\nfixtures, fittings and data shown are an approximate interpretation for illustrative purposes only.\nLiability for errors, omissions or mis-statement through negligence or otherwise is hereby excluded.\n",
+    "image": "./extracted_images/59908321.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/59908321/",
+    "listing_no": "59908321",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.560463,
+        "longitude": -0.001299
+    },
+    "first_published": "2022-02-24T18:43:27",
+    "last_sale_date": "2002-08-23",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "59908321",
+        "publishedOn": "2022-02-24T18:43:27",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 42120,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(293928).png",
+            "branchName": "Portico - Leyton",
+            "brandName": "Portico Direct Ltd",
+            "chainFree": false,
+            "companyId": 581,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Grove Green Road, London E11",
+            "furnishedState": "",
+            "groupId": 155,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4EL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 59908321,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": null,
+            "outcode": "E11",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 585000,
+            "price": 585000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 421257
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/portico-leyton-leyton-42120/",
+            "branchId": "42120",
+            "branchResultsUri": "/for-sale/branch/portico-leyton-leyton-42120/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(293928).png",
+            "phone": "020 3544 7948",
+            "name": "Portico - Leyton",
+            "memberType": "agent",
+            "address": "252 High Road, Leyton",
+            "postcode": "E10 5PW"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Newport School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Mayville Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Leyton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Leytonstone High Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "12bb7f6a38c53e976dfd2f4d9f5f6f54c1083c47.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "***guide price \u00a3585,000 - \u00a3610,000***<br>Superbly located minutes from Leyton Central tube station and High Road can be found this excellent mid terrace Victorian family home.<br>Excellent and spacious layout comprising cellar, good two reception rooms, fitted kitchen and conservatory.<br>To the first floor there are three good size bedrooms and family bathroom.<br>To the rear can be found a good sized garden.<br>The property would make a fantastic project for a family home with excellent potential throughout.<br>Situated within close proximity to local amenities the property offers good access to a range of High street shops, cafe&amp;rsquo;s, restaurants and easy access to Epping Forest, Westfield shopping centre and the Queen Elizabeth Olympic Park.<br>Leyton is on the Central line tube, with journey times to Bank of 15 minutes, Oxford Circus 23 minutes, and Canary Wharf with a change at Stratford, 17 minutes. Leyton Midland Road is an Overground station on the Gospel Oak to Barking line; the 55 bus goes to Oxford Circus, the 48 to London Bridge and the 56 to Clerkenwell.<br>Internal viewing highly recommended.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "3 Bedrooms",
+                "Victorian family home",
+                "Two reception rooms",
+                "Cellar",
+                "First floor bathroom",
+                "Moments from Leyton High Road",
+                "Short walk to Leyton Cental Line tube station",
+                "Vacant possession",
+                "Viewing advised"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "338011ee75176f46f70a9bec9be5f87e16f03c7f.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "9416b1f6c38f08a66c13a46f4f8a41a1afb82c8d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6d78b9d1f5ad8cf919d677dea0a577246ae9bd35.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "10240614e4ffc9c619aa8f5ce7770e3063959d4e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "93bf72f0ea53f4c4ae8a6adb59f1fd1d2bad666a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "dbab09179037a9552bee0be3f7018d05affdcac7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2bb61e5fa73875737b84a4fda55cb2c8d0681eb3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "89f582009d72df90cf2df6ff6bfde046d307fe06.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6aca6dbfcc5597609a4bf40134c269d55c83b122.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9b2723807c62db156f8c53e4716f73e1102b5193.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "314e43cb9118fbac580c9303aed7284ed829e253.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "aa4a6796337ea91d7ba394030968d5ae7b18beaf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "64d14c73d55894615b7ee9de1d26abf6b867bf6a.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 42120,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(293928).png",
+            "branchName": "Portico - Leyton",
+            "brandName": "Portico Direct Ltd",
+            "chainFree": false,
+            "companyId": 581,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Grove Green Road, London E11",
+            "furnishedState": "",
+            "groupId": 155,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4EL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 59908321,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": null,
+            "outcode": "E11",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 585000,
+            "price": 585000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 421257
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Grove Green Road, London E11 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Grove Green Road, London E11, selling for \u00a3585,000 from Portico - Leyton. See property details on Zoopla or browse all our range of properties in Grove Green Road, London E11.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/59908321/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.560463,
+                "longitude": -0.001299
+            }
+        },
+        "displayAddress": "Grove Green Road, London E11",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-24T18:43:27",
+                "priceLabel": "\u00a3585,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2002-08-23",
+                "newBuild": false,
+                "price": 192000,
+                "priceLabel": "\u00a3192,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 152
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/338011ee75176f46f70a9bec9be5f87e16f03c7f.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": null,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3585,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Portico Direct Ltd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 59908321,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "A8194812-95A1-11EC-99E4-FD140E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E11",
+            "areaNameUri": "london/e11/leytonstone-wanstead",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2801.7407407407422
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 605775,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 617651,
+                    "pctChangeSince": -1.923,
+                    "date": "2021-11-26",
+                    "changeSince": -11876
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 639570,
+                    "pctChangeSince": -5.284,
+                    "date": "2021-08-26",
+                    "changeSince": -33795
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 608292,
+                    "pctChangeSince": -0.414,
+                    "date": "2021-02-26",
+                    "changeSince": -2517
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 593732,
+                    "pctChangeSince": 2.028,
+                    "date": "2017-02-26",
+                    "changeSince": 12043
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 354517,
+                    "pctChangeSince": 70.873,
+                    "date": "2012-02-26",
+                    "changeSince": 251258
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 352484,
+                    "pctChangeSince": 71.859,
+                    "date": "2007-02-26",
+                    "changeSince": 253291
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 204754,
+                    "pctChangeSince": 195.855,
+                    "date": "2002-02-26",
+                    "changeSince": 401021
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 670670,
+                    "newBuilds": 0,
+                    "numSales": 228
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 657539,
+                    "newBuilds": 0,
+                    "numSales": 569
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 638051,
+                    "newBuilds": 0,
+                    "numSales": 987
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 606423,
+                    "newBuilds": 10,
+                    "numSales": 1478
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-17T00:00:00Z",
+                    "price": 750000,
+                    "propertyId": 7811201,
+                    "streetAddress": "331 Grove Green Road",
+                    "uri": "331-grove-green-road/london/e11-4aq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 7799988,
+                    "streetAddress": "460c Grove Green Road",
+                    "uri": "460c-grove-green-road/london/e11-1sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 590000,
+                    "propertyId": 7811203,
+                    "streetAddress": "335 Grove Green Road",
+                    "uri": "335-grove-green-road/london/e11-4aq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-10T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 7812834,
+                    "streetAddress": "76 Grove Green Road",
+                    "uri": "76-grove-green-road/london/e11-4el"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-28T00:00:00Z",
+                    "price": 650000,
+                    "propertyId": 7812701,
+                    "streetAddress": "Flat Above, 342 Grove Green Road",
+                    "uri": "flat-above/342-grove-green-road/london/e11-4ea"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 715000,
+                    "propertyId": 7808720,
+                    "streetAddress": "40 Kingsdown Road",
+                    "uri": "40-kingsdown-road/london/e11-3lp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 327500,
+                    "propertyId": 7799895,
+                    "streetAddress": "Flat 12, Heath Court, 28 Hollybush Hill",
+                    "uri": "flat-12/heath-court/28-hollybush-hill/london/e11-1sa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 875000,
+                    "propertyId": 7810191,
+                    "streetAddress": "44 Belgrave Road",
+                    "uri": "44-belgrave-road/london/e11-3qw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 305000,
+                    "propertyId": 7798110,
+                    "streetAddress": "99 Forest Road",
+                    "uri": "99-forest-road/london/e11-1js"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 294000,
+                    "propertyId": 7814279,
+                    "streetAddress": "23 Victoria Road",
+                    "uri": "23-victoria-road/london/e11-4js"
+                }
+            ]
+        }
+    }
+}

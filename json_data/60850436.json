@@ -1,0 +1,596 @@
+{
+    "address": "Barratt Industrial Park, Gillender Street, London E3",
+    "price": "\u00a3620,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "a\n\noe)\n\niy\n\nwy\n\n\u00a9)\n\nO)\n\n|\n\n>!\n\n:\n\n\\\n\n,\n\nnm\n\n1a\n\ni\n\ni\n\n:\n\n=\n\n\\E\n\nq\n\n:\n\nULL\n\nBATHROOM\n\na\n\nFLOORPLATE\n\nHe\n\nui\n\nay\n\nENSUITE\n\nes oe\n\nSHOWER\n\nas\n\na IE\n\nwt,\n\noe\n\nUI\n\nnee\n\na be\n\nnm\n\noe\n\nrerma|\n\nBi\n\no\n\nmin\n\nmg oo\n\nirr\n\nrman\n\nes\n\nmi\n\nmm\n\nemai\n\n|\n\nae\n\nie\n\nHone\n\nmt\n\nT\n\nrn\n\nin\n\nma\n\nwT\n\n1\n\nian\n\nmen\n\ns\n\noe\n\nsie\n\n=\n\nane\n\nA\n\nfal\n\n3\n\n|\n\n3\n\nELEVATION\n\nas\n\nie\n\nfe\n\n(\n\nhi\n\n:\n\nge\n\na4\n\na\n\na\n\n2\n\ni\n\nHl\n\n:\n\n(ne\n\nHe\n\noe\n\nos\n\ni\n\nvaT Yaad\n\nes\n\nae\n\nys\n\na\n\n\u2014\n\nC\n\ns\n\nae\n\n.\n\ni\n\na\n\nGILLENDER STREET\n\n\u201c<oge\n\nHe\n\n\u2014\u2014\n\nMASTERPLAN\n",
+    "image": "./extracted_images/60850436.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/60850436/",
+    "listing_no": "60850436",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.521131,
+        "longitude": -0.009826
+    },
+    "first_published": "2022-02-25T11:08:56",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60850436",
+        "publishedOn": "2022-02-25T11:08:56",
+        "section": "new-homes",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://lc.zoocdn.com/670cc203e10db2224f8ad135ea2844c54fb8ed80.pdf",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 122187,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(480925).png",
+            "branchName": "Peabody - Three Waters",
+            "brandName": "Peabody",
+            "chainFree": true,
+            "companyId": 16835,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Barratt Industrial Park, Gillender Street, London E3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3JX",
+            "isRetirementHome": false,
+            "isSharedOwnership": true,
+            "listingCondition": "new",
+            "listingId": 60850436,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "developer",
+            "numBaths": null,
+            "numBeds": 3,
+            "numImages": 27,
+            "numRecepts": null,
+            "outcode": "E3",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 620000,
+            "price": 620000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/new-homes/developers/branch/peabody-three-waters-poplar-122187/",
+            "branchId": "122187",
+            "branchResultsUri": "/new-homes/branch/peabody-three-waters-poplar-122187/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(480925).png",
+            "phone": "020 8128 1170",
+            "name": "Peabody - Three Waters",
+            "memberType": "developer",
+            "address": "20 Gillender Street, Poplar",
+            "postcode": "E3 3JX"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bow School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Marner Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bromley-By-Bow",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Devons Road",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=WHecneYSXwP"
+                }
+            ],
+            "links": [
+                {
+                    "__typename": "Media",
+                    "url": "https://protect-eu.mimecast.com/s/XFNRCLJnxck6L98uBGUyg?domain=mhl360bubbleshosting.azureedge.net"
+                }
+            ],
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Come and enjoy the stunning, panoramic, river views of London</strong><br><br><strong>Now Viewing! Register your interest to book your viewing</strong><br><br><strong>3 bed Shared Ownership homes | Available from \u00a3155,000 (25% of full value \u00a3620,000)</strong><br><br>An exciting collection of 1,2 &amp; 3 bed Shared Ownership apartments coming soon to Bow creek. With access to 560 acres of greenspace in the surrounding area and transport links to the city in 12 minutes. Enjoy an onsite cinema room, 24 hour concierge and private balconies to every apartment when you live at Three Waters.<br><br>Located where the three waters of Bow Creek, the River Lea and Limehouse Cut meet in the heart of east London, Three Waters sits within the city\u2019s fastest growing area, offering vibrant waterside living. With the Tube and Docklands Light Railway (DLR) close by, you\u2019ll be in the City or Canary Wharf in as little as 12 minutes.<br><br><em>*Computer Generated Image is Indicative Only</em><br><br><strong>About Three Waters So</strong><br><br>In partnership with Mount Anvil, we\u2019re delighted to offer a stunning new collection of 1,2 &amp; 3 bedroom apartments in Poplar, E3 at Three Waters.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Shared Ownership Available",
+                "Enjoy a Cinema room",
+                "24-hour Concierge",
+                "Private Balcony",
+                "Vibrant waterside living.",
+                "Close to the Tube and Docklands Light Railway (DLR)"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "053f26a146feadea9e300fd932e21890d250b274.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "b4b64e5b2aee3cf68849c359502325ad4b24e5bb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a3e5a8bc8180a93ebf6f4ba4bc18d705861419c9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1f90583a675e07acf3332d93efd25073184541e1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a70328646c6ee487da456e677bd795e51dec3ece.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5d24635c3e6ce025df5a724c5205b6166083c902.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c006581a1a5b6658721c1cb0347f2ac474837ed6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d3cfc602b5176bb725cf345d52d56f83effc081a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4abd409ae2776c8f058e3a4a64c8797be0a38229.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e8a44d08701dbc898ac6db916148c5f0c5b2846d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "59a0ce1ce057ed57053ce6b6aef938d1b2dd01bd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d7f32dd52416ebd40c4ff61589ca8618f4b4909b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9448c6e25b35ce9fa7b01e17a8a7f3fa862c0abf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3cae0e613581fcf7021f74f8e3af8f334932d595.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "828b52c28614da6fa11b30af60bf63405d982569.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e1a40053445c10114484e2249fd20e8f162fec2a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "90ae65ace8b545a64e40a7d93d0593781ad994e6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a7addf91bbac4c27e5dc24a7c892a92252b1b489.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9be4e0c73854a3c9852419685c9ef7b229808524.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0c9dc4344492ac04f93fd35e645699e64f3bc5a1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "572b3860ae39a2be9d9f45f169ab5bf469a8e68b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d0cdaaf333c9683ed72fb64b1bfce100027dc2a9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "91a8a49cd07aabde9c414a63c546a2d1557388d0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0907e332d2c1987e0b76a0fecd09eb46ef7cbddc.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3853fc05e9c66d9154edbba8ae4438864e4fbfe8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8f64c33d320d5d702ce7acc673c3f68844a30e6c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "69d9b1bbb6bd2c49b0d8e6476f145876cad8d987.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "baaf764c091d9a3e12a165877df257a838b2b37c.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 122187,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(480925).png",
+            "branchName": "Peabody - Three Waters",
+            "brandName": "Peabody",
+            "chainFree": true,
+            "companyId": 16835,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Barratt Industrial Park, Gillender Street, London E3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3JX",
+            "isRetirementHome": false,
+            "isSharedOwnership": true,
+            "listingCondition": "new",
+            "listingId": 60850436,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "developer",
+            "numBaths": null,
+            "numBeds": 3,
+            "numImages": 27,
+            "numRecepts": null,
+            "outcode": "E3",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 620000,
+            "price": 620000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "New home, 3 bed flat for sale in Barratt Industrial Park, Gillender Street, London E3 - Zoopla",
+        "metaDescription": "A new 3 bed flat for sale in Barratt Industrial Park, Gillender Street, London E3, selling for \u00a3620,000 from Peabody - Three Waters. See property details on Zoopla or browse all our range of properties in Barratt Industrial Park, Gillender Street, London E3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60850436/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.521131,
+                "longitude": -0.009826
+            }
+        },
+        "displayAddress": "Barratt Industrial Park, Gillender Street, London E3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-25T11:08:56",
+                "priceLabel": "\u00a3620,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 18
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/053f26a146feadea9e300fd932e21890d250b274.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            },
+            {
+                "__typename": "ListingTag",
+                "label": "Shared ownership"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": null,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3620,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Peabody",
+            "category": "for-sale/resi/developer/new/gb",
+            "id": 60850436,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium"
+        },
+        "uuid": "DA1DF830-962D-11EC-8DFD-290E0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E3",
+            "areaNameUri": "london/e3/bow-bromley-by-bow-old-ford",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2471.575757575756
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 386397,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 393490,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -7093
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 406557,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -20160
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 428838,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -42441
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 382047,
+                    "pctChangeSince": 1.139,
+                    "date": "2017-02-26",
+                    "changeSince": 4350
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 244188,
+                    "pctChangeSince": 58.238,
+                    "date": "2012-02-26",
+                    "changeSince": 142209
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 244679,
+                    "pctChangeSince": 57.92,
+                    "date": "2007-02-26",
+                    "changeSince": 141718
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 142070,
+                    "pctChangeSince": 171.976,
+                    "date": "2002-02-26",
+                    "changeSince": 244327
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 395680,
+                    "newBuilds": 27,
+                    "numSales": 256
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 405838,
+                    "newBuilds": 110,
+                    "numSales": 757
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 409638,
+                    "newBuilds": 372,
+                    "numSales": 1748
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 402969,
+                    "newBuilds": 550,
+                    "numSales": 3145
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 580000,
+                    "propertyId": 7655365,
+                    "streetAddress": "72 Tredegar Road",
+                    "uri": "72-tredegar-road/london/e3-2ep"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 30933055,
+                    "streetAddress": "Flat 15, Cowden House, 43 William Whiffin Square",
+                    "uri": "flat-15/cowden-house/43-william-whiffin-square/london/e3-4rd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 430000,
+                    "propertyId": 7666322,
+                    "streetAddress": "7b Tomlins Grove",
+                    "uri": "7b-tomlins-grove/london/e3-4nx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 7663859,
+                    "streetAddress": "16 Tidey Street",
+                    "uri": "16-tidey-street/london/e3-4dd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 760000,
+                    "propertyId": 7672464,
+                    "streetAddress": "52 Ellesmere Road",
+                    "uri": "52-ellesmere-road/london/e3-5qx"
+                }
+            ]
+        }
+    }
+}

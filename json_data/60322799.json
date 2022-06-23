@@ -1,0 +1,497 @@
+{
+    "address": "Chapter Chambers, Chapter Street, London SW1P",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 54.07,
+    "sqft": null,
+    "text": "Chapter Chambers, SW1P\nApproximate gross internal area\n54.07 sqm/ 582 sqft\nKey : = A\nCH - Ceiling Height In \\_\n| [-\u2014 =\nUi ||\n~ i\n\\ ; KITCHEN 'S)\n\\ jf AB x 2.30!\n\\\\ BEDROOM ile\n\\\\ 441 3.92M a a A\n13'6\" x 10\u00b011\" / \\ (Ss\n\\ _\n\\\\ /\n\\ / \\\n= \\ OV\n/CH \\ \\ 4\nee\nBEDROOM RECEPTION\n/ ROOM\n3.73 x 3.06M\neae [ 3.88 x 3.59M\n12'9\" x 11'9\"\nL\n\\\n|\u2014____ |_\u2014__f#_\nThird Floor\nThe floor plan is not to scale and measurements and\nareas shown are approximate and therefore should be used for illustrative purposes only.\nThe plan has been prepared in accordance with the RICS code of Measuring Practice\nand whilst we have confidence in the information produced, it must not be relied on.\nIf there is any aspect of particular importance, you should carry out or\ncommission your own inspection of the property.\nCopyright of FeaturePRO.\n",
+    "image": "./extracted_images/60322799.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60322799/",
+    "listing_no": "60322799",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.491856,
+        "longitude": -0.133158
+    },
+    "first_published": "2021-12-03T21:35:23",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60322799",
+        "publishedOn": "2021-12-03T21:35:23",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "https://www.chestertons.com/properties/property-PIM200008/",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://chips.chestertons.com/chips/brochures/PIM200008.PDF",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 1613,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Westminster & Pimlico",
+            "brandName": "Chestertons",
+            "chainFree": true,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Chapter Chambers, Chapter Street, London SW1P",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4NR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60322799,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW1P",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 475289
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/chestertons-westminster-and-pimlico-london-1613/",
+            "branchId": "1613",
+            "branchResultsUri": "/for-sale/branch/chestertons-westminster-and-pimlico-london-1613/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "phone": "020 8115 2532",
+            "name": "Chestertons - Westminster & Pimlico",
+            "memberType": "agent",
+            "address": "105 Wilton Road, Westminster, London",
+            "postcode": "SW1V 1DZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Westminster Under School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Millbank Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Pimlico",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Millbank Millennium Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "cf264190f505ee4ff565756e1809b7df2a1a6c8e.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A bright and well laid-out two double bedroom flat within this popular mansion block situated in the heart of Westminster. The property further comprises reception room, modern kitchen and bathroom and is offered with no onward chain and lease expiring in 2193.<br><br>Chapter Street is conveniently situated for shops, cafes and restaurants of Westminster and Pimlico as well as numerous transport links including Pimlico (Victoria line) and Victoria (Victoria, Circle and District underground lines, Mainline station and Gatwick Express).",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Reception Room and Two Double Bedrooms",
+                "Modern Kitchen and Family Bathroom",
+                "Popular Mansion Block",
+                "Bright and Practical Layout",
+                "No Onward Chain",
+                "Conveniently Located for Amenities and Transport"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "8c6bab36524c3bd84c90494d3fa816f2a3a93241.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d4b271ae074db1ebb01cf9321589145f8b59b930.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "68ed415b68ce10646a3af8e3b37d9a04793804db.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7ba0c64d3ed196b43aa6061679cba0320c4f0b72.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "09a7208d2e62798018c5a6c6a20fa4cc76458aa4.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e61c55c5efd3dcc4a74e2c7605e3d946a2c4963c.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8b001f907c6cc65d0d04b0995fa22d8c2650909d.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "224b65606b2d75e10407bf952801dd779e28b63d.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "27c004c6d3d349a2f9c3e1c6e7543dc55c256d96.jpg",
+                "caption": "Exterior"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 1613,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Westminster & Pimlico",
+            "brandName": "Chestertons",
+            "chainFree": true,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Chapter Chambers, Chapter Street, London SW1P",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4NR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60322799,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW1P",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 475289
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Chapter Chambers, Chapter Street, London SW1P - Zoopla",
+        "metaDescription": "2 bed flat for sale in Chapter Chambers, Chapter Street, London SW1P, selling for \u00a3625,000 from Chestertons - Westminster & Pimlico. See property details on Zoopla or browse all our range of properties in Chapter Chambers, Chapter Street, London SW1P.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60322799/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.491856,
+                "longitude": -0.133158
+            }
+        },
+        "displayAddress": "Chapter Chambers, Chapter Street, London SW1P",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-03T21:35:23",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 65
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/8c6bab36524c3bd84c90494d3fa816f2a3a93241.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Chestertons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60322799,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "F485858C-7ECA-11EC-812D-C73A0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW1P",
+            "areaNameUri": "sw1p",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 4407.570175438603
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 1232442,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 1238530,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -6088
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 1239318,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -6876
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1291019,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -58577
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1250983,
+                    "pctChangeSince": -1.482,
+                    "date": "2017-02-26",
+                    "changeSince": -18541
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 862392,
+                    "pctChangeSince": 42.91,
+                    "date": "2012-02-26",
+                    "changeSince": 370050
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 787802,
+                    "pctChangeSince": 56.441,
+                    "date": "2007-02-26",
+                    "changeSince": 444640
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 479975,
+                    "pctChangeSince": 156.772,
+                    "date": "2002-02-26",
+                    "changeSince": 752467
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 455400,
+                    "propertyId": 23089382,
+                    "streetAddress": "Flat 28, Millbank Court, 24 John Islip Street",
+                    "uri": "flat-28/millbank-court/24-john-islip-street/london/sw1p-4lg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-23T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 23084228,
+                    "streetAddress": "57 Ashley Gardens, Ambrosden Avenue",
+                    "uri": "57-ashley-gardens/ambrosden-avenue/london/sw1p-1qg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 1100000,
+                    "propertyId": 23083633,
+                    "streetAddress": "106a Ashley Gardens, Thirleby Road",
+                    "uri": "106a-ashley-gardens/thirleby-road/london/sw1p-1hj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-04T00:00:00Z",
+                    "price": 650000,
+                    "propertyId": 23087813,
+                    "streetAddress": "Flat 8, Vincent House, Regency Street",
+                    "uri": "flat-8/vincent-house/regency-street/london/sw1p-4bx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-27T00:00:00Z",
+                    "price": 470000,
+                    "propertyId": 23088609,
+                    "streetAddress": "Flat 2, Dalkeith Court, 45 Vincent Street",
+                    "uri": "flat-2/dalkeith-court/45-vincent-street/london/sw1p-4hh"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,526 @@
+{
+    "address": "Cowdrey Road, London SW19",
+    "price": "\u00a3595,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "terrace\n\nVe\n\nEe =\n\n-| Bathroom\n\nEn-Suite\n\nL:\n\n2.2x 2.2m\n\n16x 22m\n\n\u2014\n\n72 x72\u201d\n\n|)\n\nTy x2\n\nBedroom 1\n\n4x3.4m\n\n121122\n\n[Fars] \u00bb-\n\n1\n\n| <2]\n\nKitchen/Living/Dining\n\n4.7x5.6m\n\n15'4\u201d x 18\u00b04\u201d\n\nBedroom 2\n\n|\n\n2.7x47m\n\n89\u201d x 45\u00b04\u201d\n\nAr\n\n=\n\nterrace\n\n/\\\n\n\u2018\\\n\nBETES Fa Fa Fa Fae Fa PO Yous ees FTA Yo TON You Yan YAN Yo Ya Yous\n\nre emer ere ere ee ere er air i ee rec ne: reer rer en\n\nar\n\nte EE\n\nSAS SAE Yar Yak Yar\n\nSpan N\n",
+    "image": "./extracted_images/60426803.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/60426803/",
+    "listing_no": "60426803",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.423957,
+        "longitude": -0.189061
+    },
+    "first_published": "2021-12-26T06:06:42",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60426803",
+        "publishedOn": "2021-12-26T06:06:42",
+        "section": "new-homes",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "PDF Property Particulars",
+                "original": "https://lc.zoocdn.com/70fd022839a4b62588a7c61e0fcb2ce8e4a27ada.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.barnardmarcus.co.uk/property/SFS105287",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 20036,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - Southfields",
+            "brandName": "Barnard Marcus",
+            "chainFree": true,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Cowdrey Road, London SW19",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "8TU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60426803,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW19",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 595000,
+            "price": 595000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Show Home Available|Viewing Advised",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 755620
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/barnard-marcus-southfields-southfields-20036/",
+            "branchId": "20036",
+            "branchResultsUri": "/for-sale/branch/barnard-marcus-southfields-southfields-20036/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "phone": "020 8166 7287",
+            "name": "Barnard Marcus - Southfields",
+            "memberType": "agent",
+            "address": "245 Wimbledon Park Road, Southfields",
+            "postcode": "SW18 5RJ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Priory CofE School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Haydons Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Garfield Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "South Wimbledon",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://view.ricohtours.com/c51afbf0-2d3b-47b3-9c33-5cbf16a23b46"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Summary</strong><br>Set in one of South West London's most affluent and desirable locations, The Wandle is a stunning development of just fourteen one, two and three bedroom apartments. Completion anticipated by the end of 2021 and Help to Buy is available on a selected amount of properties.<br><br><strong>Description</strong><br>The Wandle is a brand new landmark development located within SW19 only moments away from both Wimbledon &amp; Haydons Road Station. The development comprises fourteen apartments providing elegant modern day living. The development's stylish design and high specification creates true exclusivity. New owners can enjoy a range of luxury integrated appliances throughout as well as underfloor heating. All apartments are thoughtfully designed and therefore offer spacious internal accommodation and large balconies/ terraces. The kitchens benefit from Quartz Worktops with matching Splashbacks as well as modern induction hobs.<br><br>Haydons Road offers direct links to London Blackfriars, City Thameslink and London St Pancras International, perfect for the commuter. The Central Terminals of London Bridge, London Victoria &amp; London Waterloo are also easily accessible via Wimbledon Mainline Station as well as the District Line.<br><br><strong>Agents Note</strong><br>This property has an offer accepted subject to contract but is still currently available to view.<br><br>Lease details are currently being compiled. For further information please contact the branch. Please note additional fees could be incurred for items such as leasehold packs.<br><br>1. Money laundering regulations: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale. <br>2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property. <br>3. The measurements indicated are supplied for guidance only and as such must be considered incorrect. <br>4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase. <br>5. These particulars are issued in good faith but do not constitute representations of fact or form part of any offer or contract. The matters referred to in these particulars should be independently verified by prospective buyers or tenants. Neither sequence (UK) limited nor any of its employees or agents has any authority to make or give any representation or warranty whatever in relation to this property.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Show Home Launch in January. Call to book your viewing.",
+                "Two Double Bedrooms",
+                "High Specification",
+                "Under Floor Heating Throughout",
+                "Integrated Siemens Appliances",
+                "Unique Development of 1,2 &amp; 3 Bedroom Flats"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Show Home Available"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Viewing Advised"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "096d19239d995dfc90d36d2a3237a5b5b960aa3e.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "a25b23814b39743022165a7e61f697c0f5c062ac.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "22ac8d58fcdb80def2a17406632ccf5d90647ead.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cd116f7933a4b07b656efd10f20bef0ff06b1255.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e7bb00f6773394873eb671e1c9dae1a3f8f1773e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "aad37b8d094154d9b53738ddad0c3f12e4256bdb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "29e9915ca2b23553fbd405c312528a8b44d4fc3f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1e91bd1980db0cbcc2ca5a8da44f46898e03c31a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ae43fdf79c3204ff210f7945cb7e1cc97ed18c55.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "25b6682af87dbf7f8349b618812c371a3f0aaae4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a91f5d6c42291f3457dfca5608cf02842a7a0901.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bfd0d6eaba131e485c99a46a1b951e02d18ce354.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 20036,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - Southfields",
+            "brandName": "Barnard Marcus",
+            "chainFree": true,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Cowdrey Road, London SW19",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "8TU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60426803,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW19",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 595000,
+            "price": 595000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Show Home Available|Viewing Advised",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 755620
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in Cowdrey Road, London SW19 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in Cowdrey Road, London SW19, selling for \u00a3595,000 from Barnard Marcus - Southfields. See property details on Zoopla or browse all our range of properties in Cowdrey Road, London SW19.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60426803/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.423957,
+                "longitude": -0.189061
+            }
+        },
+        "displayAddress": "Cowdrey Road, London SW19",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-26T06:06:42",
+                "priceLabel": "\u00a3595,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 183
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/096d19239d995dfc90d36d2a3237a5b5b960aa3e.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3595,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Barnard Marcus",
+            "category": "for-sale/resi/agent/new/gb",
+            "id": 60426803,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "19A2D970-95A3-11EC-A6E1-C4EB0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW19",
+            "areaNameUri": "london/sw19/wimbledon-merton-colliers-wood",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2168.3999999999996
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 472819,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 475154,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2335
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 475455,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2636
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 495288,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -22469
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 479913,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -7094
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 330838,
+                    "pctChangeSince": 42.916,
+                    "date": "2012-02-26",
+                    "changeSince": 141981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 302223,
+                    "pctChangeSince": 56.447,
+                    "date": "2007-02-26",
+                    "changeSince": 170596
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 184132,
+                    "pctChangeSince": 156.783,
+                    "date": "2002-02-26",
+                    "changeSince": 288687
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 479862,
+                    "newBuilds": 0,
+                    "numSales": 312
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 467031,
+                    "newBuilds": 7,
+                    "numSales": 924
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 470205,
+                    "newBuilds": 35,
+                    "numSales": 1814
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 461099,
+                    "newBuilds": 93,
+                    "numSales": 2954
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 3829408,
+                    "propertyId": 23408155,
+                    "streetAddress": "1 Wilberforce Way",
+                    "uri": "1-wilberforce-way/london/sw19-4th"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 670000,
+                    "propertyId": 23422287,
+                    "streetAddress": "38 Milton Road",
+                    "uri": "38-milton-road/london/sw19-8se"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 300000,
+                    "propertyId": 31516547,
+                    "streetAddress": "159 Arthur Road",
+                    "uri": "159-arthur-road/london/sw19-8ad"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 920106,
+                    "propertyId": 23394163,
+                    "streetAddress": "117 Pelham Road",
+                    "uri": "117-pelham-road/london/sw19-1nz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1187500,
+                    "propertyId": 23418782,
+                    "streetAddress": "24 Stuart Road",
+                    "uri": "24-stuart-road/london/sw19-8dh"
+                }
+            ]
+        }
+    }
+}

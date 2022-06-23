@@ -1,0 +1,536 @@
+{
+    "address": "Munster Road, London SW6",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "First Floor\n\nBedroom\n\n3.69m x 2.60m\n\n(12'1\" x 8'6\")\n\na\n\n; Bedroom\n\n3.42m x 2.15\n\n(11'3\" x 7'1\")\n\nKitchen/Reception\n\noom\n\n4.54m x 4.94m\n\n(14'11\" x 16'2\")\n",
+    "image": "./extracted_images/60649061.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60649061/",
+    "listing_no": "60649061",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.47293,
+        "longitude": -0.204469
+    },
+    "first_published": "2022-01-31T16:33:17",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60649061",
+        "publishedOn": "2022-01-31T16:33:17",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/ec91f9f0113424d8aef6ede70ee1b0a47fe7ae38.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 41946,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Fulham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Munster Road, London SW6",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4ER",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60649061,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 733981
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-fulham-fulham-41946/",
+            "branchId": "41946",
+            "branchResultsUri": "/for-sale/branch/dexters-fulham-fulham-41946/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7386 5386",
+            "name": "Dexters - Fulham",
+            "memberType": "agent",
+            "address": "569 Fulham Road, Fulham",
+            "postcode": "SW6 1ES"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Thomas's Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Parsons Green Prep School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Parsons Green",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Putney Bridge",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "f693dc04213b924b9577e496e32b421566e08263.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Offers in excess off \u00a3600,000. A well finished two double bedroom apartment on the first floor of a period conversion in the heart of Parsons Green. The property has a spacious, open plan kitchen living room with good ceiling height and is bright throughout.<br><br>Located within close proximity to the shops, amenities and transport links of Parsons Green.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedrooms",
+                "First Floor",
+                "Period Conversion",
+                "Parsons Green",
+                "Share Of Freehold",
+                "Well Finished"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "5447e7bbff714f71119f7a5d91f6d56d3bc697cd.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "13e87e2e77b6859d789845875946cbc9af1bdf19.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7cf735040306fb878c2724756d1574fc970a5fe0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a9132e9b0964ca050a88ab85c8cd16a2ee75edf4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5ea607febe72f75d550fde133595d0fc77ae0a2e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "addcb5d6ba4f7d41cb81fa3b856bcc55cd070c36.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4f34708f7302f9c78d26e99edfdc8cdd1c96a68c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "35747b4ff265ba50fdaaf0947d5954829fbc2544.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 41946,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Fulham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Munster Road, London SW6",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4ER",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60649061,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 733981
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Munster Road, London SW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Munster Road, London SW6, selling for \u00a3600,000 from Dexters - Fulham. See property details on Zoopla or browse all our range of properties in Munster Road, London SW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60649061/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.47293,
+                "longitude": -0.204469
+            }
+        },
+        "displayAddress": "Munster Road, London SW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-31T16:33:17",
+                "priceLabel": "\u00a3675,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "11.1",
+                    "priceChangeDate": "2022-02-18T15:06:44",
+                    "priceChangeLabel": "\u00a375,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 274
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/5447e7bbff714f71119f7a5d91f6d56d3bc697cd.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60649061,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "B47E3324-90D3-11EC-B02B-54C10D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW6",
+            "areaNameUri": "london/sw6/fulham-parsons-green",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3102.639751552796
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 741749,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 745413,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -3664
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 745886,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -4137
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 777001,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -35252
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 752893,
+                    "pctChangeSince": -1.48,
+                    "date": "2017-02-26",
+                    "changeSince": -11144
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 519022,
+                    "pctChangeSince": 42.913,
+                    "date": "2012-02-26",
+                    "changeSince": 222727
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 474130,
+                    "pctChangeSince": 56.444,
+                    "date": "2007-02-26",
+                    "changeSince": 267619
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 288868,
+                    "pctChangeSince": 156.778,
+                    "date": "2002-02-26",
+                    "changeSince": 452881
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 712416,
+                    "newBuilds": 0,
+                    "numSales": 315
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 692544,
+                    "newBuilds": 3,
+                    "numSales": 929
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 701679,
+                    "newBuilds": 50,
+                    "numSales": 1653
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 747775,
+                    "newBuilds": 285,
+                    "numSales": 2791
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 2025000,
+                    "propertyId": 23174738,
+                    "streetAddress": "54 Munster Road",
+                    "uri": "54-munster-road/london/sw6-4ep"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 1035000,
+                    "propertyId": 23179924,
+                    "streetAddress": "266 Munster Road",
+                    "uri": "266-munster-road/london/sw6-6bd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 540000,
+                    "propertyId": 23179899,
+                    "streetAddress": "216a Munster Road",
+                    "uri": "216a-munster-road/london/sw6-6ay"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-23T00:00:00Z",
+                    "price": 360000,
+                    "propertyId": 27438913,
+                    "streetAddress": "Flat 2, 320 Munster Road",
+                    "uri": "flat-2/320-munster-road/london/sw6-6bh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 28342183,
+                    "streetAddress": "Flat, 228 Munster Road",
+                    "uri": "flat/228-munster-road/london/sw6-6az"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-21T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 23174037,
+                    "streetAddress": "Flat 14, Alex Gossip House, Basuto Road",
+                    "uri": "flat-14/alex-gossip-house/basuto-road/london/sw6-4ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 1275000,
+                    "propertyId": 23186386,
+                    "streetAddress": "27 Rosaline Road",
+                    "uri": "27-rosaline-road/london/sw6-7qs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 1750000,
+                    "propertyId": 29512493,
+                    "streetAddress": "5 Parsons Gate Mews",
+                    "uri": "5-parsons-gate-mews/london/sw6-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1140000,
+                    "propertyId": 23181929,
+                    "streetAddress": "Flat 17, Elm Lodge, 75 Stevenage Road",
+                    "uri": "flat-17/elm-lodge/75-stevenage-road/london/sw6-6nz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 23185397,
+                    "streetAddress": "42 Orbain Road",
+                    "uri": "42-orbain-road/london/sw6-7jy"
+                }
+            ]
+        }
+    }
+}

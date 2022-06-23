@@ -1,0 +1,515 @@
+{
+    "address": "Highgate Road, London NW5",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 96.1,
+    "sqft": 1034.0,
+    "text": "First Floor Second Floor\nGround Floor\n4 4 \u2014 \u2014\u2014 =\na Teen |\n| -\u2014 * 7\nSS s, sani ~<\nal \u2014 Kitchen/Dining \\ (\n\u00bb 3.7/7 2.91\nSA (12a 96\") | =x :\n4 a / ae ll Bedroom i\nif O~oO 3.431 3.331\n\u2014 / | ses, _ SON\na | 7 i?\nReception\nRoom\n4.59m x 5.14m\n(15'1\" x 16'10\")\nBedroom\n4.02m x 5.14m\n(13'2\" x 16'10\")\nee\n\u2014\u2014\n_\u2014\u2014F \u2014\u2014\u2014 et -\u2014\u2014\n1 4\nTotal area: approx. 96.1 sq. metres (1034.9 sq. feet)\n",
+    "image": "./extracted_images/60193287.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60193287/",
+    "listing_no": "60193287",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.556112,
+        "longitude": -0.146214
+    },
+    "first_published": "2021-11-15T17:01:25",
+    "last_sale_date": "2010-12-03",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60193287",
+        "publishedOn": "2021-11-15T17:01:25",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/5274b400b7232843ab3921e18d9430cf361b4804.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16742,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Dartmouth Park",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Highgate Road, London NW5",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1LE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60193287,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "NW5",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 536788
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-dartmouth-park-16742/",
+            "branchId": "16742",
+            "branchResultsUri": "/for-sale/branch/dexters-dartmouth-park-16742/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7284 0101",
+            "name": "Dexters - Dartmouth Park",
+            "memberType": "agent",
+            "address": "64 Chetwynd Road, Dartmouth Park",
+            "postcode": "NW5 1DE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Parliament Hill School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Gospel Oak",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "William Ellis School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tufnell Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A charming two bedroom apartment on the top two floors of this characterful Victorian terrace. This property has modern separate kitchen, a 15ft x 16ft reception room and two well proportioned bedrooms.<br><br>Highgate Road within a quarter of a mile of Hampstead Heath and close to the independent shops, pubs, restaurants and transport links in Tufnell Park, Gospel Oak and Kentish Town.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedrooms",
+                "Recently Refurbished",
+                "Split-Level",
+                "Close to Hampstead Heath",
+                "Private Entrance",
+                "Great Transport Links"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "72480a2824cdcf13164c7685b9a74b3f1269e8ce.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "52c11028cbc5633c65d5b3ce3c66eb6338e61c75.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d24a175703feb23bae62661a5d76954c220b30c1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1cb409654e6378e2555e502e8fb8c0909d599b47.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e6765ecc41b1577ace50de2ef8aa3612f9b44c23.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "53535a0e02318718f685e0b9d699b6083d124ddf.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16742,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Dartmouth Park",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Highgate Road, London NW5",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1LE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60193287,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "NW5",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 536788
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Highgate Road, London NW5 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Highgate Road, London NW5, selling for \u00a3650,000 from Dexters - Dartmouth Park. See property details on Zoopla or browse all our range of properties in Highgate Road, London NW5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60193287/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.556112,
+                "longitude": -0.146214
+            }
+        },
+        "displayAddress": "Highgate Road, London NW5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-15T17:01:25",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2010-12-03",
+                "newBuild": false,
+                "price": 410000,
+                "priceLabel": "\u00a3410,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 82
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/72480a2824cdcf13164c7685b9a74b3f1269e8ce.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60193287,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "742943DE-84F5-11EC-97DD-6EE00D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW5",
+            "areaNameUri": "london/nw5/kentish-town",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2695.333333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 617465,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 627994,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10529
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 647496,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -30031
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 676584,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -59119
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 638351,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -20886
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 440754,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 176711
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 393383,
+                    "pctChangeSince": 56.963,
+                    "date": "2007-02-26",
+                    "changeSince": 224082
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 232309,
+                    "pctChangeSince": 165.795,
+                    "date": "2002-02-26",
+                    "changeSince": 385156
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 654154,
+                    "newBuilds": 0,
+                    "numSales": 106
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 621456,
+                    "newBuilds": 3,
+                    "numSales": 300
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 619111,
+                    "newBuilds": 28,
+                    "numSales": 567
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 614410,
+                    "newBuilds": 49,
+                    "numSales": 901
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-21T00:00:00Z",
+                    "price": 620000,
+                    "propertyId": 17230914,
+                    "streetAddress": "1 Highgate Road",
+                    "uri": "1-highgate-road/london/nw5-1jy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 900000,
+                    "propertyId": 28762953,
+                    "streetAddress": "112 Highgate Road",
+                    "uri": "112-highgate-road/london/nw5-1pb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 1415000,
+                    "propertyId": 17231308,
+                    "streetAddress": "104 Highgate Road",
+                    "uri": "104-highgate-road/london/nw5-1pb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-29T00:00:00Z",
+                    "price": 721000,
+                    "propertyId": 29453880,
+                    "streetAddress": "Flat 6, Grove View Apartments, Highgate Road",
+                    "uri": "flat-6/grove-view-apartments/highgate-road/london/nw5-1be"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-30T00:00:00Z",
+                    "price": 335000,
+                    "propertyId": 31081011,
+                    "streetAddress": "First Floor Flat, 118 Highgate Road",
+                    "uri": "first-floor-flat/118-highgate-road/london/nw5-1pb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 747500,
+                    "propertyId": 17233531,
+                    "streetAddress": "31a Gaisford Street",
+                    "uri": "31a-gaisford-street/london/nw5-2eb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 1025000,
+                    "propertyId": 27354983,
+                    "streetAddress": "First And Second Floor Flat, 8 Burghley Road",
+                    "uri": "first-and-second-floor-flat/8-burghley-road/london/nw5-1ue"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-10T00:00:00Z",
+                    "price": 1150000,
+                    "propertyId": 17240579,
+                    "streetAddress": "50 Coity Road",
+                    "uri": "50-coity-road/london/nw5-4ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 27471767,
+                    "streetAddress": "90b Caversham Road",
+                    "uri": "90b-caversham-road/london/nw5-2dn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-01T00:00:00Z",
+                    "price": 1330000,
+                    "propertyId": 17235128,
+                    "streetAddress": "177 Leighton Road",
+                    "uri": "177-leighton-road/london/nw5-2rd"
+                }
+            ]
+        }
+    }
+}

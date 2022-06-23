@@ -1,0 +1,530 @@
+{
+    "address": "Doric Way, Euston, London NW1",
+    "price": "\u00a3560,000",
+    "beds": "2 beds",
+    "area": "653 sq. ft",
+    "sqm": 60.67,
+    "sqft": 653.0,
+    "text": "Doric Way\nApprox. Gross Internal Area 653 Sq Ft - 60.67 Sq M\nSSN (x\ni Reception/\nDining Room/\nKitchen\n24'6\" x 14'6\"\nTAT x 4.42m \\\\\nL Bedroom\n1 6'6\" xX 8'3\"\n5.03 x 2.51m\nOO\n\\ O S)\nea Bedroom\n11'10\" x 10'6\"\nAss}\nGround Floor\nFor Illustration Purposes Only - Not To Scale\nThis floor plan should be used as a general outline for guidance only and does not constitute in whole or in part an offer or contract.\nAny intending purchaser or lessee should satisfy themselves by inspection, searches, enquiries and full survey as to the correctness of each statement.\nAny areas, measurements or distances quoted are approximate and should not be used to value a property or be the basis of any sale or let.\n",
+    "image": "./extracted_images/55677676.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/55677676/",
+    "listing_no": "55677676",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.529545,
+        "longitude": -0.13104
+    },
+    "first_published": "2022-01-14T16:52:16",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "55677676",
+        "publishedOn": "2022-01-14T16:52:16",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 42033,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(302479).png",
+            "branchName": "Fyfe Mcdade Ltd",
+            "brandName": "Fyfe Mcdade Ltd",
+            "chainFree": false,
+            "companyId": 1410,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Doric Way, Euston, London NW1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1LX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 55677676,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "NW1",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 560000,
+            "price": 560000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "653",
+            "tenure": null,
+            "zindex": 594419
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/fyfe-mcdade-ltd-42033/",
+            "branchId": "42033",
+            "branchResultsUri": "/for-sale/branch/fyfe-mcdade-ltd-42033/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(302479).png",
+            "phone": "020 8022 2838",
+            "name": "Fyfe Mcdade Ltd",
+            "memberType": "agent",
+            "address": "56 Marchmont Street, Bloomsbury",
+            "postcode": "WC1N 1AB"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Maria Fidelis Roman Catholic Convent School FCJ",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Euston",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Aloysius Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "London Euston",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "b15bf696e14b4e6c6db4edb8c9501d43c055cf70.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A modern and well proportioned two double bedroom apartment occupying the raised ground floor of this converted former public house, minutes from Euston and Kings Cross stations, NW1.<br><br>Comprising two generous double bedrooms, a contemporary bathroom suite and open plan living space with integrated kitchen suite, the property benefits from plenty of natural light, double glazing, high ceilings, hallway storage, a small balcony at the rear and wood flooring throughout.<br><br>It is an ideal purchase for the rental market, close to many of London's key central London universities. Equally, a good prospect for anyone seeking a well presented and light property, close to the key central transport hubs of Euston or St Pancras International. Bloomsbury and its surrounding neighbourhoods in Islington, Camden and the West End are all also within easy reach.<br><br>Asking price is inclusive of the entire furnishing inventory mostly purchased from ikea.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two generous double bedrooms",
+                "Newly refurbished bathroom",
+                "Open-plan kitchen / reception",
+                "Small balconette",
+                "Double glazed and wooden floors throughout",
+                "High Ceilings",
+                "Close to Euston and St Pancras International transport hubs",
+                "Close to Bloomsbury, Camden and the West End",
+                "Asking price inclusive of current ikea furnishing inventory"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "079df0a871b8710f3ea83c74967a2b7c7c5c35cc.gif",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "aebe1b0cd238007378da91cfbccaa89ce76223f6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d8ba6a1f63b63d3330529b92e673bce408d0a0b8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "61c1c5d42c0335a66d6d69eb4251340f5421e26d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "94ca5bca5fa7869475f95c70218b20c7485e04be.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "524dcee7ac9544f58a4e9dc96ad9cafd8695452a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "acb38116c944c28bae6b3c31152ae9c6f6af976b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7a3f7b4941816416ff799154c0fd5b980e789990.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0b536178c9a6f53c68b8b2e3ae04505d48eaaf01.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ac5a425e1dd1c17f5b86385330f7e4f800c516ae.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8b58cd5cb7e00a9463a4313577831713b194c2e0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "892d64416434611c42b467ce739c71d2f14a3087.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bf3d3413106b5a902eded778759f968575bdcdbc.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fc823fd5a79d8f0b0ac43d24da4a015beaf8da6d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "32e80a964f185c2dfdfeec8e4c7314fdd5164f24.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 42033,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(302479).png",
+            "branchName": "Fyfe Mcdade Ltd",
+            "brandName": "Fyfe Mcdade Ltd",
+            "chainFree": false,
+            "companyId": 1410,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Doric Way, Euston, London NW1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1LX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 55677676,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "NW1",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 560000,
+            "price": 560000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "653",
+            "tenure": null,
+            "zindex": 594419
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Doric Way, Euston, London NW1 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Doric Way, Euston, London NW1, selling for \u00a3560,000 from Fyfe Mcdade Ltd. See property details on Zoopla or browse all our range of properties in Doric Way, Euston, London NW1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/55677676/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.529545,
+                "longitude": -0.13104
+            }
+        },
+        "displayAddress": "Doric Way, Euston, London NW1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-14T16:52:16",
+                "priceLabel": "\u00a3585,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.3",
+                    "priceChangeDate": "2022-02-18T09:30:20",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3560,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 157
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/079df0a871b8710f3ea83c74967a2b7c7c5c35cc.gif"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 653
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3560,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 858,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Fyfe Mcdade Ltd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 55677676,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "DAF75930-909D-11EC-8EB0-FD2D0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW1",
+            "areaNameUri": "london/nw1/camden-town-regents-park-marylebone-north",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3941.150966183574
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 815424,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 829329,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -13905
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 855084,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -39660
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 893498,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -78074
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 843010,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -27586
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 582063,
+                    "pctChangeSince": 40.092,
+                    "date": "2012-02-26",
+                    "changeSince": 233361
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 519505,
+                    "pctChangeSince": 56.962,
+                    "date": "2007-02-26",
+                    "changeSince": 295919
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 306789,
+                    "pctChangeSince": 165.793,
+                    "date": "2002-02-26",
+                    "changeSince": 508635
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 806589,
+                    "newBuilds": 2,
+                    "numSales": 186
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 802564,
+                    "newBuilds": 23,
+                    "numSales": 542
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 828329,
+                    "newBuilds": 49,
+                    "numSales": 1060
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 823430,
+                    "newBuilds": 144,
+                    "numSales": 1790
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 1321000,
+                    "propertyId": 17172934,
+                    "streetAddress": "2 Hadley Street",
+                    "uri": "2-hadley-street/london/nw1-8ss"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 1650000,
+                    "propertyId": 17168589,
+                    "streetAddress": "Flat 11, 36 Jamestown Road",
+                    "uri": "flat-11/36-jamestown-road/london/nw1-7by"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 463000,
+                    "propertyId": 27368036,
+                    "streetAddress": "Second Floor Flat, 7 Agar Grove",
+                    "uri": "second-floor-flat/7-agar-grove/london/nw1-9sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-16T00:00:00Z",
+                    "price": 2100000,
+                    "propertyId": 17167011,
+                    "streetAddress": "33 Harewood Avenue",
+                    "uri": "33-harewood-avenue/london/nw1-6le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 1250000,
+                    "propertyId": 17160575,
+                    "streetAddress": "Flat 21, 23 William Road",
+                    "uri": "flat-21/23-william-road/london/nw1-3eu"
+                }
+            ]
+        }
+    }
+}

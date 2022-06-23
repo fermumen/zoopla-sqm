@@ -1,0 +1,537 @@
+{
+    "address": "George Street, London W1H",
+    "price": "\u00a3620,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 52.5,
+    "sqft": 565.0,
+    "text": "i\nMASTER \\ |\nBEDROOM ? BEDROOM 2 \u00a9\n120x97 11'7 x 9'3\n3.66m x 2.92m 3.53m x 2.82m |\n|\nN> J =\n5\nfin @\nO a. Pre\nNU \u201ch =\nN\n\\ i\n4 RECEPTION ROOM\n1511 x 8'2\n4.60m x 2.49m\nLOWER GROUND FLOOR\n565 SQ FT /52.5SQM\n",
+    "image": "./extracted_images/60262976.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60262976/",
+    "listing_no": "60262976",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.516484,
+        "longitude": -0.163114
+    },
+    "first_published": "2021-11-24T18:30:58",
+    "last_sale_date": "2017-06-07",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60262976",
+        "publishedOn": "2021-11-24T18:30:58",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 86041,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(712993).png",
+            "branchName": "Lets Talk Property",
+            "brandName": "Lets Talk Property",
+            "chainFree": false,
+            "companyId": 54556,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "George Street, London W1H",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "5LF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60262976,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "W1H",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 620000,
+            "price": 620000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 1226170
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/lets-talk-property-london-86041/",
+            "branchId": "86041",
+            "branchResultsUri": "/for-sale/branch/lets-talk-property-london-86041/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(712993).png",
+            "phone": "020 8115 8337",
+            "name": "Lets Talk Property",
+            "memberType": "agent",
+            "address": "28A Queensway, London",
+            "postcode": "W2 3RX"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hampden Gurney CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Sylvia Young Theatre School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Marble Arch",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Edgware Road Circle",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Let's Talk Property are proud to present this bright and spacious 2 bedroom flat situated within a fantastic building offers modern interiors and benefits from a lift and porter services.<br><br>With Marble Arch, Oxford Street and Park Lane just moments to the south, George Street, the property is conveniently located close to a wide range of local shops, bars and restaurants along the adjacent Edgware Road.&lt;br /&gt;&lt;br /&gt;",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "0574af6ff850c57b55a06d77749b3f4ccfc15bc1.png",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "80ecb5d4d959a9857c73d0b8b18e35c8ba2debdb.jpg",
+                "caption": "Picture No. 01"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c4fd63377d676e79edc2808f2a5a7d55f1af729f.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0b55d1f135313a95d36ad5eb76d688be045c7b5c.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "32a691ad6bf00e67cec6cd769e284f5f653a69db.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f2274e974d53d440924712b7d49a5e58e1dfa4e0.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fc90ff94f22f45724d532f3e79287030cd142af5.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8dd8b7ecd215b3705afc8b5fc75743c2c9b8c6d6.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3a89eafb36d24c20e480b520c7d288332eed4c56.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a12abf0c3caf3fe2fa9216e6083eeac7e60e2cad.jpg",
+                "caption": "Picture No. 07"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 86041,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(712993).png",
+            "branchName": "Lets Talk Property",
+            "brandName": "Lets Talk Property",
+            "chainFree": false,
+            "companyId": 54556,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "George Street, London W1H",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "5LF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60262976,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "W1H",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 620000,
+            "price": 620000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 1226170
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in George Street, London W1H - Zoopla",
+        "metaDescription": "2 bed flat for sale in George Street, London W1H, selling for \u00a3620,000 from Lets Talk Property. See property details on Zoopla or browse all our range of properties in George Street, London W1H.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60262976/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.516484,
+                "longitude": -0.163114
+            }
+        },
+        "displayAddress": "George Street, London W1H",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-24T18:30:58",
+                "priceLabel": "\u00a3649,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2017-06-07",
+                "newBuild": false,
+                "price": 598000,
+                "priceLabel": "\u00a3598,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "2.9",
+                    "priceChangeDate": "2021-12-01T15:39:09",
+                    "priceChangeLabel": "\u00a319,000",
+                    "priceLabel": "\u00a3630,000"
+                },
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "1.6",
+                    "priceChangeDate": "2022-01-19T13:57:09",
+                    "priceChangeLabel": "\u00a310,000",
+                    "priceLabel": "\u00a3620,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 50
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/0574af6ff850c57b55a06d77749b3f4ccfc15bc1.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3620,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Lets Talk Property",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60262976,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "FB2AFCBE-792F-11EC-B114-B1120E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W1H",
+            "areaNameUri": "w1h",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3794.3950617283963
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 1473266,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 1497179,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -23913
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 1541452,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -68186
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1624861,
+                    "pctChangeSince": -9.33,
+                    "date": "2021-02-26",
+                    "changeSince": -151595
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1612160,
+                    "pctChangeSince": -8.615,
+                    "date": "2017-02-26",
+                    "changeSince": -138894
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 1073867,
+                    "pctChangeSince": 37.193,
+                    "date": "2012-02-26",
+                    "changeSince": 399399
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 957656,
+                    "pctChangeSince": 53.841,
+                    "date": "2007-02-26",
+                    "changeSince": 515610
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 567570,
+                    "pctChangeSince": 159.574,
+                    "date": "2002-02-26",
+                    "changeSince": 905696
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 2500000,
+                    "propertyId": 24990248,
+                    "streetAddress": "59, Portman Towers, George Street",
+                    "uri": "59/portman-towers/george-street/london/w1h-7hw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-03T00:00:00Z",
+                    "price": 1575000,
+                    "propertyId": 24990110,
+                    "streetAddress": "Flat 55, Bryanston Court, George Street",
+                    "uri": "flat-55/bryanston-court/george-street/london/w1h-7hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-14T00:00:00Z",
+                    "price": 2280000,
+                    "propertyId": 29496384,
+                    "streetAddress": "Apartment 7, 55 George Street",
+                    "uri": "apartment-7/55-george-street/london/w1u-8au"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-15T00:00:00Z",
+                    "price": 775000,
+                    "propertyId": 24990162,
+                    "streetAddress": "Flat 120, Bryanston Court, George Street",
+                    "uri": "flat-120/bryanston-court/george-street/london/w1h-7he"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-26T00:00:00Z",
+                    "price": 1475000,
+                    "propertyId": 24990117,
+                    "streetAddress": "Flat 62, Bryanston Court, George Street",
+                    "uri": "flat-62/bryanston-court/george-street/london/w1h-7hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 2750000,
+                    "propertyId": 24987751,
+                    "streetAddress": "10 Beverston Mews",
+                    "uri": "10-beverston-mews/london/w1h-2bz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 1950000,
+                    "propertyId": 24989594,
+                    "streetAddress": "6 Seymour Mews",
+                    "uri": "6-seymour-mews/london/w1h-6be"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 2500000,
+                    "propertyId": 24990248,
+                    "streetAddress": "59, Portman Towers, George Street",
+                    "uri": "59/portman-towers/george-street/london/w1h-7hw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 1975000,
+                    "propertyId": 27222399,
+                    "streetAddress": "Flat 5, 4 Bryanston Square",
+                    "uri": "flat-5/4-bryanston-square/london/w1h-2dh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-20T00:00:00Z",
+                    "price": 1750000,
+                    "propertyId": 27248328,
+                    "streetAddress": "Flat 5, 3 Bryanston Square",
+                    "uri": "flat-5/3-bryanston-square/london/w1h-2dh"
+                }
+            ]
+        }
+    }
+}

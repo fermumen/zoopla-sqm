@@ -1,0 +1,514 @@
+{
+    "address": "161 Northcote Road, Battersea, London SW11",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60637357/",
+    "listing_no": "60637357",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.454548,
+        "longitude": -0.164101
+    },
+    "first_published": "2022-01-28T18:53:10",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60637357",
+        "publishedOn": "2022-01-28T18:53:10",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 35875,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592083).png",
+            "branchName": "Allsop LLP",
+            "brandName": "Allsop LLP",
+            "chainFree": false,
+            "companyId": 16819,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "161 Northcote Road, Battersea, London SW11",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "6QE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60637357,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SW11",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/allsop-llp-london-35875/",
+            "branchId": "35875",
+            "branchResultsUri": "/for-sale/branch/allsop-llp-london-35875/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592083).png",
+            "phone": "020 3641 1750",
+            "name": "Allsop LLP",
+            "memberType": "agent",
+            "address": "33 Wigmore Street, West End, London",
+            "postcode": "W1U 1BZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Honeywell Infant School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Honeywell Junior School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Common",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham South",
+                "type": "london_underground_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Key Features<ul><li>Lot 97 for sale</li><li><em>To view the property or see a virtual tour please refer to the full sales particulars on the auctioneers website</em></li><li>Raised Ground Floor - Reception Room, Kitchen</li><li>Lower Ground Floor - Two Bedrooms, Bathroom with wash basin, Separate WC</li><li>New 125 Year Lease</li><li>Gia approximately 70.03 sq m (754 sq ft)</li><li>Clapham Junction Rail Station is to the north</li><li>Virtual Tour available below</li><li>Popular Residential Area known locally as \"Between The Commons\"</li></ul><br>Key Locations<ul><li>Situated on the east side of Northcote Road, to the north of its junction with Honeywell Road in a popular and well established residential area known locally as \"Between The Commons\"</li><li>Good local amenities are available along Northcote Road itself, including its popular weekend street market. The further amenities along Battersea Rise and St Johns Road are accessible</li><li>Rail services run from Clapham Junction station. The nearest Underground station is Clapham South</li><li>The A3 and A205 (South Circular Road) are nearby</li><li>Both Wandsworth Common and Clapham Common are within easy access</li></ul><br>Additional Information<ul><li>The Vendor will not accept offers prior to auction</li></ul><br>Viewings<ul><li>The property will be open for viewing every Thursday and Saturday before the auction between 10:45 - 11:15 a.m. These are open viewing times with no need to register. Please note the first viewings for the catalogue will commence 1st February.<br><br>It is strongly encouraged that all viewers have appropriate ppe (mask and gloves) when viewing the property. If you are showing any Coronavirus symptoms then you will not be allowed to view the property.<br><br>If you cannot attend the viewing you are advised to view the images and any available virtual tour on our website before bidding.</li></ul>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "df64663d6a4a3909f1c47c26cafb63f7a8f2b647.jpg",
+                "caption": "Img_4408.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "93caccca33efc560a6c475cea6fb55135f3f60d7.jpg",
+                "caption": "8489827.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a0f8b876105ea8570c4fe7af1eb7a72e9f5d715a.jpg",
+                "caption": "Dsc00083.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3ddcb1e65b32402ae67223967469ba832cdf13c3.jpg",
+                "caption": "Dsc00088.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8c73b0f88e0047a334401c6961c3a60849f66582.jpg",
+                "caption": "Dsc00085.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0a9bd55b5287875714b1e675b208528cc2177cf6.jpg",
+                "caption": "Dsc00084.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3758aad933f7691e1beea911a7a1adf8f4b62955.jpg",
+                "caption": "Dsc00087.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3d2961319b2b9e260721ed4ca842efb9c4bdc4e2.jpg",
+                "caption": "Dsc00089.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fa353a38bed77050f57c4e88702fcf9f7202abda.jpg",
+                "caption": "Img_4411.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3682139deca7fb5f84321bd40c8e049228bcbcd9.jpg",
+                "caption": "0582.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 35875,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592083).png",
+            "branchName": "Allsop LLP",
+            "brandName": "Allsop LLP",
+            "chainFree": false,
+            "companyId": 16819,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "161 Northcote Road, Battersea, London SW11",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "6QE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60637357,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SW11",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in 161 Northcote Road, Battersea, London SW11 - Zoopla",
+        "metaDescription": "2 bed flat for sale in 161 Northcote Road, Battersea, London SW11, selling for \u00a3600,000 from Allsop LLP. See property details on Zoopla or browse all our range of properties in 161 Northcote Road, Battersea, London SW11.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60637357/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.454548,
+                "longitude": -0.164101
+            }
+        },
+        "displayAddress": "161 Northcote Road, Battersea, London SW11",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-28T18:53:10",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": false,
+                    "isPriceIncrease": true,
+                    "percentageChangeLabel": "4.3",
+                    "priceChangeDate": "2022-02-11T14:47:28",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 375
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": true,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Allsop LLP",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60637357,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "C35B7408-8FCD-11EC-B586-E1E40D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW11",
+            "areaNameUri": "london/sw11/battersea-clapham-junction",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3456.430188679247
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 605712,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 608703,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2991
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 609090,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3378
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 634498,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -28786
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 614807,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -9095
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 423830,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 181882
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 387172,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 218540
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 235888,
+                    "pctChangeSince": 156.779,
+                    "date": "2002-02-26",
+                    "changeSince": 369824
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 643914,
+                    "newBuilds": 10,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 705554,
+                    "newBuilds": 107,
+                    "numSales": 1293
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 717890,
+                    "newBuilds": 556,
+                    "numSales": 2803
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 702089,
+                    "newBuilds": 925,
+                    "numSales": 4447
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-24T00:00:00Z",
+                    "price": 840000,
+                    "propertyId": 23265802,
+                    "streetAddress": "96a Northcote Road",
+                    "uri": "96a-northcote-road/london/sw11-6qw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-24T00:00:00Z",
+                    "price": 352500,
+                    "propertyId": 23265995,
+                    "streetAddress": "Flat 12, Staplehurst Court, 156 Northcote Road",
+                    "uri": "flat-12/staplehurst-court/156-northcote-road/london/sw11-6rf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-26T00:00:00Z",
+                    "price": 360000,
+                    "propertyId": 23265990,
+                    "streetAddress": "Flat 4, 174 Northcote Road",
+                    "uri": "flat-4/174-northcote-road/london/sw11-6re"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-14T00:00:00Z",
+                    "price": 300000,
+                    "propertyId": 23265724,
+                    "streetAddress": "88a Northcote Road",
+                    "uri": "88a-northcote-road/london/sw11-6qn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-04T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 23238079,
+                    "streetAddress": "41c Northcote Road",
+                    "uri": "41c-northcote-road/london/sw11-1nj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 635000,
+                    "propertyId": 23256020,
+                    "streetAddress": "Flat 2, 4 Knowsley Road",
+                    "uri": "flat-2/4-knowsley-road/london/sw11-5bl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 680000,
+                    "propertyId": 27160591,
+                    "streetAddress": "Ground Floor Flat, 10 Glycena Road",
+                    "uri": "ground-floor-flat/10-glycena-road/london/sw11-5tr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 23247548,
+                    "streetAddress": "Flat 54, Lindsay Court, Battersea High Street",
+                    "uri": "flat-54/lindsay-court/battersea-high-street/london/sw11-3hz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 338000,
+                    "propertyId": 23257501,
+                    "streetAddress": "Flat 16, Rawson Court, Rawson Street",
+                    "uri": "flat-16/rawson-court/rawson-street/london/sw11-5hj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 985000,
+                    "propertyId": 23258681,
+                    "streetAddress": "15 Kingsley Street",
+                    "uri": "15-kingsley-street/london/sw11-5ld"
+                }
+            ]
+        }
+    }
+}

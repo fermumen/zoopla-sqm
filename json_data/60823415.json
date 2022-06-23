@@ -1,0 +1,498 @@
+{
+    "address": "Berrymead Gardens, London W3",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 84.0,
+    "sqft": 903.0,
+    "text": "First Floor\n=\ney =\nKitchen cE\n4.18mx3.09m |2'\n(13'9\" x 10'2\")\nme hi )\n~ E:\nLI\nGround Floor\nA) | Second Floor\nNy,\nSs \\) a\n= = ]\n\u2018i \u201c4 Bedroom\n= > 3.64m x 3.06m \u2014\n(11\u00b011\" x 10\u00b0) |\na\n| FY Bedroom\nEL | J | \\ 5.42m x 3.64m\na \\ Vv ) (17'9\" x 11'11\")\n\\ y F | q\nReception OL S\nRoom i \u2014_\u2014\n3.63m x 4.84m :\n(1'14\" x 15\u00b010\") Eaves\npee\nTotal area: approx. 84.0 sq. metres (903.8 sq. feet)\n",
+    "image": "./extracted_images/60823415.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60823415/",
+    "listing_no": "60823415",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.506046,
+        "longitude": -0.268724
+    },
+    "first_published": "2022-02-22T15:10:50",
+    "last_sale_date": "2014-06-30",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60823415",
+        "publishedOn": "2022-02-22T15:10:50",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/4e99aafc28f648772a794136768122973c5e44a6.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 46896,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(561676).png",
+            "branchName": "Robertson Smith & Kempson - Acton",
+            "brandName": "Robertson Smith & Kempson",
+            "chainFree": false,
+            "companyId": 3287,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Berrymead Gardens, London W3",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8AA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60823415,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 547291
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/robertson-smith-and-kempson-acton-london-46896/",
+            "branchId": "46896",
+            "branchResultsUri": "/for-sale/branch/robertson-smith-and-kempson-acton-london-46896/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(561676).png",
+            "phone": "020 8896 3996",
+            "name": "Robertson Smith & Kempson - Acton",
+            "memberType": "agent",
+            "address": "137 High Street, Acton, London",
+            "postcode": "W3 6LY"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ark Byron Primary Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ark Priory Primary Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Acton Central",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "South Acton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "b82406f0932947b2322fe3c9cc2233f821b10533.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A split-level two double bedroom period conversion located in the heart of Acton. The property is in excellent condition throughout and offers in excess of 900 sq.ft of accommodation.<br><br>Located just off the High Street and within half a mile of Acton Town, Acton Central and South Acton stations offering excellent access into town.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedrooms",
+                "Two Bathrooms",
+                "Split Level",
+                "Period Conversion",
+                "Central Location",
+                "Excellent Condition"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "645a5f0cd79c8a487120964e43e2749b4ca92847.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "21d4406aa5228a7f883162a761c15419e054d9f5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "115e474f2d8ac1edd55080e071593c9049c0aaae.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ae0e3f56af714cee5c5e667b77ccdc728300e02c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9ff99d33ad52b0ebe727ef17383a502cc0425564.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bfd3d79543e5cda6c4d2dd25cedfa55ccf2fd55b.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 46896,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(561676).png",
+            "branchName": "Robertson Smith & Kempson - Acton",
+            "brandName": "Robertson Smith & Kempson",
+            "chainFree": false,
+            "companyId": 3287,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Berrymead Gardens, London W3",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8AA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60823415,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 547291
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Berrymead Gardens, London W3 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Berrymead Gardens, London W3, selling for \u00a3575,000 from Robertson Smith & Kempson - Acton. See property details on Zoopla or browse all our range of properties in Berrymead Gardens, London W3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60823415/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.506046,
+                "longitude": -0.268724
+            }
+        },
+        "displayAddress": "Berrymead Gardens, London W3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-22T15:10:50",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2014-06-30",
+                "newBuild": false,
+                "price": 575000,
+                "priceLabel": "\u00a3575,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 62
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/645a5f0cd79c8a487120964e43e2749b4ca92847.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Robertson Smith & Kempson",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60823415,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "9F2C80CC-93F1-11EC-BA5A-A9CF0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W3",
+            "areaNameUri": "london/w3/acton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1956.199999999999
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 404918,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 411489,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -6571
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 423656,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -18738
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 446579,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -41661
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 443072,
+                    "pctChangeSince": -8.611,
+                    "date": "2017-02-26",
+                    "changeSince": -38154
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 295132,
+                    "pctChangeSince": 37.199,
+                    "date": "2012-02-26",
+                    "changeSince": 109786
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 263193,
+                    "pctChangeSince": 53.848,
+                    "date": "2007-02-26",
+                    "changeSince": 141725
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 155985,
+                    "pctChangeSince": 159.588,
+                    "date": "2002-02-26",
+                    "changeSince": 248933
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 435683,
+                    "newBuilds": 0,
+                    "numSales": 146
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 422801,
+                    "newBuilds": 39,
+                    "numSales": 486
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 426404,
+                    "newBuilds": 119,
+                    "numSales": 1029
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 427267,
+                    "newBuilds": 208,
+                    "numSales": 1779
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 605000,
+                    "propertyId": 25030290,
+                    "streetAddress": "48 Berrymead Gardens",
+                    "uri": "48-berrymead-gardens/london/w3-8ab"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-28T00:00:00Z",
+                    "price": 406500,
+                    "propertyId": 27280140,
+                    "streetAddress": "16b Berrymead Gardens",
+                    "uri": "16b-berrymead-gardens/london/w3-8aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 827500,
+                    "propertyId": 25020302,
+                    "streetAddress": "72 Princes Gardens",
+                    "uri": "72-princes-gardens/london/w3-0lq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 910000,
+                    "propertyId": 25022231,
+                    "streetAddress": "24 Stuart Road",
+                    "uri": "24-stuart-road/london/w3-6dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 830000,
+                    "propertyId": 25034544,
+                    "streetAddress": "14 Gunnersbury Crescent",
+                    "uri": "14-gunnersbury-crescent/london/w3-9aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 840000,
+                    "propertyId": 25020344,
+                    "streetAddress": "139 Princes Gardens",
+                    "uri": "139-princes-gardens/london/w3-0ls"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 315000,
+                    "propertyId": 25027951,
+                    "streetAddress": "33 Larch Avenue",
+                    "uri": "33-larch-avenue/london/w3-7lh"
+                }
+            ]
+        }
+    }
+}

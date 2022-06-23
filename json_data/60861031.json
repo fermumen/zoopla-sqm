@@ -1,0 +1,549 @@
+{
+    "address": "Hennel Close, Forest Hill, London SE23",
+    "price": "\u00a3625,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "Garden\n\n9.46 x 4.54m\n\n31'0\"x 14'11\"\n\nBedroom\n\nLounge/Diner\n\nBedroom\n\n4.51x4.31m\n\n2.77 x 1.68m\n\n4.31 x 2.72m\n\n1410\" x 14'2\"\n\n9'1\"x 5'6\"\n\n14'2\" x 8111\"\n\nNN\n\nGarage\n\n4.85 x 2.53m\n\nKitchen\n\n15'11\"x 8'4\"\n\nC7\n\n4.04 x 2.57m\n\n133\" x85\"\n\nBedroom\n\n4.04 x 2.72m\n\nO10)\n\nOto}\n\n13'3\" x 8'11\"\n\njt\n\nBle]\n\n=\n\nGarage\n\nArea: 0.0 m?... 0 ft?\n\nGROUND FLOOR\n\nFIRST FLOOR\n\nTotal Area: 75.4 m? ... 812 ft? (excluding garage)\n\nAll measurements are approximate and for display purposes only\n",
+    "image": "./extracted_images/60861031.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60861031/",
+    "listing_no": "60861031",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.43324,
+        "longitude": -0.052335
+    },
+    "first_published": "2022-02-26T23:37:39",
+    "last_sale_date": "2017-11-02",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60861031",
+        "publishedOn": "2022-02-26T23:37:39",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/f9883007eaa0ab29775edcba866373e496e9974e.pdf",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 36004,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(714197).png",
+            "branchName": "Stanfords, Forest Hill",
+            "brandName": "Robert Stanford Estates",
+            "chainFree": false,
+            "companyId": 16917,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Hennel Close, Forest Hill, London SE23",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2NT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60861031,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SE23",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 420534
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/stanfords-forest-hill-36004/",
+            "branchId": "36004",
+            "branchResultsUri": "/for-sale/branch/stanfords-forest-hill-36004/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(714197).png",
+            "phone": "020 3551 9699",
+            "name": "Stanfords, Forest Hill",
+            "memberType": "agent",
+            "address": "2a Dartmouth Road",
+            "postcode": "SE23 3XU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Bartholomews's Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Forest Hill School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Forest Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Sydenham (London)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "e3a6ca9760d7ceda5df9b6b774d0a36f9854f186.png",
+                    "url": null
+                }
+            ],
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "original": "https://lc.zoocdn.com/49fe29c0d4a015d3bd7184a9f0114952906e44dc.pdf"
+                }
+            ]
+        },
+        "detailedDescription": "This superb terraced family home is situated on a quiet residential close located equidistant (0.5mi) to Forest Hill and Sydenham town centers. The properties on Hennel Close benefit from a communal green that is used as a play space for the local children and ample parking is also available. Additionally, access to Dacres Wood, a beautiful nature reserve, is just a stone's throw away.<br><br>The house has been tastefully modernised and o?ers just over 800sq ft of internal space and comprises; 2 double bedrooms, a generous single bedroom, family bathroom, fitted kitchen, downstairs WC, and a spacious lounge/dining area with trifold doors leading to the patio and garden.<br><br>The property is conveniently located between Forest Hill and Sydenham town centre which both offer a selection of independent shops, coffee houses, restaurants and excellent transport connections.<br><strong>First floor<br><br>WC</strong><br><br>1.68m x 0.9m (5' 6\" x 2' 11\")<br>Spotlights, window, sink, radiator, WC, laminate flooring.<br><strong>Kitchen</strong><br><br>4.04m x 2.57m (13' 3\" x 8' 5\")<br>Spotlights, matching wall and base units, window, hardwood worksurfaces, electric oven, gas hob with overhead extractor, stainless steel sink, radiator, laminate flooring.<br><strong>Lounge/diner</strong><br><br>4.51m x 4.31m (14' 10\" x 14' 2\")<br>Spotlights, trifold doors to garden, under stairs storage, radiator, laminate flooring.<br><strong>First floor<br><br>bedroom</strong><br><br>4.04m x 2.72m (13' 3\" x 8' 11\")<br>Pendant light, double glazed window, radiator, TV access point, fitted carpet.<br><strong>Bathroom</strong><br><br>2.11m x 1.68m (6' 11\" x 5' 6\")<br>Spotlights, frosted double glazed window, rainfall showerhead over bathtub, glass divider, vanity sink unit, heated towel rail, WC, tiled flooring.<br><strong>Bedroom</strong><br><br>4.31m x 2.72m (14' 2\" x 8' 11\")<br>Pendant light, double glazed window, built-in storage cupboards, radiator, TV access point, fitted carpet.<br><strong>Bedroom</strong><br><br>2.77m x 1.68m (9' 1\" x 5' 6\")<br>Pendant light, double glazed window, radiator, TV access point, fitted carpet.<br><strong>Loft</strong><br><br>Boarded loft space with LED lighting.<br><strong>Garden<br><br>garden</strong><br><br>Patioed dining area, well maintained lawn, raised flowerbeds, gravelled seating area, solid brick shed, gated rear access connected to Hennel Close.<br><strong>Garage</strong><br><br>2.53m x 4.85m (8' 4\" x 15' 11\")<br>Single garage.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "0.5mi to Forest Hill &amp; Sydenham Stations",
+                "Approximately 800 sqft",
+                "External Garage",
+                "Bi fold doors to garden",
+                "Downstairs WC",
+                "Over 800 sq ft"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "163799db4db43626067b79c430ec0f9057353376.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "40ca609043b2efb56ac25516bf0f75eab322ef9f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4f61b4251035b494da1ff1214ca677963202d952.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0edc2b681831658a868016d0a177618cdaf62501.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7f8ab7447ea2d5c8ddf66126a33ec27a4440f018.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a90634b525d28c77cf3d46dfe83fcfdabd5a6c5d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "eb096fa202b9a7d7da211589304010cf978d12d4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d79417b9c04fb78507483693590d2b828896623e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7b739d2e3568dff86193a93a0dfb01e5099b2a8b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "99f53a15c63ad6a25b7313a7faf21e0683b1d6f5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fd7fa0b8a261750871bb9860723022ea6623f4e9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1131f8566239450c2ac232725f573b4a9192d49f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "96c5069c414f0174fae5530826646a9b9e211792.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "995fa4b7d5a13f18009e285739fc7b5ed9a9840d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "47ffddb07b4767f141fef2ed4a38a6391284aca2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cc7f6553c176d9be1bc45302ed7f36b9d93b30b9.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 36004,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(714197).png",
+            "branchName": "Stanfords, Forest Hill",
+            "brandName": "Robert Stanford Estates",
+            "chainFree": false,
+            "companyId": 16917,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Hennel Close, Forest Hill, London SE23",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2NT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60861031,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SE23",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 420534
+        },
+        "title": "3 bed end terrace house for sale",
+        "metaTitle": "3 bed end terrace house for sale in Hennel Close, Forest Hill, London SE23 - Zoopla",
+        "metaDescription": "3 bed end terrace house for sale in Hennel Close, Forest Hill, London SE23, selling for \u00a3625,000 from Stanfords, Forest Hill. See property details on Zoopla or browse all our range of properties in Hennel Close, Forest Hill, London SE23.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60861031/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.43324,
+                "longitude": -0.052335
+            }
+        },
+        "displayAddress": "Hennel Close, Forest Hill, London SE23",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-26T23:37:39",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2017-11-02",
+                "newBuild": false,
+                "price": 482500,
+                "priceLabel": "\u00a3482,500",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 0
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/163799db4db43626067b79c430ec0f9057353376.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Robert Stanford Estates",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60861031,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "168365FA-975D-11EC-8A1E-D3F70D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE23",
+            "areaNameUri": "london/se23/forest-hill",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2100.2222222222235
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 594761,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 601650,
+                    "pctChangeSince": -1.145,
+                    "date": "2021-11-26",
+                    "changeSince": -6889
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 621657,
+                    "pctChangeSince": -4.327,
+                    "date": "2021-08-26",
+                    "changeSince": -26896
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 629235,
+                    "pctChangeSince": -5.479,
+                    "date": "2021-02-26",
+                    "changeSince": -34474
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 566908,
+                    "pctChangeSince": 4.913,
+                    "date": "2017-02-26",
+                    "changeSince": 27853
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 358260,
+                    "pctChangeSince": 66.014,
+                    "date": "2012-02-26",
+                    "changeSince": 236501
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 333483,
+                    "pctChangeSince": 78.348,
+                    "date": "2007-02-26",
+                    "changeSince": 261278
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 204569,
+                    "pctChangeSince": 190.739,
+                    "date": "2002-02-26",
+                    "changeSince": 390192
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 699841,
+                    "newBuilds": 0,
+                    "numSales": 101
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 676936,
+                    "newBuilds": 0,
+                    "numSales": 344
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 662540,
+                    "newBuilds": 0,
+                    "numSales": 579
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 639914,
+                    "newBuilds": 1,
+                    "numSales": 874
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-09T00:00:00Z",
+                    "price": 505000,
+                    "propertyId": 21189790,
+                    "streetAddress": "19 Hennel Close",
+                    "uri": "19-hennel-close/london/se23-2nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 387500,
+                    "propertyId": 21187927,
+                    "streetAddress": "38a Rockbourne Road",
+                    "uri": "38a-rockbourne-road/london/se23-2dd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 420000,
+                    "propertyId": 21194254,
+                    "streetAddress": "Flat 6, Woodelm Court, 123 Devonshire Road",
+                    "uri": "flat-6/woodelm-court/123-devonshire-road/london/se23-3lx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 724200,
+                    "propertyId": 21197300,
+                    "streetAddress": "26 Derby Hill Crescent",
+                    "uri": "26-derby-hill-crescent/london/se23-3yl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 940000,
+                    "propertyId": 21186037,
+                    "streetAddress": "35 Parbury Road",
+                    "uri": "35-parbury-road/london/se23-1nz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 430000,
+                    "propertyId": 21185266,
+                    "streetAddress": "126c Stondon Park",
+                    "uri": "126c-stondon-park/london/se23-1js"
+                }
+            ]
+        }
+    }
+}

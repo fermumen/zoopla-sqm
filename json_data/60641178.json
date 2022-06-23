@@ -1,0 +1,562 @@
+{
+    "address": "Trinity Road, London SW17",
+    "price": "\u00a3580,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 60.4,
+    "sqft": 650.0,
+    "text": "Trinity Road, London, SW17\nA Approximate Area = 634 sq ft / 58.8 sqm\nwAY Shed = 16 sq ft/1.5sqm\nYe \\ Total = 650 sq ft/ 60.4 sqm\nSa For identification only - Not to scale\n[7\nV4\nGarden Shed\nApproximate\n22'7 x 18'10 Z\n(6.88) x (5.74) :\nBedroom\n11'1 x 7'11\n(3.38) x (2.41)\n\u2014\u2014\nt=\nee\na _ Bedroom\n12'5 x 9'8\n(3.78) x (2.95)\n10x46 loo\n(3.05) x (1.37) ine\nReception Room\n16'10 x 12'2\n(5.13) x (3.71)\nGROUND FLOOR\n3 fi Floor plan produced in h RICS Pr M Standard\nOME] Geet | Intemational Property Measurement Slandar\u00e9s (EMS? Residental). Onichecom 2022, @ @\nLa] Measurer Produced for Barnard Marcus. REF: 806129 barnard marcus\n",
+    "image": "./extracted_images/60641178.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60641178/",
+    "listing_no": "60641178",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.441222,
+        "longitude": -0.165873
+    },
+    "first_published": "2022-01-29T15:08:32",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60641178",
+        "publishedOn": "2022-01-29T15:08:32",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "PDF Property Particulars",
+                "original": "https://lc.zoocdn.com/aa9164d33c8da2ac7862c3d81606db71bb7844c8.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.barnardmarcus.co.uk/property/WNW104078",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 884,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - Wandsworth",
+            "brandName": "Barnard Marcus",
+            "chainFree": false,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Trinity Road, London SW17",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7HL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60641178,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW17",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Shared Freehold",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 757040
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/barnard-marcus-wandsworth-wandsworth-884/",
+            "branchId": "884",
+            "branchResultsUri": "/for-sale/branch/barnard-marcus-wandsworth-wandsworth-884/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "phone": "020 8166 7279",
+            "name": "Barnard Marcus - Wandsworth",
+            "memberType": "agent",
+            "address": "31 Bellevue Road, Wandsworth Common, Wandsworth",
+            "postcode": "SW17 7EF"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Finton House School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ernest Bevin College",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Common",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tooting Bec",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=HoFxUeYCbRm"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "00006e1e6be64d29cc60c41482099c96d2cab1e4.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Summary</strong><br>A charming garden flat arranged over the ground floor of an Edwardian period conversion, situated within close proximity of Wandsworth Common.<br><br><strong>Description</strong><br>A charming garden flat arranged over the ground floor of an Edwardian period conversion, situated within close proximity of Wandsworth Common.<br><br>This stylish property comprises two double bedrooms, a semi open plan reception room with a bay window and plantation shutters, while the kitchen benefits from integrated appliances and a sleek finish. There is also a modern three-piece bathroom and a rear garden, laid to lawn with a sunny south west aspect. Further benefits include a share of the freehold.<br><br>Trinity Road is a short walk to Bellevue Road, providing a variety of independent bars, shops and restaurants. Tooting Bec is also within easy reach. Transport links include Wandsworth Common mainline station and Tooting Bec underground station for the Northern Line.<br><br>An early viewing is strongly advised.<br><br>We currently hold lease details as displayed above, should you require further information please contact the branch. Please note additional fees could be incurred for items such as leasehold packs.<br><br>1. Money laundering regulations: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale. <br>2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property. <br>3. The measurements indicated are supplied for guidance only and as such must be considered incorrect. <br>4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase. <br>5. These particulars are issued in good faith but do not constitute representations of fact or form part of any offer or contract. The matters referred to in these particulars should be independently verified by prospective buyers or tenants. Neither sequence (UK) limited nor any of its employees or agents has any authority to make or give any representation or warranty whatever in relation to this property.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Close to Wandsworth common",
+                "Stylish contemporary interior",
+                "South west facing garden",
+                "Two double bedrooms",
+                "Share of freehold"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Shared Freehold"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "341c4de63d40e15eb245cbc8c7d1e37362ef6a43.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "f973ec7d57017840a474d96d23ca0b2ffa87a7d8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5e77a51bc1aa88cb70d47ebe910ccda74cedbaaa.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "547dd436d3de0793cff2ad6615a3feddf8b1edd1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f4bba71153222abc3c13f4cccad8654e8c5caa1f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b1647194bb6585feef92aafb404d3f895ad38a23.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "defef6f5ba502e7a29bb9e24d208bc51c9b2b7f0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e1c1cdae83fa766841644a2ffcbf5c18b0e30640.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "687da8aa3657bab4963e3791b9b1d96792fe93c3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d911e70d73c0899596aa70454969e7b90c8264af.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "59150c4c50ee925c98108624d60ceadb98b2ad16.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3a3f7ad35e8231a3148e6e34f32674791dc6b102.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 884,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - Wandsworth",
+            "brandName": "Barnard Marcus",
+            "chainFree": false,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Trinity Road, London SW17",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7HL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60641178,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW17",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Shared Freehold",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 757040
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Trinity Road, London SW17 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Trinity Road, London SW17, selling for \u00a3580,000 from Barnard Marcus - Wandsworth. See property details on Zoopla or browse all our range of properties in Trinity Road, London SW17.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60641178/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.441222,
+                "longitude": -0.165873
+            }
+        },
+        "displayAddress": "Trinity Road, London SW17",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-29T15:08:32",
+                "priceLabel": "\u00a3580,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 395
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/341c4de63d40e15eb245cbc8c7d1e37362ef6a43.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3580,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Barnard Marcus",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60641178,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "6E28E630-96FA-11EC-B63B-843A0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW17",
+            "areaNameUri": "london/sw17/tooting",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1775.0000000000014
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 463081,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 465368,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2287
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 465663,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2582
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 485088,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -22007
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 470025,
+                    "pctChangeSince": -1.477,
+                    "date": "2017-02-26",
+                    "changeSince": -6944
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 324021,
+                    "pctChangeSince": 42.917,
+                    "date": "2012-02-26",
+                    "changeSince": 139060
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 295995,
+                    "pctChangeSince": 56.449,
+                    "date": "2007-02-26",
+                    "changeSince": 167086
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 180337,
+                    "pctChangeSince": 156.786,
+                    "date": "2002-02-26",
+                    "changeSince": 282744
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 488804,
+                    "newBuilds": 0,
+                    "numSales": 293
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492441,
+                    "newBuilds": 18,
+                    "numSales": 857
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 480456,
+                    "newBuilds": 27,
+                    "numSales": 1562
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 470966,
+                    "newBuilds": 131,
+                    "numSales": 2513
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 23355737,
+                    "streetAddress": "Flat 3, 125 Trinity Road",
+                    "uri": "flat-3/125-trinity-road/london/sw17-7sq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-24T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 23355566,
+                    "streetAddress": "31 Trinity Road",
+                    "uri": "31-trinity-road/london/sw17-7sd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-17T00:00:00Z",
+                    "price": 695000,
+                    "propertyId": 23352903,
+                    "streetAddress": "Flat 13, Lloyd George Mansions, 191 Trinity Road",
+                    "uri": "flat-13/lloyd-george-mansions/191-trinity-road/london/sw17-7ha"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-16T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 23353156,
+                    "streetAddress": "156b Trinity Road",
+                    "uri": "156b-trinity-road/london/sw17-7ht"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-14T00:00:00Z",
+                    "price": 535000,
+                    "propertyId": 23353166,
+                    "streetAddress": "Flat 4, 162 Trinity Road",
+                    "uri": "flat-4/162-trinity-road/london/sw17-7ht"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 625000,
+                    "propertyId": 23364076,
+                    "streetAddress": "19 Frinton Road",
+                    "uri": "19-frinton-road/london/sw17-9eh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 872500,
+                    "propertyId": 23367035,
+                    "streetAddress": "187 Seely Road",
+                    "uri": "187-seely-road/london/sw17-9qx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 486850,
+                    "propertyId": 23367498,
+                    "streetAddress": "73 Sellincourt Road",
+                    "uri": "73-sellincourt-road/london/sw17-9rz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1140000,
+                    "propertyId": 23361420,
+                    "streetAddress": "96 Drakefield Road",
+                    "uri": "96-drakefield-road/london/sw17-8rr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 920000,
+                    "propertyId": 23357308,
+                    "streetAddress": "40 Moring Road",
+                    "uri": "40-moring-road/london/sw17-8dl"
+                }
+            ]
+        }
+    }
+}

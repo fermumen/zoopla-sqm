@@ -1,0 +1,329 @@
+{
+    "address": "Thackery Avenue, Tottenham, London N17",
+    "price": "\u00a3580,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60080069/",
+    "listing_no": "60080069",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.595118,
+        "longitude": -0.062965
+    },
+    "first_published": "2021-10-29T18:33:27",
+    "last_sale_date": "2010-09-03",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60080069",
+        "publishedOn": "2021-10-29T18:33:27",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Thackery Avenue, Tottenham, London",
+                "original": "https://lc.zoocdn.com/0ec2437691dc36ce1a0ddba1728d592d31ff90e4.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31066873",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 55934,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(715567).png",
+            "branchName": "Tower Properties LTD",
+            "brandName": "Tower Estates",
+            "chainFree": true,
+            "companyId": 29837,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Thackery Avenue, Tottenham, London N17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "9DY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60080069,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "N17",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 461768
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/tower-properties-ltd-palmers-green-55934/",
+            "branchId": "55934",
+            "branchResultsUri": "/for-sale/branch/tower-properties-ltd-palmers-green-55934/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(715567).png",
+            "phone": "020 3641 4142",
+            "name": "Tower Properties LTD",
+            "memberType": "agent",
+            "address": "18 Alderman Hill, Palmers Green",
+            "postcode": "N13 4PN"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hyland House School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Mulberry Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bruce Grove",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tottenham Hale",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Tower Estates are pleased to present this three bedroom mid-terrace house which has just been recently re decorated to a good standard. It is situated on a residential road within the heart of the Tottenham regeneration zone.<br><br>Features include: Three bedrooms (Two double &amp; One single), first floor bathroom, private garden, modern open plan kitchen and dining area.<br><br>Renovated to a high standard.<br><br>Chain free<br><br><strong>Tottenham</strong><br><br>Home to Tottenham Hotspur's Incredible new stadium, Tottenham is an area that has been marked for regeneration with many new developments being erected. Investors are keen on the area for its future prospects and due to its affordability, proximity to neighbouring towns and easy access to the city centre, first time buyers are also on the up.<br><br>A host of local amenities, fantastic multi-ethnicity shops, cafes, plenty of open green spaces and picturesque walks along the River Lea, it really is an up-and-coming area to live.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d51dbe3fce5d9838148b1d493e19ef5e0093680c.jpg",
+                "caption": "Thack 1.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "76c84daaab8076b84f5857fb3a85cdb1804c464a.jpg",
+                "caption": "Thack 2.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "06913c89cc921b560ecd124d1d177fdf06ed6002.jpg",
+                "caption": "Thack 3.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "939878a8c98be549587ccbff9299f8ddfef432b5.jpg",
+                "caption": "Thack 4.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a4d7c02feb657ee4fbf2d68ca9a716dca8741483.jpg",
+                "caption": "Thack 8.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "39e9957dbd2ac210fd8ba314d621064bc944f5d2.jpg",
+                "caption": "Thack 7.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "376f298731cca787ee9f563c6aa52d4282b1eb23.jpg",
+                "caption": "Thack 6.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "947c57ad4524d1d52e478c20e42a2d1b3c8a8d8e.jpg",
+                "caption": "Thack 5.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 55934,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(715567).png",
+            "branchName": "Tower Properties LTD",
+            "brandName": "Tower Estates",
+            "chainFree": true,
+            "companyId": 29837,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Thackery Avenue, Tottenham, London N17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "9DY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60080069,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "N17",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 461768
+        },
+        "title": "3 bed property for sale",
+        "metaTitle": "3 bed property for sale in Thackery Avenue, Tottenham, London N17 - Zoopla",
+        "metaDescription": "3 bed property for sale in Thackery Avenue, Tottenham, London N17, selling for \u00a3580,000 from Tower Properties LTD. See property details on Zoopla or browse all our range of properties in Thackery Avenue, Tottenham, London N17.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60080069/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.595118,
+                "longitude": -0.062965
+            }
+        },
+        "displayAddress": "Thackery Avenue, Tottenham, London N17",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-10-29T18:33:27",
+                "priceLabel": "\u00a3580,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2010-09-03",
+                "newBuild": false,
+                "price": 260000,
+                "priceLabel": "\u00a3260,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 45
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3580,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Tower Estates",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60080069,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "FD6C77F4-932F-11EC-8DC8-160E0E674736",
+        "marketStats": null
+    }
+}

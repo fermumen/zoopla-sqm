@@ -1,0 +1,500 @@
+{
+    "address": "\"Soleil Apartments\" at Western Avenue, Acton W3",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "BEDROOM 1\n\nHl\n\nI\n\nie\n\na\n\nelie\n\nEN SUITE\n\noF\n\n(\n\nBEDROOM 2\n\nOi WY\n\nBATHROOM [+\n\nS\n\nsf =\n\n\u2014\u2014\n\nLIVING / DINING\n\ni\n\n\\\n\nAe\n\nBALCONY\n\n80\n\na\n\naE\n\nLoose\n",
+    "image": "./extracted_images/60282351.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/60282351/",
+    "listing_no": "60282351",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.513454,
+        "longitude": -0.250266
+    },
+    "first_published": null,
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60282351",
+        "publishedOn": "2022-02-24T21:38:18",
+        "section": "new-homes",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure For Western Circus, Acton",
+                "original": "https://lc.zoocdn.com/6798a918df51ca1d3b8685a9ed7d9683926e1804.pdf",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Acton Site Plan Updated - August 2021",
+                "original": "https://lc.zoocdn.com/0f77850aa8b82a2937effc4e03e40d3d5b0164f8.jpg",
+                "type": "site_plan",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 107357,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(262764).png",
+            "branchName": "Barratt London - Western Circus",
+            "brandName": "Barratt London",
+            "chainFree": true,
+            "companyId": 14426,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "\"Soleil Apartments\" at Western Avenue, Acton W3",
+            "furnishedState": "",
+            "groupId": 19,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7XX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60282351,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "",
+            "memberType": "developer",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/new-homes/developers/branch/barratt-london-western-circus-london-107357/",
+            "branchId": "107357",
+            "branchResultsUri": "/new-homes/branch/barratt-london-western-circus-london-107357/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(262764).png",
+            "phone": "020 8022 1921",
+            "name": "Barratt London - Western Circus",
+            "memberType": "developer",
+            "address": "Western Avenue, Acton, London",
+            "postcode": "W3 7XX"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barbara Speake Stage School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "King Fahad Academy",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Acton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Acton Central",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/pWAMrGyMmWs?rel=0"
+                },
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/I8xTRky9fM4?rel=0"
+                },
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/xVQElhaaeCE?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": [
+                {
+                    "__typename": "Media",
+                    "url": "https://link.casaeprogetti.com/Hendon-491"
+                }
+            ],
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A bright, two-bedroom apartment on the 9th floor, featuring a bright open plan living/dining area that opens out onto a private balcony. The German made, modern kitchen comes with fully integrated appliances and matching worktops. Further benefits include a large storage cupboard allowing for plenty of storage space and video door entry.Centred around landscaped gardens, Western Circus consists of 364, high quality 1,2 &amp;amp; 3-bedroom apartments coming soon to Acton. All our homes have flowing open plan layouts and outdoor space. In addition there will be a Lidl supermarket and a caf&amp;eacute; on-site.<br><br><strong>Rooms</strong><br><br><em>G</em><br><ul><li>Balcony (3550mm x 2088mm (11'7\" x 6'10\"))</li><li>Bathroom (2100mm x 2000mm (6'10\" x 6'6\"))</li><li>Bedroom 1 (2750mm x 5031mm (9'0\" x 16'6\"))</li><li>Bedroom 2 (2769mm x 5331mm (9'1\" x 17'5\"))</li><li>Ensuite 1 (2100mm x 1500mm (6'10\" x 4'11\"))</li><li>Kitchen (4118mm x 2047mm (13'6\" x 6'8\"))</li><li>Living/Dining (3505mm x 4440mm (11'5\" x 14'6\"))</li></ul><strong>About Western Circus, Acton</strong><br><br>An exciting new residential quarter in west London, with exceptional transport links.<br>Centred around landscaped gardens, Western Circus consists of 364, high quality 1 &amp; 2 bedroom apartments coming to Acton this summer. All our homes have flowing open plan layouts and outdoor space. In addition there will be a Lidl supermarket and a caf\u00e9 on-site. <br><br>East Acton station is just a 5-minute walk away getting you to the heart of London in just 18 minutes via the Central Line. With Crossrail opening by June of this year it will serve Acton Main Line, meaning your new home will be in one of the best connected areas of west London.<br><br>Available with London Help to Buy, Western Circus makes for an ideal first home as Acton offers a fantastic lifestyle with an eclectic mix of independent caf\u00e9s, restaurants, pubs and green spaces.<br><br><strong>Opening Hours</strong><br><br>Monday 12:30-17:30, Tuesday 10:00-17:30, Wednesday 10:00-17:30, Thursday 10:00-17:30, Friday 10:00-17:30, Saturday 10:00-17:30, Sunday 10:00-17:30<br><br><strong>Disclaimer</strong><br><br>Please note that all images (where used) are for illustrative purposes only.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "*Excellent transport links with future connection to Crossrail by early 2022*",
+                "Planned supermarket and caf\u00e9 on-site for convenience",
+                "Two-bed apartment on the 9th floor",
+                "Bright, open plan living/dining area",
+                "Private balcony area",
+                "Fully fitted kitchen with integrated appliances",
+                "Two spacious storage cupboards",
+                "Total area: 755.7 sq ft / 70.2 sq m"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "3e61edafc72d9d7f9475e68d54a62dfdf88f7bf8.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "7db2385b819797f5bdf4aafe24d91ad60e7241af.jpg",
+                "caption": "Bed1 Internal Acton"
+            },
+            {
+                "__typename": "Media",
+                "filename": "46844795c7d9ad87f8e7b618d9c9edc5789bdc6f.jpg",
+                "caption": "Vanity Internal Acton"
+            },
+            {
+                "__typename": "Media",
+                "filename": "182bbaa0a95a5caf08c8092dabc1b68179f949e4.jpg",
+                "caption": "Living Area Shot 2 233"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c1bbc922be298f525ee0188c7d0dd527fa2ca512.jpg",
+                "caption": "Kitchen 233"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ffcfac5fb02d2bbe315a1a14b14bde3ee83fa75c.jpg",
+                "caption": "Bedroom 1 233"
+            },
+            {
+                "__typename": "Media",
+                "filename": "485689b5c18a32a2526092d8096914511a183f51.jpg",
+                "caption": "Bathroomacton"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 107357,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(262764).png",
+            "branchName": "Barratt London - Western Circus",
+            "brandName": "Barratt London",
+            "chainFree": true,
+            "companyId": 14426,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "\"Soleil Apartments\" at Western Avenue, Acton W3",
+            "furnishedState": "",
+            "groupId": 19,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7XX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60282351,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "developer",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in \"Soleil Apartments\" at Western Avenue, Acton W3 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in \"Soleil Apartments\" at Western Avenue, Acton W3, selling for \u00a3650,000 from Barratt London - Western Circus. See property details on Zoopla or browse all our range of properties in \"Soleil Apartments\" at Western Avenue, Acton W3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60282351/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.513454,
+                "longitude": -0.250266
+            }
+        },
+        "displayAddress": "\"Soleil Apartments\" at Western Avenue, Acton W3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": null,
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 30
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/3e61edafc72d9d7f9475e68d54a62dfdf88f7bf8.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Barratt London",
+            "category": "for-sale/resi/developer/new/gb",
+            "id": 60282351,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "378146D8-9752-11EC-9A72-A2290E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W3",
+            "areaNameUri": "london/w3/acton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1956.199999999999
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 404918,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 411489,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -6571
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 423656,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -18738
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 446579,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -41661
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 443072,
+                    "pctChangeSince": -8.611,
+                    "date": "2017-02-26",
+                    "changeSince": -38154
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 295132,
+                    "pctChangeSince": 37.199,
+                    "date": "2012-02-26",
+                    "changeSince": 109786
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 263193,
+                    "pctChangeSince": 53.848,
+                    "date": "2007-02-26",
+                    "changeSince": 141725
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 155985,
+                    "pctChangeSince": 159.588,
+                    "date": "2002-02-26",
+                    "changeSince": 248933
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 435683,
+                    "newBuilds": 0,
+                    "numSales": 146
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 422801,
+                    "newBuilds": 39,
+                    "numSales": 486
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 426404,
+                    "newBuilds": 119,
+                    "numSales": 1029
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 427267,
+                    "newBuilds": 208,
+                    "numSales": 1779
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 827500,
+                    "propertyId": 25020302,
+                    "streetAddress": "72 Princes Gardens",
+                    "uri": "72-princes-gardens/london/w3-0lq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 910000,
+                    "propertyId": 25022231,
+                    "streetAddress": "24 Stuart Road",
+                    "uri": "24-stuart-road/london/w3-6dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 830000,
+                    "propertyId": 25034544,
+                    "streetAddress": "14 Gunnersbury Crescent",
+                    "uri": "14-gunnersbury-crescent/london/w3-9aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 840000,
+                    "propertyId": 25020344,
+                    "streetAddress": "139 Princes Gardens",
+                    "uri": "139-princes-gardens/london/w3-0ls"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 315000,
+                    "propertyId": 25027951,
+                    "streetAddress": "33 Larch Avenue",
+                    "uri": "33-larch-avenue/london/w3-7lh"
+                }
+            ]
+        }
+    }
+}

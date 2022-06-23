@@ -1,0 +1,568 @@
+{
+    "address": "Woods Road, London SE15",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 84.61,
+    "sqft": 911.0,
+    "text": "Kitchen /\nBalcony or Reception Room\n/ 7.91m x 3.49m\nf (25111 x 11'5)\nPp\nBedroom\n4.35m x 3.10m\n(14'3 x 10'2) 8 re .\noes\nBedroom C B)\n4.67m x 2.73m , |\n(154 x 8'11) 7\nFourth Floor\nTotal area (approx.): 84.61 sq. m (911 Sq. ft)\nBalcony : 4.71 sq. m (51 Sq. ft)\n",
+    "image": "./extracted_images/60664619.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60664619/",
+    "listing_no": "60664619",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.472665,
+        "longitude": -0.062949
+    },
+    "first_published": "2022-02-02T10:00:50",
+    "last_sale_date": "2017-05-26",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60664619",
+        "publishedOn": "2022-02-02T10:00:50",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/bcd01f808ba2684812987be3e3574bbcc49dbec8.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 6690,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(721057).png",
+            "branchName": "Roy Brooks - Sales",
+            "brandName": "Roy Brooks",
+            "chainFree": false,
+            "companyId": 3338,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Woods Road, London SE15",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2PX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60664619,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE15",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 519122
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/roy-brooks-sales-london-6690/",
+            "branchId": "6690",
+            "branchResultsUri": "/for-sale/branch/roy-brooks-sales-london-6690/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(721057).png",
+            "phone": "020 8299 3021",
+            "name": "Roy Brooks - Sales",
+            "memberType": "agent",
+            "address": "2 Barry Parade, Barry Road, East Dulwich, London",
+            "postcode": "SE22 0JA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "John Donne Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Harris Primary Academy Peckham Park",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Queens Road (Peckham)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Peckham Rye",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "dbed4a46265ae0b3c34dfbb43e2867a74df7a5b8.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Oieo \u00a3550,000- A stunning two bedroom apartment situated in the highly desirable secure gated development of Woods Road. Offers an abundance of natural light and open plan living with direct access to a private balcony, secure bike storage and beautiful communal gardens.<br><br>Queens Road Peckham only a short walk away for frequent trains running to Clapham Junction and London Bridge. Peckham Rye Station for links to Highbury and Islington, Euston, Liverpool Street and Shoreditch High Street.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two bedrooms",
+                "Gated development",
+                "Open plan living",
+                "En-suite shower",
+                "Queens Road Station",
+                "Secure Bike Storage"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "e7f32ffd6942fc28da5f18d7f71f5fb1067db268.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "c4ce363228a18a7b8a327e4a2273ab959270d76e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "eaf5e6457439b9a02cd20d013eb78f8241a35ded.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e2ad6742166f67c6661b8bf4cdb3810eba44b89e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "62a351119ebe1ea44f7a237c9d86d4a875e4d4fc.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d768002d69703179db45001c15a6af1dafa24753.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4be15ca467ed7fe2cae192fc8f729f0d35eda989.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "157f7e7f0c6bacaec09d72a9e2c67586ac2dfdf0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "826c4c244f2670dfa1559d20120d26ad311fb216.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b72fb3fafc0a9964756980c0b5b4e243b6ca595f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "df57790852c4c1d06c93bb54942e4f29055566f8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4b3167e23e0f597d7b92ccf1523939903dca341e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d6694aa4312686d760e79345ec837022f432bd3d.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 6690,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(721057).png",
+            "branchName": "Roy Brooks - Sales",
+            "brandName": "Roy Brooks",
+            "chainFree": false,
+            "companyId": 3338,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Woods Road, London SE15",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2PX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60664619,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE15",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 519122
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Woods Road, London SE15 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Woods Road, London SE15, selling for \u00a3550,000 from Roy Brooks - Sales. See property details on Zoopla or browse all our range of properties in Woods Road, London SE15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60664619/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.472665,
+                "longitude": -0.062949
+            }
+        },
+        "displayAddress": "Woods Road, London SE15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-02T10:00:50",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2017-05-26",
+                "newBuild": false,
+                "price": 575000,
+                "priceLabel": "\u00a3575,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.3",
+                    "priceChangeDate": "2022-02-15T12:58:39",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3550,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 154
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/e7f32ffd6942fc28da5f18d7f71f5fb1067db268.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Roy Brooks",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60664619,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "2D030A40-8E63-11EC-B765-36E10D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE15",
+            "areaNameUri": "london/se15/peckham-nunhead",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1671.1190476190468
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 395607,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 398331,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2724
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 400027,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -4420
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 418593,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -22986
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 380699,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 14908
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 248873,
+                    "pctChangeSince": 58.959,
+                    "date": "2012-02-26",
+                    "changeSince": 146734
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 240488,
+                    "pctChangeSince": 64.502,
+                    "date": "2007-02-26",
+                    "changeSince": 155119
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 142696,
+                    "pctChangeSince": 177.238,
+                    "date": "2002-02-26",
+                    "changeSince": 252911
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 439321,
+                    "newBuilds": 0,
+                    "numSales": 205
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 425683,
+                    "newBuilds": 18,
+                    "numSales": 623
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 418250,
+                    "newBuilds": 75,
+                    "numSales": 1237
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 399404,
+                    "newBuilds": 115,
+                    "numSales": 2053
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 32800154,
+                    "streetAddress": "Apartment 41, 2 Woods Road",
+                    "uri": "apartment-41/2-woods-road/london/se15-2px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 125000,
+                    "propertyId": 32800133,
+                    "streetAddress": "Apartment 19, 2 Woods Road",
+                    "uri": "apartment-19/2-woods-road/london/se15-2px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 589500,
+                    "propertyId": 32674562,
+                    "streetAddress": "Apartment 75, 2 Woods Road",
+                    "uri": "apartment-75/2-woods-road/london/se15-2bb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-11T00:00:00Z",
+                    "price": 440000,
+                    "propertyId": 32800168,
+                    "streetAddress": "Apartment 55, 2 Woods Road",
+                    "uri": "apartment-55/2-woods-road/london/se15-2px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-10T00:00:00Z",
+                    "price": 202000,
+                    "propertyId": 32800127,
+                    "streetAddress": "Apartment 13, 2 Woods Road",
+                    "uri": "apartment-13/2-woods-road/london/se15-2px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 21077836,
+                    "streetAddress": "66 Latona Road",
+                    "uri": "66-latona-road/london/se15-6ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 431500,
+                    "propertyId": 21069681,
+                    "streetAddress": "48b Nutbrook Street",
+                    "uri": "48b-nutbrook-street/london/se15-4le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 945000,
+                    "propertyId": 21062590,
+                    "streetAddress": "212 Ivydale Road",
+                    "uri": "212-ivydale-road/london/se15-3bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 32800154,
+                    "streetAddress": "Apartment 41, 2 Woods Road",
+                    "uri": "apartment-41/2-woods-road/london/se15-2px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-17T00:00:00Z",
+                    "price": 377000,
+                    "propertyId": 31064196,
+                    "streetAddress": "Flat B, 62 Choumert Road",
+                    "uri": "flat-b/62-choumert-road/london/se15-4ax"
+                }
+            ]
+        }
+    }
+}

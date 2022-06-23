@@ -1,0 +1,536 @@
+{
+    "address": "Green Lanes, London N8",
+    "price": "\u00a3630,000",
+    "beds": "2 beds",
+    "area": "859 sq. ft",
+    "sqm": null,
+    "sqft": null,
+    "text": "ini\n\nrTeMEN/LIVING 01MIN\n\n;\n\n|\n\nTt\n\n3]\n\noe\n\na\n\n7H\n\n4 Dimensions\n\nWM Space for Washing machine\n\nHIU Heat interface unit\n\n\u2018S\n",
+    "image": "./extracted_images/60342193.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/60342193/",
+    "listing_no": "60342193",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.58428,
+        "longitude": -0.10002
+    },
+    "first_published": "2021-12-08T11:23:55",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60342193",
+        "publishedOn": "2021-12-08T11:23:55",
+        "section": "new-homes",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 86079,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(729760).png",
+            "branchName": "Kingsbury Stone",
+            "brandName": "Stone Real Estate",
+            "chainFree": true,
+            "companyId": 54632,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Green Lanes, London N8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0RA",
+            "isRetirementHome": false,
+            "isSharedOwnership": true,
+            "listingCondition": "new",
+            "listingId": 60342193,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": null,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 630000,
+            "price": 630000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "859",
+            "tenure": null,
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/kingsbury-stone-london-86079/",
+            "branchId": "86079",
+            "branchResultsUri": "/for-sale/branch/kingsbury-stone-london-86079/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(729760).png",
+            "phone": "020 8115 8540",
+            "name": "Kingsbury Stone",
+            "memberType": "agent",
+            "address": "Percy House, Gresse Street, London",
+            "postcode": "W1T 1QU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St John Vianney RC Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "South Harringay Infant School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Turnpike Lane",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Harringay Green Lanes",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A stunning two bedroom home within the exclusive Evergreen development. This collection of 133 apartments and duplexes is found in the heart of Green Lanes with its array of amenities.<br><br>Evergreen offers an exclusive collection of 133 apartments and duplexes within elegant contemporary architecture, as well as Shared Ownership options and a new health centre which will be situated on Green Lanes. The homes have been designed to complement the character of the local area, whilst providing the latest in 21st century style, comfort and convenience.<br><br>Evergreen offers North London living at its most eclectic, creative and stylish, rich in heritage and culture. Green Lanes has a vibrant Turkish and Cypriot culture which is best exemplified in the fantastic Turkish restaurants which have a vast selection of traditional dishes. Surrounding these restaurants are a huge array of coffee shops, independent local stores, bars and restaurants with a wide choice of cuisine.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 Bedrooms",
+                "Open-plan living",
+                "999 Year lease",
+                "859 sq. Ft.",
+                "Third floor",
+                "27 minutes to King's Cross (via public transport)",
+                "Short walk to Highgate and Crouch End",
+                "Surrounded by huge array of restaurants, coffee shops and independent local stores."
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "b9057fa77db98ae15b91d1762817eced783b43e0.jpg",
+                    "caption": "B301 Evergreen.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "edbcaf64b185e3f2b3f3242f58dfd9370d838292.jpg",
+                "caption": "Img_6517.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fb25f3bdfbeadf77edd6be06a4a225178cde1ac9.jpg",
+                "caption": "Img_6456 - Copy.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6db300e5ff67b096418b5be4cf50150f4bbac486.jpg",
+                "caption": "Img_6480.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1875a42c0fde537699d416b1a1c81e5bf644044c.jpg",
+                "caption": "Img_6500-Edit.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f2e847bbd4c0fc54fa4946570ee2a1982928c207.jpg",
+                "caption": "Img_6507.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "63025ab19348de0e40fa1a5036932ab64e5cdd26.jpg",
+                "caption": "Img_6510.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "96fed15a48a7164e3a8e8c2fc140f84632d73f69.jpg",
+                "caption": "Img_6521-Edit.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4b6c1de6e0ba809c5006f1c9dabdadaa551db153.jpg",
+                "caption": "Img_6528.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2add7835088298f2bd1eba9f45610685a53c4b82.jpg",
+                "caption": "Img_6470.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "287051f62001669a2ff7db730a2cf79ab83bfa36.jpg",
+                "caption": "Img_6546.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 86079,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(729760).png",
+            "branchName": "Kingsbury Stone",
+            "brandName": "Stone Real Estate",
+            "chainFree": true,
+            "companyId": 54632,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Green Lanes, London N8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0RA",
+            "isRetirementHome": false,
+            "isSharedOwnership": true,
+            "listingCondition": "new",
+            "listingId": 60342193,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": null,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 630000,
+            "price": 630000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "859",
+            "tenure": null,
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in Green Lanes, London N8 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in Green Lanes, London N8, selling for \u00a3630,000 from Kingsbury Stone. See property details on Zoopla or browse all our range of properties in Green Lanes, London N8.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60342193/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.58428,
+                "longitude": -0.10002
+            }
+        },
+        "displayAddress": "Green Lanes, London N8",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-08T11:23:55",
+                "priceLabel": "\u00a3630,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 13
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/b9057fa77db98ae15b91d1762817eced783b43e0.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": null
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 859
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3630,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 733,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Stone Real Estate",
+            "category": "for-sale/resi/agent/new/gb",
+            "id": 60342193,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium"
+        },
+        "uuid": "D14A4630-82B1-11EC-8AF6-390A0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N8",
+            "areaNameUri": "london/n8/hornsey-crouch-end",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1798.7047619047605
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 510150,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 518969,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8819
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 535223,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -25073
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 562194,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -52044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 520132,
+                    "pctChangeSince": -1.919,
+                    "date": "2017-02-26",
+                    "changeSince": -9982
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 340998,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 169152
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 319880,
+                    "pctChangeSince": 59.482,
+                    "date": "2007-02-26",
+                    "changeSince": 190270
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 192552,
+                    "pctChangeSince": 164.941,
+                    "date": "2002-02-26",
+                    "changeSince": 317598
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 525009,
+                    "newBuilds": 1,
+                    "numSales": 194
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 511616,
+                    "newBuilds": 59,
+                    "numSales": 570
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 500575,
+                    "newBuilds": 59,
+                    "numSales": 1181
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 496272,
+                    "newBuilds": 67,
+                    "numSales": 1729
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 407500,
+                    "propertyId": 15087370,
+                    "streetAddress": "Flat 29, Chadworth House, Green Lanes",
+                    "uri": "flat-29/chadworth-house/green-lanes/london/n4-2pb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-28T00:00:00Z",
+                    "price": 163000,
+                    "propertyId": 15089513,
+                    "streetAddress": "Flat 3, 291 Green Lanes",
+                    "uri": "flat-3/291-green-lanes/london/n4-2tu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-29T00:00:00Z",
+                    "price": 410000,
+                    "propertyId": 15087374,
+                    "streetAddress": "Flat 32, Chadworth House, Green Lanes",
+                    "uri": "flat-32/chadworth-house/green-lanes/london/n4-2pb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-15T00:00:00Z",
+                    "price": 340000,
+                    "propertyId": 15087083,
+                    "streetAddress": "Flat 17, Marlborough House, Green Lanes",
+                    "uri": "flat-17/marlborough-house/green-lanes/london/n4-2nj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-03T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 15086830,
+                    "streetAddress": "Flat 11, Lakeside Court, Green Lanes",
+                    "uri": "flat-11/lakeside-court/green-lanes/london/n4-2ll"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 380000,
+                    "propertyId": 15132181,
+                    "streetAddress": "245 Wightman Road",
+                    "uri": "245-wightman-road/london/n8-0nb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 1090000,
+                    "propertyId": 15138632,
+                    "streetAddress": "107 Priory Road",
+                    "uri": "107-priory-road/london/n8-8ly"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 920000,
+                    "propertyId": 15142037,
+                    "streetAddress": "4 Harvey Road",
+                    "uri": "4-harvey-road/london/n8-9pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 496590,
+                    "propertyId": 15137282,
+                    "streetAddress": "Flat 6, 4 Crescent Road",
+                    "uri": "flat-6/4-crescent-road/london/n8-8at"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-23T00:00:00Z",
+                    "price": 780000,
+                    "propertyId": 15130784,
+                    "streetAddress": "54 Hewitt Road",
+                    "uri": "54-hewitt-road/london/n8-0bl"
+                }
+            ]
+        }
+    }
+}

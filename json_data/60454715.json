@@ -1,0 +1,532 @@
+{
+    "address": "Brixton Water Lane, Brixton, London SW2",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": "620 sq. ft",
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60454715/",
+    "listing_no": "60454715",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.455394,
+        "longitude": -0.110673
+    },
+    "first_published": "2022-01-05T13:32:33",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60454715",
+        "publishedOn": "2022-01-05T13:32:33",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "More Details",
+                "original": "https://www.knightfrank.com/DUL012170932",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://lc.zoocdn.com/06b3ff94a99ae8d1875351f5437f724b292ddca8.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 115668,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(644074).png",
+            "branchName": "Knight Frank - Dulwich Village Sales",
+            "brandName": "Knight Frank",
+            "chainFree": false,
+            "companyId": 2182,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brixton Water Lane, Brixton, London SW2",
+            "furnishedState": "",
+            "groupId": 94,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1QB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60454715,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "620",
+            "tenure": null,
+            "zindex": 850022
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/knight-frank-dulwich-village-sales-london-115668/",
+            "branchId": "115668",
+            "branchResultsUri": "/for-sale/branch/knight-frank-dulwich-village-sales-london-115668/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(644074).png",
+            "phone": "020 3641 5407",
+            "name": "Knight Frank - Dulwich Village Sales",
+            "memberType": "agent",
+            "address": "1c Calton Avenue, Dulwich, London",
+            "postcode": "SE21 7DE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Jude's Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Jubilee Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Herne Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brixton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "Epcgraph",
+                    "filename": "faa32323d43664af1b80ebbb82aa85682f82cb3b.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "To the rear of the apartment is a fantastic contemporary kitchen entertaining area, the current owners use this space predominately as a dining area although there is plenty of space to combine both dining and living to make use of two bedrooms should you wish to do so.<br><br>This wonderful space opens up on to an enchanting terrace to the rear and a private south facing garden beyond.<br><br>To the front of the apartment there are two light and spacious bedrooms, one of which is currently used as a living room as well as a contemporary family bathroom.<br><br>In accordance with Section 21 of the Estate Agent Act 1979, we declare that there is a personal interest in the sale of this property. The property is being sold by a Knight Frank employee's relative.<br><br>The area boasts an excellent array of cafes, bars and restaurants and is in close proximity to Brixton Underground Station (0.6 miles) on the Victoria Line and Herne Hill Rail Station (0.8 miles) with its direct and regular links to London Blackfriars.<br><br>Several highly regarded state schools can also be found nearby including Corpus Christie and Sudbourne Primary School and there are a variety of acclaimed independent schools in striking distance including Herne Hill School, The Laurels, Alleyns, jags and Dulwich College.<br><br>All times and distances are approximate.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "1 - 2 bedrooms",
+                "1 reception room",
+                "1 bathroom",
+                "Garden",
+                "Town/City",
+                "Village"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "2ee3a7efb995db256b73049bcb4f37b53f4abfce.jpg",
+                    "caption": "Floorplanimage"
+                }
+            ],
+            "links": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/aa5c8facb8375575a58b5fdbd31d4647e74c7f2d.pdf",
+                    "caption": "Floorplan"
+                }
+            ]
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "31edcddd31694078c16eb780f79b41eb7471a6c8.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "88c2ae26ce9430e522d17e28341747f8093ffb05.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5c3decc5479e00a5da4cf89fc1d0461b8c01d5f1.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "92c3f704f5ccc8fb373a36f4c795677f081cb2f7.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d9449b874bebdf65581bb44d8ead9f9ccac2ce7c.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "63441994a562ac64b262bc1549fd1643755e1c0b.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cf6bd767591dea81ebd833c1fbc95a339abcf063.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ffcb957359794017fd6c8c342fa32c7734556fe3.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f110869bdb6a221064fcd63b4ab3cda83f22270a.jpg",
+                "caption": "Image"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 115668,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(644074).png",
+            "branchName": "Knight Frank - Dulwich Village Sales",
+            "brandName": "Knight Frank",
+            "chainFree": false,
+            "companyId": 2182,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brixton Water Lane, Brixton, London SW2",
+            "furnishedState": "",
+            "groupId": 94,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1QB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60454715,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "620",
+            "tenure": null,
+            "zindex": 850022
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Brixton Water Lane, Brixton, London SW2 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Brixton Water Lane, Brixton, London SW2, selling for \u00a3625,000 from Knight Frank - Dulwich Village Sales. See property details on Zoopla or browse all our range of properties in Brixton Water Lane, Brixton, London SW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60454715/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.455394,
+                "longitude": -0.110673
+            }
+        },
+        "displayAddress": "Brixton Water Lane, Brixton, London SW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-05T13:32:33",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 122
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/2ee3a7efb995db256b73049bcb4f37b53f4abfce.jpg"
+                },
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/aa5c8facb8375575a58b5fdbd31d4647e74c7f2d.pdf"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 620
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 1008,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Knight Frank",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60454715,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "E3364A8C-93C9-11EC-8F88-3BF60D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW2",
+            "areaNameUri": "london/sw2/brixton-centralsouth-streatham-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1908.7634408602153
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 416692,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 418750,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2058
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 419016,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -2324
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 436495,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -19803
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 422941,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -6249
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 291563,
+                    "pctChangeSince": 42.917,
+                    "date": "2012-02-26",
+                    "changeSince": 125129
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 266345,
+                    "pctChangeSince": 56.448,
+                    "date": "2007-02-26",
+                    "changeSince": 150347
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 162273,
+                    "pctChangeSince": 156.785,
+                    "date": "2002-02-26",
+                    "changeSince": 254419
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 468018,
+                    "newBuilds": 0,
+                    "numSales": 325
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 469309,
+                    "newBuilds": 15,
+                    "numSales": 865
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 464625,
+                    "newBuilds": 94,
+                    "numSales": 1643
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 453303,
+                    "newBuilds": 116,
+                    "numSales": 2581
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-23T00:00:00Z",
+                    "price": 640000,
+                    "propertyId": 23111215,
+                    "streetAddress": "87 Brixton Water Lane",
+                    "uri": "87-brixton-water-lane/london/sw2-1ph"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-07T00:00:00Z",
+                    "price": 1815000,
+                    "propertyId": 23111204,
+                    "streetAddress": "65 Brixton Water Lane",
+                    "uri": "65-brixton-water-lane/london/sw2-1ph"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 1230000,
+                    "propertyId": 23120724,
+                    "streetAddress": "90 Downton Avenue",
+                    "uri": "90-downton-avenue/london/sw2-3ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 216000,
+                    "propertyId": 23120868,
+                    "streetAddress": "Flat 11, Christchurch House, Christchurch Road",
+                    "uri": "flat-11/christchurch-house/christchurch-road/london/sw2-3ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 32297780,
+                    "streetAddress": "Flat 2, Burney House, 4 Ardwell Road",
+                    "uri": "flat-2/burney-house/4-ardwell-road/london/sw2-4bt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 480000,
+                    "propertyId": 23117947,
+                    "streetAddress": "43 Cricklade Avenue",
+                    "uri": "43-cricklade-avenue/london/sw2-3hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 23125193,
+                    "streetAddress": "5a Sudbourne Road",
+                    "uri": "5a-sudbourne-road/london/sw2-5ae"
+                }
+            ]
+        }
+    }
+}

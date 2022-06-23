@@ -1,0 +1,539 @@
+{
+    "address": "South Park Road, Wimbledon SW19",
+    "price": "\u00a3649,950",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 99.2,
+    "sqft": 710.0,
+    "text": "South Park Road\nApproximate Gross Internal Area\nGround Floor = 2.1 sq m/ 22 sq ft\nFirst Floor = 55.5 sq m/ 597 sq ft\nSecond Floor = 28.9 sq m/ 311 sq ft\nGARAGE Garage = 12.7 sq m/ 136 sq ft\n47'4\" x 710\" Total = 99.2 sq m/ 1066 sq ft\n5.28m x 2.39m N\n1 v\n\u20ac\n|_\u2014\" |\n=\nDRIVEWAY =\n720\" x 13'0\" 4\n21.95m x 3.96m Nall\ni V4 i GARDEN\n22'0\" x 17'0\"\n6.71m x 5.18m.\nGROUND FLOOR\nSS [| = Reduced headroom below 1.5m / 5'0\nBEDROOM ee\n424\" x 10'4\" @ =\n3.76m x 3.15m al CH Zz\n/ | P\nNatt] le\nTee\n== Oy LU Ite\nWT [ N aw\n7. ) hoe\nN\n| DX\nTl OPEN PLAN Tl a\n| LIVING AREA | Ps a\n\" PON 22\u00b010\" x 18'2\" 5 uw | G w\n| 6.96m x 5.54m z\nze ie cane be\n{| x\nmo | 56m x 4.75m\n=m] |\nFIRST FLOOR SECOND FLOOR\nViewmedia @ 2020\nViewmedia.co.uk\nWhilst every attempt has been made to ensure the accuracy of this floor plan, measurements of doors, windows and rooms are approximate\nand no responsibility is taken for any error or omission. This illustration is for identification purpose only. Measured and drawn accordance with\nRICS guidelines. Not drawn to scale, unless stated. Dimensions shown are to the nearest 3\u201d and are to the points indicated by the arrow heads.\n",
+    "image": "./extracted_images/57858683.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/57858683/",
+    "listing_no": "57858683",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.42034,
+        "longitude": -0.20033
+    },
+    "first_published": "2022-02-11T13:51:45",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "57858683",
+        "publishedOn": "2022-02-11T13:51:45",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Full Brochure PDF",
+                "original": "http://assets.reapit.net/lsi/live/pdf.php?p=HWB200085&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 17099,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(167553).png",
+            "branchName": "Hawes & Co - Wimbledon Broadway",
+            "brandName": "Hawes & Co",
+            "chainFree": false,
+            "companyId": 1666,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "South Park Road, Wimbledon SW19",
+            "furnishedState": "",
+            "groupId": 121,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8SU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 57858683,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW19",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 649950,
+            "price": 649950,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 686711
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/hawes-and-co-wimbledon-broadway-london-17099/",
+            "branchId": "17099",
+            "branchResultsUri": "/for-sale/branch/hawes-and-co-wimbledon-broadway-london-17099/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(167553).png",
+            "phone": "020 3478 3352",
+            "name": "Hawes & Co - Wimbledon Broadway",
+            "memberType": "agent",
+            "address": "91 The Broadway, Wimbledon, London",
+            "postcode": "SW19 1QE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary's Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Holy Trinity CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wimbledon",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wimbledon",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "4bbc351e7b8c8beefd31781f3db522ef276c004e.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Hawes and Co are delighted to present to the market this first floor split level two double bedroom, two bathroom fully refurbished Maisonette. This quiet road is situated in this very desirable residential location in the heart of the Sought after 'South Park Gardens' area of Wimbledon Town Centre with Wimbledon Mainline Station only a short walk away for superb travel links including District line, National Rail and Tram link services. Wimbledon Town Centre has excellent shopping and leisure facilities with a superb blend of popular restaurants and vibrant bars. The area is well served by good local schools for all ages.<br>Important note to purchasers:<br>We endeavour to make our sales particulars accurate and reliable, however, they do not constitute or form part of an offer or any contract and none is to be relied upon as statements of representation or fact. Any services, systems and appliances listed in this specification have not been tested by us and no guarantee as to their operating ability or efficiency is given. All measurements have been taken as a guide to prospective buyers only, and are not precise. Please be advised that some of the particulars may be awaiting vendor approval. If you require clarification or further information on any points, please contact us, especially if you are traveling some distance to view. Fixtures and fittings other than those mentioned are to be agreed with the seller.<br><br>HWB200085/",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "First Floor Maisonette",
+                "Bathroom",
+                "Kitchen",
+                "Large Bright Reception Room",
+                "Fully Fitted Kitchen",
+                "Two Bathrooms (One En-Suite)",
+                "New Loft Conversion",
+                "Garage",
+                "Off Street Parking",
+                "Sought After &amp; Convenient Location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "fc4219f55ce75b02e97dcb9251833ec36cc89551.jpg",
+                    "caption": "South Park Road-A4 P"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "c15dfe25af491ef766d42597e8400c07048a15fc.jpg",
+                "caption": "18F2 South Park Road"
+            },
+            {
+                "__typename": "Media",
+                "filename": "84f5f6358bb2bd8ed268fb483e2c421d3882bbda.jpg",
+                "caption": "18F2 South Park Road"
+            },
+            {
+                "__typename": "Media",
+                "filename": "04ef37540311851e0976c78d2b65b62d74fc9bb1.jpg",
+                "caption": "18F2 South Park Road"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1b2211ac9f8ae840e9798938209f0819518f7c77.jpg",
+                "caption": "18F2 South Park Road"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bbc3ccfc456d580853d1f6ceb7140a1e1349fd46.jpg",
+                "caption": "18F2 South Park Road"
+            },
+            {
+                "__typename": "Media",
+                "filename": "515be4b4e448f15947b132f345ec19894325e900.jpg",
+                "caption": "18F2 South Park Road"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5c0e82c161d052b34beaebdec2ea6bdc900845f2.jpg",
+                "caption": "18F2 South Park Road"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c0cd3443cbf1d8a1408ff8ae234174c6a1be4b18.jpg",
+                "caption": "18F2 South Park Road"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3162b23d1bed302b4b2a010ab0a346aca2a0b0f7.jpg",
+                "caption": "18F2 South Park Road"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 17099,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(167553).png",
+            "branchName": "Hawes & Co - Wimbledon Broadway",
+            "brandName": "Hawes & Co",
+            "chainFree": false,
+            "companyId": 1666,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "South Park Road, Wimbledon SW19",
+            "furnishedState": "",
+            "groupId": 121,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8SU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 57858683,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW19",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 649950,
+            "price": 649950,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 686711
+        },
+        "title": "2 bed maisonette for sale",
+        "metaTitle": "2 bed maisonette for sale in South Park Road, Wimbledon SW19 - Zoopla",
+        "metaDescription": "2 bed maisonette for sale in South Park Road, Wimbledon SW19, selling for \u00a3649,950 from Hawes & Co - Wimbledon Broadway. See property details on Zoopla or browse all our range of properties in South Park Road, Wimbledon SW19.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/57858683/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.42034,
+                "longitude": -0.20033
+            }
+        },
+        "displayAddress": "South Park Road, Wimbledon SW19",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-11T13:51:45",
+                "priceLabel": "\u00a3649,950"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 152
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/fc4219f55ce75b02e97dcb9251833ec36cc89551.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3649,950",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Hawes & Co",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 57858683,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "C07D8946-8B41-11EC-A7A1-C01D0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW19",
+            "areaNameUri": "london/sw19/wimbledon-merton-colliers-wood",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2168.3999999999996
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 472819,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 475991,
+                    "pctChangeSince": -0.666,
+                    "date": "2021-11-26",
+                    "changeSince": -3172
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 476293,
+                    "pctChangeSince": -0.729,
+                    "date": "2021-08-26",
+                    "changeSince": -3474
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 496161,
+                    "pctChangeSince": -4.705,
+                    "date": "2021-02-26",
+                    "changeSince": -23342
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 480759,
+                    "pctChangeSince": -1.652,
+                    "date": "2017-02-26",
+                    "changeSince": -7940
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 331421,
+                    "pctChangeSince": 42.664,
+                    "date": "2012-02-26",
+                    "changeSince": 141398
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 302755,
+                    "pctChangeSince": 56.172,
+                    "date": "2007-02-26",
+                    "changeSince": 170064
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 184456,
+                    "pctChangeSince": 156.332,
+                    "date": "2002-02-26",
+                    "changeSince": 288363
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 479862,
+                    "newBuilds": 0,
+                    "numSales": 312
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 467031,
+                    "newBuilds": 7,
+                    "numSales": 924
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 470205,
+                    "newBuilds": 35,
+                    "numSales": 1814
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 461099,
+                    "newBuilds": 93,
+                    "numSales": 2954
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-08T00:00:00Z",
+                    "price": 1115000,
+                    "propertyId": 23422165,
+                    "streetAddress": "253 South Park Road",
+                    "uri": "253-south-park-road/london/sw19-8ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-11T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 23422081,
+                    "streetAddress": "Flat 4, 77 South Park Road",
+                    "uri": "flat-4/77-south-park-road/london/sw19-8rt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-06T00:00:00Z",
+                    "price": 445000,
+                    "propertyId": 23422650,
+                    "streetAddress": "150b South Park Road",
+                    "uri": "150b-south-park-road/london/sw19-8ta"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-09T00:00:00Z",
+                    "price": 358500,
+                    "propertyId": 23422493,
+                    "streetAddress": "Flat F, 8 South Park Road",
+                    "uri": "flat-f/8-south-park-road/london/sw19-8st"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 1450000,
+                    "propertyId": 23422113,
+                    "streetAddress": "137 South Park Road",
+                    "uri": "137-south-park-road/london/sw19-8rx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 3829408,
+                    "propertyId": 23408155,
+                    "streetAddress": "1 Wilberforce Way",
+                    "uri": "1-wilberforce-way/london/sw19-4th"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 670000,
+                    "propertyId": 23422287,
+                    "streetAddress": "38 Milton Road",
+                    "uri": "38-milton-road/london/sw19-8se"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 300000,
+                    "propertyId": 31516547,
+                    "streetAddress": "159 Arthur Road",
+                    "uri": "159-arthur-road/london/sw19-8ad"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 920106,
+                    "propertyId": 23394163,
+                    "streetAddress": "117 Pelham Road",
+                    "uri": "117-pelham-road/london/sw19-1nz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1187500,
+                    "propertyId": 23418782,
+                    "streetAddress": "24 Stuart Road",
+                    "uri": "24-stuart-road/london/sw19-8dh"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,524 @@
+{
+    "address": "Callcott Road, Brondesbury NW6",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 55.9,
+    "sqft": null,
+    "text": "1ST FLOOR\nBEDROOM\n10'2\" x 9'11\"\n3.10m x 3.02m\nas\nBATHROON? ff HALLWAY\n6'37 x 5'8\",\n1.90m x 1.73\n= \u2014\u2014\u20141\n=\n(if BEDROOM\n73\" x 15\u00b00\"\nDOWN ff 2.22m x 4.56m\na\nKITCHEN LIVING ROOM\nSA AEB Y 20'20\" x 17722\npa \u00b0 3.29m x 5.45m\nww\niN Yi ( x)\nrey,\nNs\nTOTAL FLOOR AREA: 602sq.ft. (55.9 sq.m.) approx.\n\u2018nist every attempt has been made to ensure the accuracy ofthe floorplan contained here, measurements\nof doors, windows, roms and any othe items are approximate and no responsibility s taken for any eo,\n\u2018comission or misstatement. Ti pan for lta purposes only and shuld be used as such by ary\nprospective purchaser. The services, systems and applances shown have na been ested and no guavantee\n5 to they operably or eticiency can be gven.\nooo dec oor\n",
+    "image": "./extracted_images/60546153.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60546153/",
+    "listing_no": "60546153",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.542121,
+        "longitude": -0.202505
+    },
+    "first_published": "2022-01-17T17:54:13",
+    "last_sale_date": "2019-08-12",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60546153",
+        "publishedOn": "2022-01-17T17:54:13",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "https://www.paramount-properties.co.uk/search?q=WST220031",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/par/live/pdf.php?p=WST220031&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 17072,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(373017).png",
+            "branchName": "Paramount",
+            "brandName": "Paramount",
+            "chainFree": false,
+            "companyId": 8511,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Callcott Road, Brondesbury NW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7EA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60546153,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 1151889
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/paramount-london-17072/",
+            "branchId": "17072",
+            "branchResultsUri": "/for-sale/branch/paramount-london-17072/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(373017).png",
+            "phone": "020 8166 7708",
+            "name": "Paramount",
+            "memberType": "agent",
+            "address": "150 West End Lane, London",
+            "postcode": "NW6 1SD"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Christ Church CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brondesbury",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilburn Grange School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilburn",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://videos.spaces.holofy.io/su/stm8t6z6xe.html?refNo=8640&code=ryrcl2u698q"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "df70615622f782ee782f615d26cc39f839f02d20.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "The owner loves the bright South-West facing reception room letting in loads of natural light.<br><br>A split level first floor two double bedroom period conversion located just off Willesden lane with a share of the freehold. Features include a modern high gloss kitchen with appliances and part tiled three piece bathroom.<br><br>Located in a quiet tree lined street in the Brondesbury Conservation Area, close to Queens Park, offering excellent access to the amenities of Kilburn High Road, Kilburn Jubilee and Brondesbury/Brondesbury Park stations in addition to local bus routes.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "First floor two double bed period conversion",
+                "South-west facing bright reception",
+                "Modern high gloss kitchen",
+                "Part tiled bathroom",
+                "Share of freehold",
+                "Service charge approx \u00a3500 pa",
+                "Close to kilburn high road",
+                "Walking distance to queens park"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "9e254da750658874b25b15ab43e0406fc99aba61.jpg",
+                    "caption": "Picture No. 09"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "e0f48e80a6eb0e72822005766dcdfc03b7729c04.jpg",
+                "caption": "Picture No. 01"
+            },
+            {
+                "__typename": "Media",
+                "filename": "66f87da76b12054eefc8b44cfcd9aaa0a9a74ed7.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "635ba7a1ef5c6099122a721767646c6f6cdbe073.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a3f8fb6c404b0adb26f4e2d3fba264eb7f2086b8.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2f3befa8077420b8ce84cc33f237fdde60d3aa74.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "db497d26a955372a2a5934b5567dbea2735126b2.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9ca1f6f66bb6e83b0bf64f8ccf89d8be047fd125.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "224ff8794bb2edd12381257f8bee0953d690396c.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8abad60cd1e4c7813ed79ffdf89af95c494ed64d.jpg",
+                "caption": "Google Maps Image"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 17072,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(373017).png",
+            "branchName": "Paramount",
+            "brandName": "Paramount",
+            "chainFree": false,
+            "companyId": 8511,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Callcott Road, Brondesbury NW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7EA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60546153,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 1151889
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Callcott Road, Brondesbury NW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Callcott Road, Brondesbury NW6, selling for \u00a3550,000 from Paramount. See property details on Zoopla or browse all our range of properties in Callcott Road, Brondesbury NW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60546153/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.542121,
+                "longitude": -0.202505
+            }
+        },
+        "displayAddress": "Callcott Road, Brondesbury NW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-17T17:54:13",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2019-08-12",
+                "newBuild": false,
+                "price": 557500,
+                "priceLabel": "\u00a3557,500",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 56
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/9e254da750658874b25b15ab43e0406fc99aba61.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Paramount",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60546153,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "56B8BFAC-9637-11EC-9F1A-97CD0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW6",
+            "areaNameUri": "london/nw6/kilburn-queens-park-south-and-west-hampstead-brondesbury-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2462.275362318841
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 639412,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 650315,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10903
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 670511,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -31099
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 700633,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -61221
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 661041,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -21629
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 456421,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 182991
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 407367,
+                    "pctChangeSince": 56.962,
+                    "date": "2007-02-26",
+                    "changeSince": 232045
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 240567,
+                    "pctChangeSince": 165.794,
+                    "date": "2002-02-26",
+                    "changeSince": 398845
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 667712,
+                    "newBuilds": 3,
+                    "numSales": 291
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 672521,
+                    "newBuilds": 45,
+                    "numSales": 870
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 677804,
+                    "newBuilds": 112,
+                    "numSales": 1709
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 662927,
+                    "newBuilds": 321,
+                    "numSales": 2863
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-11T00:00:00Z",
+                    "price": 635000,
+                    "propertyId": 17258467,
+                    "streetAddress": "2 Callcott Road",
+                    "uri": "2-callcott-road/london/nw6-7ea"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760000,
+                    "propertyId": 17241471,
+                    "streetAddress": "Flat 3, Lawn Mansions, Gondar Gardens",
+                    "uri": "flat-3/lawn-mansions/gondar-gardens/london/nw6-1er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 3350000,
+                    "propertyId": 17259571,
+                    "streetAddress": "98 Christchurch Avenue",
+                    "uri": "98-christchurch-avenue/mapesbury/london/nw6-7pe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1196750,
+                    "propertyId": 17241043,
+                    "streetAddress": "1 Norman Terrace, Agamemnon Road",
+                    "uri": "1-norman-terrace/agamemnon-road/london/nw6-1bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 262500,
+                    "propertyId": 17252821,
+                    "streetAddress": "Flat 4, Kilburn Gate, Kilburn Priory",
+                    "uri": "flat-4/kilburn-gate/kilburn-priory/london/nw6-5nd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 875000,
+                    "propertyId": 17260049,
+                    "streetAddress": "10 Douglas Road",
+                    "uri": "10-douglas-road/london/nw6-7rp"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,529 @@
+{
+    "address": "Cornerways, Daylesford Avenue, London SW15",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 91.6,
+    "sqft": 986.0,
+    "text": "Cornerways, ek\n\u00a9) -ceiling Height Daylesford Avenue, SW15 Bl\nTA\n(\ni Patio/ Garage\n| Garden 172\" x8'2\" 4\n4 i od 5.23x 249m\nHl 12.14x 2.92m\ni (approximate)\nI\n\\ J\nll Reception/ ee \" |\nlt Hi 5.46 x 2.72m |\n18'4\"x 12'5\"\n! 5.59 x 3.78m ) a | | es)\nMaster\nBedroom\n13'7\"x 13!\n. 4.14 x3.96m l\nBedroom |\n13\u00b07\"x8'11\" |\n4.14x2.72m Hl\nCll]\noy \\ ko\nGround Floor\nApprox Gross Internal Area 986 Sq Ft - 91.60 SqM\n(Excluding Garage)\nGarage Area 140 SqFt - 13.00SqM\nFor Illustration Purposes Only - Not To Scale\nwww.goldlens.co.uk\nRef. No. 016683E\n",
+    "image": "./extracted_images/60436538.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60436538/",
+    "listing_no": "60436538",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.464723,
+        "longitude": -0.241233
+    },
+    "first_published": "2021-12-29T21:36:06",
+    "last_sale_date": "2014-02-28",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60436538",
+        "publishedOn": "2021-12-29T21:36:06",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "https://www.chestertons.com/properties/property-PUT210192/",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://chips.chestertons.com/chips/brochures/PUT210192.PDF",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 13,
+            "acornType": 13,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10305,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Putney",
+            "brandName": "Chestertons",
+            "chainFree": false,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Cornerways, Daylesford Avenue, London SW15",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5QP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60436538,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 495965
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/chestertons-putney-london-10305/",
+            "branchId": "10305",
+            "branchResultsUri": "/for-sale/branch/chestertons-putney-london-10305/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "phone": "020 8115 2467",
+            "name": "Chestertons - Putney",
+            "memberType": "agent",
+            "address": "153 Upper Richmond Road, London",
+            "postcode": "SW15 2TX"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barnes",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Falcons School for Girls",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Paddock School (SEN)",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barnes Bridge",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "dfc6e34a7ba45e405b0ac5ef4b6884f61942edcf.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Key features:<br><br>- really spacious, almost 1000 sq ft<br>- private garden accessed directly from the property<br>- garage for storage right beside the property<br>- reasonable service charges<br>- low rise block<br>- good transport nearby - bus routes, Barnes mainline station 24 mins to London Waterloo<br>- large windows letting in lots of light<br>- residents parking<br>- share of freehold<br>- additional communal gardens<br>- green spaces nearby - Barnes Common, Richmond Park<br>- schools &amp; nurseries in the area<br>- spacious hallway with room for a pram, shoes, coats etc",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Spacious - almost 1000 sq ft",
+                "Two double bedrooms",
+                "Garden",
+                "Garage",
+                "Low rise block",
+                "Very near Barnes Station and amenities of Putney, Barnes, Sheen",
+                "Green spaces nearby - Barnes Common, Richmond Park",
+                "Share of freehold"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "0e999d84995320c3db8772d98b79b53de0231327.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "fa3055fbac2641603776c31347f3a743c0699c84.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "67a891c7ce45f5b92bbc929b1b2ca5e8a100c4f5.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "05d5a211ba4f5e2f77dae68ba8bc13c47ddfcb2e.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b7dfe05b90d3a1e1138398a2f1e6af445cae8fd4.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b808013027df49dc74d2d934149c795587c1512d.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "038b730281a0a925f7cfcad63ea7ce70fbfd41c5.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a26dc5fc3357c43771789d05a385165ba7e48fcf.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "34941a6a69a776fae60c7a719e1b5f62ea7bc503.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e905b0cb0f397d498d12aec43018483325c109cd.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fadf6b5ccce7b3027e75f0ec62d59fad017fc2db.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "200c6fcf656277c708b9d8fc01197e213ad7ff25.jpg",
+                "caption": "Picture No. 08"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 13,
+            "acornType": 13,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10305,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Putney",
+            "brandName": "Chestertons",
+            "chainFree": false,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Cornerways, Daylesford Avenue, London SW15",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5QP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60436538,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 495965
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Cornerways, Daylesford Avenue, London SW15 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Cornerways, Daylesford Avenue, London SW15, selling for \u00a3575,000 from Chestertons - Putney. See property details on Zoopla or browse all our range of properties in Cornerways, Daylesford Avenue, London SW15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60436538/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.464723,
+                "longitude": -0.241233
+            }
+        },
+        "displayAddress": "Cornerways, Daylesford Avenue, London SW15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-29T21:36:06",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2014-02-28",
+                "newBuild": false,
+                "price": 2585000,
+                "priceLabel": "\u00a32,585,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 51
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/0e999d84995320c3db8772d98b79b53de0231327.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Chestertons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60436538,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "395D91FC-89A4-11EC-A801-E8FA0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW15",
+            "areaNameUri": "london/sw15/putney-roehampton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2601.444444444443
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 520826,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 523398,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2572
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 523730,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2904
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 545577,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -24751
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 528643,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -7817
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 364431,
+                    "pctChangeSince": 42.915,
+                    "date": "2012-02-26",
+                    "changeSince": 156395
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 332910,
+                    "pctChangeSince": 56.446,
+                    "date": "2007-02-26",
+                    "changeSince": 187916
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 202828,
+                    "pctChangeSince": 156.782,
+                    "date": "2002-02-26",
+                    "changeSince": 317998
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 529131,
+                    "newBuilds": 0,
+                    "numSales": 335
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 533508,
+                    "newBuilds": 3,
+                    "numSales": 926
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 527780,
+                    "newBuilds": 37,
+                    "numSales": 1765
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 544252,
+                    "newBuilds": 318,
+                    "numSales": 3178
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-04T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 23312135,
+                    "streetAddress": "Flat 17, Cornerways, 1 Daylesford Avenue",
+                    "uri": "flat-17/cornerways/1-daylesford-avenue/london/sw15-5qp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 23306525,
+                    "streetAddress": "30 Swanwick Close",
+                    "uri": "30-swanwick-close/london/sw15-4ef"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 210000,
+                    "propertyId": 33225271,
+                    "streetAddress": "Flat 26, Devonshire House, 50 Putney Hill",
+                    "uri": "flat-26/devonshire-house/50-putney-hill/london/sw15-6dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 31858841,
+                    "streetAddress": "Flat 51, College House, 52 Putney Hill",
+                    "uri": "flat-51/college-house/52-putney-hill/london/sw15-6bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 677500,
+                    "propertyId": 23309178,
+                    "streetAddress": "231 Dover House Road",
+                    "uri": "231-dover-house-road/london/sw15-5af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 23303933,
+                    "streetAddress": "53 Keswick Avenue",
+                    "uri": "53-keswick-avenue/london/sw15-3qh"
+                }
+            ]
+        }
+    }
+}

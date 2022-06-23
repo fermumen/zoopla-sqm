@@ -1,0 +1,550 @@
+{
+    "address": "Agamemnon Road, West Hampstead, London NW6",
+    "price": "\u00a3645,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 65.03,
+    "sqft": 700.0,
+    "text": "Agamemnon Road, NW6\n[4 ai\n{ T \u00a5\nC_)- Ceiling Height WE\n7\nBedroom\n11'6\" x 10'8\"\n3.51 x 3.25m\nny\n|\npe\n{_ \u2014 t\nC) 7\n\u00a2 yt\nBedroom |_|\n12'7\" x 10'11\" m7\n3.84 x 3.33m\nReception/ CJ\nDining\nRoom/\nKitchen\n19'x 14\" 50\n5.79 x 4.27m\n_\u2014 _\u2014\u2014\nSecond Floor\nApprox Gross Internal Area 700 Sq Ft - 65.03 SqM\nFor Illustration Purposes Only - Not To Scale\nwww.goldlens.co.uk\nRef. No. 016335K\n",
+    "image": "./extracted_images/60096597.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/60096597/",
+    "listing_no": "60096597",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.553087,
+        "longitude": -0.199274
+    },
+    "first_published": "2021-11-02T11:43:52",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60096597",
+        "publishedOn": "2021-11-02T11:43:52",
+        "section": "new-homes",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.jetsoftware.co.uk/oak/live/pdf.php?p=WES210169&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 69221,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(299826).png",
+            "branchName": "Oakhill Residential - West Hampstead",
+            "brandName": "Oakhill Residential",
+            "chainFree": true,
+            "companyId": 36769,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Agamemnon Road, West Hampstead, London NW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1DY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60096597,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 645000,
+            "price": 645000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 844727
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/oakhill-residential-west-hampstead-london-69221/",
+            "branchId": "69221",
+            "branchResultsUri": "/for-sale/branch/oakhill-residential-west-hampstead-london-69221/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(299826).png",
+            "phone": "020 8022 5494",
+            "name": "Oakhill Residential - West Hampstead",
+            "memberType": "agent",
+            "address": "108 Fortune Green Road, West Hampstead, London",
+            "postcode": "NW6 1DS"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Beckford Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Emmanuel Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Hampstead Thameslink",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilburn",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A fantastic collection of four newly built apartments situated on one of Fortune Green\u2019s most desired Greek roads.<br><br>A Beautifully presented two bedroom, two bathroom top floor apartment offering flexible and stylish bespoke specification of the highest quality. Featuring a superb open plan kitchen living room, a principal bedroom with an en-suite shower room, second bedroom, storage cupboard and a family bathroom.<br>Agamemnon Road is superbly located for local transport links at West Hampstead, with convenient access to many fashionable cafes and local amenities of West End Lane.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedrooms",
+                "Two Bathrooms",
+                "Top Floor",
+                "Brand New",
+                "Spacious Accommodation",
+                "Superb Location",
+                "Leasehold",
+                "10 Year New Build Guarentee"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "cfdab5ffbf064e6ca1a6ef6e1b63e30d7161f332.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "dd47127262cb798a7a155c02827775d22eb6dd64.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "98ee87f534d0c06d58ada8cfec26c06cc06511f0.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c59bc14706c1c5fb5ada9e8f73a4fccfd9932404.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "02fda5e1ed9d8f43b1c8c7337006fadd9cc042db.jpg",
+                "caption": "Picture No. 17"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9d6f5ee359d914a79005541966900f2b33d3aabe.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "aa5d8fce5bda436d3cf3c4f3b935d54821ae6dea.jpg",
+                "caption": "Picture No. 19"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4f8175bd403885ffecadbf75a1755258255351e4.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "287911c22c0580c38bc01b0c21e890adc2c4e7b4.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "af88affd29de4b4a84be01bd26f2a893672f3967.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1c0771b8c921e8d41b1144be4a2bf30d684a3e74.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d529848acfbcf4a1e98eba5287a8fa53acf6b005.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4c2931c988303464e5575a3c2e20b7b9cc426419.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "199c473ae60f1dcdb470e2af6fd128c468fd2ad8.jpg",
+                "caption": "Picture No. 14"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 69221,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(299826).png",
+            "branchName": "Oakhill Residential - West Hampstead",
+            "brandName": "Oakhill Residential",
+            "chainFree": true,
+            "companyId": 36769,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Agamemnon Road, West Hampstead, London NW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1DY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60096597,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 645000,
+            "price": 645000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 844727
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in Agamemnon Road, West Hampstead, London NW6 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in Agamemnon Road, West Hampstead, London NW6, selling for \u00a3645,000 from Oakhill Residential - West Hampstead. See property details on Zoopla or browse all our range of properties in Agamemnon Road, West Hampstead, London NW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60096597/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.553087,
+                "longitude": -0.199274
+            }
+        },
+        "displayAddress": "Agamemnon Road, West Hampstead, London NW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-02T11:43:52",
+                "priceLabel": "\u00a3665,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3",
+                    "priceChangeDate": "2022-01-19T15:52:08",
+                    "priceChangeLabel": "\u00a320,000",
+                    "priceLabel": "\u00a3645,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 32
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/cfdab5ffbf064e6ca1a6ef6e1b63e30d7161f332.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3645,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Oakhill Residential",
+            "category": "for-sale/resi/agent/new/gb",
+            "id": 60096597,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "0B74536C-7940-11EC-BDE7-B13D0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW6",
+            "areaNameUri": "london/nw6/kilburn-queens-park-south-and-west-hampstead-brondesbury-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2462.275362318841
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 639412,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 650315,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10903
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 670511,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -31099
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 700633,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -61221
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 661041,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -21629
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 456421,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 182991
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 407367,
+                    "pctChangeSince": 56.962,
+                    "date": "2007-02-26",
+                    "changeSince": 232045
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 240567,
+                    "pctChangeSince": 165.794,
+                    "date": "2002-02-26",
+                    "changeSince": 398845
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 667712,
+                    "newBuilds": 3,
+                    "numSales": 291
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 672521,
+                    "newBuilds": 45,
+                    "numSales": 870
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 677804,
+                    "newBuilds": 112,
+                    "numSales": 1709
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 662927,
+                    "newBuilds": 321,
+                    "numSales": 2863
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1196750,
+                    "propertyId": 17241043,
+                    "streetAddress": "1 Norman Terrace, Agamemnon Road",
+                    "uri": "1-norman-terrace/agamemnon-road/london/nw6-1bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 1625000,
+                    "propertyId": 17241412,
+                    "streetAddress": "76 Agamemnon Road",
+                    "uri": "76-agamemnon-road/london/nw6-1eh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-13T00:00:00Z",
+                    "price": 1560000,
+                    "propertyId": 17241414,
+                    "streetAddress": "80 Agamemnon Road",
+                    "uri": "80-agamemnon-road/london/nw6-1eh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760000,
+                    "propertyId": 17241471,
+                    "streetAddress": "Flat 3, Lawn Mansions, Gondar Gardens",
+                    "uri": "flat-3/lawn-mansions/gondar-gardens/london/nw6-1er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 3350000,
+                    "propertyId": 17259571,
+                    "streetAddress": "98 Christchurch Avenue",
+                    "uri": "98-christchurch-avenue/mapesbury/london/nw6-7pe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1196750,
+                    "propertyId": 17241043,
+                    "streetAddress": "1 Norman Terrace, Agamemnon Road",
+                    "uri": "1-norman-terrace/agamemnon-road/london/nw6-1bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 262500,
+                    "propertyId": 17252821,
+                    "streetAddress": "Flat 4, Kilburn Gate, Kilburn Priory",
+                    "uri": "flat-4/kilburn-gate/kilburn-priory/london/nw6-5nd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 875000,
+                    "propertyId": 17260049,
+                    "streetAddress": "10 Douglas Road",
+                    "uri": "10-douglas-road/london/nw6-7rp"
+                }
+            ]
+        }
+    }
+}

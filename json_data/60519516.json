@@ -1,0 +1,520 @@
+{
+    "address": "St. Georges Avenue, London N7",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "a\n",
+    "image": "./extracted_images/60519516.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60519516/",
+    "listing_no": "60519516",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.55713,
+        "longitude": -0.12914
+    },
+    "first_published": "2022-01-13T17:24:30",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60519516",
+        "publishedOn": "2022-01-13T17:24:30",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 117899,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(700723).png",
+            "branchName": "Claremonts",
+            "brandName": "Claremonts Fine & Country Ltd",
+            "chainFree": true,
+            "companyId": 89569,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "St. Georges Avenue, London N7",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0HD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60519516,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1148301
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/claremonts-london-117899/",
+            "branchId": "117899",
+            "branchResultsUri": "/for-sale/branch/claremonts-london-117899/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(700723).png",
+            "phone": "020 3641 1342",
+            "name": "Claremonts",
+            "memberType": "agent",
+            "address": "30 Penton Street, Islington, London",
+            "postcode": "N1 9PS"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tufnell Park Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Yerbury Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tufnell Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Upper Holloway",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A Two bedroom first floor victorian conversion providing bright accomodation throughout, set on the first floor and benefiting from being within the Tufnell Park conservation area With a share of the garden to the rear and a strong lease the flat makes an ideal first time purchase or a rental investment.<br><br>Tufnell Park station and Archway are walkable, providing great links into central London.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedrooms",
+                "First Floor Conversion",
+                "Share of Garden",
+                "Original Features",
+                "Bay Window Living Room",
+                "Chain Free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "68dd8c41766a3c3cd298e3f527a386846d47162e.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "ced3e744ae18ead20aabf8db69e9bab735fb0795.jpg",
+                "caption": "St. Georges Avenue"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f5a7275bacfa101a12988f01259f7ba8688391b2.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e9c956684084ae484ce888a62e0837ece84f23df.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7716e24c067bcd9113ca7b962766ad5d65d3828d.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d4714c580ccbf45359575168c62b0d2e1c94dded.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "812e0882664a72f413a94d0fc5a762ebf6fbe4d5.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "59d0d893b3dde39bccecabce3766b5a85acecee7.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0b83f128c606f24ac428b33b7ad6c4412925ff75.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a9a96ba48a0c353bda72189957926c50af4a2501.jpg",
+                "caption": "Gallery"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 117899,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(700723).png",
+            "branchName": "Claremonts",
+            "brandName": "Claremonts Fine & Country Ltd",
+            "chainFree": true,
+            "companyId": 89569,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "St. Georges Avenue, London N7",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0HD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60519516,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1148301
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in St. Georges Avenue, London N7 - Zoopla",
+        "metaDescription": "2 bed flat for sale in St. Georges Avenue, London N7, selling for \u00a3650,000 from Claremonts. See property details on Zoopla or browse all our range of properties in St. Georges Avenue, London N7.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60519516/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.55713,
+                "longitude": -0.12914
+            }
+        },
+        "displayAddress": "St. Georges Avenue, London N7",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-13T17:24:30",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 123
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/68dd8c41766a3c3cd298e3f527a386846d47162e.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Claremonts Fine & Country Ltd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60519516,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "D1576EF0-74BA-11EC-8767-6BE50D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N7",
+            "areaNameUri": "london/n7/holloway",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2225.222222222224
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 506811,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 515573,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8762
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 531722,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -24911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 558515,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -51704
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 516722,
+                    "pctChangeSince": -1.918,
+                    "date": "2017-02-26",
+                    "changeSince": -9911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 338762,
+                    "pctChangeSince": 49.607,
+                    "date": "2012-02-26",
+                    "changeSince": 168049
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 317783,
+                    "pctChangeSince": 59.483,
+                    "date": "2007-02-26",
+                    "changeSince": 189028
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 191290,
+                    "pctChangeSince": 164.944,
+                    "date": "2002-02-26",
+                    "changeSince": 315521
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 524496,
+                    "newBuilds": 0,
+                    "numSales": 200
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 518653,
+                    "newBuilds": 8,
+                    "numSales": 549
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 499646,
+                    "newBuilds": 8,
+                    "numSales": 1035
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 499177,
+                    "newBuilds": 124,
+                    "numSales": 1796
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-22T00:00:00Z",
+                    "price": 1035000,
+                    "propertyId": 27389570,
+                    "streetAddress": "76a St. Georges Avenue",
+                    "uri": "76a-st-georges-avenue/london/n7-0ah"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-10T00:00:00Z",
+                    "price": 595000,
+                    "propertyId": 31885427,
+                    "streetAddress": "Flat 3, 1 St. Georges Avenue",
+                    "uri": "flat-3/1-st-georges-avenue/london/n7-0hb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 2025000,
+                    "propertyId": 15114425,
+                    "streetAddress": "29 St. Georges Avenue",
+                    "uri": "29-st-georges-avenue/london/n7-0hb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-04T00:00:00Z",
+                    "price": 2450000,
+                    "propertyId": 15114437,
+                    "streetAddress": "12 St. Georges Avenue",
+                    "uri": "12-st-georges-avenue/london/n7-0hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-29T00:00:00Z",
+                    "price": 687000,
+                    "propertyId": 27178223,
+                    "streetAddress": "Flat 1, 126 St. Georges Avenue",
+                    "uri": "flat-1/126-st-georges-avenue/london/n7-0ah"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 755000,
+                    "propertyId": 15118599,
+                    "streetAddress": "11 Empire Square",
+                    "uri": "11-empire-square/london/n7-6jn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1620000,
+                    "propertyId": 15124242,
+                    "streetAddress": "6 Orleston Mews",
+                    "uri": "6-orleston-mews/london/n7-8ll"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 309000,
+                    "propertyId": 27250808,
+                    "streetAddress": "Flat 3, 17 Carleton Road",
+                    "uri": "flat-3/17-carleton-road/london/n7-0qz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 15121738,
+                    "streetAddress": "21 Selden Walk",
+                    "uri": "21-selden-walk/london/n7-7rl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 15114386,
+                    "streetAddress": "81 Penderyn Way, Carleton Road",
+                    "uri": "81-penderyn-way/carleton-road/london/n7-0ey"
+                }
+            ]
+        }
+    }
+}

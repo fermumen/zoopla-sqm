@@ -1,0 +1,480 @@
+{
+    "address": "Putney Heath, London SW15",
+    "price": "POA",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 84.5,
+    "sqft": 909.0,
+    "text": "Reception Room\n5.91m x 3.94m\n(19'5 x 12'11)\nBedroom\n4.52m x 3.87m\n(14'10 x 12'8)\nE > 20!\nBedroom \u00a30 a \u00a9@|\n4.21m x 2.61m / ig: ox\n(13'10 x 8'7) ye LIS co\nRi; ac\n_ +\nThird Floor\nTotal area (approx.): 84.5 sq. m (909.5 sq. ft)\n",
+    "image": "./extracted_images/60366620.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60366620/",
+    "listing_no": "60366620",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.453447,
+        "longitude": -0.229467
+    },
+    "first_published": null,
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60366620",
+        "publishedOn": "2021-12-13T16:02:40",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/48c431caf15a92a886a47a240545f58ee01260f6.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 7,
+            "acornType": 7,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 41954,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Putney",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Putney Heath, London SW15",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3SX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60366620,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "price_on_request",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 778767
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-putney-putney-41954/",
+            "branchId": "41954",
+            "branchResultsUri": "/for-sale/branch/dexters-putney-putney-41954/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 8789 9999",
+            "name": "Dexters - Putney",
+            "memberType": "agent",
+            "address": "176 Putney High Street, Putney",
+            "postcode": "SW15 1RS"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ark Putney Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Granard Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Putney",
+                "type": "national_rail_station",
+                "distanceMiles": 0.8
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Putney",
+                "type": "london_underground_station",
+                "distanceMiles": 0.9
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A really luxurious apartment on the top floor of a highly regarded mansion block close to Putney. The flat has been refurbished to an incredibly high standard recently with new wiring and plumbing, and has two large bedrooms and a lovely feature bay window.<br><br>Quietly located and nestled within this beautifully kept development with communal tennis courts and barbeque area. Putney Heath is a green and leafy part of Putney, perfect for a stroll on the heath and within easy reach of Putney High Street, mainline and tube stations.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedroom",
+                "Recently Refurbished",
+                "Communal Gardens",
+                "Quiet Location",
+                "Porter Service",
+                "Allocated Parking Space"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "7cbfc791aba3463908a32bddf3edc0f8a33fab54.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "6b867ea584e651ad491c8019ef4456f32e88232a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7dcb86aad9dbbdf482833b871305b30f98aa2297.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d6512b665edeaff6fe760ab59d20e554379dd19e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8e2693197069d4ff693501adfea7e223e7621208.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "dc68737f8def3901dc95e968cfb578795f088e1b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6e3c6b47fdffb69bd0a29d0ecb496fe4214f1259.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 7,
+            "acornType": 7,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 41954,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Putney",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Putney Heath, London SW15",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3SX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60366620,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "price_on_request",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 778767
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Putney Heath, London SW15 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Putney Heath, London SW15, selling for POA from Dexters - Putney. See property details on Zoopla or browse all our range of properties in Putney Heath, London SW15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60366620/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.453447,
+                "longitude": -0.229467
+            }
+        },
+        "displayAddress": "Putney Heath, London SW15",
+        "priceHistory": null,
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 43
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/7cbfc791aba3463908a32bddf3edc0f8a33fab54.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "POA",
+            "priceQualifierLabel": "POA",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60366620,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "706172B2-93DC-11EC-A497-37F60D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW15",
+            "areaNameUri": "london/sw15/putney-roehampton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2601.444444444443
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 520826,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 523398,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2572
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 523730,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2904
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 545577,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -24751
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 528643,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -7817
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 364431,
+                    "pctChangeSince": 42.915,
+                    "date": "2012-02-26",
+                    "changeSince": 156395
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 332910,
+                    "pctChangeSince": 56.446,
+                    "date": "2007-02-26",
+                    "changeSince": 187916
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 202828,
+                    "pctChangeSince": 156.782,
+                    "date": "2002-02-26",
+                    "changeSince": 317998
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 529131,
+                    "newBuilds": 0,
+                    "numSales": 335
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 533508,
+                    "newBuilds": 3,
+                    "numSales": 926
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 527780,
+                    "newBuilds": 37,
+                    "numSales": 1765
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 544252,
+                    "newBuilds": 318,
+                    "numSales": 3178
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-22T00:00:00Z",
+                    "price": 745000,
+                    "propertyId": 23304763,
+                    "streetAddress": "Flat 20, Exeter House, Putney Heath",
+                    "uri": "flat-20/exeter-house/putney-heath/london/sw15-3su"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-15T00:00:00Z",
+                    "price": 780000,
+                    "propertyId": 23304966,
+                    "streetAddress": "Flat 91, Exeter House, Putney Heath",
+                    "uri": "flat-91/exeter-house/putney-heath/london/sw15-3tq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 23306525,
+                    "streetAddress": "30 Swanwick Close",
+                    "uri": "30-swanwick-close/london/sw15-4ef"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 210000,
+                    "propertyId": 33225271,
+                    "streetAddress": "Flat 26, Devonshire House, 50 Putney Hill",
+                    "uri": "flat-26/devonshire-house/50-putney-hill/london/sw15-6dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 31858841,
+                    "streetAddress": "Flat 51, College House, 52 Putney Hill",
+                    "uri": "flat-51/college-house/52-putney-hill/london/sw15-6bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 677500,
+                    "propertyId": 23309178,
+                    "streetAddress": "231 Dover House Road",
+                    "uri": "231-dover-house-road/london/sw15-5af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 23303933,
+                    "streetAddress": "53 Keswick Avenue",
+                    "uri": "53-keswick-avenue/london/sw15-3qh"
+                }
+            ]
+        }
+    }
+}

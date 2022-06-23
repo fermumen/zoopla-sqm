@@ -1,0 +1,530 @@
+{
+    "address": "Loughborough Park, Brixton, London SW9",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": "807 sq. ft",
+    "sqm": 74.99,
+    "sqft": 2021.0,
+    "text": "Foxtons Loughbrough Park, SW9\n12/2021 1342137 74.99 sqm / 807.19 sqft\nI I\na, at\nL J\nES) LJ\nMAIN BEDROOM (7\n4.16m x 3.45m CH\n(13\u00b0 x 11'4) RECEPTION\n. 4.38m x 4.16m\nrd (14'4 x 13'8)\n~ :\nm i\n\\ 1\n\u2018 ft\n/\n. \u201d\n, .\ni V\nBEDROOM 2 / KITCHEN\n4.16m x 2.83m 7 4.18m x 1.94m\n(13\u00b08 x 9\u00b03) (13\u00b09 x 64) \u2014\n\u2014\u2014\u2014\u2014 \u2014\u2014\u2014\n, <\n'\nSe aneom x sgim\noat 195)\nTT Approx et\n= Lower Ground Floor\n74.99 sqm / 807.19 sqft 68.33 sqm / 735.50 sqft 0.00 sqm / 0.00 sqft 0.00 sqm / 0.00 saft\nfMspec\u2019\nVerified \u00a9\n",
+    "image": "./extracted_images/60201171.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60201171/",
+    "listing_no": "60201171",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.463089,
+        "longitude": -0.103594
+    },
+    "first_published": "2021-11-16T15:04:58",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60201171",
+        "publishedOn": "2021-11-16T15:04:58",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw9/chpk3718506/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw9/chpk3718506",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw9/chpk3718506/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58510,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Brixton",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Loughborough Park, Brixton, London SW9",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "8TP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60201171,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW9",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "807",
+            "tenure": null,
+            "zindex": 565158
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-brixton-london-58510/",
+            "branchId": "58510",
+            "branchResultsUri": "/for-sale/branch/foxtons-brixton-london-58510/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 7768 0388",
+            "name": "Foxtons - Brixton",
+            "memberType": "agent",
+            "address": "506-508 Brixton Road, London",
+            "postcode": "SW9 8EN"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ark Evelyn Grace Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hill Mead Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Loughborough Junction",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brixton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/618e884024d7510a8db3d788"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "This beautifully presented 2 bedroom flat benefits from a peaceful location, just moments from Loughborough Park. It offers neutral interiors filled with natural light and further boasts a lush garden to the rear.<br><br>Loughborough Park is close to central Brixton for easy access to a wide range of shops, restaurants and leisure facilities. Local transport links include Brixton Station (National Rail and Victoria Line), with Loughborough Park nearby.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Beautiful flat set within a converted property",
+                "Expansive private garden with space to entertain",
+                "Modern kitchen with integrated appliances and wooden worktops",
+                "Attractive reception with space to dine and lounge",
+                "2 Well-proportioned double bedrooms",
+                "Stylish bathroom",
+                "Light wood flooring throughout"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "383885cf3f3b9cbf0916856d6a98ac5fa961afed.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "3e41448c81e7166e3566a890ff03675d9d97748d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1ad59dfe8a41044da9245e460bde06779e977fb0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5ca9ffb78e518571907b605118b43548bde9ad51.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c5346bf4af2cfd3e962906e01828775614ee3d8a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7a72be86f9292a4fae82928c183589d6809de01d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bb6f056297f4711c1fb90775c4f6b4fef8d72952.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "338b68614e484bd735e121202d37c120c128549f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f9ec0cbd6481820aafb28e3f4bbab0ff0f27b4cc.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "787132d2530eae788ef03b0d7ed91854935c9ed9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9f8de708afd0b66125f9dfa967d752584d4876a7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "13f2bacd2a9a41926416d2fab0c4b3b50ba503bd.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58510,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Brixton",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Loughborough Park, Brixton, London SW9",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "8TP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60201171,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW9",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "sizeSqFeet": "807",
+            "tenure": null,
+            "zindex": 565158
+        },
+        "title": "2 bed maisonette for sale",
+        "metaTitle": "2 bed maisonette for sale in Loughborough Park, Brixton, London SW9 - Zoopla",
+        "metaDescription": "2 bed maisonette for sale in Loughborough Park, Brixton, London SW9, selling for \u00a3625,000 from Foxtons - Brixton. See property details on Zoopla or browse all our range of properties in Loughborough Park, Brixton, London SW9.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60201171/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.463089,
+                "longitude": -0.103594
+            }
+        },
+        "displayAddress": "Loughborough Park, Brixton, London SW9",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-16T15:04:58",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 54
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/383885cf3f3b9cbf0916856d6a98ac5fa961afed.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 807
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 774,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60201171,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "13FBD774-5FC0-11EC-A9AF-D72B0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW9",
+            "areaNameUri": "london/sw9/stockwell-brixton-north",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2148.840909090911
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 478668,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 481031,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2363
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 481337,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2669
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 501414,
+                    "pctChangeSince": -4.536,
+                    "date": "2021-02-26",
+                    "changeSince": -22746
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 485851,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -7183
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 334931,
+                    "pctChangeSince": 42.915,
+                    "date": "2012-02-26",
+                    "changeSince": 143737
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 305962,
+                    "pctChangeSince": 56.447,
+                    "date": "2007-02-26",
+                    "changeSince": 172706
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 186410,
+                    "pctChangeSince": 156.782,
+                    "date": "2002-02-26",
+                    "changeSince": 292258
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 476500,
+                    "newBuilds": 1,
+                    "numSales": 216
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 465414,
+                    "newBuilds": 26,
+                    "numSales": 559
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 458735,
+                    "newBuilds": 74,
+                    "numSales": 1085
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 464302,
+                    "newBuilds": 167,
+                    "numSales": 1840
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-04T00:00:00Z",
+                    "price": 256500,
+                    "propertyId": 23223367,
+                    "streetAddress": "154 Loughborough Park",
+                    "uri": "154-loughborough-park/london/sw9-8tb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 23217134,
+                    "streetAddress": "27 Patmos Road",
+                    "uri": "27-patmos-road/london/sw9-6sq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 27220411,
+                    "streetAddress": "A, 128 Landor Road",
+                    "uri": "a/128-landor-road/london/sw9-9jb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 452500,
+                    "propertyId": 23212677,
+                    "streetAddress": "Flat B, 38 Crewdson Road",
+                    "uri": "flat-b/38-crewdson-road/london/sw9-0lj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 599750,
+                    "propertyId": 27163030,
+                    "streetAddress": "Flat C, 384 Clapham Road",
+                    "uri": "flat-c/384-clapham-road/london/sw9-9ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-23T00:00:00Z",
+                    "price": 640000,
+                    "propertyId": 23213466,
+                    "streetAddress": "44a Hackford Road",
+                    "uri": "44a-hackford-road/london/sw9-0rf"
+                }
+            ]
+        }
+    }
+}

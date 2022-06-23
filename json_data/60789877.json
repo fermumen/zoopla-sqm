@@ -1,0 +1,559 @@
+{
+    "address": "The Residence, Pitfield Street, London N1",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60789877/",
+    "listing_no": "60789877",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.534309,
+        "longitude": -0.083388
+    },
+    "first_published": "2022-02-18T02:15:10",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60789877",
+        "publishedOn": "2022-02-18T02:15:10",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "The Residence, Pitfield Street, London",
+                "original": "https://lc.zoocdn.com/a540d971313bfa5d80bc4367f14565d7787516f4.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31294357",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 132201,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(730108).png",
+            "branchName": "Pathways Residential",
+            "brandName": "Pathways Residential",
+            "chainFree": false,
+            "companyId": 103553,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Residence, Pitfield Street, London N1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6JR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60789877,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "Available Now|Chain Free",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/pathways-residential-london-132201/",
+            "branchId": "132201",
+            "branchResultsUri": "/for-sale/branch/pathways-residential-london-132201/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(730108).png",
+            "phone": "020 4537 6000",
+            "name": "Pathways Residential",
+            "memberType": "agent",
+            "address": "Unit 5i-5j Nobel Road, London",
+            "postcode": "N18"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shoreditch Park Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hoxton Garden Primary",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hoxton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Haggerston",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Pathways Residential are pleased to present this beautiful, exquisite, new build 2 bedroom apartment in The Residence, Hoxton - A spectacular new development capturing the spirit and excitement of old street. The Apartment boasts 2 very good size bedrooms, as well as 2 bathrooms (1 En-Suite) and a very spacious kitchen diner. The kitchen shows off Top of the Range Fitted Appliances, and everything around the apartment is done to a very luxurious high standard. The apartment has 833 Sq Ft.<br><br>The Residence, Hoxton, is located a stones throw from Old Street Station, as well as great other transport links. There are fabulous amenities, schools, restaurants, pubs, shops and everything you could possibly need just minutes away!<br><br>Please find attached a link to the brochure from the developers for the property for more information about the building.<br><br>Please get in contact with Pathways Residential for your viewing as soon as possible, as we are predicting that this will sell very quickly.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedroom Apartment",
+                "Ready To Move in Now",
+                "En Suite To Master",
+                "Open Plan Kitchen",
+                "Top of the Range Integrated Appliances",
+                "Engineered Oak Flooring",
+                "Centralised Satellite",
+                "Video Entry Phone",
+                "Indoor Bicycle Store",
+                "Great Location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Available Now"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Chain Free"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/fa87b9ad338517b5c1e349fdff7aeee57361917c.pdf",
+                    "caption": "Flat 1 Pitfield Street Lease Plan.pdf"
+                }
+            ]
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "ac158fb3d862e3b03d667bd8c28862f01bb027e9.jpg",
+                "caption": "The Residence, Hoxton, 3.Png"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ce8f69e132ab7ad3a700856e5069761ab28334c5.jpg",
+                "caption": "Dsc_2298.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e16e34e4f73a9cd93aad3a86bf221b1c1837826e.jpg",
+                "caption": "Dsc_2363.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c19f22ce5391645a1477e5be2a04901ad9c2d040.jpg",
+                "caption": "Dsc_2388.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6cdc6cfd0bb74ba7d9acba7f9552211eeeae6f48.jpg",
+                "caption": "Dsc_2379.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7bc1492aeb6be1492475fb15f9e557a77fa24768.jpg",
+                "caption": "Dsc_2341.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5e5dfe535022d313bbdb491a4178b06a729bc8d6.jpg",
+                "caption": "Dsc_2318.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7c4afcb6318e041dc3da248d49fc7a0ce39cd686.jpg",
+                "caption": "Dsc_2316.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "981298f5586998e6c921cbe0028acc4acc5bc7db.jpg",
+                "caption": "Dsc_2309.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f879bbc69f83ea7b04e836ac888b4c1a4f215cc4.jpg",
+                "caption": "Dsc_2327.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "13a68f3800882a884da0b44a12129c361e9f20c1.jpg",
+                "caption": "Dsc_2333.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "756150087dd261a9e9b200ad86d7e782496fcbc4.jpg",
+                "caption": "Dsc_2356.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "677fde53adfc56186c4effca2469ec8c898d811f.jpg",
+                "caption": "Dsc_2345.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "744ac12dbd4c1c236c090422aaf4b8ab717c0b54.jpg",
+                "caption": "Dsc_2352.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a7519196ebc22e270b07b1f329e3794c10a16f82.jpg",
+                "caption": "Dsc_2371.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "30a8d4aa01e2570daef97736eb254da97b5932d5.jpg",
+                "caption": "Dsc_2377.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c7adc59951491b6a8641a14cf050e6f0cee66c26.jpg",
+                "caption": "Residence Hoxton 1.Png"
+            },
+            {
+                "__typename": "Media",
+                "filename": "aa5fe77430517039e569356e74983523fb13218b.jpg",
+                "caption": "Residence Hoxton 2.Png"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 132201,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(730108).png",
+            "branchName": "Pathways Residential",
+            "brandName": "Pathways Residential",
+            "chainFree": false,
+            "companyId": 103553,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Residence, Pitfield Street, London N1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6JR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60789877,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "Available Now|Chain Free",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in The Residence, Pitfield Street, London N1 - Zoopla",
+        "metaDescription": "2 bed flat for sale in The Residence, Pitfield Street, London N1, selling for \u00a3650,000 from Pathways Residential. See property details on Zoopla or browse all our range of properties in The Residence, Pitfield Street, London N1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60789877/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.534309,
+                "longitude": -0.083388
+            }
+        },
+        "displayAddress": "The Residence, Pitfield Street, London N1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-18T02:15:10",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 102
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/fa87b9ad338517b5c1e349fdff7aeee57361917c.pdf"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Pathways Residential",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60789877,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "186DA60C-9067-11EC-8D59-60DB0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N1",
+            "areaNameUri": "london/n1/islington-barnsbury-canonbury",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2906.287878787878
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 602354,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 612767,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -10413
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 631961,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -29607
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 663806,
+                    "pctChangeSince": -9.258,
+                    "date": "2021-02-26",
+                    "changeSince": -61452
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 614141,
+                    "pctChangeSince": -1.919,
+                    "date": "2017-02-26",
+                    "changeSince": -11787
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 402630,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 199724
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 377696,
+                    "pctChangeSince": 59.481,
+                    "date": "2007-02-26",
+                    "changeSince": 224658
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 227355,
+                    "pctChangeSince": 164.94,
+                    "date": "2002-02-26",
+                    "changeSince": 374999
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 622356,
+                    "newBuilds": 1,
+                    "numSales": 395
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 661296,
+                    "newBuilds": 71,
+                    "numSales": 1075
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 646936,
+                    "newBuilds": 170,
+                    "numSales": 2109
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 637559,
+                    "newBuilds": 448,
+                    "numSales": 3526
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 15048632,
+                    "streetAddress": "Flat 63, Royal Oak Court, Pitfield Street",
+                    "uri": "flat-63/royal-oak-court/pitfield-street/london/n1-6en"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 710000,
+                    "propertyId": 15056656,
+                    "streetAddress": "2 Elliotts Place",
+                    "uri": "2-elliotts-place/london/n1-8hx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760001,
+                    "propertyId": 15027781,
+                    "streetAddress": "Flat 3, 80 Copenhagen Street",
+                    "uri": "flat-3/80-copenhagen-street/london/n1-0jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 1350000,
+                    "propertyId": 27513282,
+                    "streetAddress": "Ground First And Second Floor Fl, 7 Brooksby Street",
+                    "uri": "ground-first-and-second-floor-fl/7-brooksby-street/london/n1-1ex"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 15035647,
+                    "streetAddress": "Flat D, 13 Compton Road",
+                    "uri": "flat-d/13-compton-road/london/n1-2pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 15035975,
+                    "streetAddress": "1 Walney Walk",
+                    "uri": "1-walney-walk/london/n1-2pu"
+                }
+            ]
+        }
+    }
+}

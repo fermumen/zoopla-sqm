@@ -1,0 +1,601 @@
+{
+    "address": "Brunswick Road, Leyton, London E10",
+    "price": "\u00a3575,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 111.9,
+    "sqft": null,
+    "text": "ae iS\nTy eee,\nBedroom 3 FL een\n280mx1.90m F547]\n(9.2\"x6'3\") 7\n| Kitchen |\n3.92m x 3.66m\n(12\" 10\" x 12\" 0\") SSF SI \u2014\u2014\u2014\u2014\u2014\nEn-suite\n2.00m x 1.80m\n\\\\ erxs 1) /\n } Bedroom 2\n3.80m x 3.70m\n= (12' 6\" x 12' 2\")\n\u2014_\u2014\u2014S cali Bedroom 1\naS |} 5.70m x 4.10m\nnm on (18\" 8\" x 13\u00b0 5\")\nnm ar\nBS =\npa] im\n; | | Yt\nHy fot] gas\nJ Pw\nReception Room CS\n4.60m x 3.70m\n(15' 1\" x 122\")\nStudy Ustity Room\n2.50m x 2.00m \u201cm\n(8'2\"x6'7\") |\nSS SS\n\u2014 7\nGround Floor First Floor Second Floor Outbuilding\nTotal floor area 111.9 sq.m. (1,205 sq.ft.) approx\nThis floor plan is for illustrative purposes only. It is not drawn to scale. Any measurements, floor areas (including any total floor area), openings and orientation are approximate. No\ndetails are guaranteed, they cannot be relied upon for any purpose and they do not form part of any agreement. No liability is taken for any error, omission or misstatement. A party\nmust rely upon its own inspection(s). Plan produced for Outlook. Powered by www.focalagent.com\n",
+    "image": "./extracted_images/60798539.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60798539/",
+    "listing_no": "60798539",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.566747,
+        "longitude": -0.007893
+    },
+    "first_published": "2022-02-18T21:25:01",
+    "last_sale_date": "2006-11-14",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60798539",
+        "publishedOn": "2022-02-18T21:25:01",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 16932,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(525477).png",
+            "branchName": "Outlook Property - Leyton",
+            "brandName": "Outlook Property",
+            "chainFree": false,
+            "companyId": 8420,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brunswick Road, Leyton, London E10",
+            "furnishedState": "",
+            "groupId": 155,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6RS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60798539,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 20,
+            "numRecepts": 1,
+            "outcode": "E10",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 431201
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/outlook-property-leyton-leyton-16932/",
+            "branchId": "16932",
+            "branchResultsUri": "/for-sale/branch/outlook-property-leyton-leyton-16932/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(525477).png",
+            "phone": "020 8115 3863",
+            "name": "Outlook Property - Leyton",
+            "memberType": "agent",
+            "address": "254-256 High Road, Leyton",
+            "postcode": "E10 5PW"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Dawlish Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lantern of Knowledge Secondary School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Leyton Midland Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Leytonstone",
+                "type": "london_underground_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://vid.audioagent.com/wv/b3JR"
+                }
+            ],
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://tour.vieweet.com/viewer/XME0UP4"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "dfc6e34a7ba45e405b0ac5ef4b6884f61942edcf.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A stunning three bedroom property. Nestled in the Heart of Leyton Abrahams Estate is this immaculate three bedroom first floor maisonette.<br><br>As part of an unusual detached building on Brunswick Road, one of Leyton's premier roads situated close to the sought after Francis Road.<br><br>Entering through your own front door the immediate feeling of light and space only becomes more evident as you climb the stairs.<br><br>The first floor comprises a large kitchen/diner with ample kitchen units and more than enough space for a good size table and chairs.<br><br>There is a good size double bedroom and a single bedroom. The reception is bright and spacious with large square bay windows.<br><br>The landing has stairs to a loft extension, these have been positioned so as to give ample space for a small office area. The loft is a fantastic space with windows to two aspects, ensuite shower room and ample storage.<br><br>From the kitchen the stairs down lead you into a more than function utility area, plumbed for washing machine and fitted with sink and storage units. When entertaining this forms a very practical link to the house from the paved rear garden.<br><br>Brunswick Road forms part of the \"Abrahams Estate\" which has become a very sought after location in the last few years, located within easy access to Leyton/Leytonstone Central line stations it is excellently positioned for the city commuter, but this is not the only reason it has become so popular, although there has never officially been a village in Leyton, the residents are muting the area as \"Leyton Village\", it even has its own Facebook page! The area has undergone major gentrification and has a number of eateries and bars that include the Marmelo Kitchen which cooks up a host of yummy dishes and the Yard Arm which is a small independent specialising in organic wines and craft beer. Along with excellent public houses within walking distance, The Leyton Technical, Heathcote &amp; Star and Leyton Star.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "First Floor Flat",
+                "3 Bedrooms",
+                "Fitted Kitchen/Dining Room",
+                "Two bathrooms",
+                "Utility area",
+                "Rear Garden",
+                "Long Lease",
+                "Share of Freehold."
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "199e366baad58576a503c2eb1146e26419d32dcc.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "eecdcf4965ef356d351004bc1848ccdf04ae18c1.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9534571424763319d88e03c1d939cce804c84b14.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "72371453b40891874992d907aa462bb8748c61f2.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0c5049e0bdac23bede085fc2d0ebde05383b44a3.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4b6df485ac749ec3efb1a8d63f3cf187ebad40f3.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "be2d4a384281ee58621d6474fafa6746c23a0673.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0a4fca329aad58ad33fddc4323287ea62f8e4afa.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c2acfd1d90d0ebfd2fecd369b018607a0b3a9613.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4a7af71d7774ad99dbcf5da948c5d4166228485a.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cc0029dbff4178e24535e52aa80f5b421ec26b94.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "da3e91192a69058e756fb9ba6451ef443623267e.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a0cc47c5ba2f9b268aa9119f0abfb76f8f2e1b4f.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "79e841fd12ec61bf3853b4d6b5081a75040c6c5b.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "be8ec6af9a228f3cd846dba0ab6084413619c0f6.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "60384a45ddff63d56204cfbd84ae1b22f00c7bf6.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "922748f27e8ce62cf3d52fef977fbd36ca75fb65.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ccfc2c95b18a483a4513c8ae33aea731f87e549f.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c53c2179c6f75c20868b3eefde1d46cac9306cb7.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b7dabb44b20def4fd44a741986d25bee588d95c7.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "aa4e3955df7f9b28d50827b678168c9de17c400a.jpg",
+                "caption": "Photography"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 16932,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(525477).png",
+            "branchName": "Outlook Property - Leyton",
+            "brandName": "Outlook Property",
+            "chainFree": false,
+            "companyId": 8420,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brunswick Road, Leyton, London E10",
+            "furnishedState": "",
+            "groupId": 155,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6RS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60798539,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 20,
+            "numRecepts": 1,
+            "outcode": "E10",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 431201
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Brunswick Road, Leyton, London E10 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Brunswick Road, Leyton, London E10, selling for \u00a3575,000 from Outlook Property - Leyton. See property details on Zoopla or browse all our range of properties in Brunswick Road, Leyton, London E10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60798539/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.566747,
+                "longitude": -0.007893
+            }
+        },
+        "displayAddress": "Brunswick Road, Leyton, London E10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-18T21:25:01",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2006-11-14",
+                "newBuild": false,
+                "price": 217000,
+                "priceLabel": "\u00a3217,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 230
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/199e366baad58576a503c2eb1146e26419d32dcc.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Outlook Property",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60798539,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "ED6DF738-936B-11EC-B10B-B81A0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E10",
+            "areaNameUri": "london/e10/leyton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1566.5
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 377048,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 383970,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -6922
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 396720,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -19672
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 418461,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -41413
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 372800,
+                    "pctChangeSince": 1.139,
+                    "date": "2017-02-26",
+                    "changeSince": 4248
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 238278,
+                    "pctChangeSince": 58.239,
+                    "date": "2012-02-26",
+                    "changeSince": 138770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 238757,
+                    "pctChangeSince": 57.921,
+                    "date": "2007-02-26",
+                    "changeSince": 138291
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 138631,
+                    "pctChangeSince": 171.98,
+                    "date": "2002-02-26",
+                    "changeSince": 238417
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 393787,
+                    "newBuilds": 1,
+                    "numSales": 125
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 532809,
+                    "newBuilds": 99,
+                    "numSales": 455
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 453906,
+                    "newBuilds": 109,
+                    "numSales": 821
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 403666,
+                    "newBuilds": 263,
+                    "numSales": 1432
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 470000,
+                    "propertyId": 7791726,
+                    "streetAddress": "74 Brunswick Road",
+                    "uri": "74-brunswick-road/london/e10-6rs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 512500,
+                    "propertyId": 7791692,
+                    "streetAddress": "6 Brunswick Road",
+                    "uri": "6-brunswick-road/london/e10-6rs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 507570,
+                    "propertyId": 7791712,
+                    "streetAddress": "46 Brunswick Road",
+                    "uri": "46-brunswick-road/london/e10-6rs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 7791736,
+                    "streetAddress": "94 Brunswick Road",
+                    "uri": "94-brunswick-road/london/e10-6rs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 470000,
+                    "propertyId": 7791632,
+                    "streetAddress": "35 Brunswick Road",
+                    "uri": "35-brunswick-road/london/e10-6rp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 720050,
+                    "propertyId": 7793491,
+                    "streetAddress": "11 Whitney Road",
+                    "uri": "11-whitney-road/london/e10-7hg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 643756,
+                    "propertyId": 7793657,
+                    "streetAddress": "82 Manor Road",
+                    "uri": "82-manor-road/london/e10-7hn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 504000,
+                    "propertyId": 7790479,
+                    "streetAddress": "118 Newport Road",
+                    "uri": "118-newport-road/london/e10-6pg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 714000,
+                    "propertyId": 7784600,
+                    "streetAddress": "3 Buckingham Road",
+                    "uri": "3-buckingham-road/london/e10-5ng"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-15T00:00:00Z",
+                    "price": 540000,
+                    "propertyId": 7790635,
+                    "streetAddress": "55 Francis Road",
+                    "uri": "55-francis-road/london/e10-6pn"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,516 @@
+{
+    "address": "White Post Lane, London E9",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 76.1,
+    "sqft": null,
+    "text": "GRouND FLoor\n76.1 sqm. (B19 5.) approx\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n\u2018TOTAL FLOOR AREA: 76. sqm (819 Sa) approx.\n",
+    "image": "./extracted_images/60776696.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60776696/",
+    "listing_no": "60776696",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.542751,
+        "longitude": -0.025908
+    },
+    "first_published": "2022-02-16T15:41:42",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60776696",
+        "publishedOn": "2022-02-16T15:41:42",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "White Post Lane, London, E9",
+                "original": "https://lc.zoocdn.com/fb142def19bdda159966c42b4e2db466640a85ba.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31290367",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 108256,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(662595).png",
+            "branchName": "Kings Group - Hackney",
+            "brandName": "Kings Sales LLP",
+            "chainFree": false,
+            "companyId": 84626,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "White Post Lane, London E9",
+            "furnishedState": "",
+            "groupId": 181,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5SZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60776696,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "E9",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 655362
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/kings-group-hackney-london-108256/",
+            "branchId": "108256",
+            "branchResultsUri": "/for-sale/branch/kings-group-hackney-london-108256/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(662595).png",
+            "phone": "020 3641 8027",
+            "name": "Kings Group - Hackney",
+            "memberType": "agent",
+            "address": "326 Mare Street, Hackney, London",
+            "postcode": "E8 1HA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hackney Wick",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Gainsborough Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Mossbourne Riverside Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Homerton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/678273337"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "dfb4178eaf4405acbc06a6f07a5c0f820eaddec9.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Kings Group - Hackney are delighted to offer For Sale, this beautiful two bedroom, top floor apartment on White Post Lane, E9. Enviably located on the edge of the Queen Elizabeth Olympic Park and a very short walk from Hackney Wick Overground Station, this property is comprised of two bedrooms, family bathroom and open plan lounge &amp; kitchen. The property also benefits from two balconies as well as access to the rooftop terrace. Offering 80 square metres of living space, the property also benefits from a resident's gym and concierge. Built in 2019, the property has 247 years remaining on the lease and falls within the catchment area of both Mossbourne Riverside Academy as well as Gainsborough Primary School. With an abundance of local shops and cafes nearby, the property is also walking distance to the impressive Westfied Shopping Centre. To arrange a viewing, please do not hesitate to get in touch.<br><br><strong>Entrance Hallway</em> (2.74m x 4.22m (9'73 x 13'10))</strong><br><br><strong>Lounge/Kitchen (Open Plan)</em> (7.21m x 4.06m (23'8 x 13'4))</strong><br><br><strong>Balcony One</em> (3.96m x 1.75m (13'63 x 5'9))</strong><br><br><strong>Bedroom One</em> (5.44m x 3.05m (17'10 x 10'0))</strong><br><br><strong>En-Suite</em> (1.83m x 1.83m (6'56 x 6'98))</strong><br><br><strong>Bedroom Two</em> (4.04m x 2.97m (13'3 x 9'9))</strong><br><br><strong>Balcony Two</em> (3.96m x 1.75m (13'63 x 5'9))</strong><br><br><strong>Family Bathroom</em> (2.18m x 1.83m (7'02 x 6'49))</strong>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedroom Apartment",
+                "Leasehold (247 Years remaining)",
+                "En-Suite to Master Bedroom",
+                "Open Plan Living",
+                "Rooftop Terrace",
+                "Resident's Gym",
+                "Walking distance to Hackney Wick station",
+                "Walking distance to both Victoria &amp; Queen Elizabeth Olympic Parks",
+                "Two Balconies",
+                "Integrated Sonos sound system"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "e16d606fb4a0638b6801e9b50773f6336d2d65a5.jpg",
+                    "caption": "Wplfp.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "e753d730739916e924e9981a3c4f7bec08942a84.jpg",
+                "caption": "Img_7574A.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e2bd5675419af53cbf182ce50aae3d607074359d.jpg",
+                "caption": "Img_7567A.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "11d950b12fa8c5ae48d3835dc9b8cbc29d0a87e7.jpg",
+                "caption": "Img_7579A.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d000c573f8e8858eb756505edad6320a01e8ab50.jpg",
+                "caption": "Img_7582A.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2377ee8268c09e25aeb8b7035b4a3e076925ce4d.jpg",
+                "caption": "Img_7558A.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b826e932aac56112d04cd8c95b0864644803b408.jpg",
+                "caption": "Img_7580A.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c56cda45a7c7801f3bf1a9bb3b2aa586af92ed6f.jpg",
+                "caption": "Img_7585A.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6f93826a1ffa6c5e74735af55a28ac3975b0a60c.jpg",
+                "caption": "Img_7577A.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "17bbfba778f8c45d416f333e1bd422b62b92b8bc.jpg",
+                "caption": "Img_7591A.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "09b4210061bb292628479455a4555170de59202c.jpg",
+                "caption": "Img_7588A.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 108256,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(662595).png",
+            "branchName": "Kings Group - Hackney",
+            "brandName": "Kings Sales LLP",
+            "chainFree": false,
+            "companyId": 84626,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "White Post Lane, London E9",
+            "furnishedState": "",
+            "groupId": 181,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5SZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60776696,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "E9",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 655362
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in White Post Lane, London E9 - Zoopla",
+        "metaDescription": "2 bed flat for sale in White Post Lane, London E9, selling for \u00a3650,000 from Kings Group - Hackney. See property details on Zoopla or browse all our range of properties in White Post Lane, London E9.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60776696/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.542751,
+                "longitude": -0.025908
+            }
+        },
+        "displayAddress": "White Post Lane, London E9",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-16T15:41:42",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 157
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/e16d606fb4a0638b6801e9b50773f6336d2d65a5.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Kings Sales LLP",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60776696,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "078A7108-971F-11EC-8417-F2E60D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E9",
+            "areaNameUri": "london/e9/homerton-south-hackney",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2225.6481481481474
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 445269,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 453444,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -8175
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 468502,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -23233
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 494176,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -48907
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 440258,
+                    "pctChangeSince": 1.138,
+                    "date": "2017-02-26",
+                    "changeSince": 5011
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 281395,
+                    "pctChangeSince": 58.236,
+                    "date": "2012-02-26",
+                    "changeSince": 163874
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 281961,
+                    "pctChangeSince": 57.919,
+                    "date": "2007-02-26",
+                    "changeSince": 163308
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 163717,
+                    "pctChangeSince": 171.975,
+                    "date": "2002-02-26",
+                    "changeSince": 281552
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 473159,
+                    "newBuilds": 0,
+                    "numSales": 140
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 482499,
+                    "newBuilds": 47,
+                    "numSales": 416
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 462592,
+                    "newBuilds": 55,
+                    "numSales": 720
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 450054,
+                    "newBuilds": 115,
+                    "numSales": 1215
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 340000,
+                    "propertyId": 7772557,
+                    "streetAddress": "Flat 143, Banister House, Homerton High Street",
+                    "uri": "flat-143/banister-house/homerton-high-street/london/e9-6bn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 276000,
+                    "propertyId": 7774596,
+                    "streetAddress": "38 Trelawney Estate, Paragon Road",
+                    "uri": "38-trelawney-estate/paragon-road/london/e9-6ns"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 390000,
+                    "propertyId": 7769217,
+                    "streetAddress": "34 Leabank Square",
+                    "uri": "34-leabank-square/london/e9-5lp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 7781135,
+                    "streetAddress": "Flat 9, Williams House, 2 King Edward's Road",
+                    "uri": "flat-9/williams-house/2-king-edward-s-road/london/e9-7sj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-22T00:00:00Z",
+                    "price": 1775000,
+                    "propertyId": 7767014,
+                    "streetAddress": "13 Brookfield Road",
+                    "uri": "13-brookfield-road/london/e9-5ah"
+                }
+            ]
+        }
+    }
+}

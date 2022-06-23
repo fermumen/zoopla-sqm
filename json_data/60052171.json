@@ -1,0 +1,544 @@
+{
+    "address": "Cobbold Road, London NW10",
+    "price": "\u00a3599,995",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": 985.0,
+    "text": " \n\n \n\nShed\n4.44x2.09m\n\nGarden\n4'53x10.02m\n(APPROX)\n\n     \n   \n\nBedroom\n2.80x3.30m\n\nKitchen /\nBreakfast Room\n2.80 x5.00m\n\nBedroom\n270x3.40m\n\nBedroom\n437x3.87m\n\nBedroom\n3.20x3.32m\n\nApproximate Gross Internal Area: 92.0 m*/ 985 sq, ft (excluding garden, shed)\n\n \n\n \n",
+    "image": "./extracted_images/60052171.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60052171/",
+    "listing_no": "60052171",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.547401,
+        "longitude": -0.24696
+    },
+    "first_published": "2021-10-26T16:06:47",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60052171",
+        "publishedOn": "2021-10-26T16:06:47",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 106269,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(709247).png",
+            "branchName": "eXp World UK",
+            "brandName": "Exp Realty",
+            "chainFree": true,
+            "companyId": 82678,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Cobbold Road, London NW10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9SU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60052171,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 18,
+            "numRecepts": 2,
+            "outcode": "NW10",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 599995,
+            "price": 599995,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_in_region_of",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 487330
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/exp-world-uk-trafalgar-square-106269/",
+            "branchId": "106269",
+            "branchResultsUri": "/for-sale/branch/exp-world-uk-trafalgar-square-106269/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(709247).png",
+            "phone": "01462 228653",
+            "name": "eXp World UK",
+            "memberType": "agent",
+            "address": "eXp World UK limited, 1 Northumberland Avenue, Trafalgar Square",
+            "postcode": "WC2N 5BW"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Leopold Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary's CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Neasden",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Dollis Hill",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.reevo360.com/uploads/property/2u4wvot4zal9g1kz8894hofttmfdq55s98e1ho6hbkmfxuwi8437osa5yzlboa5w"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Quiet residential Road... Three/four bedroom, mid-terraced period house, private rear garden, with potential to extend into the loft and rear of the property, subject to the usual consents. The property offers 985sq ft of accommodation over two floors at present. In close proximity of local shops and transport facilities.<br><br>Comprising of double glazing, gas central heating, and timber style flooring throughout, high ceilings in both the reception &amp; lounge, fitted eat-in kitchen, family bathroom, W.C on each floor, and garden with large outbuilding.<br><br>Minute\u2019s walk to local schools, public transport, and Willesden Town Centre. Easy access to A404 Harrow Road and A406 North Circular Road. The property is being sold with no upper chain.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Chain Free",
+                "Two W.Cs",
+                "Private rear garden",
+                "Neasden Station 0.5 Miles",
+                "St Joseph's Catholic Primary School 0.4 miles"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "d8d1847ff84332c6d0f670da5207aae76f599eb7.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "b7fdb6dfea89c52bbe75d77259291a04327d17db.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "de09c01bb1a9f38ce20e50485237c49c591cc864.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "55ee23be4525b4ce4ea4d03402a3f596b6c14388.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4567abb14bb5cfa181fa175edcf79b19d00a3257.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "612a60fab3cbc6a479bef7d138c4cdceeab4f345.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1b659958dca0fec067c3fa2a8db8bdba8d7d30d4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fb561825445d0d5fa4f81d2ce23e4077768fc386.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "89729c2a96a837af2b1d3ff3be6376b6a61dc8d4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6c2eee0c49aec65dbf000ed6466acbaf1af8d302.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a57cb9d407e2d1fb291fde8d79de352150454097.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7c2cec8f0fa89e4b7043b5a2fb8bfae58ecd2d22.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "546d52440df4d5923fc42c732f7b3e8502103aba.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "beb322151964d6cf62b8e127b22914b6bb2c1104.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "98008a61c017256c4a81f8d5df4ee5d32a90e71b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a6ef8715637c79e35fdf35fb8beda87045e3a4ff.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e061a2691fb396d62c0e9378a2e8d5cc1df32092.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b80f9eae69b91ef07190cbb95ff44f7115ab7bec.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2532117cfd6588156ef8d3039c7d72d80b15a305.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 106269,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(709247).png",
+            "branchName": "eXp World UK",
+            "brandName": "Exp Realty",
+            "chainFree": true,
+            "companyId": 82678,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Cobbold Road, London NW10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9SU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60052171,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 18,
+            "numRecepts": 2,
+            "outcode": "NW10",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 599995,
+            "price": 599995,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_in_region_of",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 487330
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Cobbold Road, London NW10 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Cobbold Road, London NW10, selling for \u00a3599,995 from eXp World UK. See property details on Zoopla or browse all our range of properties in Cobbold Road, London NW10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60052171/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.547401,
+                "longitude": -0.24696
+            }
+        },
+        "displayAddress": "Cobbold Road, London NW10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-10-26T16:06:47",
+                "priceLabel": "\u00a3599,599"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": true,
+                    "isPriceDrop": false,
+                    "isPriceIncrease": true,
+                    "percentageChangeLabel": "< 0.1",
+                    "priceChangeDate": "2021-10-26T19:46:21",
+                    "priceChangeLabel": "\u00a3396",
+                    "priceLabel": "\u00a3599,995"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 45
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/d8d1847ff84332c6d0f670da5207aae76f599eb7.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 2
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3599,995",
+            "priceQualifierLabel": "Offers in region of",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Exp Realty",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60052171,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "BDB84A1E-73BF-11EC-B406-87080E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW10",
+            "areaNameUri": "london/nw10/willesden-harlesden-kensal-green",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2477.8541666666665
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 763908,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 778372,
+                    "pctChangeSince": -1.858,
+                    "date": "2021-11-26",
+                    "changeSince": -14464
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 805011,
+                    "pctChangeSince": -5.106,
+                    "date": "2021-08-26",
+                    "changeSince": -41103
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 785564,
+                    "pctChangeSince": -2.757,
+                    "date": "2021-02-26",
+                    "changeSince": -21656
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 671941,
+                    "pctChangeSince": 13.687,
+                    "date": "2017-02-26",
+                    "changeSince": 91967
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 481686,
+                    "pctChangeSince": 58.59,
+                    "date": "2012-02-26",
+                    "changeSince": 282222
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 429361,
+                    "pctChangeSince": 77.917,
+                    "date": "2007-02-26",
+                    "changeSince": 334547
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 251120,
+                    "pctChangeSince": 204.2,
+                    "date": "2002-02-26",
+                    "changeSince": 512788
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 908047,
+                    "newBuilds": 0,
+                    "numSales": 124
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 889190,
+                    "newBuilds": 0,
+                    "numSales": 345
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 861928,
+                    "newBuilds": 0,
+                    "numSales": 618
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 844704,
+                    "newBuilds": 1,
+                    "numSales": 950
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 17337612,
+                    "streetAddress": "70 Cobbold Road",
+                    "uri": "70-cobbold-road/london/nw10-9sx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 424000,
+                    "propertyId": 17334129,
+                    "streetAddress": "34b Baker Road",
+                    "uri": "34b-baker-road/london/nw10-8ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 525000,
+                    "propertyId": 17336379,
+                    "streetAddress": "52 Glynfield Road",
+                    "uri": "52-glynfield-road/london/nw10-9le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 607000,
+                    "propertyId": 27225904,
+                    "streetAddress": "141a Purves Road",
+                    "uri": "141a-purves-road/london/nw10-5th"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1450000,
+                    "propertyId": 17317593,
+                    "streetAddress": "112 Hanover Road",
+                    "uri": "112-hanover-road/london/nw10-3dp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1400000,
+                    "propertyId": 17318304,
+                    "streetAddress": "208 Chamberlayne Road",
+                    "uri": "208-chamberlayne-road/london/nw10-3jx"
+                }
+            ]
+        }
+    }
+}

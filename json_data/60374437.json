@@ -1,0 +1,542 @@
+{
+    "address": "Gillian Street, London SE13",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 77.4,
+    "sqft": 833.0,
+    "text": "Gillian Street\nKQ\na\n\\ N\nStore \\\nGarden i\nExtends To\nBy 15'0 (4.57)\n[33] Kitchen ~~ =\noS) 74x65 Ne)\n2.24 x 1.96 / \\/ NM\nDn i I\na } iy Dn\nDining Room Bedroom\n| | 10110 x 10'0 10'11 x 911\nco 3.30 x 3.05 3.33 x 3.02\ni / PN\nUp vy \u2018 i \\\n\u2014_ '\n\\ ry y,\n\\ \\ \u201c\n] ae i\nReception Room Bedroom\n_ 12'5 x 12'3 15\u00b07 x 12'5\n\\ 3.78 x 3.73 4.75 x 3.78\n| /\nIN \u00a3\n\u2014\nGround Floor First Floor\nApproximate Gross Internal Area = 822 sq ft / 76.4 sqm\nStore = 11 sq ft/ 1.0 sqm\nTotal = 833 sq ft/ 77.4 sqm\nIllustration for identification purposes only,\nmeasurements are approximate.\nDrawn for Sebastian Roche\n",
+    "image": "./extracted_images/60374437.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60374437/",
+    "listing_no": "60374437",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.456199,
+        "longitude": -0.020831
+    },
+    "first_published": "2021-12-14T18:02:42",
+    "last_sale_date": "2011-04-05",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60374437",
+        "publishedOn": "2021-12-14T18:02:42",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Gillian St Lf",
+                "original": "https://lc.zoocdn.com/d64eacea557728cff0c1db802aef8b10c78e7347.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10939,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(50001).jpeg",
+            "branchName": "Sebastian Roche Ltd",
+            "brandName": "Sebastian Roche Ltd",
+            "chainFree": false,
+            "companyId": 5586,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Gillian Street, London SE13",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7AH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60374437,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE13",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 523600
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/sebastian-roche-ltd-london-10939/",
+            "branchId": "10939",
+            "branchResultsUri": "/for-sale/branch/sebastian-roche-ltd-london-10939/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(50001).jpeg",
+            "phone": "020 8690 8888",
+            "name": "Sebastian Roche Ltd",
+            "memberType": "agent",
+            "address": "44, Ladywell Road, Lewisham, London",
+            "postcode": "SE13 7PZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ladywell",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary's Lewisham Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Prendergast School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Crofton Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "57874b803d9c55f4a9ead93caa53eefc2cb00441.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Located in the Ladywell Conservation area, this charming, 2-bedroom period house is just around the corner from Ladywell station as well as a range of amenities to be found along the high street.<br>The property has a warm and homely feel with solid wood flooring downstairs, tasteful d\u00e9cor and period features throughout. On the ground floor is a walk-through reception room divided into a seating and dining areas. At the rear is a fitted kitchen with a door out to a private, south-facing courtyard garden. Upstairs is a master bedroom with built-in wardrobes in both alcoves, another double bedroom and a bright family bathroom.<br>Ladywell is a vibrant, cosmopolitan area popular among young families and professionals. It has a village-like feel with a high street made up of a variety of independent shops. There's a French bakery/patisserie which serves delicious cakes and lunchtime snacks. The deli is great place to pick up groceries including organic fruit and vegetables. The popular local butcher's sells traditional and rare produce. Nearby restaurants of note include Mamma Dough (a hip sourdough pizzeria), and the Ladywell Tavern (a popular gastro-pub which serves craft beers).<br>Ladywell station just over the road and provides fast and frequent services into central London. In addition, Lewisham DLR is 1 stop away with access to Canary Wharf and the City.<br>Hilly Fields is just up the road and plays host to a regular farmers' market. Ladywell Fields is also nearby and this leads onto the scenic Water Link way, ideal for a Sunday afternoon bike ride or stroll.<br>There are a number of good schools in the area including Gordonbrock Primary School and Prendergast School for Girls.<br>The area also boasts various sporting facilities including an athletics track, tennis courts in Ladywell Fields and Hilly Fields, and a swimming pool and leisure centre near Lewisham station.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 bedrooms",
+                "Walk-through reception room",
+                "Separate kitchen",
+                "Private south-facing courtyard garden",
+                "Spacious bathroom",
+                "Close to Ladywell station",
+                "Close to Hilly Fields",
+                "Close to amenities"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "d093d3d246d6ce7332e7e67faef44cb9f9deecec.png",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "8621e4602966a3aa21020955e2cd4510372ae099.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c6fc4ad28edb1f51bdf09237a4231fd80f423c13.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b64f9a69fa33b5480518020ebe23153b4b892b05.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f82f5d1474604d6a259231cf865cbff4f7568fb9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d238288416131a2046ecb49c42c32c27b742d46e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "389039ca81a9dd1dd0005c09403162f135f31c82.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c4384c06b2f5827ee2ca8db05b2ed35419a5991d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e0547a1bc0e700053e0b36182309630897b2171f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e2eb4bb795e06d68f774b7b09d3eaa6ec0101861.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d6944963849bb24620d841eab2f496bb7d6092cd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d4c5367ea6b7eb23b35bb99daabc90fcfe59a95d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "786fa6c4620e22a2d3c4c545c7073c15931bfdac.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10939,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(50001).jpeg",
+            "branchName": "Sebastian Roche Ltd",
+            "brandName": "Sebastian Roche Ltd",
+            "chainFree": false,
+            "companyId": 5586,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Gillian Street, London SE13",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7AH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60374437,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE13",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 523600
+        },
+        "title": "2 bed terraced house for sale",
+        "metaTitle": "2 bed terraced house for sale in Gillian Street, London SE13 - Zoopla",
+        "metaDescription": "2 bed terraced house for sale in Gillian Street, London SE13, selling for \u00a3600,000 from Sebastian Roche Ltd. See property details on Zoopla or browse all our range of properties in Gillian Street, London SE13.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60374437/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.456199,
+                "longitude": -0.020831
+            }
+        },
+        "displayAddress": "Gillian Street, London SE13",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-14T18:02:42",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2011-04-05",
+                "newBuild": false,
+                "price": 243000,
+                "priceLabel": "\u00a3243,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4",
+                    "priceChangeDate": "2022-01-31T14:45:26",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 235
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/d093d3d246d6ce7332e7e67faef44cb9f9deecec.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Sebastian Roche Ltd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60374437,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "DAED7A9C-900B-11EC-9616-E7C20D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE13",
+            "areaNameUri": "london/se13/lewisham-hither-green",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": null
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 594151,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 601033,
+                    "pctChangeSince": -1.145,
+                    "date": "2021-11-26",
+                    "changeSince": -6882
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 621020,
+                    "pctChangeSince": -4.327,
+                    "date": "2021-08-26",
+                    "changeSince": -26869
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 628588,
+                    "pctChangeSince": -5.478,
+                    "date": "2021-02-26",
+                    "changeSince": -34437
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 566326,
+                    "pctChangeSince": 4.913,
+                    "date": "2017-02-26",
+                    "changeSince": 27825
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 357892,
+                    "pctChangeSince": 66.014,
+                    "date": "2012-02-26",
+                    "changeSince": 236259
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 333140,
+                    "pctChangeSince": 78.349,
+                    "date": "2007-02-26",
+                    "changeSince": 261011
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 204358,
+                    "pctChangeSince": 190.74,
+                    "date": "2002-02-26",
+                    "changeSince": 389793
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 712356,
+                    "newBuilds": 0,
+                    "numSales": 142
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 681280,
+                    "newBuilds": 7,
+                    "numSales": 385
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 655887,
+                    "newBuilds": 7,
+                    "numSales": 660
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 627636,
+                    "newBuilds": 9,
+                    "numSales": 1005
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-09T00:00:00Z",
+                    "price": 560000,
+                    "propertyId": 21038002,
+                    "streetAddress": "13 Gillian Street",
+                    "uri": "13-gillian-street/london/se13-7ah"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-10T00:00:00Z",
+                    "price": 485000,
+                    "propertyId": 21038007,
+                    "streetAddress": "18 Gillian Street",
+                    "uri": "18-gillian-street/london/se13-7ah"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-21T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 21030447,
+                    "streetAddress": "56 Fernbrook Road",
+                    "uri": "56-fernbrook-road/london/se13-5nf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 21030489,
+                    "streetAddress": "74 Fernbrook Road",
+                    "uri": "74-fernbrook-road/london/se13-5nh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 525000,
+                    "propertyId": 21037496,
+                    "streetAddress": "14 Hospital Way",
+                    "uri": "14-hospital-way/london/se13-6uf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 655000,
+                    "propertyId": 21030356,
+                    "streetAddress": "53 Longhurst Road",
+                    "uri": "53-longhurst-road/london/se13-5na"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 920000,
+                    "propertyId": 21036077,
+                    "streetAddress": "10 St. Swithuns Road",
+                    "uri": "10-st-swithuns-road/london/se13-6rw"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,505 @@
+{
+    "address": "St Josephs Vale, Blackheath SE3",
+    "price": "\u00a3615,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 87.7,
+    "sqft": 944.0,
+    "text": "GROUND FLOOR\n\n1ST FLOOR\n\n289 sq.ft. (26.8 sq.m.) approx.\n\n656 sq.ft. (60.9 sq.m.) approx.\n\noe\n\nSHOWER\n\n=\n\nBATHROOM\n\nn\n\nBEDROOM 2\u00b0\n\n9'\n\n.\n\n3\"\n\nx\n\n|\n\n2.82m x 2.28m\n\nRECEPTION ROOM\n\n2411\" x 19'9\"\n\n7.59m_ x 6.02m\n\n=\n\nam_x 6.\n\n=\n\nGARAGE\n\n200\"\n\nx8'6\"\n\n\u201cCel\n\n6.10m x 2.60m\n\nHALL\n\nBEDROOM\n\na\n\nx 9\"\n\n3.58m x 2.82m\n\nlOO\n\nOO\n\nI\n\nTOTAL FLOOR AREA : 944 sq.ft. (87.7 sq.m.) approx.\n\nWhilst every attempt has been made to ensure t\n\naccuracy of th\n\njoorplan cor\n\nined here, measurements\n\nof\n\n's, windows, rooms and any other items\n\napproxi\n\neal\n\n\u2018no respot\n\niy is\n\nen for any et\n\n\u2018omission\n\ntatem\u00e9\n\nThis pl\n\nive pul\n\nes\n\nly and shot\n\ne used as suc\n\nby at\n\nprosp\n\nser. Th\n\n28,\n\nlances sho\n\nave not be\n\ntested and no guarantee\n\nas to\n\noperabil\n\noF efficiency ci\n\nMade wi\n\n022\n",
+    "image": "./extracted_images/60754281.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60754281/",
+    "listing_no": "60754281",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.465512,
+        "longitude": -0.001967
+    },
+    "first_published": "2022-02-14T15:01:33",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60754281",
+        "publishedOn": "2022-02-14T15:01:33",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Property Details",
+                "original": "https://lc.zoocdn.com/e89807868d685fd7415b64569e0bcb7744d2e36b.pdf",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 48770,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(82890).png",
+            "branchName": "Comber & Company",
+            "brandName": "Comber Company",
+            "chainFree": false,
+            "companyId": 24593,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "St Josephs Vale, Blackheath SE3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0XF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60754281,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SE3",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 615000,
+            "price": 615000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 688211
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/comber-and-company-48770/",
+            "branchId": "48770",
+            "branchResultsUri": "/for-sale/branch/comber-and-company-48770/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(82890).png",
+            "phone": "020 3641 5310",
+            "name": "Comber & Company",
+            "memberType": "agent",
+            "address": "2 Montpelier Vale",
+            "postcode": "SE3 0TA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Matthew Academy",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "John Ball Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Blackheath",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lewisham",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "An unusual and exciting flat, almost a detached house, built upon its own and two neighbouring garages. It has its own private entrance door which opens into a spacious oak floored hallway, and gives access to a shower room and the integral garage. A spiral staircase ascends to the first floor, and the reception room, an extraordinary space, with vaulted ceiling and great natural light from immensely tall west-facing windows. It has solid oak flooring which continues throughout the two adjoining bedrooms and at the other end of the room, a door leads to the well-fitted bathroom and an arch links to the double aspect kitchen.<br><br>St Josephs Vale is a quiet, beautifully landscaped development built in the late 1980s just off Lee Terrace, within 400 yards of the heath via Heath Lane and an easy 10 minute walk to the station via the station carpark. Lewisham Zone 2 and DLR stations are also close by.<br><br>The Accommodation Comprises:<br>Entrance hall : Shower room : Integral garage : Reception room : Kitchen : Two bedrooms : Bathroom",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "297ce3728744739eb691f059c9a96da6469cd9c7.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "48258d49f0f9cb949b6cb7f1bf8d59900509ce0e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f67b2951e8ef8c4698e1283e33df866f38643d4f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4efbb4710c9e03d8fb58bed7c7b8b3525c786a73.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "36c91f170862a62fbca93d0b7f6cf95a4f5bd9a0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7bd73580305e4d02fe04d6bfb1ec70333c80e682.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a3917337c94a0e723900131fb9142cad32d20651.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "03df900a66f95edaca1af63b7d6a0110b2a3303b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9bf9d9b6dd61f653816cd969629a71284340474b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ecf7b7e973c59a247e10b594ff7eb182c586de05.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 48770,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(82890).png",
+            "branchName": "Comber & Company",
+            "brandName": "Comber Company",
+            "chainFree": false,
+            "companyId": 24593,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "St Josephs Vale, Blackheath SE3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0XF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60754281,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SE3",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 615000,
+            "price": 615000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 688211
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in St Josephs Vale, Blackheath SE3 - Zoopla",
+        "metaDescription": "2 bed flat for sale in St Josephs Vale, Blackheath SE3, selling for \u00a3615,000 from Comber & Company. See property details on Zoopla or browse all our range of properties in St Josephs Vale, Blackheath SE3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60754281/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.465512,
+                "longitude": -0.001967
+            }
+        },
+        "displayAddress": "St Josephs Vale, Blackheath SE3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-14T15:01:33",
+                "priceLabel": "\u00a3615,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 76
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/297ce3728744739eb691f059c9a96da6469cd9c7.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3615,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Comber Company",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60754281,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "1C933B1A-8DB1-11EC-8DC6-C3D00D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE3",
+            "areaNameUri": "london/se3/blackheath-kidbrooke-westcombe-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2022.6666666666674
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 462884,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 466070,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3186
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 468055,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5171
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 489778,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -26894
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 445442,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 17442
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 291197,
+                    "pctChangeSince": 58.959,
+                    "date": "2012-02-26",
+                    "changeSince": 171687
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 281386,
+                    "pctChangeSince": 64.501,
+                    "date": "2007-02-26",
+                    "changeSince": 181498
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 166963,
+                    "pctChangeSince": 177.237,
+                    "date": "2002-02-26",
+                    "changeSince": 295921
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 474299,
+                    "newBuilds": 0,
+                    "numSales": 153
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 474566,
+                    "newBuilds": 44,
+                    "numSales": 433
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 462955,
+                    "newBuilds": 48,
+                    "numSales": 777
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 451023,
+                    "newBuilds": 278,
+                    "numSales": 1398
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-11T00:00:00Z",
+                    "price": 351000,
+                    "propertyId": 20888902,
+                    "streetAddress": "96 St. Josephs Vale",
+                    "uri": "96-st-josephs-vale/london/se3-0xq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-25T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 20888819,
+                    "streetAddress": "13 St. Josephs Vale",
+                    "uri": "13-st-josephs-vale/london/se3-0xf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-23T00:00:00Z",
+                    "price": 340000,
+                    "propertyId": 20888827,
+                    "streetAddress": "21 St. Josephs Vale",
+                    "uri": "21-st-josephs-vale/london/se3-0xf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 880000,
+                    "propertyId": 20887408,
+                    "streetAddress": "9 Wricklemarsh Road",
+                    "uri": "9-wricklemarsh-road/london/se3-0nf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 548000,
+                    "propertyId": 20889727,
+                    "streetAddress": "47 Invicta Road",
+                    "uri": "47-invicta-road/london/se3-7hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 775000,
+                    "propertyId": 20894911,
+                    "streetAddress": "19 Woolacombe Road",
+                    "uri": "19-woolacombe-road/london/se3-8qj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 463000,
+                    "propertyId": 20891921,
+                    "streetAddress": "25d St. Johns Park",
+                    "uri": "25d-st-johns-park/london/se3-7td"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 875000,
+                    "propertyId": 20886342,
+                    "streetAddress": "8 The Plantation",
+                    "uri": "8-the-plantation/london/se3-0ab"
+                }
+            ]
+        }
+    }
+}

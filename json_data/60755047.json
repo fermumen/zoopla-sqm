@@ -1,0 +1,516 @@
+{
+    "address": "Blackshaw Road, London SW17",
+    "price": "\u00a3550,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": 747.0,
+    "text": "SESSEES\nRRR\nRCSL SS\neer satect\nKS\u2019) GARDEN TSS\nix 56'5 x 1311 KX]\nMeececerecetet\n> x!\nNg, Kecerecececee\u2019e\n<a DX OOOH)\na\n) 274\nFL\u00bb Se\n(2.4m x 2m) | |\na eee ce\nPF SZ SO SO SKY Sd Ke.\nROSE J\nre GARDEN xX\nciate =\n< (3.5m x 3.1m) X ] exer |\u00a9\nSOOO (3.7m x 3m)\nSRR\nXIAP\u2018)\nw A upal je |\nTE |\nf= ie\nein (2.8m x 2.3m) __\n/\nGROUND FLOOR ae\nGROSS INTERNAL\nFLOOR AREA 48 SQ FT PH\nBEDROOM ze\n42\u00b0 11'2 =\nEa (3.7m x 3.4m) ==\nnm rt]\n= Se CTI\n=\n=a\nHe -\nUP | A\nposi | Pe\n(3.7m x 3.6m)\n71x62\n7 | (2.4m x 1.9m)\nify\nIN\nGROUND FLOOR FIRST FLOOR\nGROSS INTERNAL GROSS INTERNAL\nFLOOR AREA 48 SQ FT FLOOR AREA 747 SQ FT\nDisclaimer: Floor plan measurements are approximate and are for illustrative purposes only.\nWhile we do not doubt the floor plan accuracy and completeness, you or your advisors should\n",
+    "image": "./extracted_images/60755047.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60755047/",
+    "listing_no": "60755047",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.428385,
+        "longitude": -0.18001
+    },
+    "first_published": "2022-02-14T15:34:11",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60755047",
+        "publishedOn": "2022-02-14T15:34:11",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/TOO220051",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=TOO220051",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 15809,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Tooting",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Blackshaw Road, London SW17",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0BU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60755047,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SW17",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 509532
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-tooting-london-15809/",
+            "branchId": "15809",
+            "branchResultsUri": "/for-sale/branch/winkworth-tooting-london-15809/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8115 2369",
+            "name": "Winkworth - Tooting",
+            "memberType": "agent",
+            "address": "17 Upper Tooting Road, Tooting, London",
+            "postcode": "SW17 7TS"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Smallwood Primary School and Language Unit",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Broadwater Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Haydons Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tooting Broadway",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "2809f581f8e4fac5b1488d0d3cfbb345149448e5.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A beautifully presented period maisonette offered in excellent decorative order throughout. The accommodation comprises a stunning South facing reception room with a period feature fireplace and bespoke built-in bookshelves. There are two double bedrooms both boasting original fireplaces and a further single bedroom currently used as a home office. The kitchen/breakfast room is to the rear, this has been carefully designed to offer maximum storage potential with kickboard level drawers and integral appliances. There is a superb family shower room to the rear of the property which has been meticulously modernised. Externally, there is a stunning rear garden which has been well landscaped offering a large paved terrace, ample lawn area and a further decked terrace to the end. An additional storage cupboard can also be found from the garden.<br><br>There are 169 years remaining on the current lease along with a peppercorn ground rent.<br><br>Blackshaw Road is ideally positioned for access in and out of Central London, as well as providing easy access to both Tooting Broadway underground (Northern Line) and Tooting overground stations. The shopping, dining and entertainment facilities of Tooting high street and Tooting Broadway market are within a short distance. There are three Ofsted rated \u2018outstanding\u2019 schools within striking distance of the property. The properties location further benefits from being close to Tooting Bec Common, Wimbledon Common and Wandsworth Common.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "1cabf879a423c0de5e886c052e89125511a4f3f5.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "3d88641d9acb96d7f383eefca95f3e00b4f62a25.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f86fbe032b7dc9c272505a4e050929423815ed4b.jpg",
+                "caption": "Picture No. 01"
+            },
+            {
+                "__typename": "Media",
+                "filename": "162a653e7f4c99b442276e29f45f7f21d8107ce5.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6027c788a2fd4d5c39915e8852125c97cf198648.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a2fedf617cfaacdd100191f98f70c8c9954523fe.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fb53b929526eb0593749273f9f67de962d299de1.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b154d2b43639ddd3bf31cfe731f97d7f6b69c64e.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b7b4da4f7c9eb2921fb57efbc5c01424de524767.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7ffe9bb41b8697309ef359c7af9bcc5f002a8de8.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bdcad11f359ae8cd82112d2b67649c40314488b5.jpg",
+                "caption": "Picture No. 07"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 15809,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Tooting",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Blackshaw Road, London SW17",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0BU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60755047,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SW17",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 509532
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Blackshaw Road, London SW17 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Blackshaw Road, London SW17, selling for \u00a3550,000 from Winkworth - Tooting. See property details on Zoopla or browse all our range of properties in Blackshaw Road, London SW17.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60755047/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.428385,
+                "longitude": -0.18001
+            }
+        },
+        "displayAddress": "Blackshaw Road, London SW17",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-14T15:34:11",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 231
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/1cabf879a423c0de5e886c052e89125511a4f3f5.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60755047,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "8FCF0326-8DAB-11EC-A367-4D160E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW17",
+            "areaNameUri": "london/sw17/tooting",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2394.476190476192
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 463081,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 465368,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2287
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 465663,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2582
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 485088,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -22007
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 470025,
+                    "pctChangeSince": -1.477,
+                    "date": "2017-02-26",
+                    "changeSince": -6944
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 324021,
+                    "pctChangeSince": 42.917,
+                    "date": "2012-02-26",
+                    "changeSince": 139060
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 295995,
+                    "pctChangeSince": 56.449,
+                    "date": "2007-02-26",
+                    "changeSince": 167086
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 180337,
+                    "pctChangeSince": 156.786,
+                    "date": "2002-02-26",
+                    "changeSince": 282744
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 488804,
+                    "newBuilds": 0,
+                    "numSales": 293
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492441,
+                    "newBuilds": 18,
+                    "numSales": 857
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 480456,
+                    "newBuilds": 27,
+                    "numSales": 1562
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 470966,
+                    "newBuilds": 131,
+                    "numSales": 2513
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 785000,
+                    "propertyId": 23346007,
+                    "streetAddress": "91 Blackshaw Road",
+                    "uri": "91-blackshaw-road/london/sw17-0bs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-16T00:00:00Z",
+                    "price": 665000,
+                    "propertyId": 23346047,
+                    "streetAddress": "107 Blackshaw Road",
+                    "uri": "107-blackshaw-road/london/sw17-0bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 625000,
+                    "propertyId": 23364076,
+                    "streetAddress": "19 Frinton Road",
+                    "uri": "19-frinton-road/london/sw17-9eh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 872500,
+                    "propertyId": 23367035,
+                    "streetAddress": "187 Seely Road",
+                    "uri": "187-seely-road/london/sw17-9qx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 486850,
+                    "propertyId": 23367498,
+                    "streetAddress": "73 Sellincourt Road",
+                    "uri": "73-sellincourt-road/london/sw17-9rz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1140000,
+                    "propertyId": 23361420,
+                    "streetAddress": "96 Drakefield Road",
+                    "uri": "96-drakefield-road/london/sw17-8rr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 920000,
+                    "propertyId": 23357308,
+                    "streetAddress": "40 Moring Road",
+                    "uri": "40-moring-road/london/sw17-8dl"
+                }
+            ]
+        }
+    }
+}

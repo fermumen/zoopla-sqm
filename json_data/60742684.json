@@ -1,0 +1,562 @@
+{
+    "address": "Denmark Hill, London SE5",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 58.8,
+    "sqft": 633.0,
+    "text": "_ \u2014\u2014all _\n==\nOo] \u2014\u2014{==* | cue\nOO Xoo\nBEDROOM 4.01m x 1.05m\n10\u00b010 x 9'10\n3.30m x 3.00m\nHALLWAY\n14'9 x 10'2\n4.50m x 3.10m\nRECEPTION ROOM\n149 x 11'7\n4.50m x 3.54m\nBEDROOM\n10'10 x 6'9\n3.30m x 2.06m\nBATHROOM\nI) \u201c010% 47\n\" 3.30m x 1.40m\nTOTAL APPROX. FLOOR AREA 633 SQ.FT. (58.8 SQ.M.)\nWhilst every attempt has been made to ensure the accuracy of the floor plan contained here, measurements\nof doors, windows, rooms and any other items are approximate and no responsibility is taken for any error,\nomission, or mis-statement. This plan is for illustrative purposes only and should be used as such by any\nprospective purchaser. The services, systems and appliances shown have not been tested and no guarantee\nas to their operability or efficiency can be given\nMade with Metropix \u00a92022\n",
+    "image": "./extracted_images/60742684.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60742684/",
+    "listing_no": "60742684",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.470001,
+        "longitude": -0.093668
+    },
+    "first_published": "2022-02-11T18:29:55",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60742684",
+        "publishedOn": "2022-02-11T18:29:55",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://lc.zoocdn.com/a38683e3423a226c17158296a6c7fdc44c0aa71c.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Key Facts For Buyers",
+                "original": "https://sprift.com/dashboard/property-report/?access_key=1a853a716710719ca955018a605491cfa7eb35028786d195da997d1017ccc4b4",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 73366,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(313962).png",
+            "branchName": "Urban Village",
+            "brandName": "Urban Village",
+            "chainFree": false,
+            "companyId": 40881,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Denmark Hill, London SE5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8AA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60742684,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": null,
+            "outcode": "SE5",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 347529
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/urban-village-london-73366/",
+            "branchId": "73366",
+            "branchResultsUri": "/for-sale/branch/urban-village-london-73366/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(313962).png",
+            "phone": "020 8022 1468",
+            "name": "Urban Village",
+            "memberType": "agent",
+            "address": "121 Denmark Hill, London",
+            "postcode": "SE5 8EN"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Crawford Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Denmark Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lyndhurst Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Loughborough Junction",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Graph",
+                    "filename": "31cd6576d3c9f424402f877ed9a6c79ec7f96f3e.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A recently renovated first floor flat in a detached grade 2 listed impressive property opposite side to Kings College Hospital. Two double bedrooms, a spacious lounge, separate kitchen and bathroom. The property has off street parking as well as access to a large communal garden, at the rear. Large west facing windows allow the property to enjoy afternoon and evening sun. Conveniently located a few minutes walk from Denmark Hill station with links to Victoria and London Bridge, Ruskin Park and the amenities in Loughborough Junction.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two double bedrooms",
+                "First floor",
+                "New Kitchen",
+                "New Bathroom",
+                "Large windows",
+                "Off street parking",
+                "Communal gardens",
+                "Local amenities",
+                "Ruskin Park",
+                "Denmark Hill Station"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "ec902c793a5f6a52cb243f021e822572dc59ba2d.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "deb9ad23ef9c1cd2a6944e0a653dc481013eb9ca.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e1e465111c73ddfce3c968f83204e53db0fa25ee.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f1889eff27db6397253f8f4059f31fcf781ce366.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "383aa16d5867e1f3208b331bd7a218c4f873904c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cd1b69c15b353982e3bd07a0374c73f0b4365188.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d2b7a2cc17aeea11d366c65e0ef308e3a48a7989.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7fcf3f53e32492bd3c72b62535d57e7d93c75fb9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8fcb7fbf44b88a8933e07a4c93f03ab8b83eeb6d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4d6e5c4a914443a7d9eb0ee3e064dcd1dc567351.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "daa756022709c0490b70198793c9949eb336596a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "aa3481903eb0137d0517db999bf24716d3b8a185.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d39a1661df508b66156ffb9c2cb60482e97c83e1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5a50f71aea4c24356ce237048ae1240ea25528cf.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 73366,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(313962).png",
+            "branchName": "Urban Village",
+            "brandName": "Urban Village",
+            "chainFree": false,
+            "companyId": 40881,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Denmark Hill, London SE5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8AA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60742684,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": null,
+            "outcode": "SE5",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 347529
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Denmark Hill, London SE5 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Denmark Hill, London SE5, selling for \u00a3550,000 from Urban Village. See property details on Zoopla or browse all our range of properties in Denmark Hill, London SE5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60742684/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.470001,
+                "longitude": -0.093668
+            }
+        },
+        "displayAddress": "Denmark Hill, London SE5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-11T18:29:55",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 261
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/ec902c793a5f6a52cb243f021e822572dc59ba2d.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Urban Village",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60742684,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "57543686-8FFB-11EC-B06D-0D020E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE5",
+            "areaNameUri": "london/se5/camberwell",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2028.8666666666666
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 388661,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 391337,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2676
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 393004,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -4343
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 411244,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -22583
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 374012,
+                    "pctChangeSince": 3.917,
+                    "date": "2017-02-26",
+                    "changeSince": 14649
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 244501,
+                    "pctChangeSince": 58.961,
+                    "date": "2012-02-26",
+                    "changeSince": 144160
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 236264,
+                    "pctChangeSince": 64.503,
+                    "date": "2007-02-26",
+                    "changeSince": 152397
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 140190,
+                    "pctChangeSince": 177.239,
+                    "date": "2002-02-26",
+                    "changeSince": 248471
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 447197,
+                    "newBuilds": 0,
+                    "numSales": 228
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 444569,
+                    "newBuilds": 45,
+                    "numSales": 632
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 440466,
+                    "newBuilds": 205,
+                    "numSales": 1334
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 429188,
+                    "newBuilds": 277,
+                    "numSales": 2053
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-09T00:00:00Z",
+                    "price": 1500000,
+                    "propertyId": 20921771,
+                    "streetAddress": "157 Denmark Hill",
+                    "uri": "157-denmark-hill/london/se5-8eh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 790000,
+                    "propertyId": 20925052,
+                    "streetAddress": "81a Denmark Hill",
+                    "uri": "81a-denmark-hill/london/se5-8rs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 310000,
+                    "propertyId": 20921781,
+                    "streetAddress": "Flat 2, 121 Denmark Hill",
+                    "uri": "flat-2/121-denmark-hill/london/se5-8en"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 20921706,
+                    "streetAddress": "Flat 59, Rutland Court, Denmark Hill",
+                    "uri": "flat-59/rutland-court/denmark-hill/london/se5-8ed"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-04T00:00:00Z",
+                    "price": 625000,
+                    "propertyId": 20921780,
+                    "streetAddress": "Flat 13, 121 Denmark Hill",
+                    "uri": "flat-13/121-denmark-hill/london/se5-8en"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 791440,
+                    "propertyId": 20920131,
+                    "streetAddress": "125 Coleman Road",
+                    "uri": "125-coleman-road/london/se5-7tf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 925000,
+                    "propertyId": 20928968,
+                    "streetAddress": "17 Southwell Road",
+                    "uri": "17-southwell-road/london/se5-9pf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 1760000,
+                    "propertyId": 28910636,
+                    "streetAddress": "71 Grove Park",
+                    "uri": "71-grove-park/london/se5-8lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 20919638,
+                    "streetAddress": "26 Sedgmoor Place",
+                    "uri": "26-sedgmoor-place/london/se5-7se"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 589000,
+                    "propertyId": 20920319,
+                    "streetAddress": "7 Tilson Close, Coleman Road",
+                    "uri": "7-tilson-close/coleman-road/london/se5-7tz"
+                }
+            ]
+        }
+    }
+}

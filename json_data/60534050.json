@@ -1,0 +1,531 @@
+{
+    "address": "Brewhouse Lane, Putney, London SW15",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": "599 sq. ft",
+    "sqm": 55.63,
+    "sqft": 599.0,
+    "text": "N\u00b0 \"\nA\nKITCHEN RECEPTION ROOM\n93 x 60 14'9 x 10'9\n2.82m x 1.83m 4.50m x 3.28m\ny\nA\nBEDROOM\n11'0 x 8'3\n3.35m x 2.51m\nIN\nil\nA\n_ BEDROOM\n17'3 x 8'9\n5.26m x 2.67m\nil\nThis plan has been drawn for illustrative and identification purposes only.\nAPPROXIMATE GROSS INTERNAL AREA\n599 SQ FT / 55.63 SQM\n",
+    "image": "./extracted_images/60534050.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60534050/",
+    "listing_no": "60534050",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.464554,
+        "longitude": -0.213255
+    },
+    "first_published": "2022-01-14T19:15:03",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60534050",
+        "publishedOn": "2022-01-14T19:15:03",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw15/chpk0258214/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw15/chpk0258214",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw15/chpk0258214/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2888,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Putney",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brewhouse Lane, Putney, London SW15",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2JJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60534050,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "599",
+            "tenure": null,
+            "zindex": 716907
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-putney-london-2888/",
+            "branchId": "2888",
+            "branchResultsUri": "/for-sale/branch/foxtons-putney-london-2888/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3542 2189",
+            "name": "Foxtons - Putney",
+            "memberType": "agent",
+            "address": "175 Putney High Street, London",
+            "postcode": "SW15 1RT"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Allen House Independent School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hurlingham School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Putney Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Putney",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Excellently located close to the River Thames and amenities in Putney, this stylish 2 bedroom apartment benefits from contemporary interiors, with concierge, communal gardens and underground parking space.<br><br>Transport links include East Putney and Putney Bridge underground stations (District Line) and Putney Station (National Rail) offering direct routes into central London, while the motorist will find straightforward access to the A205 (South Circular).",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Amazing 2 bedroom apartment",
+                "Bright reception room",
+                "Integrated kitchen",
+                "Ample space to dine",
+                "Main bedroom with en suite",
+                "Moments from the River Thames",
+                "Smart family bathroom"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "385a96ef603821c51358c740b1570f4849bd05c6.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "25da8adc65e591942c40348ca17f11cdf54bcaf8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "feb5bf75af34e25fffb9aec893d582b880e451a9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "236375e335d20a52992c7a141f6acfd32fb5ddd2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d61c14c074a02be5426fbb75c5e7487a69e70fe6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4bae187ac28ab6fb9ca4c23d819947e632ca5e68.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c2ad9c78d2261a80df17346ccdbdb8c9c3e322ee.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0bd2e7f14216f080295a9e6cb3b5326a3dfa7e69.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "70252484fde85452d81a8f76cd2e45092cc0a4fa.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2e82768937aa5483414606e7db3f0ae6610b380e.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2888,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Putney",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brewhouse Lane, Putney, London SW15",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2JJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60534050,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "599",
+            "tenure": null,
+            "zindex": 716907
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Brewhouse Lane, Putney, London SW15 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Brewhouse Lane, Putney, London SW15, selling for \u00a3575,000 from Foxtons - Putney. See property details on Zoopla or browse all our range of properties in Brewhouse Lane, Putney, London SW15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60534050/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.464554,
+                "longitude": -0.213255
+            }
+        },
+        "displayAddress": "Brewhouse Lane, Putney, London SW15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-14T19:15:03",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 139
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/385a96ef603821c51358c740b1570f4849bd05c6.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 599
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 960,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60534050,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "E047E5B2-8E36-11EC-A8A5-B8D30D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW15",
+            "areaNameUri": "london/sw15/putney-roehampton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2601.444444444443
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 520826,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 523398,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2572
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 523730,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2904
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 545577,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -24751
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 528643,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -7817
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 364431,
+                    "pctChangeSince": 42.915,
+                    "date": "2012-02-26",
+                    "changeSince": 156395
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 332910,
+                    "pctChangeSince": 56.446,
+                    "date": "2007-02-26",
+                    "changeSince": 187916
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 202828,
+                    "pctChangeSince": 156.782,
+                    "date": "2002-02-26",
+                    "changeSince": 317998
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 529131,
+                    "newBuilds": 0,
+                    "numSales": 335
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 533508,
+                    "newBuilds": 3,
+                    "numSales": 926
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 527780,
+                    "newBuilds": 37,
+                    "numSales": 1765
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 544252,
+                    "newBuilds": 318,
+                    "numSales": 3178
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 425000,
+                    "propertyId": 23297601,
+                    "streetAddress": "Flat 10, 2 Brewhouse Lane",
+                    "uri": "flat-10/2-brewhouse-lane/london/sw15-2jh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-02T00:00:00Z",
+                    "price": 1050000,
+                    "propertyId": 23297922,
+                    "streetAddress": "Flat 128, Putney Wharf Tower, 18 Brewhouse Lane",
+                    "uri": "flat-128/putney-wharf-tower/18-brewhouse-lane/london/sw15-2jx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 822000,
+                    "propertyId": 23297975,
+                    "streetAddress": "Flat 73, Putney Wharf Tower, 28 Brewhouse Lane",
+                    "uri": "flat-73/putney-wharf-tower/28-brewhouse-lane/london/sw15-2jx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 23306525,
+                    "streetAddress": "30 Swanwick Close",
+                    "uri": "30-swanwick-close/london/sw15-4ef"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 210000,
+                    "propertyId": 33225271,
+                    "streetAddress": "Flat 26, Devonshire House, 50 Putney Hill",
+                    "uri": "flat-26/devonshire-house/50-putney-hill/london/sw15-6dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 31858841,
+                    "streetAddress": "Flat 51, College House, 52 Putney Hill",
+                    "uri": "flat-51/college-house/52-putney-hill/london/sw15-6bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 677500,
+                    "propertyId": 23309178,
+                    "streetAddress": "231 Dover House Road",
+                    "uri": "231-dover-house-road/london/sw15-5af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 23303933,
+                    "streetAddress": "53 Keswick Avenue",
+                    "uri": "53-keswick-avenue/london/sw15-3qh"
+                }
+            ]
+        }
+    }
+}

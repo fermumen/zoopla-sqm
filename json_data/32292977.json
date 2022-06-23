@@ -1,0 +1,556 @@
+{
+    "address": "Vista Apartments, Woodlands Crescent, Greenwich, London SE10",
+    "price": "\u00a3560,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 88.2,
+    "sqft": 949.0,
+    "text": "First Floor Second Floor\nApprox. 43.6 sq. metres (469.5 sq. feet) Approx. 44.6 sq. metres (479.6 sq. feet)\nBedroom\nJ 3.45m x 4.44m\n= ; ; (i14\" x 14\u00b07\")\nva i\nSY :\n| Reception /\nKitchen\n7.06m (23'2\") F\nx 6.18m (20'3\") max\n8 Bedroom\n3.52m x 4.37m\n\u00a2 Fred (7 x 144)\n\\_(718\" x6!)\nTotal area: approx. 88.2 sq. metres (949.1 sq. feet)\n",
+    "image": "./extracted_images/32292977.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/32292977/",
+    "listing_no": "32292977",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.483704,
+        "longitude": 0.001248
+    },
+    "first_published": "2021-11-16T20:38:39",
+    "last_sale_date": "2016-09-09",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "32292977",
+        "publishedOn": "2021-11-16T20:38:39",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/GRE140027",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=GRE140027",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 59919,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Greenwich",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Vista Apartments, Woodlands Crescent, Greenwich, London SE10",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9UH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 32292977,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "SE10",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 560000,
+            "price": 560000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 550538
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-greenwich-london-59919/",
+            "branchId": "59919",
+            "branchResultsUri": "/for-sale/branch/winkworth-greenwich-london-59919/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8033 4601",
+            "name": "Winkworth - Greenwich",
+            "memberType": "agent",
+            "address": "279-283 Greenwich High Road, London",
+            "postcode": "SE10 8NB"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Meridian Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Maze Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Joseph's Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Greenwich Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "3c97177ced3b2ba670089a3684eca998b07655a0.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A superb and large two bedroom split level apartment, that occupies the first and second floor of this awesome and unique development located just seconds from the Royal Park with its Observatory.<br><br>In excellent order the property briefly comprises of a lovely 23ft kitchen diner, two really good sized double bedrooms and a modern bathroom. Added features include secure off street parking, two balconies and video entry system.<br><br>Vista Apartments is perfectly located on Woodland Crescent, on the cusp of East and West Greenwich. The town centre is within 8-10 minutes' walk, as is the leisure facilities at Greenwich Square. Maze Hill mainline rail is literally moments away.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Huge two bedroom apartment",
+                "Split level",
+                "First and second floor",
+                "Secure parking space",
+                "Superb condition",
+                "Two balconies",
+                "Moments from Royal Park",
+                "Close to town centre",
+                "Moments from mainline rail"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "f52e4a29e0915388db2b67095d1364a67504953e.jpg",
+                    "caption": "Picture No. 14"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "c8aa2da2835ba1647556ad99d429dc028b3ead73.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "be058cfc006525859fa14ab04fb9a3ec8d731635.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ab68280e21988beabe246084841201f6dbdaf135.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "632e06bbaf99e2e7366093efc13df9a99ec59eb8.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1c26f91ca7e69dbc90a783028dd4858903a8e491.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "331abf42803be439042fc794162beed9fb05d39e.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "11c70682e54c5b666ca09ee2a9a4f6d0430c19ac.jpg",
+                "caption": "Picture No. 01"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a761d7c89191cb8c40ab6ecadc7cbc14b868786f.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3dac845958131d560ee8644231bdcbe05f4c1762.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5553b107206eeab7608b66282308cb0901b13eb6.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "257754d3f49a9b13ddb3c14f8f396c2ffc68ba49.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "55fcdfceeec326e0107fb638cf40175ca8ca67cf.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "431d11882792c4b658d154fe6033e52b02742fd4.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bd75e943bd4030f80b7fd875a33e33d669a41bd8.jpg",
+                "caption": "Picture No. 10"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 59919,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Greenwich",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Vista Apartments, Woodlands Crescent, Greenwich, London SE10",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9UH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 32292977,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "SE10",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 560000,
+            "price": 560000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 550538
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Vista Apartments, Woodlands Crescent, Greenwich, London SE10 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Vista Apartments, Woodlands Crescent, Greenwich, London SE10, selling for \u00a3560,000 from Winkworth - Greenwich. See property details on Zoopla or browse all our range of properties in Vista Apartments, Woodlands Crescent, Greenwich, London SE10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/32292977/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.483704,
+                "longitude": 0.001248
+            }
+        },
+        "displayAddress": "Vista Apartments, Woodlands Crescent, Greenwich, London SE10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-16T20:38:39",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2016-09-09",
+                "newBuild": false,
+                "price": 440000,
+                "priceLabel": "\u00a3440,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "2.6",
+                    "priceChangeDate": "2022-01-19T19:25:38",
+                    "priceChangeLabel": "\u00a315,000",
+                    "priceLabel": "\u00a3560,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 39
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/f52e4a29e0915388db2b67095d1364a67504953e.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3560,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 32292977,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "171C4608-7967-11EC-AF48-0EED0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE10",
+            "areaNameUri": "london/se10/greenwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2236
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 487489,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 490846,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3357
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 492937,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5448
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 515817,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -28328
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 469124,
+                    "pctChangeSince": 3.915,
+                    "date": "2017-02-26",
+                    "changeSince": 18365
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 306678,
+                    "pctChangeSince": 58.958,
+                    "date": "2012-02-26",
+                    "changeSince": 180811
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 296346,
+                    "pctChangeSince": 64.5,
+                    "date": "2007-02-26",
+                    "changeSince": 191143
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 175840,
+                    "pctChangeSince": 177.234,
+                    "date": "2002-02-26",
+                    "changeSince": 311649
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 509351,
+                    "newBuilds": 26,
+                    "numSales": 175
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 501732,
+                    "newBuilds": 177,
+                    "numSales": 615
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 476740,
+                    "newBuilds": 511,
+                    "numSales": 1538
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 469105,
+                    "newBuilds": 1370,
+                    "numSales": 3123
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-29T00:00:00Z",
+                    "price": 462500,
+                    "propertyId": 21006009,
+                    "streetAddress": "Flat 6, Vista Apartments, 23 Woodland Crescent",
+                    "uri": "flat-6/vista-apartments/23-woodland-crescent/london/se10-9uh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1030000,
+                    "propertyId": 21004877,
+                    "streetAddress": "10 Feathers Place",
+                    "uri": "10-feathers-place/london/se10-9ne"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 1320000,
+                    "propertyId": 21002409,
+                    "streetAddress": "57 Ashburnham Grove",
+                    "uri": "57-ashburnham-grove/london/se10-8uj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 386000,
+                    "propertyId": 32075205,
+                    "streetAddress": "Flat 21, Poldo House, 24 Cable Walk",
+                    "uri": "flat-21/poldo-house/24-cable-walk/london/se10-0tq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 845000,
+                    "propertyId": 20999024,
+                    "streetAddress": "27 Dartmouth Hill",
+                    "uri": "27-dartmouth-hill/london/se10-8aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 552500,
+                    "propertyId": 21003732,
+                    "streetAddress": "78 Colomb Street",
+                    "uri": "78-colomb-street/london/se10-9ez"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,560 @@
+{
+    "address": "Manbey Park Road, London E15",
+    "price": "\u00a3650,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 115.4,
+    "sqft": null,
+    "text": "Bedroom 2\n4.20m x 4.10m\nKitchen/Reception Room (13' 9\" x 13\u00b0 5\") Bedroom 3\n9.50m x 4.20m 5.30m x 4.10m\n(31\u00b0 2\" x 13' 9\") (75! x 13\" 5\")\nNY - O ay\nPS oe x\na. | rxs \"CO LIE\n|| cal a\nBe | [oo\nCie} = | |\nFal \u00ab6\nEi ~/\n190m 1 tm\naxe)\nOo\niPS lele) | O pill\n(xs) toed\nO Bedroom 1 _\nal\nWe 4.20m x 2.60m Study;\n(13' 9\" x 8'6\") 4.10mx 3.110m\n13\" 51 on\nO nN I= ( rat )\nGround Floor First Floor Second Floor\nTotal floor area 115.4 sq.m. (1,242 sq.ft.) approx\nThis floor plan is for illustrative purposes only. It is not drawn to scale. Any measurements, floor areas (including any total floor area), openings and orientation are\napproximate. No details are guaranteed, they cannot be relied upon for any purpose and they do not form part of any agreement. No liability is taken for any error,\nomission or misstatement. A party must rely upon its own inspection(s). Plan produced for Purple Bricks. Powered by www.focalagent.com\n",
+    "image": "./extracted_images/60395972.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60395972/",
+    "listing_no": "60395972",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.545733,
+        "longitude": 0.006117
+    },
+    "first_published": "2021-12-18T17:40:11",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60395972",
+        "publishedOn": "2021-12-18T17:40:11",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://www.purplebricks.co.uk/brochure/1287089",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": true,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Manbey Park Road, London E15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1EY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60395972,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "E15",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "semi_detached",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 459347
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/purplebricks-head-office-solihull-58933/",
+            "branchId": "58933",
+            "branchResultsUri": "/for-sale/branch/purplebricks-head-office-solihull-58933/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "phone": "024 7511 8874",
+            "name": "Purplebricks, Head Office",
+            "memberType": "agent",
+            "address": "Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull",
+            "postcode": "B90 4RZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Maryland",
+                "type": "national_rail_station",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Sarah Bonnell School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Francis' Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stratford",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=D4D3uydLxmg"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "caption": "epc",
+                    "original": "https://lc.zoocdn.com/f562fbc7e047a21277c88cc019ef885151667790.pdf"
+                }
+            ]
+        },
+        "detailedDescription": "Book online today 24/7 at <br><br>*** Offers in Excess of \u00a3650,000***<br><br>A spacious three bedroom semi-detached house, set in the heart of Stratford is now available. Unlike anything in the local area it offers high quality accommodation, space to expand the dwelling and the added value of an off street carport behind secure shutters. The Carport is covered for additional benefit.<br><br>The dwelling was completed in 2012, &amp; built by its owner developers to high standard &amp; has benefit of NHBC standard certification.<br><br>Set over 3 floors &amp; with approx. 1,242 Sq Ft. Of internal space, the property boasts a generously sized, open plan lounge with ample space to dine, a modern fitted kitchen with integrated appliances, a cloakroom and a seclude rear garden, and a secure off street carport for 2 cars, 2 external secure brick built storage rooms. Potential to extend dwelling into the adjacent carport area subject to planning consent under permitted development rights to be ascertained by future owner.<br><br>Ground floor comprises open plan living accomodation with fitted kitchen, lounge/diner/wc and doors to rear garden. Floor has been fitted with high quality marble tiles.<br><br>The first floor comprises of two spacious double bedrooms both with further internal storage and triple glazed windows and a modern bathroom whilst the upper floor provides the third double bedroom, a large study/dressing room and a shower room.<br><br>This modern, newly built house, is ideally located just moments from Maryland National Rail station, Westfield 5mins walk and Olympic park 10mins walk. M11 is 20mins and close to all modes of public transport to London and beyond. Ideal and perfect property to benefit in value for a growing family or an ideal investment, . An internal viewing is recommended as soon as possible due to high level of interest for this unique type of property.<br><br>Please book online today to avoid missing out!<br><br><strong>Location</strong><br><br>Manbey Park Road is set just moment from Maryland (National Rail and soon to be Crossrail) station enabling just a 10 minute journey to Canary Wharf, 17 minutes to Bond Street or 21 minutes to Paddington.<br><br>Also very close by is Stratford (Central Line/ DLR &amp; National Rail) &amp; Stratford International (7-minute train to Kings Cross St Pancras) stations distance away, providing further great links into the City, West End and beyond.<br><br>There are also a variety of reliable bus links on the doorstep and excellent road links for the motorist, with the A12 and A406 easily accessible.<br><br>The property is set close to an array of local shops and amenities on Stratford High Street &amp; Romford Rd whilst the extensive shopping, bars and restaurants of Westfield Stratford is within easy reach.<br><br>The Queen Elizabeth Olympic Park is easily accessible, with the cafes and bars of East Village also close by.<br><br><strong>Disclaimer For Virtual Viewings</strong><br><br>Some or all information pertaining to this property may have been provided solely by the vendor, and although we always make every effort to verify the information provided to us, we strongly advise you to make further enquiries before continuing.<br><br>If you book a viewing or make an offer on a property that has had its valuation conducted virtually, you are doing so under the knowledge that this information may have been provided solely by the vendor, and that we may not have been able to access the premises to confirm the information or test any equipment. We therefore strongly advise you to make further enquiries before completing your purchase of the property to ensure you are happy with all the information provided.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Offers in excess of \u00a3650,000",
+                "Three spacious bedrooms",
+                "Modern built semi-detached house",
+                "Two bathrooms &amp; separate wc",
+                "Open plan lounge/kitchen",
+                "Integrated kitchen appliances",
+                "Private rear garden",
+                "Carport with additional storage room",
+                "No onward chain",
+                "Excellent transport links"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "b969b0d5d97f6b8260af06f44100297bbcc5d0bf.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "02b9d511bc2a0f0f1572e1627e0f30e8390f518a.jpg",
+                "caption": "Front"
+            },
+            {
+                "__typename": "Media",
+                "filename": "eded6b34291e2be166c449f8692e46b46cb20e98.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2398580fdee9943342aae331f6c3bae47c10ca27.jpg",
+                "caption": "Lounge / Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e9b8ee00579a07e65bb3d92a11f20afce70266e7.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a126db250661996deb62cc346f9277f26bcc87c2.jpg",
+                "caption": "Lounge / Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "77de91e7cba9691dc17ba1b4b324b53bc09f606f.jpg",
+                "caption": "Garden"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d40b744053b2511f2a1aa310e8d1b6bac0903c06.jpg",
+                "caption": "Garden"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b32f45eb1b827ca9ce9d845dc2bea537b5777f54.jpg",
+                "caption": "Car Port"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3d9a13a8145f63838129a30c45a3eb2e24ac3190.jpg",
+                "caption": "W.C."
+            },
+            {
+                "__typename": "Media",
+                "filename": "2e1bf4987de51effb2f3379a5e922d3b4015bf9f.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3becd01e075a8fce1c60358299ea9c454b03acc6.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1dc4214e1b6030a0ae5e628e640a01c569de90d3.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fb94e723941d9eb5633bfdb426a0b77c5c96638c.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ef8fbf06f9de0023fb9576e6d6c0ca5291dbe9cc.jpg",
+                "caption": "Dressing Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e679b5b7af09e7615bf3f0f983ca60fdb963af3c.jpg",
+                "caption": "Shower Room"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": true,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Manbey Park Road, London E15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1EY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60395972,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "E15",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "semi_detached",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 459347
+        },
+        "title": "3 bed semi-detached house for sale",
+        "metaTitle": "3 bed semi-detached house for sale in Manbey Park Road, London E15 - Zoopla",
+        "metaDescription": "3 bed semi-detached house for sale in Manbey Park Road, London E15, selling for \u00a3650,000 from Purplebricks, Head Office. See property details on Zoopla or browse all our range of properties in Manbey Park Road, London E15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60395972/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.545733,
+                "longitude": 0.006117
+            }
+        },
+        "displayAddress": "Manbey Park Road, London E15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-18T17:40:11",
+                "priceLabel": "\u00a3675,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3.7",
+                    "priceChangeDate": "2022-01-05T16:48:37",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3650,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 92
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/b969b0d5d97f6b8260af06f44100297bbcc5d0bf.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Purplebricks",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60395972,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "15A7735A-8FE8-11EC-A8DB-D5350E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E15",
+            "areaNameUri": "london/e15/stratford-west-ham",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1935.2666666666667
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 494794,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 503944,
+                    "pctChangeSince": -1.816,
+                    "date": "2021-11-26",
+                    "changeSince": -9150
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 520800,
+                    "pctChangeSince": -4.993,
+                    "date": "2021-08-26",
+                    "changeSince": -26006
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 550044,
+                    "pctChangeSince": -10.045,
+                    "date": "2021-02-26",
+                    "changeSince": -55250
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 471010,
+                    "pctChangeSince": 5.05,
+                    "date": "2017-02-26",
+                    "changeSince": 23784
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 303347,
+                    "pctChangeSince": 63.112,
+                    "date": "2012-02-26",
+                    "changeSince": 191447
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 307622,
+                    "pctChangeSince": 60.845,
+                    "date": "2007-02-26",
+                    "changeSince": 187172
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 178884,
+                    "pctChangeSince": 176.6,
+                    "date": "2002-02-26",
+                    "changeSince": 315910
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 559300,
+                    "newBuilds": 0,
+                    "numSales": 10
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 478534,
+                    "newBuilds": 0,
+                    "numSales": 29
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 492857,
+                    "newBuilds": 0,
+                    "numSales": 56
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 476823,
+                    "newBuilds": 0,
+                    "numSales": 88
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 410000,
+                    "propertyId": 7875807,
+                    "streetAddress": "22 Manbey Park Road",
+                    "uri": "22-manbey-park-road/london/e15-1ey"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 295000,
+                    "propertyId": 7875608,
+                    "streetAddress": "Flat 1, Gazelle House, 8 Manbey Park Road",
+                    "uri": "flat-1/gazelle-house/8-manbey-park-road/london/e15-1eq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 421000,
+                    "propertyId": 7890227,
+                    "streetAddress": "18 Tavistock Road",
+                    "uri": "18-tavistock-road/london/e15-4er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 532500,
+                    "propertyId": 7889565,
+                    "streetAddress": "41 Tennyson Road",
+                    "uri": "41-tennyson-road/london/e15-4dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 521265,
+                    "propertyId": 7879540,
+                    "streetAddress": "4 Dunmow Road",
+                    "uri": "4-dunmow-road/london/e15-1tz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 485000,
+                    "propertyId": 7885873,
+                    "streetAddress": "13 Ada Gardens",
+                    "uri": "13-ada-gardens/london/e15-3ew"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 7882579,
+                    "streetAddress": "128 Bisson Road",
+                    "uri": "128-bisson-road/london/e15-2rf"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,568 @@
+{
+    "address": "Priory Road, South Hampstead, London NW6",
+    "price": "\u00a3640,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 66.6,
+    "sqft": 716.0,
+    "text": "Priory Road, NW6 3RE\nApprox. Gross Internal Area = 66.6 sq m/ 716 sq ft\nrend aSSSSSS===z\nw\nKitchen / Reception Room\n= 181\" x 1811\"\n5.50m x 5.50m\nI\ncS, - Bedroom\ny\\ x 13'5\" x gio\"\n4.10m x 2.50m\nE [eS\n\u00ab Bw\nah Bedroom\nBathroom | 14'9\" x 8'10\"\n611\"x5'11\" aE 4.50m x 2.70m |\n2.10m x 1.80m O\n\u2014\n=\nThird Floor\nGross Internal\nFloor Area 66.6 sq m/ 716 sq ft\nThe Floor plan is not to scale and measurements and areas shown are approximate and therefore should be used for\nillustrative purposes only. The plan has been prepared in accordance with the RICS code of Measuring Practice and whilst we\nhave confidence in the information produced it must not be relied on. If there is any aspect of particular importance, you should\ncarry out or commission your own inspection of the property.\nCopyright @ BLEUPLAN\n",
+    "image": "./extracted_images/60592437.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60592437/",
+    "listing_no": "60592437",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.541957,
+        "longitude": -0.189052
+    },
+    "first_published": "2022-01-24T10:22:42",
+    "last_sale_date": "2015-01-21",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60592437",
+        "publishedOn": "2022-01-24T10:22:42",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Property Brochure",
+                "original": "https://lc.zoocdn.com/c43ad5a40236999aa209ee71d4dd9eb2664773fa.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "http://www.roseandcoestates.co.uk/index.php?option=com_eapow&format=html&task=property.getProp&pid=22dde736-f90f-4989-ad6f-b49f363cf356&aid=%7Bf5a8255c-17fc-4750-92e8-8104d54246e8%7D",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 42014,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(126017).png",
+            "branchName": "Rose & Co",
+            "brandName": "Rose and Co Estates Limited",
+            "chainFree": false,
+            "companyId": 20922,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Priory Road, South Hampstead, London NW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3RE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60592437,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 640000,
+            "price": 640000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 807767
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/rose-and-co-london-42014/",
+            "branchId": "42014",
+            "branchResultsUri": "/for-sale/branch/rose-and-co-london-42014/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(126017).png",
+            "phone": "020 3544 5749",
+            "name": "Rose & Co",
+            "memberType": "agent",
+            "address": "19a Goldhurst Terrace, London",
+            "postcode": "NW6 3HX"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Rainbow Montessori School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Eugene de Mazenod Roman Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Hampstead",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilburn High Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=rR9gx6qLCbx"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "caption": "Energy Performance Certificate",
+                    "original": "https://lc.zoocdn.com/41b54d0fca75eb4fde36adfe702b37b30165fe89.pdf"
+                }
+            ]
+        },
+        "detailedDescription": "Exceptional newly modernised top floor (3rd) 2 double-bedroom flat in a purpose built block on Priory Road. Bright and spacious, triple aspect flat. Superb reception space with wood flooring and double glazed windows. Open plan German fitted kitchen made by Kuhlmann with Corian worktop. Modern bathroom with tiled floor. Use of Communal Gardens. Allocated rear off street parking available at an extra cost per year as well as residents parking on-street. Located between Goldhurst Terrace and Abbey Road with both West Hampstead, Finchley Road and Kilburn Park tube stations with walking distance. West Hampstead has many supermarkets, restaurants and cafe's while Finchley road has Gyms and Cinemas. EPC:C. Viewing via Sole agents Rose and Co Estates .<br><br><strong>Exterior</strong><br><br><strong>Entrance Hallway</strong><br><br>Entry phone. Wood flooring Built in Cupboards (Housing Valiant Boiler and Washing Machine).<br><br><strong>Open Plan Reception</em> (18' 1'' x 18' 1'' (5.50m x 5.50m))</strong><br><br>Wood Flooring. Velfac double glazed windows.<br><br><strong>Open Plan Kitchen</strong><br><br>Kuhlmann German fitted kitchen Fitted wall and base units. Corian work tops.<br>4 Ring Electric induction Hob. Extractor fan. Integrated Fridge Freezer, Dishwasher &amp; Microwave, all Neff appliances Double glazed window.<br>Wood flooring.<br><br><strong>Bedroom 1</em> (14' 9'' x 8' 10'' (4.50m x 2.70m))</strong><br><br>Wood Flooring. Velfac double glazed window.<br><br><strong>Bedroom 2</em> (13' 5'' x 8' 2'' (4.10m x 2.50m))</strong><br><br>Wood Flooring. Velfac double glazed window.<br><br><strong>Bathroom WC</em> (6' 11'' x 5' 11'' (2.10m x 1.80m))</strong><br><br>3 piece bathroom suite. Tiled walls and floor. Extractor fan. Grohe shower/bath unit, Velfac double glazed window.<br><br><strong>Rear Communal Garden</strong><br><br>Access via side gate off Mews<br><br><strong>Rear Off Street Parking Available With On Street Parking.</strong><br><br>Available by separate arrangement via Freeholder l. Cost per year circa \u00a3120.00 subject to size of car engine /emissions",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Exceptional bright and spacious, triple aspect, newly modernised top floor (3rd) 2 double bedroom flat in a purpose built block on Priory Road",
+                "Located between Goldhurst Terrace and Abbey Road with both West Hampstead and Finchley Road and Kilburn Park tube stations within walking distance.",
+                "West Hampstead has many supermarkets, restaurants and cafe's while Finchley road has Gyms and Cinemas",
+                "Superb reception space with wood flooring and double glazed windows. Open plan Kuhlmann German fitted kitchen",
+                "Use of communal Gardens on street off-street Parking plus Rear parking available by separate arrangement via Freeholder. Cost per year circa \u00a3120.00 subject to size of car engine /emissions",
+                "EPC:C. Viewing via Sole Agents Rose &amp; Co Estates"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "a3379e0aeef0401b0ab7ff9ec7e68abf3855572f.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "4e9b0598dadbb44af0538aba3fb0c0a2a664c91f.jpg",
+                "caption": "Photo 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2a19c5c4178061c6ed0df3bdb77fa23f94b57cb4.jpg",
+                "caption": "Photo 18"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e4ba322ab2cee1434ab96b01f20501236191e8be.jpg",
+                "caption": "Photo 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "226a6e3a6f75550bd7e38a973df6ffe1e7ca32a1.jpg",
+                "caption": "Photo 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bce96cd5f42afca21919e784dd98e5f66b27ce06.jpg",
+                "caption": "Photo 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bede154f8a48464b947c11cf4d9cfab3ff625e1f.jpg",
+                "caption": "Photo 6"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0aafb9d6453f207bfcb6c995c236cb40cdb5120f.jpg",
+                "caption": "Photo 24"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5c11e59a92478c81b7d1411de3c941b282ed2662.jpg",
+                "caption": "Photo 5"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b8ab0935cf191718491895fe9abb9ad2eafc7043.jpg",
+                "caption": "Photo 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "65987118029a89519174128e990e7373827a24fc.jpg",
+                "caption": "Photo 17"
+            },
+            {
+                "__typename": "Media",
+                "filename": "61ef5b1cd3691da6e8856ef24be9e3e85db890e1.jpg",
+                "caption": "Photo 19"
+            },
+            {
+                "__typename": "Media",
+                "filename": "183e256b33319441d876a5bc1f1a3225c1163e18.jpg",
+                "caption": "Photo 3"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 42014,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(126017).png",
+            "branchName": "Rose & Co",
+            "brandName": "Rose and Co Estates Limited",
+            "chainFree": false,
+            "companyId": 20922,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Priory Road, South Hampstead, London NW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3RE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60592437,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 640000,
+            "price": 640000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 807767
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Priory Road, South Hampstead, London NW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Priory Road, South Hampstead, London NW6, selling for \u00a3640,000 from Rose & Co. See property details on Zoopla or browse all our range of properties in Priory Road, South Hampstead, London NW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60592437/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.541957,
+                "longitude": -0.189052
+            }
+        },
+        "displayAddress": "Priory Road, South Hampstead, London NW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-24T10:22:42",
+                "priceLabel": "\u00a3640,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2015-01-21",
+                "newBuild": false,
+                "price": 450000,
+                "priceLabel": "\u00a3450,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 142
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/a3379e0aeef0401b0ab7ff9ec7e68abf3855572f.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3640,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Rose and Co Estates Limited",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60592437,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "8C3C3CBA-7D1B-11EC-BB60-AF300E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW6",
+            "areaNameUri": "london/nw6/kilburn-queens-park-south-and-west-hampstead-brondesbury-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2462.275362318841
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 639412,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 650315,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10903
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 670511,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -31099
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 700633,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -61221
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 661041,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -21629
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 456421,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 182991
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 407367,
+                    "pctChangeSince": 56.962,
+                    "date": "2007-02-26",
+                    "changeSince": 232045
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 240567,
+                    "pctChangeSince": 165.794,
+                    "date": "2002-02-26",
+                    "changeSince": 398845
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 667712,
+                    "newBuilds": 3,
+                    "numSales": 291
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 672521,
+                    "newBuilds": 45,
+                    "numSales": 870
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 677804,
+                    "newBuilds": 112,
+                    "numSales": 1709
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 662927,
+                    "newBuilds": 321,
+                    "numSales": 2863
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-24T00:00:00Z",
+                    "price": 535000,
+                    "propertyId": 17247440,
+                    "streetAddress": "Flat 20, West End Court, Priory Road",
+                    "uri": "flat-20/west-end-court/priory-road/london/nw6-3nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 17247318,
+                    "streetAddress": "Parsons Lodge, 65 Priory Road",
+                    "uri": "parsons-lodge/65-priory-road/london/nw6-3nh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-07T00:00:00Z",
+                    "price": 922500,
+                    "propertyId": 17247361,
+                    "streetAddress": "87 Priory Road",
+                    "uri": "87-priory-road/london/nw6-3nl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-30T00:00:00Z",
+                    "price": 617500,
+                    "propertyId": 17247379,
+                    "streetAddress": "121 Priory Road",
+                    "uri": "121-priory-road/london/nw6-3nn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-29T00:00:00Z",
+                    "price": 1390000,
+                    "propertyId": 17249408,
+                    "streetAddress": "35 Priory Road",
+                    "uri": "35-priory-road/london/nw6-4nn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760000,
+                    "propertyId": 17241471,
+                    "streetAddress": "Flat 3, Lawn Mansions, Gondar Gardens",
+                    "uri": "flat-3/lawn-mansions/gondar-gardens/london/nw6-1er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 3350000,
+                    "propertyId": 17259571,
+                    "streetAddress": "98 Christchurch Avenue",
+                    "uri": "98-christchurch-avenue/mapesbury/london/nw6-7pe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1196750,
+                    "propertyId": 17241043,
+                    "streetAddress": "1 Norman Terrace, Agamemnon Road",
+                    "uri": "1-norman-terrace/agamemnon-road/london/nw6-1bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 262500,
+                    "propertyId": 17252821,
+                    "streetAddress": "Flat 4, Kilburn Gate, Kilburn Priory",
+                    "uri": "flat-4/kilburn-gate/kilburn-priory/london/nw6-5nd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 875000,
+                    "propertyId": 17260049,
+                    "streetAddress": "10 Douglas Road",
+                    "uri": "10-douglas-road/london/nw6-7rp"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,522 @@
+{
+    "address": "White Hart Lane, Barnes SW13",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 52.0,
+    "sqft": 564.0,
+    "text": "\u201c~\n\nBEDROOM\n\nv & AW (semx 2.8m)\n\n. BEDROOM\n\na\na\nSe\nKITCHEN / LSI\nRECEPTIONROOM =| X >\n20'10 x 16' KY\n(6.4m x 4.9m) KX\n4A Ron\nee erararecrerantl\nPKK KRG\nSSeS eae SKOSK\nSSS 228x102 LOCC\nPSS Bam EAM) OSC\nOOS\n\nGROUND FLOOR\nAPPROX. GROSS INTERNAL FLOOR AREA 564 SQ FT / 52 sQMm\n",
+    "image": "./extracted_images/60573421.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60573421/",
+    "listing_no": "60573421",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.466591,
+        "longitude": -0.252901
+    },
+    "first_published": "2022-01-20T16:18:36",
+    "last_sale_date": "2021-01-29",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60573421",
+        "publishedOn": "2022-01-20T16:18:36",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 19,
+            "acornType": 19,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16316,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(256967).png",
+            "branchName": "Apparent Properties Ltd",
+            "brandName": "Apparent Properties Ltd",
+            "chainFree": false,
+            "companyId": 8085,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "White Hart Lane, Barnes SW13",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0JP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60573421,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW13",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 585415
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/apparent-properties-ltd-16316/",
+            "branchId": "16316",
+            "branchResultsUri": "/for-sale/branch/apparent-properties-ltd-16316/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(256967).png",
+            "phone": "020 3589 4016",
+            "name": "Apparent Properties Ltd",
+            "memberType": "agent",
+            "address": "15 Church Road, Barnes,",
+            "postcode": "SW13 9HE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Sheen Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barnes Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barnes Bridge",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barnes",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "09608cdf7e2485f76e28fdae16df40213ce436e3.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Detailed Description</strong><br><br>A newly refurbished two bedroom garden flat in this excellent location, close to the amenities of White Hart Lane and transport links on The Upper Richmond Road. At the front of the property is a double bedroom and a super fully tiled shower room whilst to the rear is a second bedroom / study with stunning open plan living area with fully fitted kitchen and access to the private rear garden.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "cd0dd0ca4b23657e96b74e8ce70f45afd3b4f498.jpg",
+                    "caption": "Floor Plan 1"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "a30a2522492fa0ee37595b876327671dfdde9074.jpg",
+                "caption": "Photo 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "82ff43437e0f4f50b5dbb09b6511975bf6bdc527.jpg",
+                "caption": "Photo 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d69dda86feacf8266e145bc7af7826dd7de1cb4c.jpg",
+                "caption": "Photo 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3ba1df283cfc4dcb93fb63daa808c01a367ec914.jpg",
+                "caption": "Photo 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "803cf9eb39d22df02788e57a99a939ba190e6d6e.jpg",
+                "caption": "Photo 4"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c04654e61af921b126059d57b8b5b1d97b53e936.jpg",
+                "caption": "Photo 5"
+            },
+            {
+                "__typename": "Media",
+                "filename": "32bb01a502558a18b4df844e75bc4d9079415fd0.jpg",
+                "caption": "Photo 6"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d139219290b09e498d134486fba519348d2a05a5.jpg",
+                "caption": "Photo 7"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 19,
+            "acornType": 19,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16316,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(256967).png",
+            "branchName": "Apparent Properties Ltd",
+            "brandName": "Apparent Properties Ltd",
+            "chainFree": false,
+            "companyId": 8085,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "White Hart Lane, Barnes SW13",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0JP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60573421,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW13",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 585415
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in White Hart Lane, Barnes SW13 - Zoopla",
+        "metaDescription": "2 bed flat for sale in White Hart Lane, Barnes SW13, selling for \u00a3550,000 from Apparent Properties Ltd. See property details on Zoopla or browse all our range of properties in White Hart Lane, Barnes SW13.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60573421/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.466591,
+                "longitude": -0.252901
+            }
+        },
+        "displayAddress": "White Hart Lane, Barnes SW13",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-20T16:18:36",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2021-01-29",
+                "newBuild": false,
+                "price": 695000,
+                "priceLabel": "\u00a3695,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 148
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/cd0dd0ca4b23657e96b74e8ce70f45afd3b4f498.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Apparent Properties Ltd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60573421,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "603716B2-7A0F-11EC-8C88-2DEF0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW13",
+            "areaNameUri": "london/sw13/barnes-castelnau",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2252.7142857142862
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 891724,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 896129,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -4405
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 896699,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -4975
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 934107,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -42383
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 905131,
+                    "pctChangeSince": -1.481,
+                    "date": "2017-02-26",
+                    "changeSince": -13407
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 623971,
+                    "pctChangeSince": 42.911,
+                    "date": "2012-02-26",
+                    "changeSince": 267753
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 570002,
+                    "pctChangeSince": 56.442,
+                    "date": "2007-02-26",
+                    "changeSince": 321722
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 347278,
+                    "pctChangeSince": 156.775,
+                    "date": "2002-02-26",
+                    "changeSince": 544446
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 773162,
+                    "newBuilds": 0,
+                    "numSales": 36
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 709871,
+                    "newBuilds": 0,
+                    "numSales": 111
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 728888,
+                    "newBuilds": 0,
+                    "numSales": 200
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 732072,
+                    "newBuilds": 0,
+                    "numSales": 319
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-17T00:00:00Z",
+                    "price": 1650000,
+                    "propertyId": 23280881,
+                    "streetAddress": "20 White Hart Lane",
+                    "uri": "20-white-hart-lane/london/sw13-0py"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-10T00:00:00Z",
+                    "price": 1600000,
+                    "propertyId": 23280880,
+                    "streetAddress": "18 White Hart Lane",
+                    "uri": "18-white-hart-lane/london/sw13-0py"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-03T00:00:00Z",
+                    "price": 720000,
+                    "propertyId": 23280899,
+                    "streetAddress": "46a White Hart Lane",
+                    "uri": "46a-white-hart-lane/london/sw13-0pz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-16T00:00:00Z",
+                    "price": 500444,
+                    "propertyId": 23280864,
+                    "streetAddress": "19 White Hart Lane",
+                    "uri": "19-white-hart-lane/london/sw13-0px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-26T00:00:00Z",
+                    "price": 1290000,
+                    "propertyId": 23280865,
+                    "streetAddress": "21 White Hart Lane",
+                    "uri": "21-white-hart-lane/london/sw13-0px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 962889,
+                    "propertyId": 23284510,
+                    "streetAddress": "Flat 4, Castelnau Mansions, Castelnau",
+                    "uri": "flat-4/castelnau-mansions/castelnau/london/sw13-9qx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 2870000,
+                    "propertyId": 23279426,
+                    "streetAddress": "21 Cedars Road",
+                    "uri": "21-cedars-road/london/sw13-0hp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 1050000,
+                    "propertyId": 23280801,
+                    "streetAddress": "10 Cross Street",
+                    "uri": "10-cross-street/london/sw13-0ps"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 2850000,
+                    "propertyId": 23283092,
+                    "streetAddress": "8 Kitson Road",
+                    "uri": "8-kitson-road/london/sw13-9hj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 1712000,
+                    "propertyId": 23278897,
+                    "streetAddress": "31 Rocks Lane",
+                    "uri": "31-rocks-lane/london/sw13-0db"
+                }
+            ]
+        }
+    }
+}

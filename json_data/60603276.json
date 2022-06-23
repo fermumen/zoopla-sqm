@@ -1,0 +1,540 @@
+{
+    "address": "Lyham Road, London SW2",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 50.0,
+    "sqft": 534.0,
+    "text": "Approximate Gross intemal Area 534 sq ft ~ 50 sqm\nN 4a\nBedroom 2\n126 x9'5\n3.81 x2.86m\n7 iktsnen\nLiving Room\n161 x 15'4\nay 4.91 x 4.67m\n2 Bedroom 1\n112x108\n| 3.40 x 3.25m\n. ~\nAlthough Pink Pn td ensures the highest level of accuracy measurements of dors, windows and rooms ae\n\u2018ppronmate and no exponsity i take for err omission or mistetement. These plans are for representation STIRLING\npurposes ony es defined by RICS code of measuring practise, No gurantee gen on ttl square footage ofthe ACKROYD\nProperty within this plan. The figure icon i for intial guidance only and should not be relied on asa basi of valuation\n",
+    "image": "./extracted_images/60603276.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60603276/",
+    "listing_no": "60603276",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.457102,
+        "longitude": -0.128062
+    },
+    "first_published": "2022-01-25T11:36:08",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60603276",
+        "publishedOn": "2022-01-25T11:36:08",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/twn/live/pdf.php?p=CRO220036&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 15650,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727051).png",
+            "branchName": "Stirling Ackroyd - Streatham",
+            "brandName": "Stirling Ackroyd",
+            "chainFree": true,
+            "companyId": 3602,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lyham Road, London SW2",
+            "furnishedState": "",
+            "groupId": 6,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5DX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60603276,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 504720
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/stirling-ackroyd-streatham-streatham-15650/",
+            "branchId": "15650",
+            "branchResultsUri": "/for-sale/branch/stirling-ackroyd-streatham-streatham-15650/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727051).png",
+            "phone": "020 3463 0373",
+            "name": "Stirling Ackroyd - Streatham",
+            "memberType": "agent",
+            "address": "5 - 7 Streatleigh Parade, Streatham High Road, Streatham",
+            "postcode": "SW16 1EQ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kings Avenue School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Iqra Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham North",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham Common",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "f8ec6a825225ea0026bd633068762ba94c68b79c.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Stirling Ackroyd are delighted to offer this stunning two double bedroom period conversion on a popular tree-lined road on the Clapham/Brixton boarders.<br><br>The property benefits from a large living room, fitted kitchen, two double bedrooms, a family bathroom and en-suite shower room to the main bedroom.<br><br>The property further benefits from a long lease and is offered with no onward chain.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two double bedrooms",
+                "Two bathrooms",
+                "Long lease",
+                "No onward chain",
+                "Popular location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "78fe4ab37107bf3471d4dfc0445b36c44d5f0b70.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "11c84d87e1624bbbf79849d841e79ee8de0116f3.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1c460864b9ea44d5a8ea57d9dec8fa4e63a93b9e.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e3db44ad7f7e24d524911ddb3534a74978c672ba.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "157e55455450df61f36fd77fee79451e02923ac9.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "84d4c450a7833a3405306dc32794b380aaf7aa9e.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "75a7e59633e2e4a45e5119ac2c6e96ff380c3586.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2839efe68a2b5db653985d1a72c58784968f1061.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ea8e1c0447b8fa747627c9527bb206e73d813739.jpg",
+                "caption": "Bedroom"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 15650,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727051).png",
+            "branchName": "Stirling Ackroyd - Streatham",
+            "brandName": "Stirling Ackroyd",
+            "chainFree": true,
+            "companyId": 3602,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lyham Road, London SW2",
+            "furnishedState": "",
+            "groupId": 6,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5DX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60603276,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 504720
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Lyham Road, London SW2 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Lyham Road, London SW2, selling for \u00a3600,000 from Stirling Ackroyd - Streatham. See property details on Zoopla or browse all our range of properties in Lyham Road, London SW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60603276/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.457102,
+                "longitude": -0.128062
+            }
+        },
+        "displayAddress": "Lyham Road, London SW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-25T11:36:08",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "7.7",
+                    "priceChangeDate": "2022-02-11T16:19:08",
+                    "priceChangeLabel": "\u00a350,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 47
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/78fe4ab37107bf3471d4dfc0445b36c44d5f0b70.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Stirling Ackroyd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60603276,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "87710F20-956D-11EC-AC5D-B1DE0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW2",
+            "areaNameUri": "london/sw2/brixton-centralsouth-streatham-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1908.7634408602153
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 416692,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 418750,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2058
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 419016,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -2324
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 436495,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -19803
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 422941,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -6249
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 291563,
+                    "pctChangeSince": 42.917,
+                    "date": "2012-02-26",
+                    "changeSince": 125129
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 266345,
+                    "pctChangeSince": 56.448,
+                    "date": "2007-02-26",
+                    "changeSince": 150347
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 162273,
+                    "pctChangeSince": 156.785,
+                    "date": "2002-02-26",
+                    "changeSince": 254419
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 468018,
+                    "newBuilds": 0,
+                    "numSales": 325
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 469309,
+                    "newBuilds": 15,
+                    "numSales": 865
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 464625,
+                    "newBuilds": 94,
+                    "numSales": 1643
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 453303,
+                    "newBuilds": 116,
+                    "numSales": 2581
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 815000,
+                    "propertyId": 23127613,
+                    "streetAddress": "175 Lyham Road",
+                    "uri": "175-lyham-road/london/sw2-5py"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 410000,
+                    "propertyId": 27142843,
+                    "streetAddress": "Flat 2, 89 Lyham Road",
+                    "uri": "flat-2/89-lyham-road/london/sw2-5dd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 620000,
+                    "propertyId": 23126162,
+                    "streetAddress": "39a Lyham Road",
+                    "uri": "39a-lyham-road/london/sw2-5dx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 425000,
+                    "propertyId": 23127351,
+                    "streetAddress": "234 Lyham Road",
+                    "uri": "234-lyham-road/london/sw2-5np"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 23126190,
+                    "streetAddress": "Flat 15, 63 Lyham Road",
+                    "uri": "flat-15/63-lyham-road/london/sw2-5eb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 1230000,
+                    "propertyId": 23120724,
+                    "streetAddress": "90 Downton Avenue",
+                    "uri": "90-downton-avenue/london/sw2-3ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 216000,
+                    "propertyId": 23120868,
+                    "streetAddress": "Flat 11, Christchurch House, Christchurch Road",
+                    "uri": "flat-11/christchurch-house/christchurch-road/london/sw2-3ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 32297780,
+                    "streetAddress": "Flat 2, Burney House, 4 Ardwell Road",
+                    "uri": "flat-2/burney-house/4-ardwell-road/london/sw2-4bt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 480000,
+                    "propertyId": 23117947,
+                    "streetAddress": "43 Cricklade Avenue",
+                    "uri": "43-cricklade-avenue/london/sw2-3hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 23125193,
+                    "streetAddress": "5a Sudbourne Road",
+                    "uri": "5a-sudbourne-road/london/sw2-5ae"
+                }
+            ]
+        }
+    }
+}

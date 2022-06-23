@@ -1,0 +1,573 @@
+{
+    "address": "Trentham Street, London SW18",
+    "price": "\u00a3550,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60773432/",
+    "listing_no": "60773432",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.444665,
+        "longitude": -0.200631
+    },
+    "first_published": "2022-02-16T11:00:38",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60773432",
+        "publishedOn": "2022-02-16T11:00:38",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 80205,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(648969).png",
+            "branchName": "Savills - National Auctions",
+            "brandName": "Savills",
+            "chainFree": false,
+            "companyId": 3399,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Trentham Street, London SW18",
+            "furnishedState": "",
+            "groupId": 70,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "5AS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60773432,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 3,
+            "numImages": 22,
+            "numRecepts": null,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "from",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 552877
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/savills-national-auctions-london-80205/",
+            "branchId": "80205",
+            "branchResultsUri": "/for-sale/branch/savills-national-auctions-london-80205/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(648969).png",
+            "phone": "020 8022 4160",
+            "name": "Savills - National Auctions",
+            "memberType": "agent",
+            "address": "33 Margaret Street, London",
+            "postcode": "W1G 0JD"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Southfields Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Riversdale Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Southfields",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Earlsfield",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=8VmX5Na12G3"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Strapline</strong><br><br>Auction Sale - 02/03/2022<br><br>A well located terraced property arranged as two self contained flats (one vacant and one sold on a lease). Part vacant possession.<br><br><strong>Location</strong><br><br>Situated close to the junction of Replingham road<br><br>Shopping facilities are available locally and also on Merton Road<br><br>Recreational facilities can be found at Wimbledon Park and Putney Heath<br><br>Nearby road communications are via the A3 and A218<br><br><strong>Transport</strong><br><br>Underground - Southfields (District Line)<br><br>National Rail - Earlsfield<br><br><strong>Tenancy</strong><br><br>Ground Floor Flat - Sold on lease for a term of 125 years from the 25th December 2005. Ground rent \u00a3150 per annum.<br><br><strong>Accommodation</strong><br><br>Ground Floor Flat - (sold on lease)<br><br>First Floor Flat - Four Rooms, Kitchen, Bathroom/WC",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "A terraced property arranged as two self-contained flats",
+                "One flat is sold on a long lease",
+                "A three bedroom vacant upper flat",
+                "Well located for the amenities of Southfields"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "634bcd582edf9beb9240fb1efc3aa352d982ad0d.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7dcff98a1a8d8d4e62df3415530df9c4c43b8517.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3da8a0ccdd98e5e966c32fbccca80df181b2bc09.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "876ab672d93ed42e7acf0c53b326d3d92a1b5f47.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f8716e1d31030fce2771a746a776ab1bda3cda44.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a791632e2104e8095205056aad69cb062252710c.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a38adae85d10e6dfed75874d017017439dfccd12.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b33a138e26612ba28435cc5e82b0906995d5ee96.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8218af732660bb60355da5ae32dbefa83600f230.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "320809be58dab3b34f36b274409af7b932212a5e.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4c7739085c9b8212d2193a510b39c2f7eaece909.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e4b7980de070b931f4b7139a64138d54058f1546.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "45a152902882e9eb026071e058a76e3e30a35f95.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "acd49f029c386758a36c52244bf57b51bb1c05e0.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9d56087adb664548434ff5be0c3154323bdaf332.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a497fa977fe5e7656201f213aa347f79d2a84b7a.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bd9c5b872379b0d9074ac062daa3365cdfa6a26d.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d5a5a09db36b374fee32f7f99a0f71790b5235f8.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2c1cba0f3e93ba62b9679d1cfdd627a314b34761.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b91a4150e9fc5511f61b444a548720ffcb3d225d.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "40eab04e5ef433c631ccf721aa5e38a1762006c0.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1f57b8b33a0c5b83170e94a87fd1b60648cf2983.jpg",
+                "caption": "41/41A Trentham Street, Southfields London Sw18 5As"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 80205,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(648969).png",
+            "branchName": "Savills - National Auctions",
+            "brandName": "Savills",
+            "chainFree": false,
+            "companyId": 3399,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Trentham Street, London SW18",
+            "furnishedState": "",
+            "groupId": 70,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "5AS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60773432,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 3,
+            "numImages": 22,
+            "numRecepts": null,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "from",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 552877
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Trentham Street, London SW18 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Trentham Street, London SW18, selling for \u00a3550,000 from Savills - National Auctions. See property details on Zoopla or browse all our range of properties in Trentham Street, London SW18.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60773432/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.444665,
+                "longitude": -0.200631
+            }
+        },
+        "displayAddress": "Trentham Street, London SW18",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-16T11:00:38",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 169
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": null,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "From",
+            "rentFrequencyLabel": null,
+            "isAuction": true,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Savills",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60773432,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "AE7C2926-8F17-11EC-B125-5BD10D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW18",
+            "areaNameUri": "london/sw18/wandsworth-earlsfield",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3583.9999999999995
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 545740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 548436,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -2696
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 548784,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 571676,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -25936
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 553935,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -8195
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 381867,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 163873
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 348838,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 196902
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 212532,
+                    "pctChangeSince": 156.78,
+                    "date": "2002-02-26",
+                    "changeSince": 333208
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 554541,
+                    "newBuilds": 19,
+                    "numSales": 470
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 543782,
+                    "newBuilds": 55,
+                    "numSales": 1296
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 547279,
+                    "newBuilds": 111,
+                    "numSales": 2421
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 550771,
+                    "newBuilds": 488,
+                    "numSales": 4197
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1225000,
+                    "propertyId": 23386317,
+                    "streetAddress": "77 Trentham Street",
+                    "uri": "77-trentham-street/london/sw18-5ap"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 1133500,
+                    "propertyId": 23386314,
+                    "streetAddress": "71 Trentham Street",
+                    "uri": "71-trentham-street/london/sw18-5ap"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-22T00:00:00Z",
+                    "price": 1325000,
+                    "propertyId": 23387101,
+                    "streetAddress": "156 Trentham Street",
+                    "uri": "156-trentham-street/london/sw18-5dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-21T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 23387024,
+                    "streetAddress": "95 Trentham Street",
+                    "uri": "95-trentham-street/london/sw18-5dh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-16T00:00:00Z",
+                    "price": 1170500,
+                    "propertyId": 23386304,
+                    "streetAddress": "51 Trentham Street",
+                    "uri": "51-trentham-street/london/sw18-5ap"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 23379218,
+                    "streetAddress": "13 Heathfield Square",
+                    "uri": "13-heathfield-square/london/sw18-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 23377537,
+                    "streetAddress": "6 Wells Place",
+                    "uri": "6-wells-place/london/sw18-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 696000,
+                    "propertyId": 23384628,
+                    "streetAddress": "16a Duntshill Road",
+                    "uri": "16a-duntshill-road/london/sw18-4ql"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 1325500,
+                    "propertyId": 23388776,
+                    "streetAddress": "94 Elsenham Street",
+                    "uri": "94-elsenham-street/london/sw18-5nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 511000,
+                    "propertyId": 23383425,
+                    "streetAddress": "31 Steerforth Street",
+                    "uri": "31-steerforth-street/london/sw18-4hf"
+                }
+            ]
+        }
+    }
+}

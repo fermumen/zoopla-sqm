@@ -1,0 +1,554 @@
+{
+    "address": "Flour Millers House, 67 New Village Avenue E14",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 75.93,
+    "sqft": 817.0,
+    "text": "x< Xx c SS\n\u2018\\7S\\ BALCONY 4 a NR)\n\u00bb x} t7xTa XXX) fF\nPox aeamx etm ocx,\nDX KOOKOKOOODK\nS gretatarstan a\na pF\nee |\n~ +\nMASTER\nBEDROOM\nenoxtt2 BEDROOM\n3.91m x 3.40m t : 3,49m x 3.29m\nLIVING ROOM/ a\nKITCHEN f\n190 x 185 / | \u2122\n5.80m x 4.70m \u2014 \\\n% EN-SUITE ;\n| \\ 69x52 | a\n20Tm x1.88m | \\ A BATHROOM |/\noe (_) NY WN. 611 x66\nfr Pp =HGeh : = \u201c7 2.12m x 1.98m\nen [ (\\ \\ }\na \u2014 4 \\Y/ a) es aa\n=] {gs} |x _\n\\\n7 \\\n/ \\\n/\nTOTAL APPROX. FLOOR AREA 817 SQ.FT. (75.93 SQ.M)\nWhilst every attempt has been made to ensure the accuracy of the floor plan contained here, measurements\nof door, windows, rooms and any other items are approximate and no responsibility is taken for any error,\nomission, or mis-statement. This plan is for illustrative purposes only and should be used as such by any\nprospective purchaser. The services, systems and appliances shown have not been tested and no guarantee\nas to their operability or efficiency can be given\n\u00a9 2022 (1D833114)\n",
+    "image": "./extracted_images/60814649.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60814649/",
+    "listing_no": "60814649",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.512376,
+        "longitude": -0.004156
+    },
+    "first_published": "2022-02-21T19:24:47",
+    "last_sale_date": "2019-07-31",
+    "last_sale_new": true,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60814649",
+        "publishedOn": "2022-02-21T19:24:47",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/lir/live/pdf.php?p=RLW220021&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 90734,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396521).png",
+            "branchName": "LiFE Residential - Royal Wharf",
+            "brandName": "LiFE Residential",
+            "chainFree": true,
+            "companyId": 2268,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Flour Millers House, 67 New Village Avenue E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0TE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60814649,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 525694
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/life-residential-royal-wharf-london-90734/",
+            "branchId": "90734",
+            "branchResultsUri": "/for-sale/branch/life-residential-royal-wharf-london-90734/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396521).png",
+            "phone": "020 8115 4388",
+            "name": "LiFE Residential - Royal Wharf",
+            "memberType": "agent",
+            "address": "16 Royal Crest Avenue, Royal Wharf, London",
+            "postcode": "E16 2TQ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Culloden Primary - A Paradigm Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Woolmore Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East India",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Blackwall",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/677124081"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "3ade2ee5cb1ff13470b53a4392b871077c7fefe3.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A spacious and contemporary 2 bedroom 2 bathroom apartment in the popular Aberfeldy Village development.<br>This bright, modern and spacious 2 bedroom, 2 bathroom apartment on the 5th floor is offered in very good decorative order with a generous sized master bedroom, a second double bedroom (en-suite), a family bathroom and an open-plan living room with fully fitted kitchen, floor to ceiling windows and french doors providing access onto the private east facing balcony offering far reaching views.<br>Residents benefit from 24-hour concierge, gym, business lounge and expansive landscaped communal gardens.<br>East India and All Saints DLR are both 0.5mi away and and Canning Town station is 0.6mi away thus being in perfect location here for easy access to Canary Wharf, Stratford and The City. The property is offered to the market chain free and with vacant possession.&lt;br /&gt;&lt;br /&gt;",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 bedroom 2 bathroom",
+                "5th floor",
+                "Lift access",
+                "Concierge",
+                "817 sq ft",
+                "East facing balcony",
+                "Service charge \u00a31,536.66 p.a",
+                "Ground rent \u00a3350 p.a.",
+                "0.5mi to East India DLR station",
+                "0.5mi to All Saints DLR station"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "84da964deaf5e211d77539e7de8ffef8e2a8176e.jpg",
+                    "caption": "Picture No. 01"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "0cfc2b354e2064eb778c5bebe74585167a89da74.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ee86b04b9c85e48bf868c5e45fc199bc3e0a4e43.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bbb1efcbb78ea7fc761e3ad1a9417e45131ce934.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "33f3337aca3c59ff5bd5656dc32006c7dfad800b.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "19857eaf55c005826dbb876a1e595a41072a8357.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5f8fcb46dafdf3e29602d9c8e2ce215937721080.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d3fdc720b7e4ab72839b2f8737775c8ef38cf289.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4d2fde29e45c66fd95fbe4aa62bcd53b469ecb45.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e5e6899332426f60469f30fe09407714ea90a948.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "27d9c2abd8fe092d716b6b8eaebf6497c54984de.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1a60ae62349168e221ffa8bbbfcc4ee7b7a5b509.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "11a677a16a68d4f67a49ada9267beec2a11ec266.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "25177ac4c66e20490505571c1963ac2e5ea39825.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a26ddb7b76bdabb0a16ce33ae0b6e9cda92dc4d7.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "416af2d09f4493ef64256c14feefcaed707bfe14.jpg",
+                "caption": "Picture No. 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "404497f2ffad8a61bf71c4937de0f79e106f3031.jpg",
+                "caption": "Picture No. 17"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 90734,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396521).png",
+            "branchName": "LiFE Residential - Royal Wharf",
+            "brandName": "LiFE Residential",
+            "chainFree": true,
+            "companyId": 2268,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Flour Millers House, 67 New Village Avenue E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0TE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60814649,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 525694
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Flour Millers House, 67 New Village Avenue E14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Flour Millers House, 67 New Village Avenue E14, selling for \u00a3550,000 from LiFE Residential - Royal Wharf. See property details on Zoopla or browse all our range of properties in Flour Millers House, 67 New Village Avenue E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60814649/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.512376,
+                "longitude": -0.004156
+            }
+        },
+        "displayAddress": "Flour Millers House, 67 New Village Avenue E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-21T19:24:47",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2019-07-31",
+                "newBuild": true,
+                "price": 515000,
+                "priceLabel": "\u00a3515,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 37
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/84da964deaf5e211d77539e7de8ffef8e2a8176e.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "LiFE Residential",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60814649,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "1C5492E0-95BB-11EC-A769-F4140E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3199.821151716501
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 390000,
+                    "propertyId": 31432967,
+                    "streetAddress": "Flat 408, Lighterman Point, 3 New Village Avenue",
+                    "uri": "flat-408/lighterman-point/3-new-village-avenue/london/e14-0nd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

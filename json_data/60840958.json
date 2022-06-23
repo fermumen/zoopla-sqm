@@ -1,0 +1,350 @@
+{
+    "address": "Hambro Road, London SW16",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 71.25,
+    "sqft": 767.0,
+    "text": "Ground Floor\n\u2014\n=\n7|\nTo Garden <\u2014 @\nFirst Floor\nmM (_)\n| Co \u2014o\nKitchen CI ||\n2.71 x 2.08m\n(8'11\" x 6'10\") a\nl |\na\nDining Room Bedroom 7 \u2014\n3.37 x 3.36m an 3.39 x 2.63m ae\n(11'4\" x 11'0\") rd (1111\" x 8'\u00b08\")\nReception Room Bedroom\nea 4.36 x 3.35m\n(10'11\" x 10'10\") (14'4\" x 11'0\")\nTotal area (approx.) 71.25 sq. m (767 sq. ft)\n",
+    "image": "./extracted_images/60840958.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60840958/",
+    "listing_no": "60840958",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.424105,
+        "longitude": -0.133169
+    },
+    "first_published": "2022-02-24T11:11:18",
+    "last_sale_date": "2020-03-20",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60840958",
+        "publishedOn": "2022-02-24T11:11:18",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/9b50d454e80badb0ba5dcf5d78cafd92b6282fae.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 14233,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "branchName": "Jacksons Estate Agents - Streatham",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": false,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Hambro Road, London SW16",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6JE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60840958,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW16",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 543795
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jacksons-estate-agents-streatham-london-14233/",
+            "branchId": "14233",
+            "branchResultsUri": "/for-sale/branch/jacksons-estate-agents-streatham-london-14233/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "phone": "020 8677 9900",
+            "name": "Jacksons Estate Agents - Streatham",
+            "memberType": "agent",
+            "address": "1-3 De Montfort Parade, Streatham High Road, London",
+            "postcode": "SW16 1BU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Streatham (Greater London)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Leonard's Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Andrew's Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Streatham Common",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "316f3ae2703ce193f61227b31d524cd3c112025d.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A mid terraced Victorian house comprising of two double bedrooms and located excellently within in the Ferrers triangle. The property benefits from further extension potential and a south facing garden.<br><br>Hambro Road is situated in close proximity to a wealth of amenities in the area including numerous of independent pubs, coffee shops, and restaurants, several large supermarkets, leisure centre and the green spaces of Streatham Common. Residents have easy access to a number of transport links including the Thameslink via Streatham Mainline Station and Streatham Common offering quick links in to Victoria and London Bridge and a number of bus routes to Brixton (Victoria Line) and the City.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Victorian Terraced House",
+                "Two Bedrooms",
+                "Close To Transport Links",
+                "Ferrers Triangle",
+                "South Facing Garden",
+                "Extension Potential"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "a525b6fa1af730b760ca6b77060e3f2ccd68f286.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "324b1e0648010e2e3a5ee3ebcdfee4b11b842ab5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "047f7fa1e13546a215175a510ab287cc07987c46.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "15fff018597c3db589ea95deaeeb3cc8719a3b79.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d4871237752cb253948fb123e4b295dd1a811163.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b0d4e5e46b61b049c296979c0a5c35da4c0f3809.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7c08dd317692585da21fdbf64ac82ce2d5916bf4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "38fdf7e185bfcf7f7ab774153c29efaef31f5489.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2117d3e7b7339e6739e58557a266627eb351c370.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 14233,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "branchName": "Jacksons Estate Agents - Streatham",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": false,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Hambro Road, London SW16",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6JE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60840958,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW16",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 543795
+        },
+        "title": "2 bed property for sale",
+        "metaTitle": "2 bed property for sale in Hambro Road, London SW16 - Zoopla",
+        "metaDescription": "2 bed property for sale in Hambro Road, London SW16, selling for \u00a3650,000 from Jacksons Estate Agents - Streatham. See property details on Zoopla or browse all our range of properties in Hambro Road, London SW16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60840958/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.424105,
+                "longitude": -0.133169
+            }
+        },
+        "displayAddress": "Hambro Road, London SW16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-24T11:11:18",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2020-03-20",
+                "newBuild": false,
+                "price": 560000,
+                "priceLabel": "\u00a3560,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 107
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/a525b6fa1af730b760ca6b77060e3f2ccd68f286.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Jacksons Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60840958,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "53BDF5A0-9566-11EC-BFE4-41F90D674736",
+        "marketStats": null
+    }
+}

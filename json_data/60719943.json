@@ -1,0 +1,544 @@
+{
+    "address": "Cubitt Apartments, 36 Chatfield Road, London SW11",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 70.6,
+    "sqft": 760.0,
+    "text": "NY rava rg. eb, TTHYGY\nCUBITT APARTMENTS S-\u2014~w\nApproximate Gross Internal Area Le\n760 sq. ft. (70.6 sq. m.) Ee he\n| | Terrace | |\njo pT a ee fT\n{| _\u2014\u2014\u2014\u2014\u2014J q q {_-\u2014\u2014\u2014\u2014FT {_-\u2014\u2014\u2014F | _-\u2014\u2014 5 | a qj\nBedroom\n4.10 x 3.08 IL)\nReception / Dining Room\nJ ce h \u2018 / 13'5x* 10'1 Bedroom\nitchen\n4.40 x 2.86\n6.36 x 4.50 14'5 x9'5\n20'10 x 14'9\n1 | 1\nqj yj\nFourth Floor\nThis plan is for layout guidance only. Not drawn to scale unless stated. Windows and door openings are approximate. Whilst every care is taken\nin the preparation of this plan, please check all dimensions, shapes and compass bearings before making any decisions reliant upon them.\n1D 831380\n",
+    "image": "./extracted_images/60719943.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60719943/",
+    "listing_no": "60719943",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.465525,
+        "longitude": -0.181562
+    },
+    "first_published": "2022-02-09T13:02:58",
+    "last_sale_date": "2015-04-21",
+    "last_sale_new": true,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60719943",
+        "publishedOn": "2022-02-09T13:02:58",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.hamptons.co.uk/index.asp?spid=BTS190268",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://assets.reapit.net/ham/live/pdf.php?p=BTS190268",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 53027,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "branchName": "Hamptons - Battersea and Wandsworth Sales",
+            "brandName": "Hamptons",
+            "chainFree": false,
+            "companyId": 1612,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Cubitt Apartments, 36 Chatfield Road, London SW11",
+            "furnishedState": "",
+            "groupId": 8,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3SE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60719943,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW11",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 489853
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/hamptons-battersea-and-wandsworth-sales-london-53027/",
+            "branchId": "53027",
+            "branchResultsUri": "/for-sale/branch/hamptons-battersea-and-wandsworth-sales-london-53027/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "phone": "020 3544 2556",
+            "name": "Hamptons - Battersea and Wandsworth Sales",
+            "memberType": "agent",
+            "address": "98-100 Northcote Road, London",
+            "postcode": "SW11 6QW"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Thames Christian College",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Falconbrook Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham Junction",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "a9c24c49928fdc6007b4e5e6600bfa446f14f767.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Presented to the market in very good internal condition, this excellent apartment offers fantastic reception space and two double bedrooms alongside a generous terrace. The property is contained within a contemporary building with secure electronic entry for convenience and security. Providing two good sized bedrooms and a well fitted modern bathroom suite accommodation is plentiful. The reception space provides unusual separation of living areas with a distinct Kitchen, dining space and sitting area. The Kitchen is equipped with quality appliances and provides ample storage. The Living space leads to the generous terrace with far reaching views and being South West facing benefits from plenty of sunlight outside and in. There is a stunning communal roof garden with views to the Thames.<br><br>Situation<br>Ideally situated for access to the river there are an array of amenities close by and transport links are excellent. Wandsworth Town (0.6 miles) and Clapham Junction (0.6 miles) stations are close for access to Central London and West toward Heathrow and Gatwick. Uber Boat can also be used for travel along the river toward the City and Canary Wharf.<br><br>Additional Information<br>A lease of 999 was granted in January 2014<br>Service Charge: \u00a31,331.98 paid twice yearly<br>Ground Rent: \u00a3425 per annum",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedrooms",
+                "Open Plan Living",
+                "Communal Roof Garden Overlooking The River",
+                "Private Terrace",
+                "999 Year Lease Granted January 2014",
+                "Service Charge of \u00a31331.98 Paid Twice Yearly",
+                "Ground Rent \u00a3425 Per Annum"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "167ef2a1711b3fe9454943a11e8c9237edf3e875.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "2938e997a397e78c7a3c579c6ba096fcb3a4bc4e.jpg",
+                "caption": "Picture 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "68c573c5f8d0cdad9887569b202c19da28ab1124.jpg",
+                "caption": "Picture 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a04cb6a5bf69351c8bbc6ffc9e0795ad71e031db.jpg",
+                "caption": "Picture 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4d6259fa8a0f56877b77c99cb095ee4cc06e1bcd.jpg",
+                "caption": "Picture 4"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6d539da36e2b6b8287f4623a25b94bc4d91ae224.jpg",
+                "caption": "Picture 5"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3488fbb773621e288e587d4bcaaffd01cc953367.jpg",
+                "caption": "Picture 6"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f379c55bc553f63afed7d0d80a50f731fa6d01bb.jpg",
+                "caption": "Picture 7"
+            },
+            {
+                "__typename": "Media",
+                "filename": "250baeb27f8b766b0b04451cb6b2c3a1b60a22a6.jpg",
+                "caption": "Picture 8"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a00fad0ef43593143e919d0aa470bf472ee516c7.jpg",
+                "caption": "Picture 9"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1e5c42fa4e1af3ff4306d444a4a199275a663684.jpg",
+                "caption": "Picture 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "433e906ad8d1f40a2d6971a6b0e636b4e1de0a17.jpg",
+                "caption": "Picture 11"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 53027,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "branchName": "Hamptons - Battersea and Wandsworth Sales",
+            "brandName": "Hamptons",
+            "chainFree": false,
+            "companyId": 1612,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Cubitt Apartments, 36 Chatfield Road, London SW11",
+            "furnishedState": "",
+            "groupId": 8,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3SE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60719943,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW11",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 489853
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Cubitt Apartments, 36 Chatfield Road, London SW11 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Cubitt Apartments, 36 Chatfield Road, London SW11, selling for \u00a3650,000 from Hamptons - Battersea and Wandsworth Sales. See property details on Zoopla or browse all our range of properties in Cubitt Apartments, 36 Chatfield Road, London SW11.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60719943/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.465525,
+                "longitude": -0.181562
+            }
+        },
+        "displayAddress": "Cubitt Apartments, 36 Chatfield Road, London SW11",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-09T13:02:58",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2015-04-21",
+                "newBuild": true,
+                "price": 570000,
+                "priceLabel": "\u00a3570,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 65
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/167ef2a1711b3fe9454943a11e8c9237edf3e875.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Hamptons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60719943,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "2A13CD0C-89EE-11EC-9D0B-C50B0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW11",
+            "areaNameUri": "london/sw11/battersea-clapham-junction",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3456.430188679247
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 605712,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 608703,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2991
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 609090,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3378
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 634498,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -28786
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 614807,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -9095
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 423830,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 181882
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 387172,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 218540
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 235888,
+                    "pctChangeSince": 156.779,
+                    "date": "2002-02-26",
+                    "changeSince": 369824
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 643914,
+                    "newBuilds": 10,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 705554,
+                    "newBuilds": 107,
+                    "numSales": 1293
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 717890,
+                    "newBuilds": 556,
+                    "numSales": 2803
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 702089,
+                    "newBuilds": 925,
+                    "numSales": 4447
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 23251226,
+                    "streetAddress": "Flat 69, Mendip Court, Chatfield Road",
+                    "uri": "flat-69/mendip-court/chatfield-road/london/sw11-3uz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-30T00:00:00Z",
+                    "price": 485000,
+                    "propertyId": 31837778,
+                    "streetAddress": "11, Cubitt Apartments, 36 Chatfield Road",
+                    "uri": "11/cubitt-apartments/36-chatfield-road/london/sw11-3se"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-31T00:00:00Z",
+                    "price": 760000,
+                    "propertyId": 23251156,
+                    "streetAddress": "Flat 10, Sherwood Court, Chatfield Road",
+                    "uri": "flat-10/sherwood-court/chatfield-road/london/sw11-3uy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 635000,
+                    "propertyId": 23256020,
+                    "streetAddress": "Flat 2, 4 Knowsley Road",
+                    "uri": "flat-2/4-knowsley-road/london/sw11-5bl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 680000,
+                    "propertyId": 27160591,
+                    "streetAddress": "Ground Floor Flat, 10 Glycena Road",
+                    "uri": "ground-floor-flat/10-glycena-road/london/sw11-5tr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 23247548,
+                    "streetAddress": "Flat 54, Lindsay Court, Battersea High Street",
+                    "uri": "flat-54/lindsay-court/battersea-high-street/london/sw11-3hz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 338000,
+                    "propertyId": 23257501,
+                    "streetAddress": "Flat 16, Rawson Court, Rawson Street",
+                    "uri": "flat-16/rawson-court/rawson-street/london/sw11-5hj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 985000,
+                    "propertyId": 23258681,
+                    "streetAddress": "15 Kingsley Street",
+                    "uri": "15-kingsley-street/london/sw11-5ld"
+                }
+            ]
+        }
+    }
+}

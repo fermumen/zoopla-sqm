@@ -1,0 +1,501 @@
+{
+    "address": "Wolseley Street, London SE1",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 77.0,
+    "sqft": 828.0,
+    "text": "Second Floor\noat Kitchen\n| | 3.30m x 3.45m\nMn (10'10\" x 11'4\")\nee J Reception/\n| Dining\nRoom\nems 5.50m x 3.66m\nO.0 (18'1\" x 12\u2019)\nBedroom f |\n3.52m x 3.45m ui\n(11'7\" x 11'4\")\nBedroom\n| 3.33m x 3.93m\n(10'11\" x 12111\")\n| p S| |\n+: | {_\nTotal area: approx. 77.0 sq. metres (828.9 sq. feet)\n",
+    "image": "./extracted_images/60704268.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60704268/",
+    "listing_no": "60704268",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.500774,
+        "longitude": -0.071253
+    },
+    "first_published": "2022-02-07T18:33:45",
+    "last_sale_date": "2017-11-17",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60704268",
+        "publishedOn": "2022-02-07T18:33:45",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/8f664f65866e75a37923cbb74c146c1288de6889.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 97647,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(591320).png",
+            "branchName": "Waterview - Shad Thames",
+            "brandName": "Waterview",
+            "chainFree": false,
+            "companyId": 13053,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Wolseley Street, London SE1",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2BL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60704268,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SE1",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 437460
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/waterview-shad-thames-shad-thames-97647/",
+            "branchId": "97647",
+            "branchResultsUri": "/for-sale/branch/waterview-shad-thames-shad-thames-97647/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(591320).png",
+            "phone": "020 7650 5110",
+            "name": "Waterview - Shad Thames",
+            "memberType": "agent",
+            "address": "50 The Anchor Brewhouse, Shad Thames",
+            "postcode": "SE1 2LY"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Michael's Catholic College",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Joseph's Roman Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bermondsey",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Katharine's Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "d125db924b33c74f89873c968f58e48f21550d98.png",
+                    "url": null
+                },
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "1d007096579d6c7ce37731bcff584d6d1b87112f.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Oieo \u00a3550,000. Situated moments from Shad Thames, this light and airy two double bedroom flat is in excellent condition and boasts a large living space, kitchen/ diner, modern bathroom and ample storage.<br><br>Dombey House is located only 0.2 miles from Bermondsey tube station and 0.6 miles from London Bridge. The development is surrounded by a wide range of shops, artisan food markets, restaurants and delis.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedroom",
+                "Excellent Condition",
+                "Light And Airy",
+                "Riverside Location",
+                "Long Lease",
+                "Communal Bike Storage"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "2f02739294fa7095053b59cea72eae280d79d20c.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "dbd0fdfa273d925f0c3421ffdbb30ddd6a2ea92c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "19c8648b1338865ddc8b9f5fa175a66454b496e0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "365f88881aef131be16843b3af8b51fcf5cd4962.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "74438c196deb53e6d43845548a1e30d6b97a8e18.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7da947cf6de63f788443146a7acc9b8837582b87.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4ac4e39a3d18886e8301b3753447f94ba2a1a718.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 97647,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(591320).png",
+            "branchName": "Waterview - Shad Thames",
+            "brandName": "Waterview",
+            "chainFree": false,
+            "companyId": 13053,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Wolseley Street, London SE1",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2BL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60704268,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SE1",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 437460
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Wolseley Street, London SE1 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Wolseley Street, London SE1, selling for \u00a3550,000 from Waterview - Shad Thames. See property details on Zoopla or browse all our range of properties in Wolseley Street, London SE1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60704268/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.500774,
+                "longitude": -0.071253
+            }
+        },
+        "displayAddress": "Wolseley Street, London SE1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-07T18:33:45",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2017-11-17",
+                "newBuild": false,
+                "price": 550000,
+                "priceLabel": "\u00a3550,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 101
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/2f02739294fa7095053b59cea72eae280d79d20c.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Waterview",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60704268,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "236F13F2-962E-11EC-B94C-8D090E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE1",
+            "areaNameUri": "london/se1/waterloo-bermondsey-south-bank-the-borough-north-lambeth",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3689.3737373737354
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 737858,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 742939,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -5081
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 746105,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -8247
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 780738,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -42880
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 710078,
+                    "pctChangeSince": 3.912,
+                    "date": "2017-02-26",
+                    "changeSince": 27780
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 464196,
+                    "pctChangeSince": 58.954,
+                    "date": "2012-02-26",
+                    "changeSince": 273662
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 448557,
+                    "pctChangeSince": 64.496,
+                    "date": "2007-02-26",
+                    "changeSince": 289301
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 266156,
+                    "pctChangeSince": 177.228,
+                    "date": "2002-02-26",
+                    "changeSince": 471702
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 672517,
+                    "newBuilds": 7,
+                    "numSales": 342
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 732618,
+                    "newBuilds": 146,
+                    "numSales": 1094
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 734821,
+                    "newBuilds": 469,
+                    "numSales": 2563
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 739640,
+                    "newBuilds": 1154,
+                    "numSales": 4560
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-24T00:00:00Z",
+                    "price": 557000,
+                    "propertyId": 27304585,
+                    "streetAddress": "Flat 7, The Commodore Building, 5 Wolseley Street",
+                    "uri": "flat-7/the-commodore-building/5-wolseley-street/london/se1-2bp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 20861951,
+                    "streetAddress": "171 St. James's Road",
+                    "uri": "171-st-james-s-road/london/se1-5bp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 20865933,
+                    "streetAddress": "22 Marcia Road",
+                    "uri": "22-marcia-road/london/se1-5xf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 826000,
+                    "propertyId": 20866398,
+                    "streetAddress": "Flat 1, 19 Harper Road",
+                    "uri": "flat-1/19-harper-road/london/se1-6aw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 726000,
+                    "propertyId": 20866401,
+                    "streetAddress": "Flat 4, 19 Harper Road",
+                    "uri": "flat-4/19-harper-road/london/se1-6aw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1202000,
+                    "propertyId": 20866402,
+                    "streetAddress": "Flat 5, 19 Harper Road",
+                    "uri": "flat-5/19-harper-road/london/se1-6aw"
+                }
+            ]
+        }
+    }
+}

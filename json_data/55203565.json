@@ -1,0 +1,537 @@
+{
+    "address": "Theseus Walk, London N1",
+    "price": "\u00a3610,000",
+    "beds": "2 beds",
+    "area": "644 sq. ft",
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/55203565/",
+    "listing_no": "55203565",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.531906,
+        "longitude": -0.100105
+    },
+    "first_published": "2022-01-20T11:54:32",
+    "last_sale_date": "2007-06-27",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "55203565",
+        "publishedOn": "2022-01-20T11:54:32",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "More Details",
+                "original": "https://www.knightfrank.com/ISL012015378",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://lc.zoocdn.com/46617e3eda4b5fab02068a64d98d88db0d602e6e.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 55156,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(116061).png",
+            "branchName": "Knight Frank - Islington Sales",
+            "brandName": "Knight Frank",
+            "chainFree": false,
+            "companyId": 2182,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Theseus Walk, London N1",
+            "furnishedState": "",
+            "groupId": 94,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8DS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 55203565,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 610000,
+            "price": 610000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "644",
+            "tenure": null,
+            "zindex": 478919
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/knight-frank-islington-sales-london-55156/",
+            "branchId": "55156",
+            "branchResultsUri": "/for-sale/branch/knight-frank-islington-sales-london-55156/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(116061).png",
+            "phone": "020 8022 5643",
+            "name": "Knight Frank - Islington Sales",
+            "memberType": "agent",
+            "address": "353 Upper Street, Islington, London",
+            "postcode": "N1 0PD"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hanover Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St John Evangelist RC Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Angel",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Essex Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "Epcgraph",
+                    "filename": "0d52e037a45a2a3954a93658777f8f256686d8e7.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Arranged over the top floor of this purpose built block, the property has been refurbished to a high standard by the current owner to include the creation of an additional shower room.<br><br>Accommodation comprises a bright and airy 24' open plan reception room with a smart modern kitchen, with plenty of storage and ample room to sit and eat. Two large windows and an open aspect flood the room with natural light.<br><br>To the rear are two generous double bedrooms, the master with a sleek, contemporary en-suite shower room. There is also a further family bathroom.<br><br>With access from the reception room, there is a private south facing balcony with pretty views across neighbouring gardens and large enough to accommodate a small table and chairs.<br><br>Theseus Walk runs behind City Garden Row and is close to the Regent's canal. The nearest Underground station can be found at Angel (Northern line - 0.4 miles) which gives quick and easy access to the City via Bank and to Kings Cross/St Pancras International for high speed services to Europe. Upper Street is also a short walk away (0.2 miles) and hosts an array of shops, bars, cafes and restaurants. (Please note all distances are approximate)",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 bedrooms",
+                "1 reception room",
+                "2 bathrooms",
+                "Balcony"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/ff0db90dc0160cec320abe410244febef18be5a9.pdf",
+                    "caption": "Floorplan"
+                }
+            ]
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d510a9303c292718d1834a2b23f1a3281a4ec2a5.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d171f24ac171856650c78f458cd9a3f665052e52.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "dbc8db705a3d9ad387ac50f79b31b3473d6d27fc.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0f35c52b7ac3520f6dd5c16dfc12f13c8b5e721d.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1634f0ca297c65bf1a8c3a9306ba298585670646.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c6b07d0236a40f08dffd3c025f99fc5b7f4e55ba.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d771cd4ed0d29ffdc7c01920d76093b1b5040100.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5a4d9faaca2a5bafa71af987b03447d3ad87f17d.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "08c48c8b9d9e6c50161eccd5977212e9baae9161.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5c4ec257ca5652a906a7d4c25e4ace5b11330e74.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6730fc05fc2c27c961fcf379bd84ec430c0879de.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2e674e2ac79c9d35353f7710ad9a5fc0a1b57189.jpg",
+                "caption": "Image"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 55156,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(116061).png",
+            "branchName": "Knight Frank - Islington Sales",
+            "brandName": "Knight Frank",
+            "chainFree": false,
+            "companyId": 2182,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Theseus Walk, London N1",
+            "furnishedState": "",
+            "groupId": 94,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8DS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 55203565,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 610000,
+            "price": 610000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "644",
+            "tenure": null,
+            "zindex": 478919
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Theseus Walk, London N1 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Theseus Walk, London N1, selling for \u00a3610,000 from Knight Frank - Islington Sales. See property details on Zoopla or browse all our range of properties in Theseus Walk, London N1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/55203565/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.531906,
+                "longitude": -0.100105
+            }
+        },
+        "displayAddress": "Theseus Walk, London N1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-20T11:54:32",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2007-06-27",
+                "newBuild": false,
+                "price": 325000,
+                "priceLabel": "\u00a3325,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "2.4",
+                    "priceChangeDate": "2022-01-24T16:24:59",
+                    "priceChangeLabel": "\u00a315,000",
+                    "priceLabel": "\u00a3610,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 315
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/ff0db90dc0160cec320abe410244febef18be5a9.pdf"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 644
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3610,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 947,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Knight Frank",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 55203565,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "6E90F86A-8B33-11EC-ADB5-AA260E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N1",
+            "areaNameUri": "london/n1/islington-barnsbury-canonbury",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2906.287878787878
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 602354,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 612767,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -10413
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 631961,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -29607
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 663806,
+                    "pctChangeSince": -9.258,
+                    "date": "2021-02-26",
+                    "changeSince": -61452
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 614141,
+                    "pctChangeSince": -1.919,
+                    "date": "2017-02-26",
+                    "changeSince": -11787
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 402630,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 199724
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 377696,
+                    "pctChangeSince": 59.481,
+                    "date": "2007-02-26",
+                    "changeSince": 224658
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 227355,
+                    "pctChangeSince": 164.94,
+                    "date": "2002-02-26",
+                    "changeSince": 374999
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 622356,
+                    "newBuilds": 1,
+                    "numSales": 395
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 661296,
+                    "newBuilds": 71,
+                    "numSales": 1075
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 646936,
+                    "newBuilds": 170,
+                    "numSales": 2109
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 637559,
+                    "newBuilds": 448,
+                    "numSales": 3526
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 710000,
+                    "propertyId": 15056656,
+                    "streetAddress": "2 Elliotts Place",
+                    "uri": "2-elliotts-place/london/n1-8hx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760001,
+                    "propertyId": 15027781,
+                    "streetAddress": "Flat 3, 80 Copenhagen Street",
+                    "uri": "flat-3/80-copenhagen-street/london/n1-0jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 1350000,
+                    "propertyId": 27513282,
+                    "streetAddress": "Ground First And Second Floor Fl, 7 Brooksby Street",
+                    "uri": "ground-first-and-second-floor-fl/7-brooksby-street/london/n1-1ex"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 15035647,
+                    "streetAddress": "Flat D, 13 Compton Road",
+                    "uri": "flat-d/13-compton-road/london/n1-2pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 15035975,
+                    "streetAddress": "1 Walney Walk",
+                    "uri": "1-walney-walk/london/n1-2pu"
+                }
+            ]
+        }
+    }
+}

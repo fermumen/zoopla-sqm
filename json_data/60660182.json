@@ -1,0 +1,535 @@
+{
+    "address": "Amesbury Avenue, London SW2",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 78.2,
+    "sqft": 842.0,
+    "text": "First Floor\nBedroom\n3.82m x 2.87m\n(12'6\" x'9'5\")\n\\\n\\\n] Second Floor\nC \\\\\nGround Floor \u2014\u2014 rt \u2014\nKitchen/Breakfast f Eaves: = AL\n;Room ee: r 4 = \u201c\n3.43m x 3.21 => 4 NY\nra wi f\n\\ - Bedroom l\ni NC | 2.11m x 4.20m\n\u2014 \u2018 a (6'11\" x 13'9\") |\nya Reception __ \\ /\n( 3 eee\n= .83m x 4.35m\n(12\u00b07\" x 14\u00b03\") Eaves\nTotal area: approx. 78.2 sq. metres (842.0 sq. feet)\n",
+    "image": "./extracted_images/60660182.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60660182/",
+    "listing_no": "60660182",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.438215,
+        "longitude": -0.122962
+    },
+    "first_published": "2022-02-01T17:01:36",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60660182",
+        "publishedOn": "2022-02-01T17:01:36",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/256e7e8f8e2564240b6ef66164f61469f0400c2d.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 60595,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Streatham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Amesbury Avenue, London SW2",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3AE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60660182,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 675558
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-streatham-streatham-60595/",
+            "branchId": "60595",
+            "branchResultsUri": "/for-sale/branch/dexters-streatham-streatham-60595/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 8674 7400",
+            "name": "Dexters - Streatham",
+            "memberType": "agent",
+            "address": "105 Streatham Hill, Streatham",
+            "postcode": "SW2 4UG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Livity School (SEN)",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Streatham Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Dunraven School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tulse Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "1fbf00f5a66c52874dce39b5bb24f36465961cf5.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "An immaculately presented two-bedroom Edwardian conversion arranged over two floors. The property comprises a bright reception room, separate eat-in kitchen/breakfast room, large windows throughout that allow sunlight to flood through, and handsome period features.<br><br>Situated on part of the famous 'abcd' roads in Streatham hill, the flat has great access to a number of shops, cafes, bars and restaurants on Streatham High Road and is approximately 0.2 miles from Streatham Hill Station with quick routes into Victoria and London Bridge. There are also frequent buses into Brixton Town Centre.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Edwardian Conversion",
+                "Split Level Apartment",
+                "End of Terrace",
+                "Two Double Bedrooms",
+                "Fantastic Condition",
+                "Bright and Airy"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "398a638d44943bd956db35655e43338f4367bb3b.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "36283a520b8dcb4195558f896ff2b29385bdfcda.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6f560343a11d85f63f23008d41546ab02b2d40b2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c03eb12b30b960eb44db0ffd2314dc971d865aea.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "692b983bf30fae863018121a6e9f86bf8b1d1b96.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "322729ff8b663a833c70ab29cc5ac1f10fdaa596.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "603e369ccb6156032f09c036f195482b8f3022b1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "eada8ca95dc2c50fa84a6ade2c9c545819969666.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "37c12f20e41219ea0faad34bbffadf2b07fe86cb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e4d9109339aaf947a95752c5505e28573daddfad.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 60595,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Streatham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Amesbury Avenue, London SW2",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3AE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60660182,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 675558
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Amesbury Avenue, London SW2 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Amesbury Avenue, London SW2, selling for \u00a3550,000 from Dexters - Streatham. See property details on Zoopla or browse all our range of properties in Amesbury Avenue, London SW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60660182/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.438215,
+                "longitude": -0.122962
+            }
+        },
+        "displayAddress": "Amesbury Avenue, London SW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-01T17:01:36",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 107
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/398a638d44943bd956db35655e43338f4367bb3b.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60660182,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "395BF930-8816-11EC-8B1C-FB100E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW2",
+            "areaNameUri": "london/sw2/brixton-centralsouth-streatham-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1908.7634408602153
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 416692,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 418750,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2058
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 419016,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -2324
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 436495,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -19803
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 422941,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -6249
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 291563,
+                    "pctChangeSince": 42.917,
+                    "date": "2012-02-26",
+                    "changeSince": 125129
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 266345,
+                    "pctChangeSince": 56.448,
+                    "date": "2007-02-26",
+                    "changeSince": 150347
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 162273,
+                    "pctChangeSince": 156.785,
+                    "date": "2002-02-26",
+                    "changeSince": 254419
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 468018,
+                    "newBuilds": 0,
+                    "numSales": 325
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 469309,
+                    "newBuilds": 15,
+                    "numSales": 865
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 464625,
+                    "newBuilds": 94,
+                    "numSales": 1643
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 453303,
+                    "newBuilds": 116,
+                    "numSales": 2581
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-06T00:00:00Z",
+                    "price": 950000,
+                    "propertyId": 23116196,
+                    "streetAddress": "24 Amesbury Avenue",
+                    "uri": "24-amesbury-avenue/london/sw2-3aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-05T00:00:00Z",
+                    "price": 428000,
+                    "propertyId": 23116208,
+                    "streetAddress": "48 Amesbury Avenue",
+                    "uri": "48-amesbury-avenue/london/sw2-3aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 540000,
+                    "propertyId": 23116230,
+                    "streetAddress": "92 Amesbury Avenue",
+                    "uri": "92-amesbury-avenue/london/sw2-3ab"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 23116238,
+                    "streetAddress": "108 Amesbury Avenue",
+                    "uri": "108-amesbury-avenue/london/sw2-3ab"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-21T00:00:00Z",
+                    "price": 780000,
+                    "propertyId": 23116293,
+                    "streetAddress": "21 Amesbury Avenue",
+                    "uri": "21-amesbury-avenue/london/sw2-3ae"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 1230000,
+                    "propertyId": 23120724,
+                    "streetAddress": "90 Downton Avenue",
+                    "uri": "90-downton-avenue/london/sw2-3ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 216000,
+                    "propertyId": 23120868,
+                    "streetAddress": "Flat 11, Christchurch House, Christchurch Road",
+                    "uri": "flat-11/christchurch-house/christchurch-road/london/sw2-3ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 32297780,
+                    "streetAddress": "Flat 2, Burney House, 4 Ardwell Road",
+                    "uri": "flat-2/burney-house/4-ardwell-road/london/sw2-4bt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 480000,
+                    "propertyId": 23117947,
+                    "streetAddress": "43 Cricklade Avenue",
+                    "uri": "43-cricklade-avenue/london/sw2-3hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 23125193,
+                    "streetAddress": "5a Sudbourne Road",
+                    "uri": "5a-sudbourne-road/london/sw2-5ae"
+                }
+            ]
+        }
+    }
+}

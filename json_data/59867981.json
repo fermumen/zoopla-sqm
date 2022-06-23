@@ -1,0 +1,607 @@
+{
+    "address": "Worland Road, Stratford, London E15",
+    "price": "\u00a3625,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "WORLAND ROAD E15\n\nApproximate Gross Internal Area\n\n94.68 m? / 1019.13 sq*\n\nGARDEN\n\n.\n\n42\u00b05\u201d x 80\u201d\n\n_B.79m x 2.45m)\n\nI\n\nN\n\nKITCHEN\n\nOO;\n\n1172\u201d x 10\u20196\u201d\n\n[exe}\n\n(3.40m x 3.19m)\n\nBEDROOM\n\n6711\u201d x 10\u20196\u201d\n\n(2.10m x 3.21m)\n\nBEDROOM\n\nFa\n\n1273\u201d x 10\u20196\u201d\n\n(3.73m x 3.21m)\n\nN\n\nFIRST FLOOR\n\nRECEPTION\n\n12'2\" 235\"\n\n(3.71m x 7.14m)\n\nBEDROOM\n\n9\u00b07\u201d x 10\u00b05\u201d\n\n(2.91m x 3.17m)\n\n7\n\neS)\n\nY\n\nMU\n\n2\n\nGROUND FLOOR\n\nEAVES STORAGE\n\nSECOND FLOOR\n",
+    "image": "./extracted_images/59867981.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/59867981/",
+    "listing_no": "59867981",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.541614,
+        "longitude": 0.008905
+    },
+    "first_published": "2022-02-18T13:47:54",
+    "last_sale_date": "2015-11-13",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "59867981",
+        "publishedOn": "2022-02-18T13:47:54",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/kea/live/pdf.php?p=STR210316&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 4470,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(554153).png",
+            "branchName": "Keatons - Stratford",
+            "brandName": "Keatons",
+            "chainFree": false,
+            "companyId": 2104,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Worland Road, Stratford, London E15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4EY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 59867981,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 3,
+            "numBeds": 3,
+            "numImages": 29,
+            "numRecepts": 1,
+            "outcode": "E15",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 506539
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/keatons-stratford-london-4470/",
+            "branchId": "4470",
+            "branchResultsUri": "/for-sale/branch/keatons-stratford-london-4470/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(554153).png",
+            "phone": "020 8115 1422",
+            "name": "Keatons - Stratford",
+            "memberType": "agent",
+            "address": "152 - 154 The Grove, Stratford, London",
+            "postcode": "E15 1NS"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Sarah Bonnell School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East London Independent Special School (SEN)",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Maryland",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stratford High Street",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://mls.ricohtours.com/e199067f-9af9-4558-9445-6ffac33bcaf6"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "eab83ef59dfdaa1eb228ce04a93017ae6601b5aa.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A stunning three bedroom Victorian house beautifully arranged over three wonderful floors providing the perfect family home. Immaculately kept throughout, the property consists of an excellent double reception room with bay window to front, downstairs W/C/utility room and a glorious kitchen which is bathed in natural light via the door that lead to the garden. To the first floor, two superb bedrooms and a stylishly finished family bathroom. One level up and you'll find the most exquisite primary bedroom which has been cleverly designed with a host of storage and an impressive en-suite. Worland Road is a peaceful street which is perfectly positioned to benefit from all that Stratford has to offer.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Beautifully Designed Family Home",
+                "Within Walking Distance To Stratford Station",
+                "Westfield Shopping Centre Is Only A Short Stroll Away",
+                "The Nearby Leafy Stratford Park And West Ham Park Are Perfect For Family Days Out",
+                "The Queen Elizabeth Olympic Park Also Close By",
+                "Set Within The Ever Popular Stratford Village Which Is In The Catchment Area For Some Sought After Schooling"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "ea677d22ef604591ae748fabd158aee45342651b.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "f5149c8221fca2da86de7df016a71c0323c92cf6.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d36b69836924d37a5727875218e837050dc000ca.jpg",
+                "caption": "Bedroom One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a85b10580858a8ebd3f5870d25aa716ccd86fe5d.jpg",
+                "caption": "Living Area"
+            },
+            {
+                "__typename": "Media",
+                "filename": "af927ae417341140c6740ccbf1c773b37a3c5690.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5739d45871303d1609ad16a026e4a2f1a48ba71f.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c328ee8573931083490acf96bd1f4815403c1454.jpg",
+                "caption": "Bedroom Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f37685e00c0cff6ff3b026463a3e77c31708ae2b.jpg",
+                "caption": "Garden"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e2e6f58fda1cd2f01ac2be9d5a86ed79d91f1a64.jpg",
+                "caption": "Living Area View 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9228fc062459198b28038297cfa31308e3d61e32.jpg",
+                "caption": "Living Area View 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "154fb8d55ed4fc5d6486f172955368e497a89a7d.jpg",
+                "caption": "Living Area View 4"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9ffdfe30f02eb8b9150d83bf5e340c1183641ebc.jpg",
+                "caption": "Living Area View 5"
+            },
+            {
+                "__typename": "Media",
+                "filename": "54990e94ee364c75b51bcbc0480f0e5a73538304.jpg",
+                "caption": "Living Area View 6"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8d4e8be3ac171be5f53d29b944ddde6d3cba96ed.jpg",
+                "caption": "Living Area View 7"
+            },
+            {
+                "__typename": "Media",
+                "filename": "179b85590d784032a128f38ea8b6a1b684e1bf04.jpg",
+                "caption": "Bedroom One View 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "aa43dd1fb841229be5f08dae9cf5ec982185f830.jpg",
+                "caption": "Bedroom One View 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "58323830e4af1ce27f47d6e3d290fbb6412a7850.jpg",
+                "caption": "Bedroom One View 4"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6cf17e272110e5fb2ef7d486bb586f44edb232b0.jpg",
+                "caption": "Kitchen View 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d01d3201ae159a037242054c265aff43acaaa8cf.jpg",
+                "caption": "Kitchen View 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8b58fd87fe0c1c93b8fda1f45f8a64546f3e412f.jpg",
+                "caption": "Dining Area"
+            },
+            {
+                "__typename": "Media",
+                "filename": "aeaccb12ba5ee7a22a4c5db7735b547e9cf1c681.jpg",
+                "caption": "Hallway"
+            },
+            {
+                "__typename": "Media",
+                "filename": "891ce281b21dce6653e2a3976245dafc86b3e1e9.jpg",
+                "caption": "Bathroom View 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d3509c80b92b0a25e6de13d94c14f0ecb8e076fa.jpg",
+                "caption": "Bathroom Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d3032712fa66d41e93302f1b0bf6cedaea86a198.jpg",
+                "caption": "Bathroom Two View 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2a9345e0a7b6ed8764a75617ab7f04af69ce4bbf.jpg",
+                "caption": "W/C"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ed9bcf77c197acfbfcc4915550d3b816e0991abf.jpg",
+                "caption": "Hallway"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4c025e00f5743d406b252fe09f81ed0253fb9671.jpg",
+                "caption": "Bedroom Two View 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0851a940921d84b6f36edfc4b1f58197c53f9811.jpg",
+                "caption": "Bedroom Two  View 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "15ad3528c96e319e13210760b3fc6eb2cb92f2b7.jpg",
+                "caption": "Bedroom Three"
+            },
+            {
+                "__typename": "Media",
+                "filename": "134cc7aa5ff26efce1b5ca95729c368abf179fe0.jpg",
+                "caption": "Bedroom Three View 2"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 4470,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(554153).png",
+            "branchName": "Keatons - Stratford",
+            "brandName": "Keatons",
+            "chainFree": false,
+            "companyId": 2104,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Worland Road, Stratford, London E15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4EY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 59867981,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 3,
+            "numBeds": 3,
+            "numImages": 29,
+            "numRecepts": 1,
+            "outcode": "E15",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 506539
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Worland Road, Stratford, London E15 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Worland Road, Stratford, London E15, selling for \u00a3625,000 from Keatons - Stratford. See property details on Zoopla or browse all our range of properties in Worland Road, Stratford, London E15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/59867981/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.541614,
+                "longitude": 0.008905
+            }
+        },
+        "displayAddress": "Worland Road, Stratford, London E15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-18T13:47:54",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2015-11-13",
+                "newBuild": false,
+                "price": 470000,
+                "priceLabel": "\u00a3470,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 179
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/ea677d22ef604591ae748fabd158aee45342651b.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 3,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Keatons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 59867981,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "5FA1E97A-90C1-11EC-8412-BFC60D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E15",
+            "areaNameUri": "london/e15/stratford-west-ham",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1935.2666666666667
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 461247,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 470289,
+                    "pctChangeSince": -1.923,
+                    "date": "2021-11-26",
+                    "changeSince": -9042
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 486978,
+                    "pctChangeSince": -5.284,
+                    "date": "2021-08-26",
+                    "changeSince": -25731
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 463161,
+                    "pctChangeSince": -0.413,
+                    "date": "2021-02-26",
+                    "changeSince": -1914
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 452069,
+                    "pctChangeSince": 2.03,
+                    "date": "2017-02-26",
+                    "changeSince": 9178
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 269930,
+                    "pctChangeSince": 70.877,
+                    "date": "2012-02-26",
+                    "changeSince": 191317
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 268382,
+                    "pctChangeSince": 71.862,
+                    "date": "2007-02-26",
+                    "changeSince": 192865
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 155900,
+                    "pctChangeSince": 195.861,
+                    "date": "2002-02-26",
+                    "changeSince": 305347
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 505573,
+                    "newBuilds": 0,
+                    "numSales": 120
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 485808,
+                    "newBuilds": 4,
+                    "numSales": 321
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 488818,
+                    "newBuilds": 9,
+                    "numSales": 590
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 467039,
+                    "newBuilds": 9,
+                    "numSales": 951
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 421000,
+                    "propertyId": 7890227,
+                    "streetAddress": "18 Tavistock Road",
+                    "uri": "18-tavistock-road/london/e15-4er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 532500,
+                    "propertyId": 7889565,
+                    "streetAddress": "41 Tennyson Road",
+                    "uri": "41-tennyson-road/london/e15-4dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 521265,
+                    "propertyId": 7879540,
+                    "streetAddress": "4 Dunmow Road",
+                    "uri": "4-dunmow-road/london/e15-1tz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 485000,
+                    "propertyId": 7885873,
+                    "streetAddress": "13 Ada Gardens",
+                    "uri": "13-ada-gardens/london/e15-3ew"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 7882579,
+                    "streetAddress": "128 Bisson Road",
+                    "uri": "128-bisson-road/london/e15-2rf"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,545 @@
+{
+    "address": "Walm Lane, London NW2",
+    "price": "\u00a3615,000",
+    "beds": "2 beds",
+    "area": "783 sq. ft",
+    "sqm": 73.0,
+    "sqft": 783.0,
+    "text": "Walm Lane, London, NW2\nApproximate Area = 783 sq ft/ 73 sqm\nN\n1410 (452) max\n1194 (406) max\na i)\n= i\nstore lL\ni\nBedroom 2\n12 (3.81)\nx 10'10 (3.30)\nKitchen\nKy] 11030)\nCl] xeedisy XO\nReception Room\n186 (6.03) nto bay\n+x 14\u00b06 (4.42) max\n\u2018\u00ab \u00bb\nFIRST FLOOR\n",
+    "image": "./extracted_images/60728743.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60728743/",
+    "listing_no": "60728743",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.551918,
+        "longitude": -0.213342
+    },
+    "first_published": "2022-02-10T13:02:10",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60728743",
+        "publishedOn": "2022-02-10T13:02:10",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Walm Lane, London",
+                "original": "https://lc.zoocdn.com/b331dae0fe7645cc197a0dc1f241e65700c32ff9.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 1409,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(628876).png",
+            "branchName": "Camerons Stiff & Co",
+            "brandName": "Camerons Stiff & Co",
+            "chainFree": false,
+            "companyId": 622,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Walm Lane, London NW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3BP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60728743,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "NW2",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 615000,
+            "price": 615000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "783",
+            "tenure": "share_of_freehold",
+            "zindex": 1111827
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/camerons-stiff-and-co-london-1409/",
+            "branchId": "1409",
+            "branchResultsUri": "/for-sale/branch/camerons-stiff-and-co-london-1409/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(628876).png",
+            "phone": "020 3478 3249",
+            "name": "Camerons Stiff & Co",
+            "memberType": "agent",
+            "address": "275 Willesden Lane, Willesden Green, London",
+            "postcode": "NW2 5JA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Gesher Primary Special School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Mulberry House School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Willesden Green",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Cricklewood",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://property-teaser-video.s3.eu-west-1.amazonaws.com/aa3875f0-f2c7-4f76-95c9-97b18f78485d.mp4"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "db09693b66300e42dac88aa80f15d8505078f74c.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Camerons Stiff &amp; Co are delighted to be able to bring to the market For Sale this spacious, airy and well-presented apartment that is situated on the First Floor of an attractive double fronted Edwardian house situated within the Mapesbury Conservation Area.<br><br>The property is offered in excellent order and provides 783 sq ft of stylish accommodation that is ready to move into. There is a generous sized bay-fronted reception room with large sash windows, modern fitted kitchen, and a family three piece bathroom. There are two double bedrooms, both fitted with wardrobes and south-facing windows overlooking an award-winning garden. The main bedroom has an en-suite shower room. There is also a vast attic space available for storage.<br><br>The property is situated in a highly popular road close to the popular Gladstone Park, The Mapesbury Dell and is within walking distance of Willesden Green (Jubilee - Zone 2) Station, Cricklewood Thameslink Station (links to Kings Cross, Luton) and a plethora of shops, restaurants &amp; cafes. Great location with ease of access to M1 motorway. Viewing is recommended.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "A two bedroom flat on the First Floor",
+                "783 sq ft of internal accommodation",
+                "Share of Freehold",
+                "Two double bedrooms and two bathrooms",
+                "Close to the enchanting Mapesbury Dell",
+                "Early viewing is highly recommended"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "3489bb4e081544c9f7f5bc1ded9311bdf511a237.jpg",
+                    "caption": "208B Walm Lane Floorplan - Watermark .Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "0363c0451d8c672eaaedfd91417de9f0a057ab49.jpg",
+                "caption": "Walm Lane  (2).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6024b356182d99597c3ae7b496925e8c1af7d65b.jpg",
+                "caption": "Walm Lane  (4).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c20dd2a41bded452067e0a2dee39ec9bc2088e90.jpg",
+                "caption": "Walm Lane  (3).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "54a9f7fdd579c5a10eaf32904a9990a794f23316.jpg",
+                "caption": "Walm Lane  (7).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ec6aa906c55d6bf2f604d53d6c6354d9cc352c75.jpg",
+                "caption": "Walm Lane  (9).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2c445c61bbee82381ae6f9446d08e8e84ca048be.jpg",
+                "caption": "Walm Lane  (11).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "39e763bd543f649028bce03dce59359307d2478b.jpg",
+                "caption": "Walm Lane  (8).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "daab2fa40bdc0c65eb8d153830be31e4bf617c68.jpg",
+                "caption": "Walm Lane  (12).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0aa3adf87bc52c47643b8b1f4db4c83a2bdfe4bb.jpg",
+                "caption": "Walm Lane  (13).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "25aacd8697633c1cd92acc5937eda3e16317a4f7.jpg",
+                "caption": "Img_5286_Text.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 1409,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(628876).png",
+            "branchName": "Camerons Stiff & Co",
+            "brandName": "Camerons Stiff & Co",
+            "chainFree": false,
+            "companyId": 622,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Walm Lane, London NW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3BP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60728743,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "NW2",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 615000,
+            "price": 615000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "783",
+            "tenure": "share_of_freehold",
+            "zindex": 1111827
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Walm Lane, London NW2 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Walm Lane, London NW2, selling for \u00a3615,000 from Camerons Stiff & Co. See property details on Zoopla or browse all our range of properties in Walm Lane, London NW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60728743/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.551918,
+                "longitude": -0.213342
+            }
+        },
+        "displayAddress": "Walm Lane, London NW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-10T13:02:10",
+                "priceLabel": "\u00a3615,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 112
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/3489bb4e081544c9f7f5bc1ded9311bdf511a237.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 783
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3615,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 785,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Camerons Stiff & Co",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60728743,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "E5273BB2-8E47-11EC-8B2F-B8D30D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW2",
+            "areaNameUri": "london/nw2/cricklewood-dollis-hill-neasden",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1864.283105022832
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 444765,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 452348,
+                    "pctChangeSince": -1.676,
+                    "date": "2021-11-26",
+                    "changeSince": -7583
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 466395,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -21630
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 487345,
+                    "pctChangeSince": -8.737,
+                    "date": "2021-02-26",
+                    "changeSince": -42580
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 459799,
+                    "pctChangeSince": -3.27,
+                    "date": "2017-02-26",
+                    "changeSince": -15034
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 317471,
+                    "pctChangeSince": 40.096,
+                    "date": "2012-02-26",
+                    "changeSince": 127294
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 283350,
+                    "pctChangeSince": 56.967,
+                    "date": "2007-02-26",
+                    "changeSince": 161415
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 167330,
+                    "pctChangeSince": 165.801,
+                    "date": "2002-02-26",
+                    "changeSince": 277435
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 463979,
+                    "newBuilds": 0,
+                    "numSales": 136
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 469879,
+                    "newBuilds": 55,
+                    "numSales": 425
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 468514,
+                    "newBuilds": 76,
+                    "numSales": 805
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 466731,
+                    "newBuilds": 129,
+                    "numSales": 1426
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-29T00:00:00Z",
+                    "price": 360000,
+                    "propertyId": 17183726,
+                    "streetAddress": "Flat 2, Slade Court, 230 Walm Lane",
+                    "uri": "flat-2/slade-court/230-walm-lane/london/nw2-3bt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-27T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 31329835,
+                    "streetAddress": "Flat D, 224 Walm Lane",
+                    "uri": "flat-d/224-walm-lane/london/nw2-3bs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-30T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 32216169,
+                    "streetAddress": "Flat 6, 141 Walm Lane",
+                    "uri": "flat-6/141-walm-lane/london/nw2-3au"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-15T00:00:00Z",
+                    "price": 297000,
+                    "propertyId": 17191978,
+                    "streetAddress": "Flat, Walm Lane",
+                    "uri": "flat/walm-lane/london/nw2-5sj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 775000,
+                    "propertyId": 17194397,
+                    "streetAddress": "20a Gratton Terrace",
+                    "uri": "20a-gratton-terrace/london/nw2-6qe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 435000,
+                    "propertyId": 17182280,
+                    "streetAddress": "Flat 4, Vernon Court, Hendon Way",
+                    "uri": "flat-4/vernon-court/hendon-way/london/nw2-2pd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 560000,
+                    "propertyId": 17199198,
+                    "streetAddress": "806 North Circular Road",
+                    "uri": "806-north-circular-road/london/nw2-7td"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 17198152,
+                    "streetAddress": "55 Cairnfield Avenue",
+                    "uri": "55-cairnfield-avenue/london/nw2-7ph"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 817500,
+                    "propertyId": 17194750,
+                    "streetAddress": "148 Dollis Hill Avenue",
+                    "uri": "148-dollis-hill-avenue/london/nw2-6rf"
+                }
+            ]
+        }
+    }
+}

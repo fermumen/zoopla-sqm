@@ -1,0 +1,550 @@
+{
+    "address": "Elm Park, London SW2",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 66.5,
+    "sqft": null,
+    "text": "Elm Park, SW2 an\nAPPROX. GROSS INTERNAL FLOOR AREA 548 SQFT / 50.9 SQM A, i\nBASEMENT 168 SQFT / 15.6 SQM Ar\u201d\nTOTAL 716 SQFT / 66.5 SQM\nGarden ;\n19'6\" (5.94)\n15'9\" (4.80)\n(Approx)\nna i as\nrN\nI \\ it\niCre\n1 roy\nit Reception Room /\n< ool) \\/ Ki\n= eal wv Kitchen\nai | a /\\ 183\" (5.55)\n{Dn 4 1/140\" (4.26)\nry a\noa tat\ni I / \\\nhe \\\n(0 q\na)\n( VY\n\\ (4\n' Ti |\n[\u2014\nBasement / Cellar NI\n18'10\" (5.74) pam _,\n8'tl\" (2.71) Kf |\nBedroom | |\n114\" (3.45) CH 1\n915\" (2.86) Bh basement\nDn\n\\ fo\n4 /\n\\ i\nwe [\nBedroom\n13'1\" (4.00)\n11'2\" (3.40)\nVeky\u2019\nBASEMENT GROUND FLOOR\nThe floor plan is not to scale and measurements and\nareas shown are approximate and therefore should be used for illustrative purposes only.\nThe plan has been prepared in accordance with the RICS code of measuring Practice\nand whilst we have confidence in the information produced, it must not be relied on.\nIf there is any aspect of particular importance, you should carry out or\ncommission your own inspection of the property.\n",
+    "image": "./extracted_images/60766605.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60766605/",
+    "listing_no": "60766605",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.449768,
+        "longitude": -0.11772
+    },
+    "first_published": null,
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60766605",
+        "publishedOn": "2022-02-15T14:48:21",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/mpa/live/pdf.php?p=BRX190894&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 83353,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "branchName": "Marsh & Parsons - Brixton",
+            "brandName": "Marsh & Parsons",
+            "chainFree": false,
+            "companyId": 7059,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Elm Park, London SW2",
+            "furnishedState": "",
+            "groupId": 10,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2TY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60766605,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Extension|Open Plan",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 614589
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/marsh-and-parsons-brixton-london-83353/",
+            "branchId": "83353",
+            "branchResultsUri": "/for-sale/branch/marsh-and-parsons-brixton-london-83353/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "phone": "020 8033 7564",
+            "name": "Marsh & Parsons - Brixton",
+            "memberType": "agent",
+            "address": "400-402 Coldharbour Lane, London",
+            "postcode": "SW9 8LF"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Elm Court School (SEN)",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Holy Trinity Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Herne Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tulse Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.9
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "802280bed4dbe5354a44dc15af140552978ea2a6.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This attractive garden flat is set within a lovely Victorian building on Elm Park, SW2 and benefits from being tastefully refurbished by the current owners to extremely high specification throughout.<br><br>As you enter the property you have the first double bedroom at the front, complete with a large bay window with bespoke wooden shutters and other beautiful period features. The second room is currently used as the principal bedroom, this room has built in storage and is exquisitely decorated and a little further down the hallway you have the modern bathroom, offering a walk-in shower and w/c.<br><br>At the rear of the property, you have an extraordinary open-plan kitchen/living room, the current owners extended the property during their ownership and it now has a side return with full glass roof and floor to ceiling rear glass windows and doors, this room is filled with natural light and is fantastic to entertain in, it also provides direct access onto the recently renovated courtyard garden which is perfect for the summer days and nights.<br><br>The property is a short walk from central Brixton, the green open spaces of Brockwell Park and offers excellent transport links into the City.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two double bedrooms",
+                "Open-plan kitchen living area",
+                "Excellent location",
+                "Private garden - with side entrance"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Extension"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Open Plan"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "cc78c9df81122221b330de0f5674a879c249c30f.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "98d6d0d882b4ec4d26012e87cca5cc12b5124cfa.jpg",
+                "caption": "External One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b84634247f27d3a544157ff0443b4412f0601e4a.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "55ec2b0cd4185fa7880c41d8dee6c595da9584e2.jpg",
+                "caption": "Living Area"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d42ceac86c2801bdf22347c64f1d92c1b0a7608a.jpg",
+                "caption": "Garden"
+            },
+            {
+                "__typename": "Media",
+                "filename": "69f11b789ba6de1637965a82eee232386c83d679.jpg",
+                "caption": "Bedroom One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fdac99c8df3a9645770c3773509b891c47417268.jpg",
+                "caption": "Bedroom Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "53e2865494bf1e32dab44cacacd9bc97834aadb0.jpg",
+                "caption": "Bedroom Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f88613ca20d19b1987e3c78c261a0e6e57a86f8f.jpg",
+                "caption": "Living Area"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3528e73bb8a5f9781e27aa6fa6443be5521f0496.jpg",
+                "caption": "Dining Area"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b80c0aec667c163c78e1eda90c823e0e6cdece19.jpg",
+                "caption": "Rear External"
+            },
+            {
+                "__typename": "Media",
+                "filename": "410471ddef844105cf93a3949e98ca49f48ac65d.jpg",
+                "caption": "External"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 83353,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "branchName": "Marsh & Parsons - Brixton",
+            "brandName": "Marsh & Parsons",
+            "chainFree": false,
+            "companyId": 7059,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Elm Park, London SW2",
+            "furnishedState": "",
+            "groupId": 10,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2TY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60766605,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Extension|Open Plan",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 614589
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Elm Park, London SW2 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Elm Park, London SW2, selling for \u00a3575,000 from Marsh & Parsons - Brixton. See property details on Zoopla or browse all our range of properties in Elm Park, London SW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60766605/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.449768,
+                "longitude": -0.11772
+            }
+        },
+        "displayAddress": "Elm Park, London SW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": null,
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 327
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/cc78c9df81122221b330de0f5674a879c249c30f.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Marsh & Parsons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60766605,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "D019196C-8F3B-11EC-93BC-DF110E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW2",
+            "areaNameUri": "london/sw2/brixton-centralsouth-streatham-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1908.7634408602153
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 416692,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 418750,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2058
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 419016,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -2324
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 436495,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -19803
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 422941,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -6249
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 291563,
+                    "pctChangeSince": 42.917,
+                    "date": "2012-02-26",
+                    "changeSince": 125129
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 266345,
+                    "pctChangeSince": 56.448,
+                    "date": "2007-02-26",
+                    "changeSince": 150347
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 162273,
+                    "pctChangeSince": 156.785,
+                    "date": "2002-02-26",
+                    "changeSince": 254419
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 468018,
+                    "newBuilds": 0,
+                    "numSales": 325
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 469309,
+                    "newBuilds": 15,
+                    "numSales": 865
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 464625,
+                    "newBuilds": 94,
+                    "numSales": 1643
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 453303,
+                    "newBuilds": 116,
+                    "numSales": 2581
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-21T00:00:00Z",
+                    "price": 1000000,
+                    "propertyId": 23112991,
+                    "streetAddress": "147 Elm Park",
+                    "uri": "147-elm-park/london/sw2-2ee"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 358000,
+                    "propertyId": 27301178,
+                    "streetAddress": "105b Elm Park",
+                    "uri": "105b-elm-park/london/sw2-2tz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 27147103,
+                    "streetAddress": "105a Elm Park",
+                    "uri": "105a-elm-park/london/sw2-2tz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 476000,
+                    "propertyId": 23115774,
+                    "streetAddress": "52 Elm Park",
+                    "uri": "52-elm-park/london/sw2-2ub"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-14T00:00:00Z",
+                    "price": 380000,
+                    "propertyId": 23115713,
+                    "streetAddress": "87 Elm Park",
+                    "uri": "87-elm-park/london/sw2-2tz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 1230000,
+                    "propertyId": 23120724,
+                    "streetAddress": "90 Downton Avenue",
+                    "uri": "90-downton-avenue/london/sw2-3ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 216000,
+                    "propertyId": 23120868,
+                    "streetAddress": "Flat 11, Christchurch House, Christchurch Road",
+                    "uri": "flat-11/christchurch-house/christchurch-road/london/sw2-3ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 32297780,
+                    "streetAddress": "Flat 2, Burney House, 4 Ardwell Road",
+                    "uri": "flat-2/burney-house/4-ardwell-road/london/sw2-4bt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 480000,
+                    "propertyId": 23117947,
+                    "streetAddress": "43 Cricklade Avenue",
+                    "uri": "43-cricklade-avenue/london/sw2-3hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 23125193,
+                    "streetAddress": "5a Sudbourne Road",
+                    "uri": "5a-sudbourne-road/london/sw2-5ae"
+                }
+            ]
+        }
+    }
+}

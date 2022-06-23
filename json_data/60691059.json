@@ -1,0 +1,564 @@
+{
+    "address": "Hayes Court, Camberwell New Road, London SE5",
+    "price": "\u00a3650,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 91.2,
+    "sqft": 982.0,
+    "text": "HAYES COURT. SE 5\n3 BEDROOM FLAT\n982 SQ.FT / 91.2 SQ.M.\nif _\nic,\nKITCHEN |\n| Al BREAKFAST ROOM\nL ) 13'3\"x 11'10\"\nA 4.05 x 3.60M\nRY\n-_ . Teaa\n_\\ | ea\nLae RECEPTION |\n13'7\" x 1114\"\n3.85 x 3.50M 415 x3.45M a\nBEDROOM BEDROOM\n12'8\" x 11'6\" 131\" x 11'6\"\n3.85 x 3.50M 4.00 x 3.50M\nSECOND FLOOR\nCopyright: These plans should not be reproduced by any other person, without permission.\nFloorplan produced for Winkworth by Floorplanners 07801 228850\n",
+    "image": "./extracted_images/60691059.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60691059/",
+    "listing_no": "60691059",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.477027,
+        "longitude": -0.099015
+    },
+    "first_published": "2022-02-04T20:51:34",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60691059",
+        "publishedOn": "2022-02-04T20:51:34",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/KEN220015",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=KEN220015",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 101641,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Kennington Sales",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Hayes Court, Camberwell New Road, London SE5",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0TQ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60691059,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 17,
+            "numRecepts": 1,
+            "outcode": "SE5",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 539582
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-kennington-sales-kennington-101641/",
+            "branchId": "101641",
+            "branchResultsUri": "/for-sale/branch/winkworth-kennington-sales-kennington-101641/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8033 3699",
+            "name": "Winkworth - Kennington Sales",
+            "memberType": "agent",
+            "address": "299 Kennington Road, Kennington",
+            "postcode": "SE11 4QE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Sacred Heart Catholic School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Phoenixplace (SEN)",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Oval",
+                "type": "london_underground_station",
+                "distanceMiles": 0.7
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Loughborough Junction",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/674464456"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "f392e7370868b48277ad64fc79797eb3a6beda17.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This well laid-out property comprises three great-sized bedrooms, a separate reception room and eat-in kitchen.<br><br>Each bedroom has plenty of space for a king-sized bed and storage and has large sash windows letting in plenty of natural light.<br><br>The living room is a fantastic size with high ceilings and a fireplace. There is more than enough space for a sofa, armchair and coffee table, as well as additional free-standing storage.<br><br>The kitchen is neutral in colour with a smart wooden worktop and an abundance of storage space. Also included is an integrated gas hob with extractor fan above and oven below, dishwasher, washing machine, and space for a fridge/freezer. There is also plenty of space for a dining table and chairs.<br><br>The bathroom comprises of a bath with shower above, W.C., and sink.<br><br>Lastly there is access to communal gardens to the rear of the building.<br><br>Location:<br>These picturesque mansion flats are located off Camberwell New Road and only a short walk from Camberwell Green and Myatt's Fields Park. The flat is extremely well located for the trendy gastro pubs, bars and many eateries of Camberwell, Peckham and Brixton.<br><br>Directions:<br>Camberwell New Road is well served by a frequent bus service into Central London. There are multiple bus routes from Hayes Court to Victoria, Paddington and Battersea. Oval Underground Station (Northern Line) is approximately 0.6 miles away.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "8116b872bd887ede8982391f7a9e816c5ec55fe9.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "436ed5f4b23ff641ba80da48ebf1daf3721c9f8b.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "28a765a307b212f13817920a305eb30aeea036ff.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7600d363f08dbd09281467ee36ceba4c5a3e1aeb.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5045393c410b1eb826816f10c99f2a80b74b1b70.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5a24adfa437cd0a3732ed42e955214b33552e794.jpg",
+                "caption": "Picture No. 17"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b257b7c4f5e3de50ed5a7e36893c4383d99eca96.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "00ee5c39a250bdf1e3c1708ff5d711ada7d41ae2.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cf85278fe5471ddbc9be6be60adb1932e681fa50.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ca3d5b599b252bd990d4399902b75550f0bd8682.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "acf854534f555749f8dfa9ca15f5094e442a968f.jpg",
+                "caption": "Picture No. 19"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e2166da47030e4a217f3f6f54cab74ff3b66ede0.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7bdad1448b44bb9e9ef84c1551691e47396b2880.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "798f715ce7bd459b022e079e395454589c1e4817.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4a4d625e185a37d3b77108c511d650473f528cc1.jpg",
+                "caption": "Picture No. 18"
+            },
+            {
+                "__typename": "Media",
+                "filename": "83f2134f9d46b15c804e6c25f09586730adb2b54.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9cb77aa57a75d19ef8641b1c30dfd1b472ca8144.jpg",
+                "caption": "Picture No. 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d83729af5f00ddde8c3a448a2de601ce0f3ddf03.jpg",
+                "caption": "Picture No. 04"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 101641,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Kennington Sales",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Hayes Court, Camberwell New Road, London SE5",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0TQ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60691059,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 17,
+            "numRecepts": 1,
+            "outcode": "SE5",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 539582
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Hayes Court, Camberwell New Road, London SE5 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Hayes Court, Camberwell New Road, London SE5, selling for \u00a3650,000 from Winkworth - Kennington Sales. See property details on Zoopla or browse all our range of properties in Hayes Court, Camberwell New Road, London SE5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60691059/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.477027,
+                "longitude": -0.099015
+            }
+        },
+        "displayAddress": "Hayes Court, Camberwell New Road, London SE5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-04T20:51:34",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 233
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/8116b872bd887ede8982391f7a9e816c5ec55fe9.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60691059,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "0C2D6F64-9745-11EC-9989-D8F70D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE5",
+            "areaNameUri": "london/se5/camberwell",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2132.7222222222235
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 388661,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 391337,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2676
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 393004,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -4343
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 411244,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -22583
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 374012,
+                    "pctChangeSince": 3.917,
+                    "date": "2017-02-26",
+                    "changeSince": 14649
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 244501,
+                    "pctChangeSince": 58.961,
+                    "date": "2012-02-26",
+                    "changeSince": 144160
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 236264,
+                    "pctChangeSince": 64.503,
+                    "date": "2007-02-26",
+                    "changeSince": 152397
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 140190,
+                    "pctChangeSince": 177.239,
+                    "date": "2002-02-26",
+                    "changeSince": 248471
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 447197,
+                    "newBuilds": 0,
+                    "numSales": 228
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 444569,
+                    "newBuilds": 45,
+                    "numSales": 632
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 440466,
+                    "newBuilds": 205,
+                    "numSales": 1334
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 429188,
+                    "newBuilds": 277,
+                    "numSales": 2053
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-27T00:00:00Z",
+                    "price": 745000,
+                    "propertyId": 20914057,
+                    "streetAddress": "92a Camberwell New Road",
+                    "uri": "92a-camberwell-new-road/london/se5-0rs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-22T00:00:00Z",
+                    "price": 362500,
+                    "propertyId": 29502908,
+                    "streetAddress": "Flat 31, 316 Camberwell New Road",
+                    "uri": "flat-31/316-camberwell-new-road/london/se5-0ag"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-19T00:00:00Z",
+                    "price": 532000,
+                    "propertyId": 29502889,
+                    "streetAddress": "Flat 14, 316 Camberwell New Road",
+                    "uri": "flat-14/316-camberwell-new-road/london/se5-0ag"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 791440,
+                    "propertyId": 20920131,
+                    "streetAddress": "125 Coleman Road",
+                    "uri": "125-coleman-road/london/se5-7tf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 925000,
+                    "propertyId": 20928968,
+                    "streetAddress": "17 Southwell Road",
+                    "uri": "17-southwell-road/london/se5-9pf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 1760000,
+                    "propertyId": 28910636,
+                    "streetAddress": "71 Grove Park",
+                    "uri": "71-grove-park/london/se5-8lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 20919638,
+                    "streetAddress": "26 Sedgmoor Place",
+                    "uri": "26-sedgmoor-place/london/se5-7se"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 589000,
+                    "propertyId": 20920319,
+                    "streetAddress": "7 Tilson Close, Coleman Road",
+                    "uri": "7-tilson-close/coleman-road/london/se5-7tz"
+                }
+            ]
+        }
+    }
+}

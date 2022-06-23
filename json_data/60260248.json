@@ -1,0 +1,396 @@
+{
+    "address": "The Moore, 27 East Parkside, Greenwich Peninsula SE10",
+    "price": "\u00a3560,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": 731.0,
+    "text": "Net Internal Areo\n731 sq ft/67.9 qm\n\n \n\nBedroom 1\n18\u00b0 \"x9 8\u00b0/5.63m x2.96m\n\n  \n \n\n \n\n \n\n \n\nI srenen\n\n \n\n \n\nBedroom 2\nI 126\u00b0 x9! 0\u00b0/3.80m x2.76m\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nBathroom\n\n\u2014 Y im 611\" x6! 6\"/2.10mm x1.99m\n\nEnsuite\nBATHROOM 69\" x5'0\"/2.07m x1.54m\n\nID Living Room\n\nBEDROOM 2|\n18\u00b011\" x10\" 10\u00b074.85m x3.50m\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nLoney Kitchen\n10\u00b0 0\" x6'107/3.06m x2.09m\n\n \n\ngnury 1S Balcony\n\u2018beDROOM 1 T132q 8/7234\n\nmee\n\n| Yi ite\n[Cd\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nost pln mesirenent rs pproxinate\nnde ores purse ony\n\n \n",
+    "image": "./extracted_images/60260248.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60260248/",
+    "listing_no": "60260248",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.496411,
+        "longitude": 0.011544
+    },
+    "first_published": "2021-11-24T14:00:37",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60260248",
+        "publishedOn": "2021-11-24T14:00:37",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "The Moore.pdf",
+                "original": "https://lc.zoocdn.com/5d565be9daa79620e84aa51f0903816e80ed01ff.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 78712,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(464653).png",
+            "branchName": "Greenwich Peninsula - Sales",
+            "brandName": "Greenwich Peninsula",
+            "chainFree": false,
+            "companyId": 46015,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Moore, 27 East Parkside, Greenwich Peninsula SE10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0PP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60260248,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 17,
+            "numRecepts": 1,
+            "outcode": "SE10",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 560000,
+            "price": 560000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 467756
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/greenwich-peninsula-sales-london-78712/",
+            "branchId": "78712",
+            "branchResultsUri": "/for-sale/branch/greenwich-peninsula-sales-london-78712/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(464653).png",
+            "phone": "020 8128 9392",
+            "name": "Greenwich Peninsula - Sales",
+            "memberType": "agent",
+            "address": "Gateway Pavilion, Peninsula Square, London",
+            "postcode": "SE10 0SQ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Millennium Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "North Greenwich Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "North Greenwich",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Christ Church Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "Moore 05.02.Jpg",
+                    "filename": "5860ac597559800df9dcac80f54221d71e846753.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This well proportioned home provides 731 square ft of space, and sits in a corner position of the popular Moore Building. The spacious entrance hall with utilities and very useful additional storage area, opens to the smart open plan reception and kitchen areas. The fully fitted German Alno kitchen has Silestone work surfaces and breakfast bar. With a dual aspect and decked balcony, there is plenty of natural light flowing throughout the apartment. Both bedrooms are double rooms, the master having en-suite shower room/WC. There is ample space in either bedroom to accommodate a desk for those needing to work from home or if you prefer, plenty of space in the sunny reception room or hallway. Engineered wood flooring, with under floor heating runs through from the entrance hall to the reception and kitchen, and there are fitted carpets to both bedrooms.<br>A centralised terrestrial and satellite television system is in place and there is high speed broadband fibre, a resident's lounge area on the ground floor, and secure cycle storage is available.<br>As a resident of Parkside you have access to The Aperture building which provides a 24hour Concierge service, a 3 floor gym with fitness studio, meetings rooms available to hire and business suite. There is a private children's nursery on the 1st floor, a Pan-Asian restaurant and local Co-Op on the ground floor. The lovely open spaces of Central park are on your doorstep, where there are summer outdoor film screenings, the annual Urban Village Fete, and to finish off your work day, the friendly Pilot Inn for that evening glass of wine or dinner in the large rear garden or 1st floor terrace. London's first elevated linear park arrived on Greenwich Peninsula last year providing public art installations, landscaped trails for running, walking and meditation, adding to the superb amenities and attractions of the Peninsula.<br>Call us now to arrange your appointment to view.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 Double Bedrooms",
+                "Parkside Location",
+                "Decked Balcony",
+                "Desk space",
+                "Fitted German Alno Kitchen",
+                "Engineered Timber Flooring",
+                "Underfloor Heating",
+                "Residents Gym &amp; 24hr Concierge",
+                "Jubilee Line 2 mins Canary Wharf",
+                "8 Mins to London Bridge"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "aec944389e08cd9733203280c70c62a510fca734.jpg",
+                    "caption": "Floorplan.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "2f66450c8cbcd4e678c6e41ddfb5dc45dd5a2a79.jpg",
+                "caption": "Reception Kitchen.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "34fff1afb1bf87bf9680e7629a521f52f0c9df7c.jpg",
+                "caption": "Balcony.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "22209ad9ebd558c2fd7bbf3fe859f8030158c28a.jpg",
+                "caption": "Reception.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e3190212ca53f09f31732e1ab530e970816e7f92.jpg",
+                "caption": "Kitchen.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "22a1e98d36077390a0f0757a9c179e3d2af31b7e.jpg",
+                "caption": "Bedroom.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "128a51ebd039bee8598a71e216d6167b624984a4.jpg",
+                "caption": "Ensuite.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "66595b02d49c8ce10b44cb7f165138592df08d24.jpg",
+                "caption": "Bedroom 1.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a39690bf2fddc20ad3f2ece69d25481876441303.jpg",
+                "caption": "Bedroom 2.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3606b26b6c8d2fa5b28cfd260edf65b27d1ac18c.jpg",
+                "caption": "Bathroom.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d18d50f222b7009f69ca95b34d78adc23d612c61.jpg",
+                "caption": "External.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c199fc50c8d7f33b0c98a2529d8e4dfd5b358eb1.jpg",
+                "caption": "Moore.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0f52df8df6cd93fc4308fc979914c669d56d7e6f.jpg",
+                "caption": "Central Park Summer To Gmv.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4f4bb43f8bcfb49fda7b052b50ed49d99c9cf719.jpg",
+                "caption": "Aperture.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fca2bca1e2017323e991c0384f3cf06edfbb4c10.jpg",
+                "caption": "Aperture Lobby.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b8dbf41472dd07c46baac2763b3631025c505fc6.jpg",
+                "caption": "Cardio.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9040cf5b9a357e72f83986ae1c32317c083aa30d.jpg",
+                "caption": "Gym.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "16afc6173bcfdd600a42e348ec1e6d91bdaedb6f.jpg",
+                "caption": "Fitness Studio.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 78712,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(464653).png",
+            "branchName": "Greenwich Peninsula - Sales",
+            "brandName": "Greenwich Peninsula",
+            "chainFree": false,
+            "companyId": 46015,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Moore, 27 East Parkside, Greenwich Peninsula SE10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0PP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60260248,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 17,
+            "numRecepts": 1,
+            "outcode": "SE10",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 560000,
+            "price": 560000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 467756
+        },
+        "title": "2 bed property for sale",
+        "metaTitle": "2 bed property for sale in The Moore, 27 East Parkside, Greenwich Peninsula SE10 - Zoopla",
+        "metaDescription": "2 bed property for sale in The Moore, 27 East Parkside, Greenwich Peninsula SE10, selling for \u00a3560,000 from Greenwich Peninsula - Sales. See property details on Zoopla or browse all our range of properties in The Moore, 27 East Parkside, Greenwich Peninsula SE10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60260248/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.496411,
+                "longitude": 0.011544
+            }
+        },
+        "displayAddress": "The Moore, 27 East Parkside, Greenwich Peninsula SE10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-24T14:00:37",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "2.6",
+                    "priceChangeDate": "2022-02-01T17:40:12",
+                    "priceChangeLabel": "\u00a315,000",
+                    "priceLabel": "\u00a3560,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 83
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/aec944389e08cd9733203280c70c62a510fca734.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3560,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Greenwich Peninsula",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60260248,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium"
+        },
+        "uuid": "43FFA24A-8386-11EC-9D50-19D50D674736",
+        "marketStats": null
+    }
+}

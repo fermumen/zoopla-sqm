@@ -1,0 +1,554 @@
+{
+    "address": "Underhill Road, East Dulwich, London SE22",
+    "price": "\u00a3650,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 74.1,
+    "sqft": 798.0,
+    "text": "N SA\nMASTER BEDROOM\n17'1 x 11'1\n5.21m x 3.38m\nry\n: | DN i\nGARDEN\nig 28'0 x 25'3 a Oe\n8.53m x 7.71m 4 e\u00a2\n\u201c O KITCHEN\nSs i I 8'0 x 70\n2.44m x 2.13m\n: I\n9 rn Y\n: | DN\nXOX oe :\nUP\n1\n(se) sf BEDROOM 2 RECEPTION ROOM\ni rae 13'8 x 87 150 x 13'7\na\nOX x 4.17m x 2.62m 4.57m x 4.14m\n&o\u00a2\nUP iW SI % |\ner) \\\n\u2019\nma\nIN\nGROUND FLOOR SECOND FLOOR FIRST FLOOR\n23 SQFT/2.1SQM 482 SQ FT/ 44.8 SQM 293 SQ FT / 27.2 SQM\nAPPROXIMATE GROSS INTERNAL AREA\n798 SQ FT/ 74.1 SQM\n",
+    "image": "./extracted_images/56943077.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/56943077/",
+    "listing_no": "56943077",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.451987,
+        "longitude": -0.065757
+    },
+    "first_published": "2022-01-24T14:20:28",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "56943077",
+        "publishedOn": "2022-01-24T14:20:28",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/DUL200578",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=DUL200578",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 8169,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Dulwich",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Underhill Road, East Dulwich, London SE22",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0PB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 56943077,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SE22",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 671379
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-dulwich-east-dulwich-8169/",
+            "branchId": "8169",
+            "branchResultsUri": "/for-sale/branch/winkworth-dulwich-east-dulwich-8169/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8115 8427",
+            "name": "Winkworth - Dulwich",
+            "memberType": "agent",
+            "address": "97 Lordship Lane, East Dulwich",
+            "postcode": "SE22 8HU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Goodrich Community Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Harris Boys' Academy East Dulwich",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Honor Oak Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.9
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Dulwich",
+                "type": "national_rail_station",
+                "distanceMiles": 0.9
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "b63275002cc84863165a3b9cf80b0a44bb2298bb.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A stunning and quirky three-bedroom split level flat situated in a fantastic location in SE22. This fun and charming split-level flat is offered to the market in exceptional condition. Comprising a small fully fitted kitchen and large reception room, complete with original dual aspect sash windows, original pine flooring and gorgeous d\u00e9cor. The master bedroom at the top has a small mezzanine ideal for storage or a private workspace. There are two further bedrooms, one a double and one a single. The property also offers allocated parking and a large private garden. The location is fantastic with two large parks within equal distance at Peckham Rye and Dulwich Park. Shops, bars and restaurants are located on Lordship Lane and Forest Hill Road. Transport links are provided via Peckham Rye and Honor Oak for links to the overground and East Dulwich for direct links to London Bridge.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three Bedrooms",
+                "Split Level Flat",
+                "Beautifully Presented Throughout",
+                "Reception Room",
+                "Fully Fitted Kitchen",
+                "Share of Freehold",
+                "Allocated Parking Space",
+                "School Catchment Area"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "5093c45fdf1fa669ef67e74b89ddd488c8a0849c.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "47823c585f30716784844e56bc483f063b4ed0b1.jpg",
+                "caption": "Reception Part Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b7392600fcfcf77a10e23f1703b5151405c0fbb6.jpg",
+                "caption": "Bedroom One Part One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c9d9708a2269dc76164181b5340103c19d62d555.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b56f4686815a1df57733c2a889d19542113b9d1f.jpg",
+                "caption": "External"
+            },
+            {
+                "__typename": "Media",
+                "filename": "aea1436dffee13b14639621663e3d5b9d644e303.jpg",
+                "caption": "Reception Part One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5eea2ba8fd3b1dc204992f2f8504bcf911fc8684.jpg",
+                "caption": "Bedroom One Part Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b5e40c6618ed2a1e13c7ca74c351bb10468cca73.jpg",
+                "caption": "Bedroom Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "04cb554dc469709a1803503bcdf735e51f18f58c.jpg",
+                "caption": "Study"
+            },
+            {
+                "__typename": "Media",
+                "filename": "12877a394df65fda994753b9a3589848e71524c6.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "57acf632fc51b1ee18fddbddab197314974a59d1.jpg",
+                "caption": "Garden Part One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1749fb62e35392c8dccfe882440f75bc205fd191.jpg",
+                "caption": "Garden Part Two"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 8169,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Dulwich",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Underhill Road, East Dulwich, London SE22",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0PB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 56943077,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SE22",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 671379
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Underhill Road, East Dulwich, London SE22 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Underhill Road, East Dulwich, London SE22, selling for \u00a3650,000 from Winkworth - Dulwich. See property details on Zoopla or browse all our range of properties in Underhill Road, East Dulwich, London SE22.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/56943077/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.451987,
+                "longitude": -0.065757
+            }
+        },
+        "displayAddress": "Underhill Road, East Dulwich, London SE22",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-24T14:20:28",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 209
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/5093c45fdf1fa669ef67e74b89ddd488c8a0849c.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 56943077,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "AF7FC5F4-9349-11EC-AFCC-B61A0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE22",
+            "areaNameUri": "london/se22/east-dulwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2301
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 456902,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 460048,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3146
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 462008,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5106
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 483451,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -26549
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 439686,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 17216
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 287434,
+                    "pctChangeSince": 58.959,
+                    "date": "2012-02-26",
+                    "changeSince": 169468
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 277750,
+                    "pctChangeSince": 64.501,
+                    "date": "2007-02-26",
+                    "changeSince": 179152
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 164806,
+                    "pctChangeSince": 177.236,
+                    "date": "2002-02-26",
+                    "changeSince": 292096
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 488265,
+                    "newBuilds": 0,
+                    "numSales": 148
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 483479,
+                    "newBuilds": 1,
+                    "numSales": 372
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 478928,
+                    "newBuilds": 5,
+                    "numSales": 733
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 467029,
+                    "newBuilds": 7,
+                    "numSales": 1166
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 323200,
+                    "propertyId": 21174608,
+                    "streetAddress": "Flat 8, Belvoir Lodge, 59 Underhill Road",
+                    "uri": "flat-8/belvoir-lodge/59-underhill-road/london/se22-0qx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-14T00:00:00Z",
+                    "price": 436550,
+                    "propertyId": 21173793,
+                    "streetAddress": "159a Underhill Road",
+                    "uri": "159a-underhill-road/london/se22-0pg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-22T00:00:00Z",
+                    "price": 673400,
+                    "propertyId": 27502847,
+                    "streetAddress": "Ground Floor Flat, 53 Underhill Road",
+                    "uri": "ground-floor-flat/53-underhill-road/london/se22-0qr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 765000,
+                    "propertyId": 21174324,
+                    "streetAddress": "180a Underhill Road",
+                    "uri": "180a-underhill-road/london/se22-0qh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-17T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 21171061,
+                    "streetAddress": "Flat 2, Dulwich Court, Underhill Road",
+                    "uri": "flat-2/dulwich-court/underhill-road/london/se22-0aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 21172468,
+                    "streetAddress": "19 Crebor Street",
+                    "uri": "19-crebor-street/london/se22-0hf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 884000,
+                    "propertyId": 21173603,
+                    "streetAddress": "47 Mundania Road",
+                    "uri": "47-mundania-road/london/se22-0nw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 910000,
+                    "propertyId": 21182224,
+                    "streetAddress": "21 Rodwell Road",
+                    "uri": "21-rodwell-road/london/se22-9lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 21176816,
+                    "streetAddress": "Flat B, 18 Lordship Lane",
+                    "uri": "flat-b/18-lordship-lane/london/se22-8hn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 638500,
+                    "propertyId": 21180897,
+                    "streetAddress": "148a Crystal Palace Road",
+                    "uri": "148a-crystal-palace-road/london/se22-9ep"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,506 @@
+{
+    "address": "Links Road, London SW17",
+    "price": "\u00a3650,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 89.8,
+    "sqft": null,
+    "text": "Links Road, SW17 y\nAPPROX. GROSS INTERNAL FLOOR AREA 967 SQFT / 89.8 SQM Van oan\n| \\ |\nfe es NS\nie Garden :\n39'2\" (1,93)\nHUT (3.37)\n(Approx)\nJa\ni\n~Rorch\na\n: SS Kitchen |) <= 7\n\u201cI A 12'6\" (3.81)\u2014 yd A CH\n612\" (1.87)_| 4 py Mw\n[88 | ~~\nDining Room | 1\n11'10\" (3.60) ii | \\ Bedroom Py\n10'1\" (3.08) 7 12'6\" (3.81) Ke)\n/ 11'3\" (3.42) =\ni 7 \\ . Dn A\n/ 7 \\ lI\nl / \\ rt\n= , an om\nr z ia\na LT fo i\ni Ee \u2014_ # |\n\u2014_ imu\nI \u2014 \\\nr\nReception Room Up ani Gy Se\n15'0\" (4.58) 10'4\" (3.14) Bedroom\nTHN @.39) mB\" (2.72)7]\n6'4\" (1.94)\n(| a =\n; q\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nFIRST FLOOR SECOND FLOOR\nThe floor plan is not to scale and measurements and\nareas shown are approximate and therefore should be used for illustrative purposes only.\nThe plan has been prepared in accordance with the RICS code of measuring Practice\nand whilst we have confidence in the information produced, it must not be relied on.\nIf there is any aspect of particular importance, you should carry out or\ncommission your own inspection of the property.\n",
+    "image": "./extracted_images/60687522.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60687522/",
+    "listing_no": "60687522",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.418325,
+        "longitude": -0.151461
+    },
+    "first_published": null,
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60687522",
+        "publishedOn": "2022-02-04T14:49:52",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/mpa/live/pdf.php?p=TOO220008&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 74321,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "branchName": "Marsh & Parsons - Tooting",
+            "brandName": "Marsh & Parsons",
+            "chainFree": true,
+            "companyId": 7059,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Links Road, London SW17",
+            "furnishedState": "",
+            "groupId": 10,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9ER",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60687522,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 6,
+            "numRecepts": 2,
+            "outcode": "SW17",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 548370
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/marsh-and-parsons-tooting-london-74321/",
+            "branchId": "74321",
+            "branchResultsUri": "/for-sale/branch/marsh-and-parsons-tooting-london-74321/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "phone": "020 8022 0901",
+            "name": "Marsh & Parsons - Tooting",
+            "memberType": "agent",
+            "address": "29-31 Upper Tooting Road, London",
+            "postcode": "SW17 7TS"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Links Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Furzedown Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tooting",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Streatham Common",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "eb53ae998b0b858c7ba79dc6740c1c329eb32612.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This desirable family home is located in the popular Alphabet streets and comes with good proportions and briefly comprises of; a generous front reception room, a semi open plan kitchen/dining area and a large South facing garden. The first floor accommodates two double bedrooms, a further bedroom/study, and a spacious family bathroom.<br><br>One of the key opportunities within this house is that there is potential to add a significant amount of space by extending the property (subject to planning). This should provide a new owner with the ability to stay in the house for longer, save on future moving costs and create a space that is tailored to their specific style and tastes.<br><br>This house is located on Links Road, in the Alphabet streets which connects to London Road where plenty of local amenities can be found. Tooting Station (National Rail), as well as Tooting Broadway (Northern line, zone 3) and local bus routes allow for frequent access into and out of the City.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three bedrooms",
+                "South-facing",
+                "Potential to extend",
+                "Popular location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "50d707c61cb5e145d68e87f9a0888bb84811bf1c.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "cfc46aca3ff42a2af6f5aaae3c9c82f6e64384e3.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7340371ecf1677bf7086564a6d1df9257ad53c98.jpg",
+                "caption": "Garden"
+            },
+            {
+                "__typename": "Media",
+                "filename": "42122f1a29c66eff0c77f3358ea8eea9b601004e.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2e0225dda12d725eead447d90ca0a462708311e3.jpg",
+                "caption": "Bedroom Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2efbec60aeefcab9d1535af62d54bf0debdbc43d.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "df3ba093ef27d501d16ad66dac12a241f2fad1f1.jpg",
+                "caption": "Bedroom"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 74321,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "branchName": "Marsh & Parsons - Tooting",
+            "brandName": "Marsh & Parsons",
+            "chainFree": true,
+            "companyId": 7059,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Links Road, London SW17",
+            "furnishedState": "",
+            "groupId": 10,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9ER",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60687522,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 6,
+            "numRecepts": 2,
+            "outcode": "SW17",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 548370
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Links Road, London SW17 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Links Road, London SW17, selling for \u00a3650,000 from Marsh & Parsons - Tooting. See property details on Zoopla or browse all our range of properties in Links Road, London SW17.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60687522/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.418325,
+                "longitude": -0.151461
+            }
+        },
+        "displayAddress": "Links Road, London SW17",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": null,
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 264
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/50d707c61cb5e145d68e87f9a0888bb84811bf1c.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 2
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Marsh & Parsons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60687522,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "92693C34-9628-11EC-8E8C-8D090E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW17",
+            "areaNameUri": "london/sw17/tooting",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3045.545454545455
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 856447,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 863127,
+                    "pctChangeSince": -0.774,
+                    "date": "2021-11-26",
+                    "changeSince": -6680
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 888962,
+                    "pctChangeSince": -3.658,
+                    "date": "2021-08-26",
+                    "changeSince": -32515
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 859986,
+                    "pctChangeSince": -0.412,
+                    "date": "2021-02-26",
+                    "changeSince": -3539
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 821101,
+                    "pctChangeSince": 4.305,
+                    "date": "2017-02-26",
+                    "changeSince": 35346
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 559172,
+                    "pctChangeSince": 53.163,
+                    "date": "2012-02-26",
+                    "changeSince": 297275
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 511279,
+                    "pctChangeSince": 67.511,
+                    "date": "2007-02-26",
+                    "changeSince": 345168
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 312723,
+                    "pctChangeSince": 173.868,
+                    "date": "2002-02-26",
+                    "changeSince": 543724
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 865460,
+                    "newBuilds": 0,
+                    "numSales": 267
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 835677,
+                    "newBuilds": 1,
+                    "numSales": 763
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 818135,
+                    "newBuilds": 23,
+                    "numSales": 1345
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 802727,
+                    "newBuilds": 31,
+                    "numSales": 2002
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-14T00:00:00Z",
+                    "price": 233000,
+                    "propertyId": 28580135,
+                    "streetAddress": "160a Links Road",
+                    "uri": "160a-links-road/london/sw17-9es"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 27428628,
+                    "streetAddress": "35a Links Road",
+                    "uri": "35a-links-road/london/sw17-9ee"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-01T00:00:00Z",
+                    "price": 735000,
+                    "propertyId": 23364021,
+                    "streetAddress": "85 Links Road",
+                    "uri": "85-links-road/london/sw17-9ef"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-12T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 23364216,
+                    "streetAddress": "260 Links Road",
+                    "uri": "260-links-road/london/sw17-9er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 625000,
+                    "propertyId": 23364076,
+                    "streetAddress": "19 Frinton Road",
+                    "uri": "19-frinton-road/london/sw17-9eh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 872500,
+                    "propertyId": 23367035,
+                    "streetAddress": "187 Seely Road",
+                    "uri": "187-seely-road/london/sw17-9qx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 486850,
+                    "propertyId": 23367498,
+                    "streetAddress": "73 Sellincourt Road",
+                    "uri": "73-sellincourt-road/london/sw17-9rz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1140000,
+                    "propertyId": 23361420,
+                    "streetAddress": "96 Drakefield Road",
+                    "uri": "96-drakefield-road/london/sw17-8rr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 920000,
+                    "propertyId": 23357308,
+                    "streetAddress": "40 Moring Road",
+                    "uri": "40-moring-road/london/sw17-8dl"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,577 @@
+{
+    "address": "Glengall Road, London NW6",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60617967/",
+    "listing_no": "60617967",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.539559,
+        "longitude": -0.197425
+    },
+    "first_published": "2022-01-26T17:55:03",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60617967",
+        "publishedOn": "2022-01-26T17:55:03",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "More Details",
+                "original": "https://www.knightfrank.com/POD012263504",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://lc.zoocdn.com/e8d537b0b4028d7bd17cab758077d11cbeaf773f.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79964,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(644074).png",
+            "branchName": "Knight Frank - Queens Park Sales",
+            "brandName": "Knight Frank",
+            "chainFree": true,
+            "companyId": 2182,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Glengall Road, London NW6",
+            "furnishedState": "",
+            "groupId": 94,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7EL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60617967,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "707_821",
+            "tenure": null,
+            "zindex": 479911
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/knight-frank-queens-park-sales-london-79964/",
+            "branchId": "79964",
+            "branchResultsUri": "/for-sale/branch/knight-frank-queens-park-sales-london-79964/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(644074).png",
+            "phone": "020 8022 5734",
+            "name": "Knight Frank - Queens Park Sales",
+            "memberType": "agent",
+            "address": "60 Salusbury Road, Queens Park, London",
+            "postcode": "NW6 6NP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilburn Grange School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary's Kilburn Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilburn High Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilburn Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "Epcgraph",
+                    "filename": "0665bbfce4f4c8199fdd821c6165328d62680905.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This charming flat seamlessly combines modern finishes and characterful features, and is set over the top two floors of a handsome period building within a short distance to Queen's Park and Kilburn nearby.<br><br>Positioned on the upper floors, the entrance on the first floor unfolds into a generous reception room, a recently refurbished bathroom and separate kitchen. Plus the second and guest bedroom. The top floor offers a spacious principal bedroom and contemporary en-suite shower, also ample storage space is provided in the eaves.<br>The Sash windows have been fully restored and the property has been improved throughout by the current owners and offered for sale, chain-free.<br><br>Glengall Road is well located for transport links with the Bakerloo line at Queen's Park or the London Overground at Brondesbury station. Salusbury Road offers an excellent choice of cafes, restaurants and shops and the property is also within good reach of the park, local library and sport facilities including tennis courts and local gyms.<br><br>The property is very well positioned for a large selection of private and state schools located in the local areas of Notting Hill, North Kensington, St John's Wood and Hampstead.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 bedrooms",
+                "1 reception room",
+                "2 bathrooms",
+                "Period",
+                "Town/City",
+                "Upper Floor",
+                "Maisonette"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "cfdf0a9c8ff7603dff61099b09f4e1a4ae219c64.jpg",
+                    "caption": "Floorplanimage"
+                }
+            ],
+            "links": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/b5e1ea0a65aec0c148822fce72db339f3d5d5680.pdf",
+                    "caption": "Floorplan"
+                }
+            ]
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "1b2a0622f5367e7f92924c91339283337e3d0ecf.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "acdd403e557ca4b9405b4efed20718dec0171996.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "757b15e81e8a1ebb13ae2691ad1644bd07f56c09.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "180293439f4ff1623c0826e46fe66c1a9eaa0572.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e36c0b6022639eedf6b8354593e6d9ea03b055c0.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f4ffac75e5001f3590e87d02b966b374daaba5db.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2de664cac8b31aee850e77c731ebd9c7df608011.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8183a24c36a27fd835f6fb1d3dc355cea828756d.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ef7863f5d30b9b4cee8cb6243ebe2d98dd5bb853.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3244c4ade36bcc9fb6db6797b07ccf5acf43a402.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b8c9561525e0300bd61a88a47aeb1ef3748e9b41.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a828c74fe8f520cd73a04be7fa3b360d2c9f97e2.jpg",
+                "caption": "Image"
+            },
+            {
+                "__typename": "Media",
+                "filename": "72e9684a6e7f921b7427089b96ca81b9923e5b57.jpg",
+                "caption": "Image"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79964,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(644074).png",
+            "branchName": "Knight Frank - Queens Park Sales",
+            "brandName": "Knight Frank",
+            "chainFree": true,
+            "companyId": 2182,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Glengall Road, London NW6",
+            "furnishedState": "",
+            "groupId": 94,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7EL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60617967,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "707_821",
+            "tenure": null,
+            "zindex": 479911
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Glengall Road, London NW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Glengall Road, London NW6, selling for \u00a3600,000 from Knight Frank - Queens Park Sales. See property details on Zoopla or browse all our range of properties in Glengall Road, London NW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60617967/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.539559,
+                "longitude": -0.197425
+            }
+        },
+        "displayAddress": "Glengall Road, London NW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-26T17:55:03",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 165
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/cfdf0a9c8ff7603dff61099b09f4e1a4ae219c64.jpg"
+                },
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/b5e1ea0a65aec0c148822fce72db339f3d5d5680.pdf"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": null
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 849,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Knight Frank",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60617967,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "F93617C4-8436-11EC-BE14-5FE80D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW6",
+            "areaNameUri": "london/nw6/kilburn-queens-park-south-and-west-hampstead-brondesbury-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2462.275362318841
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 639412,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 650315,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10903
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 670511,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -31099
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 700633,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -61221
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 661041,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -21629
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 456421,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 182991
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 407367,
+                    "pctChangeSince": 56.962,
+                    "date": "2007-02-26",
+                    "changeSince": 232045
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 240567,
+                    "pctChangeSince": 165.794,
+                    "date": "2002-02-26",
+                    "changeSince": 398845
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 667712,
+                    "newBuilds": 3,
+                    "numSales": 291
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 672521,
+                    "newBuilds": 45,
+                    "numSales": 870
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 677804,
+                    "newBuilds": 112,
+                    "numSales": 1709
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 662927,
+                    "newBuilds": 321,
+                    "numSales": 2863
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 32574689,
+                    "streetAddress": "Flat 13, Academy Court, 34 Glengall Road",
+                    "uri": "flat-13/academy-court/34-glengall-road/london/nw6-7fb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 525000,
+                    "propertyId": 27164351,
+                    "streetAddress": "Ground Floor Flat, 112 Glengall Road",
+                    "uri": "ground-floor-flat/112-glengall-road/london/nw6-7hh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-28T00:00:00Z",
+                    "price": 995000,
+                    "propertyId": 17258891,
+                    "streetAddress": "104 Glengall Road",
+                    "uri": "104-glengall-road/london/nw6-7hh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-28T00:00:00Z",
+                    "price": 680000,
+                    "propertyId": 31329638,
+                    "streetAddress": "82b Glengall Road",
+                    "uri": "82b-glengall-road/london/nw6-7er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-14T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 31581547,
+                    "streetAddress": "43a Glengall Road",
+                    "uri": "43a-glengall-road/london/nw6-7el"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760000,
+                    "propertyId": 17241471,
+                    "streetAddress": "Flat 3, Lawn Mansions, Gondar Gardens",
+                    "uri": "flat-3/lawn-mansions/gondar-gardens/london/nw6-1er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 3350000,
+                    "propertyId": 17259571,
+                    "streetAddress": "98 Christchurch Avenue",
+                    "uri": "98-christchurch-avenue/mapesbury/london/nw6-7pe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1196750,
+                    "propertyId": 17241043,
+                    "streetAddress": "1 Norman Terrace, Agamemnon Road",
+                    "uri": "1-norman-terrace/agamemnon-road/london/nw6-1bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 262500,
+                    "propertyId": 17252821,
+                    "streetAddress": "Flat 4, Kilburn Gate, Kilburn Priory",
+                    "uri": "flat-4/kilburn-gate/kilburn-priory/london/nw6-5nd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 875000,
+                    "propertyId": 17260049,
+                    "streetAddress": "10 Douglas Road",
+                    "uri": "10-douglas-road/london/nw6-7rp"
+                }
+            ]
+        }
+    }
+}

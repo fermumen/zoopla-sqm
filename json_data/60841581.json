@@ -1,0 +1,523 @@
+{
+    "address": "Park West, Edgware Road, London W2",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 60.0,
+    "sqft": null,
+    "text": "Park West\nKendal Street, W2\n\u2018Approx. Gross Floor Area = 60 sqmeters + 646 sqfeet\nSECOND FLOOR\nForilusrative purposes only. Noto scale. Prepared by Swan Photography 07974 264676\n",
+    "image": "./extracted_images/60841581.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60841581/",
+    "listing_no": "60841581",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.515748,
+        "longitude": -0.164999
+    },
+    "first_published": "2022-02-24T12:07:47",
+    "last_sale_date": "2013-07-04",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60841581",
+        "publishedOn": "2022-02-24T12:07:47",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8838,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(705917).png",
+            "branchName": "Plaza Estates",
+            "brandName": "Plaza Estates",
+            "chainFree": false,
+            "companyId": 4322,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Park West, Edgware Road, London W2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2RB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60841581,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "W2",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 574493
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/plaza-estates-marble-arch-8838/",
+            "branchId": "8838",
+            "branchResultsUri": "/for-sale/branch/plaza-estates-marble-arch-8838/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(705917).png",
+            "phone": "020 8022 1065",
+            "name": "Plaza Estates",
+            "memberType": "agent",
+            "address": "29 Edgware Road, Marble Arch",
+            "postcode": "W2 2JE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hampden Gurney CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Connaught House School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Edgware Road Circle",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Marble Arch",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Graph",
+                    "filename": "444b6f9ca75a79ea424b50b21b7fef3a99f3cb99.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A beautifully presented second floor two bedroom apartment located in this popular art deco purpose built block.<br><br>The accommodation comprises of west facing reception room, fully fitted kitchen, two bedrooms and bathroom.<br>Added benefits include wood flooring throughout, 24 hour concierge, double glazing and lifts.<br>Park West is wonderfully located just a short walk from Marble Arch tube station, Paddington, Edgware Road, Oxford Street and the open spaces of Hyde Park.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Reception Room",
+                "Kitchen",
+                "Two Bedrooms",
+                "Bathroom",
+                "24 Hour Concierge",
+                "Lifts"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "3f61e7c667dde32b2b085e4ad02d77b8fdef2b1e.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "5dc85a8b9437da2d2140f64493ad88a3a553ce96.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6917eea9e3b65316d279f82c36995b3e5693e126.jpg",
+                "caption": "Reception-Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b93cdb96b102d4d2982f70fad2d572d0d73549c7.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d9d4bef322aa5277a762bcfcc2224e97fc948eb7.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "60e626e196328e05dda87ad7dddefe158c1095b7.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9f8a4676a038a437079431d582c3ff16f4c3ce54.jpg",
+                "caption": "Reception-Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4cb518f9af4ec22073bbeaa3d4c9922b642e6e7d.jpg",
+                "caption": "Bedroom"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8838,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(705917).png",
+            "branchName": "Plaza Estates",
+            "brandName": "Plaza Estates",
+            "chainFree": false,
+            "companyId": 4322,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Park West, Edgware Road, London W2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2RB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60841581,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "W2",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 574493
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Park West, Edgware Road, London W2 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Park West, Edgware Road, London W2, selling for \u00a3650,000 from Plaza Estates. See property details on Zoopla or browse all our range of properties in Park West, Edgware Road, London W2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60841581/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.515748,
+                "longitude": -0.164999
+            }
+        },
+        "displayAddress": "Park West, Edgware Road, London W2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-24T12:07:47",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2013-07-04",
+                "newBuild": false,
+                "price": 485000,
+                "priceLabel": "\u00a3485,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 39
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/3f61e7c667dde32b2b085e4ad02d77b8fdef2b1e.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Plaza Estates",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60841581,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "64E4FADC-956A-11EC-953F-00D30D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W2",
+            "areaNameUri": "london/w2/paddington-bayswater-hyde-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 4401.633956386289
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 933627,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 948781,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -15154
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 976837,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -43210
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1029693,
+                    "pctChangeSince": -9.33,
+                    "date": "2021-02-26",
+                    "changeSince": -96066
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1021633,
+                    "pctChangeSince": -8.614,
+                    "date": "2017-02-26",
+                    "changeSince": -88006
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 680514,
+                    "pctChangeSince": 37.194,
+                    "date": "2012-02-26",
+                    "changeSince": 253113
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 606870,
+                    "pctChangeSince": 53.843,
+                    "date": "2007-02-26",
+                    "changeSince": 326757
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 359671,
+                    "pctChangeSince": 159.578,
+                    "date": "2002-02-26",
+                    "changeSince": 573956
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 964420,
+                    "newBuilds": 0,
+                    "numSales": 256
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1058602,
+                    "newBuilds": 2,
+                    "numSales": 701
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1088039,
+                    "newBuilds": 16,
+                    "numSales": 1289
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1053600,
+                    "newBuilds": 26,
+                    "numSales": 2104
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 249000,
+                    "propertyId": 25003496,
+                    "streetAddress": "Flat 294, Park West, Edgware Road",
+                    "uri": "flat-294/park-west/edgware-road/london/w2-2qn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 315000,
+                    "propertyId": 25003758,
+                    "streetAddress": "Flat 542, Park West, Edgware Road",
+                    "uri": "flat-542/park-west/edgware-road/london/w2-2ra"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 25003527,
+                    "streetAddress": "Flat 157, Park West, Edgware Road",
+                    "uri": "flat-157/park-west/edgware-road/london/w2-2qp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 925000,
+                    "propertyId": 25003238,
+                    "streetAddress": "22, Park West, Edgware Road",
+                    "uri": "22/park-west/edgware-road/london/w2-2qg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-23T00:00:00Z",
+                    "price": 150000,
+                    "propertyId": 25003697,
+                    "streetAddress": "Flat 473, Park West, Edgware Road",
+                    "uri": "flat-473/park-west/edgware-road/london/w2-2qu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 685000,
+                    "propertyId": 25004333,
+                    "streetAddress": "13 Sussex Square",
+                    "uri": "13-sussex-square/london/w2-2sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 900000,
+                    "propertyId": 25008980,
+                    "streetAddress": "Flat B, 41 Linden Gardens",
+                    "uri": "flat-b/41-linden-gardens/london/w2-4hq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 3600000,
+                    "propertyId": 25008982,
+                    "streetAddress": "Flat D, 41 Linden Gardens",
+                    "uri": "flat-d/41-linden-gardens/london/w2-4hq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 3250000,
+                    "propertyId": 25001234,
+                    "streetAddress": "22 Portsea Place",
+                    "uri": "22-portsea-place/london/w2-2bl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 3000000,
+                    "propertyId": 25005331,
+                    "streetAddress": "Flat 15, 22 Brook Mews North",
+                    "uri": "flat-15/22-brook-mews-north/london/w2-3bw"
+                }
+            ]
+        }
+    }
+}

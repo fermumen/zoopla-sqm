@@ -1,0 +1,522 @@
+{
+    "address": "Penwith Road, London SW18",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 68.0,
+    "sqft": 732.0,
+    "text": "Ground Floor .\nFirst Floor\n=\nra arden\nKitchen/Dining |\nRoom is\nDO5mb< 3.85mi\n(16'7\" x 11')\nVL loo\ntt\n=\n\n+\u2014\u2014 Bedroom\n\n3.20m x 3.65m\n(10'6\" x 12\")\ny \\ oe\n\nBedroom Reception\n\n3.22m x 1.79m Room\n\n(10'7\" x 5'10\") 3.84m x 3.48m\n(12'7\" x 11'5\")\n\nTotal area: approx. 68.0 sq. metres (732.5 sq. feet)\n",
+    "image": "./extracted_images/60421902.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60421902/",
+    "listing_no": "60421902",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.44168,
+        "longitude": -0.192544
+    },
+    "first_published": "2021-12-24T10:11:24",
+    "last_sale_date": "2012-10-05",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60421902",
+        "publishedOn": "2021-12-24T10:11:24",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 4196,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "branchName": "Jacksons Estate Agents - Earlsfield",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": false,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Penwith Road, London SW18",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "4QD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60421902,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 2,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 503099
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jacksons-estate-agents-earlsfield-london-4196/",
+            "branchId": "4196",
+            "branchResultsUri": "/for-sale/branch/jacksons-estate-agents-earlsfield-london-4196/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "phone": "020 8971 7979",
+            "name": "Jacksons Estate Agents - Earlsfield",
+            "memberType": "agent",
+            "address": "372 Garratt Lane, Earlsfield, London",
+            "postcode": "SW18 4ES"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Earlsfield",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wimbledon Park Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Earlsfield Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wimbledon Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A two bedroom, first floor Edwardian maisonette with separate reception room and kitchen/dining room.<br><br>The property is situated in a highly desirable residential road within close proximity of Earlsfield mainline station and Garratt Lane's selection of shops, restaurants and wine bars.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedrooms",
+                "First Floor",
+                "Edwardian Maisonette",
+                "Garden",
+                "Excellent Condition",
+                "Sought After Location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "e13f2a25da24d66f7336f6b08975b2de558b2491.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "33f2a949459062c16495d2c40bce18718799ea6e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "620ea7b578f4fd89665a49a5cae47a2f21182b84.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "59b54252a9a302fe45cb439b17489bf1269f1827.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "659ed1885c7884f707706394587deb4b8ea2e032.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a905da7b4a060665316a7387c669b623d5b80d0c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9d5fa109184d6a63f4df9dfb8fb95ca109be2851.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7975ea6b77a1c58544b85123eb26975f4c335097.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6b9ff4e6807e2efcf6ca876de05ac541e49d6ac7.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 4196,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "branchName": "Jacksons Estate Agents - Earlsfield",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": false,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Penwith Road, London SW18",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "4QD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60421902,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 2,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 503099
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Penwith Road, London SW18 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Penwith Road, London SW18, selling for \u00a3600,000 from Jacksons Estate Agents - Earlsfield. See property details on Zoopla or browse all our range of properties in Penwith Road, London SW18.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60421902/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.44168,
+                "longitude": -0.192544
+            }
+        },
+        "displayAddress": "Penwith Road, London SW18",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-24T10:11:24",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2012-10-05",
+                "newBuild": false,
+                "price": 355000,
+                "priceLabel": "\u00a3355,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 205
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/e13f2a25da24d66f7336f6b08975b2de558b2491.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 2
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Jacksons Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60421902,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "02A96892-64A2-11EC-8CD1-6C330E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW18",
+            "areaNameUri": "london/sw18/wandsworth-earlsfield",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2440.1807909604536
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 545740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 548436,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -2696
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 548784,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 571676,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -25936
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 553935,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -8195
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 381867,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 163873
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 348838,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 196902
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 212532,
+                    "pctChangeSince": 156.78,
+                    "date": "2002-02-26",
+                    "changeSince": 333208
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 554541,
+                    "newBuilds": 19,
+                    "numSales": 470
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 543782,
+                    "newBuilds": 55,
+                    "numSales": 1296
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 547279,
+                    "newBuilds": 111,
+                    "numSales": 2421
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 550771,
+                    "newBuilds": 488,
+                    "numSales": 4197
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 551500,
+                    "propertyId": 23384376,
+                    "streetAddress": "93 Penwith Road",
+                    "uri": "93-penwith-road/london/sw18-4py"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 595000,
+                    "propertyId": 23384434,
+                    "streetAddress": "159 Penwith Road",
+                    "uri": "159-penwith-road/london/sw18-4pz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-10T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 23384536,
+                    "streetAddress": "130 Penwith Road",
+                    "uri": "130-penwith-road/london/sw18-4qe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-21T00:00:00Z",
+                    "price": 613750,
+                    "propertyId": 23384544,
+                    "streetAddress": "130a Penwith Road",
+                    "uri": "130a-penwith-road/london/sw18-4qe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-01T00:00:00Z",
+                    "price": 624000,
+                    "propertyId": 23384335,
+                    "streetAddress": "37a Penwith Road",
+                    "uri": "37a-penwith-road/london/sw18-4pu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 23379218,
+                    "streetAddress": "13 Heathfield Square",
+                    "uri": "13-heathfield-square/london/sw18-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 23377537,
+                    "streetAddress": "6 Wells Place",
+                    "uri": "6-wells-place/london/sw18-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 696000,
+                    "propertyId": 23384628,
+                    "streetAddress": "16a Duntshill Road",
+                    "uri": "16a-duntshill-road/london/sw18-4ql"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 1325500,
+                    "propertyId": 23388776,
+                    "streetAddress": "94 Elsenham Street",
+                    "uri": "94-elsenham-street/london/sw18-5nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 511000,
+                    "propertyId": 23383425,
+                    "streetAddress": "31 Steerforth Street",
+                    "uri": "31-steerforth-street/london/sw18-4hf"
+                }
+            ]
+        }
+    }
+}

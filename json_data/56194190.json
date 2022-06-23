@@ -1,0 +1,545 @@
+{
+    "address": "Discovery Dock Apartments East, 3 South Quay Square, London E14",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 88.63,
+    "sqft": 954.0,
+    "text": "Doscovery Dock East, E14\nApprox. Gross Internal Area 954 Sq Ft - 88.63 SqM\n=a\n; z al\n1\nNy a\\\\\n=o \u00a9\nsee aI\noes Reception/ wf\nQo Dining Room\n18'4\" x 17'10\"\n= 5.59 x 5.44m\n{\u00b0 |\n| |\n| Bedroom\n10'11\" x 9'11\"\n3.33 x 3.02m\n== Bedroom |\n15'5\" x 10'10\"\n4.70 x 3.30m\nFourth Floor\nFor Illustration Purposes Only - Not To Scale\nThis floor plan should be used as a general outline for guidance only and does not constitute in whole or in part an offer or contract.\nAny intending purchaser or lessee should satisfy themselves by inspection, searches, enquiries and full survey as to the correctness of each statement.\nAny areas, measurements or distances quoted are approximate and should not be used to value a property or be the basis of any sale or let.\n",
+    "image": "./extracted_images/56194190.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/56194190/",
+    "listing_no": "56194190",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.50129,
+        "longitude": -0.018168
+    },
+    "first_published": "2022-01-20T21:10:02",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "56194190",
+        "publishedOn": "2022-01-20T21:10:02",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "https://www.chestertons.com/properties/property-HEA204620/",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://chips.chestertons.com/chips/brochures/HEA204620.PDF",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 1614,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Canary Wharf",
+            "brandName": "Chestertons",
+            "chainFree": false,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Discovery Dock Apartments East, 3 South Quay Square, London E14",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9RU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 56194190,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 811421
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/chestertons-canary-wharf-london-1614/",
+            "branchId": "1614",
+            "branchResultsUri": "/for-sale/branch/chestertons-canary-wharf-london-1614/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "phone": "020 8115 2494",
+            "name": "Chestertons - Canary Wharf",
+            "memberType": "agent",
+            "address": "Harbour Island, 28 Harbour Exchange Square, Canary Wharf & Docklands, London",
+            "postcode": "E14 9GE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "River House Montessori School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "South Quay",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "City Gateway 14-19 Provision",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Canary Wharf",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/460303930"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "0690fd7d837babcdfc9dd44632d77fde23295ce4.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A spacious two bedroom 2 bathroom apartment in Discovery Dock Apartments East, E14, a modern dockside development located within a 3 minute walk of the centre of Canary Wharf, with 24hr concierge, residents' gym and swimming pool on-site. The apartment boasts close to 1000 sqft internal living space, with a large reception and spacious bedrooms, benefitting from two limestone bathrooms, designer integrated kitchen, solid wood flooring, under-floor heating and air cooling, as well as a dock-facing private balcony. With the added bonus of secure underground parking, this apartment really is amazing value! The property is currently tenanted until January 2021.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Spacious 2 Bedrooms.",
+                "Sought After Canary Wharf Location.",
+                "24 Hour Concierge.",
+                "Residents Gym.",
+                "Private Parking.",
+                "2 Bathrooms.",
+                "Private Balcony."
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "a6765d6ae7f9f19bc58cd3e2390349c18eb25052.jpg",
+                    "caption": "Picture No. 16"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "478ef45138bc8c5dcc834b55f40447b53d1c9871.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8415a510891ed69c03b03396475a2b82802ee137.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a575b6c0e0fa066ae3d201b42c31473f9c3b65ac.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3c443948741fb844499a1ec9aa3bfb9c8f587fcf.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f8d01804fae27f18e00155a8e43a75ab43be4772.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "777ef134ff59412c7d995dc05a1c9369ad7ecb5c.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2f2b713700fb5987d4d35ec149bf5c3992604f3f.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "794bbaa47d259dc52bbd7b0d78640244b1c0c9d9.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b089c712bbf42167bc0670e48cd8f49e5970f981.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2748ef6463f2187b2ef25ea5ff216c9c265323f4.jpg",
+                "caption": "Picture No. 07"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 1614,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Canary Wharf",
+            "brandName": "Chestertons",
+            "chainFree": false,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Discovery Dock Apartments East, 3 South Quay Square, London E14",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9RU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 56194190,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 811421
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Discovery Dock Apartments East, 3 South Quay Square, London E14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Discovery Dock Apartments East, 3 South Quay Square, London E14, selling for \u00a3650,000 from Chestertons - Canary Wharf. See property details on Zoopla or browse all our range of properties in Discovery Dock Apartments East, 3 South Quay Square, London E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/56194190/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.50129,
+                "longitude": -0.018168
+            }
+        },
+        "displayAddress": "Discovery Dock Apartments East, 3 South Quay Square, London E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-20T21:10:02",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 60
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/a6765d6ae7f9f19bc58cd3e2390349c18eb25052.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Chestertons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 56194190,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "EE12D9F6-9749-11EC-ABDE-D6F70D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3199.821151716501
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-24T00:00:00Z",
+                    "price": 660000,
+                    "propertyId": 7873322,
+                    "streetAddress": "Flat 1, Discovery Dock Apartments East, 3 South Quay Square",
+                    "uri": "flat-1/discovery-dock-apartments-east/3-south-quay-square/london/e14-9ru"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 616000,
+                    "propertyId": 7873345,
+                    "streetAddress": "Flat 30, Discovery Dock Apartments East, 3 South Quay Square",
+                    "uri": "flat-30/discovery-dock-apartments-east/3-south-quay-square/london/e14-9ru"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 680000,
+                    "propertyId": 7873443,
+                    "streetAddress": "Flat 115, Discovery Dock Apartments East, 3 South Quay Square",
+                    "uri": "flat-115/discovery-dock-apartments-east/3-south-quay-square/london/e14-9rz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 7873465,
+                    "streetAddress": "Flat 137, Discovery Dock Apartments East, 3 South Quay Square",
+                    "uri": "flat-137/discovery-dock-apartments-east/3-south-quay-square/london/e14-9rz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

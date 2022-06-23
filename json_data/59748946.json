@@ -1,0 +1,576 @@
+{
+    "address": "Riverside Mansions, Milk Yard, Wapping E1W",
+    "price": "\u00a3580,000",
+    "beds": "2 beds",
+    "area": "766 sq. ft",
+    "sqm": 71.2,
+    "sqft": 766.0,
+    "text": "Riverside Mansions ih\nf <p) N\nApproximate Gross Internal Area = 766 sq ft / 71.2 sqm +; rs\nPOE\n\u2014 Garden \u2014\n5.41 x 4.19\n17\u00b09x13'9\n(Approx)\nPOT\n| Vv |\n! u =\nA\n\u2014<\nBedroom\n4.42 x 3.45\n14\u00b06x11'4\nm1 I (CH = 8' 5)\n| Reception / Dining <<\n| Room / Kitchen \\\n7.95 x 4.37 iy\n26'1x 14'4 7\n(CH = 8' 1) | 7 1\n\u2014 Zeal\nll Bedroom \\, =\n\u00b0 4.78x2.62 ~~\n\u00a9 15'8x8'7 \\ J]\n. i \u2014 Syl\n, | {WN { Wak!\n2 : [ gy \u2014\nIN OO OO\nGround Floor First Floor\n385 sq ft / 35.8 sqm 381 sq ft / 35.4 sqm\nThis plan is not to scale and must be used as layout guidance only. All measurements and areas are approximate and should not be relied upon to\nprovide accurate information. This plan must not be relied upon when making property valuations, design considerations or any other such relevant\ndecisions. We accept no responsibility or liability (whether in contract, tort or otherwise) in relation to any loss whatsoever arising from or in\nconnection with any use of this plan or the adequacy, accuracy or completeness of it or any information within it.\n",
+    "image": "./extracted_images/59748946.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/59748946/",
+    "listing_no": "59748946",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.507509,
+        "longitude": -0.052801
+    },
+    "first_published": "2022-02-14T17:18:44",
+    "last_sale_date": "2009-07-27",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "59748946",
+        "publishedOn": "2022-02-14T17:18:44",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10627,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(303405).png",
+            "branchName": "Property Liaisons",
+            "brandName": "Property Liaisons",
+            "chainFree": false,
+            "companyId": 5415,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Riverside Mansions, Milk Yard, Wapping E1W",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3SU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 59748946,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "E1W",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "766",
+            "tenure": "leasehold",
+            "zindex": 476428
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/property-liaisons-london-10627/",
+            "branchId": "10627",
+            "branchResultsUri": "/for-sale/branch/property-liaisons-london-10627/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(303405).png",
+            "phone": "020 3641 5237",
+            "name": "Property Liaisons",
+            "memberType": "agent",
+            "address": "1 Wapping Wall, London",
+            "postcode": "E1W 3ST"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Peter's London Docks CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Pier Head Preparatory Montessori School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wapping",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shadwell",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/607496501"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "dc1506e932c2f3d47eb93770585f20ba262f5db9.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Detailed Description</strong><br><br>Space and Light. The key requirements for everybody's property search and this fabulous maisonette ticks those boxes beautifully. Let's begin with the glorious open-plan reception with triple aspects and patio doors that lead directly out to the lush lawns of the communal gardens. It features real wood flooring with underfloor heating, space for a proper dining table and a stylish, modern kitchen with integral appliances and a dual basin.<br><br>On the upper floor there are two double bedrooms, both with dual aspect windows and plenty of space for wardrobes. There is also a tiled bathroom with a shower over the bath, white suite and a heated towel rail.<br><br>Riverside Mansions is a gated, private development with a porter, gym and bike storage. It's ideally located in Wapping just 5 minutes' walk from the local station or 7 minutes to the DLR. There are two parks within easy reach, plus outdoor tennis courts, Bordello's restaurant, The Prospect of Whitby pub, delis and local shops. The City and Canary Wharf are an easy commute by bike, scooter or on foot.<br><br>If you are looking for a two-bedroom property in Wapping this simply has to be on your viewing schedule.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Duplex Maisonette",
+                "Two Double Bedrooms",
+                "Triple Aspect Reception",
+                "Modern Kitchen",
+                "Direct Access to Communal Gardens",
+                "Allocated Parking",
+                "Porter",
+                "Gym",
+                "Bike Storage",
+                "Secure Development"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "d41762a6ac344f4039bd946d8491f63a5c067cfc.jpg",
+                    "caption": "Floor Plan 1"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "2a0deb68347dd0664f1c4d29e0472cb713169a00.jpg",
+                "caption": "Photo 9"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1fa3a008ebd9072b32f5a2363294d8b8bbe14f3b.jpg",
+                "caption": "Photo 5"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3dd1b46cabc6ca66230711d8c891861cebff4d55.jpg",
+                "caption": "Photo 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "48b698ba9a6203942c9c082c056260edae271f9d.jpg",
+                "caption": "Photo 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b64adaf4c8decd22b977866a364fe7054bac4594.jpg",
+                "caption": "Photo 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c58248aa569421900a4728a882471e7cd2f2b3cc.jpg",
+                "caption": "Photo 7"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1e0f5009c5bfd140baee5d524e7461d2f0240e7c.jpg",
+                "caption": "Photo 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e67656419e5044b01faa81bebed8f006e1316510.jpg",
+                "caption": "Photo 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "870d21e30841e29e2fb112fb4b07955eaf727e34.jpg",
+                "caption": "Photo 8"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7d26f3f926e1f72e00cfec2d9e131ddfbb1a982e.jpg",
+                "caption": "Photo 6"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bc25f89f1cece1187e38657ccfc313cb531dc1f0.jpg",
+                "caption": "Photo 4"
+            },
+            {
+                "__typename": "Media",
+                "filename": "be264b1508cfa42b07f411624e3ae48b14dbdb3c.jpg",
+                "caption": "Photo 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3d8fa065cce4876717200d8489893fb0fe1100dd.jpg",
+                "caption": "Photo 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b92e284b7812ad291339d8bacf54fa5f5df627af.jpg",
+                "caption": "Photo 1"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10627,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(303405).png",
+            "branchName": "Property Liaisons",
+            "brandName": "Property Liaisons",
+            "chainFree": false,
+            "companyId": 5415,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Riverside Mansions, Milk Yard, Wapping E1W",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3SU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 59748946,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "E1W",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "sizeSqFeet": "766",
+            "tenure": "leasehold",
+            "zindex": 476428
+        },
+        "title": "2 bed maisonette for sale",
+        "metaTitle": "2 bed maisonette for sale in Riverside Mansions, Milk Yard, Wapping E1W - Zoopla",
+        "metaDescription": "2 bed maisonette for sale in Riverside Mansions, Milk Yard, Wapping E1W, selling for \u00a3580,000 from Property Liaisons. See property details on Zoopla or browse all our range of properties in Riverside Mansions, Milk Yard, Wapping E1W.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/59748946/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.507509,
+                "longitude": -0.052801
+            }
+        },
+        "displayAddress": "Riverside Mansions, Milk Yard, Wapping E1W",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-14T17:18:44",
+                "priceLabel": "\u00a3580,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2009-07-27",
+                "newBuild": false,
+                "price": 273000,
+                "priceLabel": "\u00a3273,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 174
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/d41762a6ac344f4039bd946d8491f63a5c067cfc.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 766
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3580,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 757,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Property Liaisons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 59748946,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "B4270980-9341-11EC-8A95-50240E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E1W",
+            "areaNameUri": "e1w",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2915.7230046948334
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 558247,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 568496,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -10249
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 587375,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -29128
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 619566,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -61319
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 551975,
+                    "pctChangeSince": 1.136,
+                    "date": "2017-02-26",
+                    "changeSince": 6272
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 352800,
+                    "pctChangeSince": 58.233,
+                    "date": "2012-02-26",
+                    "changeSince": 205447
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 353510,
+                    "pctChangeSince": 57.915,
+                    "date": "2007-02-26",
+                    "changeSince": 204737
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 205261,
+                    "pctChangeSince": 171.969,
+                    "date": "2002-02-26",
+                    "changeSince": 352986
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-15T00:00:00Z",
+                    "price": 522500,
+                    "propertyId": 7635545,
+                    "streetAddress": "Flat 217, Riverside Mansions, Milk Yard",
+                    "uri": "flat-217/riverside-mansions/milk-yard/london/e1w-3ta"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-31T00:00:00Z",
+                    "price": 475000,
+                    "propertyId": 7635572,
+                    "streetAddress": "Flat 203, Riverside Mansions, Milk Yard",
+                    "uri": "flat-203/riverside-mansions/milk-yard/london/e1w-3tb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 520000,
+                    "propertyId": 7635436,
+                    "streetAddress": "Flat 152, Riverside Mansions, Milk Yard",
+                    "uri": "flat-152/riverside-mansions/milk-yard/london/e1w-3su"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 7635579,
+                    "streetAddress": "Flat 210, Riverside Mansions, Milk Yard",
+                    "uri": "flat-210/riverside-mansions/milk-yard/london/e1w-3tb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-16T00:00:00Z",
+                    "price": 542500,
+                    "propertyId": 7635464,
+                    "streetAddress": "Flat 140, Riverside Mansions, Milk Yard",
+                    "uri": "flat-140/riverside-mansions/milk-yard/london/e1w-3sx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 7629709,
+                    "streetAddress": "Flat 22, Swan Court, Star Place",
+                    "uri": "flat-22/swan-court/star-place/london/e1w-1af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-16T00:00:00Z",
+                    "price": 650000,
+                    "propertyId": 7633308,
+                    "streetAddress": "7 Douthwaite Square",
+                    "uri": "7-douthwaite-square/london/e1w-2uz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-15T00:00:00Z",
+                    "price": 326355,
+                    "propertyId": 7634851,
+                    "streetAddress": "27 Rum Close",
+                    "uri": "27-rum-close/london/e1w-3qx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 412500,
+                    "propertyId": 7636141,
+                    "streetAddress": "Flat 25, Unicorn Building, 2 Jardine Road",
+                    "uri": "flat-25/unicorn-building/2-jardine-road/london/e1w-3wf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-02T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 7632684,
+                    "streetAddress": "Flat 65, Reardon House, Reardon Street",
+                    "uri": "flat-65/reardon-house/reardon-street/london/e1w-2qj"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,539 @@
+{
+    "address": "Dollar Bay, Dollar Bay Place, London E14",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 97.55,
+    "sqft": null,
+    "text": "DOLLAR BAY POINT\nAPPROXIMATE TOTAL INTERNAL FLOOR AREA: 1050 SQFT - 97.55SQ M p\n(INCLUDING WINTER GARDEN)\nAPPROXIMATE GROSS INTERNAL FLOOR AREA OF WINTER GARDEN: 193 SQFT - 17.93 SQM\npe\nWINTER GARDEN\n385\" X 512\n41.71X1.57M\n_\u2014\u2014\u2014 > \u2014\u2014\u2014 \u2014\u2014\nRECEPTION/ |\nDINING ROOM | BEDROOM\n237\" x12 423\" x 11'5\"\n7.18 x 3.66M 3.73x 3.48M\n\\ \\ KITCHEN\n\\ | 8410\" x61\" i:\n2.69 x 2.12M\n4\nes ror\nBEDROOM |\n4310\" x 114\"\n4.22x3.38M\n{T t\nSECOND FLOOR\nFOR ILLUSTRATION PURPOSES ONLY\nTHIS FLOOR PLAN SHOULD BE USED AS A GENERAL OUTLINE FOR GUIDANCE ONLY AND DOES NOT CONSTITUTE IN WHOLE OR IN PART AN OFFER OR CONTRACT.\nANY INTENDING PURCHASER OR LESSEE SHOULD SATISFY THEMSELVES BY INSPECTION, SEARCHES, ENQUIRIES AND FULL SURVEY AS TO THE CORRECTNESS OF EACH STATEMENT.\nANY AREAS, MEASUREMENTS OR DISTANCES QUOTED ARE APPROXIMATE AND SHOULD NOT BE USED TO VALUE A PROPERTY OR BE THE BASIS OF ANY SALE OR LET.\n",
+    "image": "./extracted_images/60095506.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60095506/",
+    "listing_no": "60095506",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.513143,
+        "longitude": -0.028281
+    },
+    "first_published": "2021-11-02T10:18:15",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60095506",
+        "publishedOn": "2021-11-02T10:18:15",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79804,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(505166).png",
+            "branchName": "JOHNS&CO - Canary Wharf",
+            "brandName": "Johns & Co",
+            "chainFree": false,
+            "companyId": 32248,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Dollar Bay, Dollar Bay Place, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9BX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60095506,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "Gym|Waterfront",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 688033
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/johns-and-co-canary-wharf-london-79804/",
+            "branchId": "79804",
+            "branchResultsUri": "/for-sale/branch/johns-and-co-canary-wharf-london-79804/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(505166).png",
+            "phone": "020 8033 9529",
+            "name": "JOHNS&CO - Canary Wharf",
+            "memberType": "agent",
+            "address": "70 Marsh Wall, London",
+            "postcode": "E14 9SL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Cyril Jackson Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stepney Greencoat Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Westferry",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Limehouse",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://view.ricohtours.com/df550334-184a-43d1-87ce-43a88e9d41ac"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "906e5c19d6128ef03b3c8666b7466b683cfaa4ad.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Far reaching views of Canary Wharf and dock from this two bedroom apartment located within the popular Dollar Bay development. Benefiting from a south easterly aspect this sizable apartment c.1050 sq ft comprises an open plan kitchen area, two double bedrooms, ensuite bathroom, guest bathroom and private winter garden c.193 sq ft. In excellent condition throughout, key features include underfloor heating, Bosch appliances and floor to ceiling windows to maximise dual aspect views. Residents of Dollar Bay have access to 24hr concierge, communal gardens and residents gym. Guide price GBP650,000 GBP675,000.<br><br>Dollar Bay is ideally located on the doorstep of the Canary Wharf Estate and it's new extension, Wood Wharf, boasting an abundance of shops, bars, restaurants as well as access to the Jubilee Line and Crossrail arriving soon. Crossharbour and South Quay DLR Stations are only a few minutes walk away for quick and easy journeys to the City and further afield.<br><br>EWS1 form available.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two bedroom apartment",
+                "2nd floor, c.1050 sq ft",
+                "Private winter garden",
+                "Canary Wharf and dock views",
+                "Residents gym &amp; lounge",
+                "24hr concierge",
+                "Walking distance to Canary Wharf",
+                "Short walk to South Quay DLR station"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": "2021-11-03T00:00:00"
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Gym"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Waterfront"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "0a931b536a8bbb5d00077da3b4aa9da06efb3306.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "8085ed5ec32f1853fa448ecaf163863b43e82705.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1dd12808aa827c23944f05002f6fd75f57f2676a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cc2eb42255ee7cde490d820069197f8b16e7741e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6cbccb781f35bc772c895ad09c38002731552a99.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c9d5ee43d22a8424f1ad0299c10d0c12e6db892c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "26faca2645d6073f1b239d74926081101a163b4e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bb7ea701ed443a977623571d30a6d7911981aa1c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2627eede58d8bc230387b4cc56010b5bbf4a4699.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e864aef6c2e4d86babf2c70e6845cdfaee03f35d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e56d839e53cb85ab4576c8c9090d59a8928b10a9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c0acc1d2a138937ea1e690d5295bd088603b9561.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "976e95e7023da1eb1706c203974e3f4649bb2fe6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "43ca8cc9c5559133fec29cbfa9bdc2b0844b572a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8eabbbd83621467e37956f1cb2026708bd1fe593.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8b23d8b1001a11e0c2edffc61b07cd6ed160671e.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79804,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(505166).png",
+            "branchName": "JOHNS&CO - Canary Wharf",
+            "brandName": "Johns & Co",
+            "chainFree": false,
+            "companyId": 32248,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Dollar Bay, Dollar Bay Place, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9BX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60095506,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "Gym|Waterfront",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 688033
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Dollar Bay, Dollar Bay Place, London E14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Dollar Bay, Dollar Bay Place, London E14, selling for \u00a3650,000 from JOHNS&CO - Canary Wharf. See property details on Zoopla or browse all our range of properties in Dollar Bay, Dollar Bay Place, London E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60095506/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.513143,
+                "longitude": -0.028281
+            }
+        },
+        "displayAddress": "Dollar Bay, Dollar Bay Place, London E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-02T10:18:15",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 123
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/0a931b536a8bbb5d00077da3b4aa9da06efb3306.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Johns & Co",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60095506,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "25E86B36-5FDA-11EC-9EFE-913C0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3199.821151716501
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 540000,
+                    "propertyId": 32608226,
+                    "streetAddress": "Flat 1103, Dollar Bay Point, 3 Dollar Bay Place",
+                    "uri": "flat-1103/dollar-bay-point/3-dollar-bay-place/london/e14-9bx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

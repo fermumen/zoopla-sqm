@@ -1,0 +1,541 @@
+{
+    "address": "Durham Road, London N2",
+    "price": "\u00a3585,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 99.3,
+    "sqft": 1069.0,
+    "text": "crouno FLoOR\naa sqi (8 Sn) aPrOX. era sgt ek sam) approx. s74sqf Gas son) app.\n\u2014\u2014\nKITCHEN\n11'10\" x 13'9\"\n3.61m x 4.19m\nlOO\nOO}\nBHOWER ROOM il\nIl 82\" x60\" \u2014\nPya8ty x ae\n\u2014\u2014\u2014_ ;\n-\u2014\u2014\u2014 a \u2014\n\u2014<o\nDOWN\nAA\na\nBEDROOM Ba r a a\na4\" x 12'3\" >| 2S\nvty ee \u2014\u2014e me See\n3.45m x 3.73m, 4 SepeN STAIRS\need mm m4\" x 12'6\" | DOWN\n(aa 3.45m x 3.81m\nUP\na | 1\nRECEPTION ROOM BEDROOM\n169\" x 14'7\" 17'2\" x 13'6\"\n5.11m x 4.45m 5.23m x 4.12m\n\u2014\u2014<\u2014$\n_\u2014\u2014_\u2014_\u2014,\n\u2014\u2014<\n+,\n__\u2014\u2014\nDURHAM ROAD\nTOTAL FLOOR AREA : 1069 sq.ft. (99.3 sq.m.) approx.\n\\Wnilst every attempt has been made to ensure the accuracy ofthe tlorplan contained here, measurements\nOf doors, windows, rooms and any other ems are approximate and no responsiblity is taKen for any errr,\n\u2018mmission or mis-stalement. This pian i fr ilustratve purposes only and should be used as such by any\nprospective purchaser. The services, systems and appliances shown have not been tested and no guarantee\n2 to thetr operability or efficiency can be given.\nMade with Metropix \u00a92021,\n",
+    "image": "./extracted_images/60229722.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60229722/",
+    "listing_no": "60229722",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.593226,
+        "longitude": -0.160964
+    },
+    "first_published": "2021-11-19T10:50:05",
+    "last_sale_date": "2021-05-21",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60229722",
+        "publishedOn": "2021-11-19T10:50:05",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/pae/live/pdf.php?p=MHI210080&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 7,
+            "acornType": 7,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 6093,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(567871).png",
+            "branchName": "Prickett & Ellis",
+            "brandName": "Prickett & Ellis",
+            "chainFree": true,
+            "companyId": 3035,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Durham Road, London N2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9DS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60229722,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "N2",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 585000,
+            "price": 585000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1232264
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/prickett-and-ellis-london-6093/",
+            "branchId": "6093",
+            "branchResultsUri": "/for-sale/branch/prickett-and-ellis-london-6093/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(567871).png",
+            "phone": "020 8115 0168",
+            "name": "Prickett & Ellis",
+            "memberType": "agent",
+            "address": "82 High Road, London",
+            "postcode": "N2 9PN"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Martin Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Holy Trinity CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Finchley",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Highgate",
+                "type": "london_underground_station",
+                "distanceMiles": 1.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://premium.giraffe360.com/prickettandellis/durhamrdn2"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "a862cdf4b5eb502074dc678b4c88deab713b3d94.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Offered chain free and situated in this popular \"County Road\" turning, Prickett &amp; Ellis offer you this attractive three bedroom Victorian duplex.<br><br>Offered chain free and situated in this popular \"County Road\" turning, Prickett &amp; Ellis offer you this attractive three bedroom Victorian duplex.<br><br>The property configures over two floors and benefits from, a kitchen breakfast room, large reception and three double bedrooms.<br><br>Location is as good as it gets being close to East Finchley Underground Station and East Finchley High Road where you have all your shops and amenities.&lt;br /&gt;&lt;br /&gt;",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "047d65fafed173c61ef3801080e16bb1b26b711b.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "de6c800b932e57c6a66fa838eca198110b8f1fa9.jpg",
+                "caption": "Front External A"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cd81ac2ddc3d5aa633531c9dba876e62fd131291.jpg",
+                "caption": "Reception A"
+            },
+            {
+                "__typename": "Media",
+                "filename": "986dea76c3cedfe44f38f603a7375c2caccf7515.jpg",
+                "caption": "Bedroom 3 B"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5e3919eb39299ff8f7881689fe26340cec968499.jpg",
+                "caption": "Reception C"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3ffe5dbc6cf602e7f5b857fd8f5aaaa7663faea5.jpg",
+                "caption": "Kitchen A"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f8b42aca3916fed4088df3572a5622556d96ecc1.jpg",
+                "caption": "Kitchen B"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bbd2a5e64aa60570ed42b2c7cb5361067d5fbed1.jpg",
+                "caption": "Bedroom 1 A"
+            },
+            {
+                "__typename": "Media",
+                "filename": "22934143ce872748cf165af1b20e1eb039464f3a.jpg",
+                "caption": "Bedroom 1 B"
+            },
+            {
+                "__typename": "Media",
+                "filename": "887316c08422329e7633a9aa5917b33e1cca0c7d.jpg",
+                "caption": "Bedroom 2 A"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3b225d7b534b1760a89988ad3bb9e5c65f7cdc24.jpg",
+                "caption": "Bedroom 2 B"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2bc9ac1fdf483c7cee65b31034770f81491de0fd.jpg",
+                "caption": "Bedroom 3 C"
+            },
+            {
+                "__typename": "Media",
+                "filename": "046c3185de799aff2b9eee7e4515d7edf34024d5.jpg",
+                "caption": "Bedroom 3 A"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f081e5f19b07e0fd0fbcab184c8a9f6b23ac8e5a.jpg",
+                "caption": "Shower Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9b132c3b71398e9a871b4f004dd33331004f325f.jpg",
+                "caption": "Rear Views"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 7,
+            "acornType": 7,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 6093,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(567871).png",
+            "branchName": "Prickett & Ellis",
+            "brandName": "Prickett & Ellis",
+            "chainFree": true,
+            "companyId": 3035,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Durham Road, London N2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9DS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60229722,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "N2",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 585000,
+            "price": 585000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1232264
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Durham Road, London N2 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Durham Road, London N2, selling for \u00a3585,000 from Prickett & Ellis. See property details on Zoopla or browse all our range of properties in Durham Road, London N2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60229722/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.593226,
+                "longitude": -0.160964
+            }
+        },
+        "displayAddress": "Durham Road, London N2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-19T10:50:05",
+                "priceLabel": "\u00a3585,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2021-05-21",
+                "newBuild": false,
+                "price": 575000,
+                "priceLabel": "\u00a3575,000",
+                "recentlySold": true
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 219
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/047d65fafed173c61ef3801080e16bb1b26b711b.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3585,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Prickett & Ellis",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60229722,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "CD3196BE-9181-11EC-9177-C3FC0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N2",
+            "areaNameUri": "london/n2/east-finchley-hampstead-garden-suburb-east",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3126.0185185185187
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 462044,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 470031,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -7987
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 484753,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -22709
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 509180,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -47136
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 471081,
+                    "pctChangeSince": -1.918,
+                    "date": "2017-02-26",
+                    "changeSince": -9037
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 308840,
+                    "pctChangeSince": 49.606,
+                    "date": "2012-02-26",
+                    "changeSince": 153204
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 289714,
+                    "pctChangeSince": 59.483,
+                    "date": "2007-02-26",
+                    "changeSince": 172330
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 174394,
+                    "pctChangeSince": 164.943,
+                    "date": "2002-02-26",
+                    "changeSince": 287650
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 474620,
+                    "newBuilds": 1,
+                    "numSales": 92
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 482784,
+                    "newBuilds": 1,
+                    "numSales": 217
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 608948,
+                    "newBuilds": 2,
+                    "numSales": 395
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 541775,
+                    "newBuilds": 2,
+                    "numSales": 666
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-10T00:00:00Z",
+                    "price": 1396250,
+                    "propertyId": 15068751,
+                    "streetAddress": "54 Durham Road",
+                    "uri": "54-durham-road/london/n2-9dt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-21T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 15068723,
+                    "streetAddress": "70 Durham Road",
+                    "uri": "70-durham-road/london/n2-9ds"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 436000,
+                    "propertyId": 15063678,
+                    "streetAddress": "68 Heath View",
+                    "uri": "68-heath-view/london/n2-0qb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 395000,
+                    "propertyId": 15064595,
+                    "streetAddress": "Flat 19, Sherwood Hall, East End Road",
+                    "uri": "flat-19/sherwood-hall/east-end-road/london/n2-0ta"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 991000,
+                    "propertyId": 15065382,
+                    "streetAddress": "259 East End Road",
+                    "uri": "259-east-end-road/london/n2-8ay"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 277500,
+                    "propertyId": 15066745,
+                    "streetAddress": "Flat 9, 1 Brendon Grove",
+                    "uri": "flat-9/1-brendon-grove/london/n2-8je"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 410000,
+                    "propertyId": 15065916,
+                    "streetAddress": "9 Park Gate",
+                    "uri": "9-park-gate/london/n2-8dj"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,513 @@
+{
+    "address": "Wandsworth High Street, London SW18",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 66.61,
+    "sqft": 717.0,
+    "text": "Lyon House, SW18\nApproximate gross internal area\n66.61 sq m/ 717 sq ft ; 4\nKey: co \u00ab=\u20140d WE\nCH - Ceiling Height { i a\nfF\ni BALCONY \\\nI I\nBEDROOM\nRECEPTION 4.09 x 3.98M\nROOM (CR 13'5\" x 134\"\nKITCHEN 6a\n6.49x4.57M 9\n21'4\" x 15\u00b0 a\nEe Cy\n| FA eS\n(if\nFa ~~\noO > j\n7 ae,\nBEDROOM ||\nMe 4.03 x 2.65M\n2 YT] 133\" x 8'8\"\n7 /\nFifth Floor\nThe floor plan is not to scale and measurements and\nareas shown are approximate and therefore should be used for illustrative purposes only.\nThe plan has been prepared in accordance with the RICS code of Measuring Practice\nand whilst we have confidence in the information produced, it must not be relied on.\nIf there is any aspect of particular importance, you should carry out or\ncommission your own inspection of the property.\nCopyright of FeaturePRO.\n",
+    "image": "./extracted_images/52036627.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/52036627/",
+    "listing_no": "52036627",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.457546,
+        "longitude": -0.196167
+    },
+    "first_published": "2021-12-09T21:47:50",
+    "last_sale_date": "2016-07-14",
+    "last_sale_new": true,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "52036627",
+        "publishedOn": "2021-12-09T21:47:50",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "https://www.chestertons.com/properties/property-WDW190084/",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://chips.chestertons.com/chips/brochures/WDW190084.PDF",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 68472,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Wandsworth",
+            "brandName": "Chestertons",
+            "chainFree": false,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Wandsworth High Street, London SW18",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4LA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 52036627,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 551651
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/chestertons-wandsworth-london-68472/",
+            "branchId": "68472",
+            "branchResultsUri": "/for-sale/branch/chestertons-wandsworth-london-68472/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "phone": "020 8115 2479",
+            "name": "Chestertons - Wandsworth",
+            "memberType": "agent",
+            "address": "11 Huguenot Place, London",
+            "postcode": "SW18 2EN"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Roche School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Hill Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Riverside Quarter Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "8eb34e695839d4d0eba03790d03efcd0cd242695.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A bright and spacious two bedroom modern apartment on the fifth floor of this stunning development in central Wandsworth. The property boasts approx 717 sq ft of living space and comes with a private balcony.<br><br>The property briefly comprises entrance hall with storage cupboard leading to an open-plan living / kitchen area which has space for a dining table. The living area also leads out to a private balcony with views to the west. Two well proportioned bedrooms (the master of which also has access to the terrace) and a bathroom complete the property.<br><br>The property is well located for transport links with East Putney Tube station and Wandsworth Town Mainline both close by. There are plentiful bus routes located nearby also. King George's Park is opposite with its green open spaces, tennis courts, playgrounds, playing fields and ornamental garden and pond.<br><br>Southside Shopping centre is only a few hundred yards away with amenities such as a Multiplex Cinema, Large Waitrose, Virgin Active, Easy Gym, Planet Organic and flagship Debenhams. These are just a few of the many amenities including bars and restaurants available in the shopping centre.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Excellent central location",
+                "Superb modern development",
+                "Private balcony",
+                "Beautiful condition"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "22aeeda71835964ba71de0594e145ba7cfdf129b.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "37fff6fcf8017b6b8baf0ee8d47fd46d6d54f43f.jpg",
+                "caption": "Living Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f57ef324ce002577db60f9c496a1a3138eed7002.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cde4612f4f22a54a0d3418bc60e6f9187797aefe.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "98605b6867106a1c3481aba78d12952e0be0daaf.jpg",
+                "caption": "Balcony"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0a4253fdda39855a5472f58e1624ad51e16179e5.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8ba700af6b4501d286cae5ee6d3a176fd149884f.jpg",
+                "caption": "External"
+            },
+            {
+                "__typename": "Media",
+                "filename": "476128873c716b2d86fe0bd76a30ce3682055df5.jpg",
+                "caption": "Living Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f0452343718eab9f46e4d5a0cbcf93b7108044fc.jpg",
+                "caption": "View"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 68472,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Wandsworth",
+            "brandName": "Chestertons",
+            "chainFree": false,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Wandsworth High Street, London SW18",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4LA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 52036627,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 551651
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Wandsworth High Street, London SW18 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Wandsworth High Street, London SW18, selling for \u00a3575,000 from Chestertons - Wandsworth. See property details on Zoopla or browse all our range of properties in Wandsworth High Street, London SW18.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/52036627/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.457546,
+                "longitude": -0.196167
+            }
+        },
+        "displayAddress": "Wandsworth High Street, London SW18",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-09T21:47:50",
+                "priceLabel": "\u00a3590,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2016-07-14",
+                "newBuild": true,
+                "price": 599950,
+                "priceLabel": "\u00a3599,950",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "2.5",
+                    "priceChangeDate": "2022-01-25T10:39:50",
+                    "priceChangeLabel": "\u00a315,000",
+                    "priceLabel": "\u00a3575,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 4
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/22aeeda71835964ba71de0594e145ba7cfdf129b.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Chestertons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 52036627,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "329973CA-7DDA-11EC-9751-ABD50D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW18",
+            "areaNameUri": "london/sw18/wandsworth-earlsfield",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2440.1807909604536
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 545740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 548436,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -2696
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 548784,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 571676,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -25936
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 553935,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -8195
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 381867,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 163873
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 348838,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 196902
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 212532,
+                    "pctChangeSince": 156.78,
+                    "date": "2002-02-26",
+                    "changeSince": 333208
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 554541,
+                    "newBuilds": 19,
+                    "numSales": 470
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 543782,
+                    "newBuilds": 55,
+                    "numSales": 1296
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 547279,
+                    "newBuilds": 111,
+                    "numSales": 2421
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 550771,
+                    "newBuilds": 488,
+                    "numSales": 4197
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 23379218,
+                    "streetAddress": "13 Heathfield Square",
+                    "uri": "13-heathfield-square/london/sw18-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 23377537,
+                    "streetAddress": "6 Wells Place",
+                    "uri": "6-wells-place/london/sw18-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 696000,
+                    "propertyId": 23384628,
+                    "streetAddress": "16a Duntshill Road",
+                    "uri": "16a-duntshill-road/london/sw18-4ql"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 1325500,
+                    "propertyId": 23388776,
+                    "streetAddress": "94 Elsenham Street",
+                    "uri": "94-elsenham-street/london/sw18-5nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 511000,
+                    "propertyId": 23383425,
+                    "streetAddress": "31 Steerforth Street",
+                    "uri": "31-steerforth-street/london/sw18-4hf"
+                }
+            ]
+        }
+    }
+}

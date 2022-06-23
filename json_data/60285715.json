@@ -1,0 +1,523 @@
+{
+    "address": "Perham Road, London W14",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 72.1,
+    "sqft": 776.0,
+    "text": "OW | =\nws\nBedroom |\n4.16m x 3.26m iS\n(13'8 x 10'8)\n\\\nr\nnl)\ny Bedroom\nf 3.82m x 3.62m\n: : (12'6 x 11'11)\n\\\nReception Room /\nKitchen\n5.18m x 4.21m\n(17'0 x 13'10) L_|\n_ ag]\n\\\n/\nLower Ground Floor\nTotal area (approx.): 72.1 sq. m (776.0 sq. ft)\n",
+    "image": "./extracted_images/60285715.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60285715/",
+    "listing_no": "60285715",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.48817,
+        "longitude": -0.206895
+    },
+    "first_published": "2021-11-29T09:14:01",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60285715",
+        "publishedOn": "2021-11-29T09:14:01",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/257318ce69060d3de9fe93eb9ed56e9e213b731c.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10248,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - West Kensington",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Perham Road, London W14",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9ST",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60285715,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 553260
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-west-kensington-london-10248/",
+            "branchId": "10248",
+            "branchResultsUri": "/for-sale/branch/dexters-west-kensington-london-10248/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7381 6381",
+            "name": "Dexters - West Kensington",
+            "memberType": "agent",
+            "address": "181 North End Road, London",
+            "postcode": "W14 9NL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Fulham Boys School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Fulham Prep School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Kensington",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barons Court",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "b87dce62cd2fd2f3561860fed8cbf7e9828f7bc4.png",
+                    "url": null
+                },
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "1d007096579d6c7ce37731bcff584d6d1b87112f.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A spacious two bedroom apartment with a private patio and two bathrooms. The property has an open plan living area with kitchen, two great size bedrooms and share of freehold.<br><br>Perham road is a popular, sought after residential road within 400 yards to Barons Court or West Kensington underground stations and the A4 for easy access in and out of central London.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "No Chain",
+                "Two Bathrooms",
+                "Private Patio Area",
+                "Fantastic Location",
+                "Private Entrance",
+                "Over 800 Sq/Ft"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "414148e04b350d54146f78087d89b9da4f83aec6.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "5ea69be1aa7933951e778275fbeefb4edec88870.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "16dc6fb0e0f6b38abf3fe20c2b255059d210ad81.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e45ae8e1e726e8e126569467e0d9ad1749e97469.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c5649932fe2fb2fe2ca8b4524578abe1df8acf81.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6625fb9fb147ec93c731a033a3a61ca6118a2b47.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "65832bb769f1e7a3a4e827cfbc5364416c71381c.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10248,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - West Kensington",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Perham Road, London W14",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9ST",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60285715,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 553260
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Perham Road, London W14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Perham Road, London W14, selling for \u00a3625,000 from Dexters - West Kensington. See property details on Zoopla or browse all our range of properties in Perham Road, London W14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60285715/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.48817,
+                "longitude": -0.206895
+            }
+        },
+        "displayAddress": "Perham Road, London W14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-29T09:14:01",
+                "priceLabel": "\u00a3695,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "6.5",
+                    "priceChangeDate": "2022-01-10T12:28:18",
+                    "priceChangeLabel": "\u00a345,000",
+                    "priceLabel": "\u00a3650,000"
+                },
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3.8",
+                    "priceChangeDate": "2022-02-09T16:58:29",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3625,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 75
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/414148e04b350d54146f78087d89b9da4f83aec6.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60285715,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "FEF7DF34-89CD-11EC-A9A3-523C0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W14",
+            "areaNameUri": "london/w14/west-kensington-holland-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3482.6566666666668
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 776035,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 788630,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -12595
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 811949,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -35914
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 855883,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -79848
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 849182,
+                    "pctChangeSince": -8.614,
+                    "date": "2017-02-26",
+                    "changeSince": -73147
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 565644,
+                    "pctChangeSince": 37.195,
+                    "date": "2012-02-26",
+                    "changeSince": 210391
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 504431,
+                    "pctChangeSince": 53.844,
+                    "date": "2007-02-26",
+                    "changeSince": 271604
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 298959,
+                    "pctChangeSince": 159.579,
+                    "date": "2002-02-26",
+                    "changeSince": 477076
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 727058,
+                    "newBuilds": 0,
+                    "numSales": 188
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 755004,
+                    "newBuilds": 0,
+                    "numSales": 520
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 777600,
+                    "newBuilds": 18,
+                    "numSales": 982
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 856570,
+                    "newBuilds": 225,
+                    "numSales": 1794
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 667500,
+                    "propertyId": 25189579,
+                    "streetAddress": "24 Perham Road",
+                    "uri": "24-perham-road/london/w14-9st"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 1200000,
+                    "propertyId": 25189569,
+                    "streetAddress": "4 Perham Road",
+                    "uri": "4-perham-road/london/w14-9st"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 567500,
+                    "propertyId": 27184805,
+                    "streetAddress": "Flat 3, 73 Sinclair Road",
+                    "uri": "flat-3/73-sinclair-road/london/w14-0nr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 27285623,
+                    "streetAddress": "Basement Flat, 1 Chesson Road",
+                    "uri": "basement-flat/1-chesson-road/london/w14-9qr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 804011,
+                    "propertyId": 32593125,
+                    "streetAddress": "Flat 11, Trinity House, 377 Kensington High Street",
+                    "uri": "flat-11/trinity-house/377-kensington-high-street/london/w14-8qa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 25178458,
+                    "streetAddress": "142 Blythe Road",
+                    "uri": "142-blythe-road/london/w14-0hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 2950000,
+                    "propertyId": 25178619,
+                    "streetAddress": "24 Sterndale Road",
+                    "uri": "24-sterndale-road/london/w14-0hs"
+                }
+            ]
+        }
+    }
+}

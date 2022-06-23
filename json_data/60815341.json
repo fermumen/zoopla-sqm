@@ -1,0 +1,538 @@
+{
+    "address": "John Cabot House, 6 Clipper Street, Royal Wharf E16",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 80.1,
+    "sqft": 862.0,
+    "text": "OOO COCO OO OOO OOO _\nee\nPSS Py KOE xBE XX OS > SH ee\nQL > B8Emx Im N\nee _\u2014\u2014\n| /\nBEDROOM 2 MASTER\n14'5 x 96 BEDROOM\n4.40m x 2.90m 18'8 x 9'7\n\u00a7.70m x 2.91m\n\u201c A\u00a5AISY,\nLIVING ROOM/ ae = f\nKITCHEN \\ a.\n28'5 x 2240 \\\n8.65m x 6.96m _ }\n| a \\\\ fe \u00a9\n/ \u2014 | \\\nf BATHROOM be\nx 61x65 |) CY\nK 2.1m x 1.96m CO\n\u20147\\ { \"a 2 ssa\nre oe\n\u2014 i\n38) LJ\nEN SUITE\n611x 4'11\n2.11m x 1.50m\nTOTAL APPROX. FLOOR AREA 862 SQ.FT. (80.1 SQ.M)\nWhilst every attempt has been made to ensure the accuracy of the floor plan contained here, measurements\nof door, windows, rooms and any other items are approximate and no responsibility is taken for any error,\nomission, or mis-statement. This plan is for illustrative purposes only and should be used as such by any\nprospective purchaser. The services, systems and appliances shown have not been tested and no guarantee\nas to their operability or efficiency can be given\n\u00a9 2022 (ID832038)\n",
+    "image": "./extracted_images/60815341.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60815341/",
+    "listing_no": "60815341",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.500251,
+        "longitude": 0.02623
+    },
+    "first_published": "2022-02-21T20:11:02",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60815341",
+        "publishedOn": "2022-02-21T20:11:02",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/lir/live/pdf.php?p=RLW220020&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 90734,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396521).png",
+            "branchName": "LiFE Residential - Royal Wharf",
+            "brandName": "LiFE Residential",
+            "chainFree": false,
+            "companyId": 2268,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "John Cabot House, 6 Clipper Street, Royal Wharf E16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2YW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60815341,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "E16",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/life-residential-royal-wharf-london-90734/",
+            "branchId": "90734",
+            "branchResultsUri": "/for-sale/branch/life-residential-royal-wharf-london-90734/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396521).png",
+            "phone": "020 8115 4388",
+            "name": "LiFE Residential - Royal Wharf",
+            "memberType": "agent",
+            "address": "16 Royal Crest Avenue, Royal Wharf, London",
+            "postcode": "E16 2TQ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Britannia Village Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Silvertown",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Pontoon Dock",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Millennium Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/675518332"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "3ade2ee5cb1ff13470b53a4392b871077c7fefe3.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A modern and bright 862 Sq. Ft dual aspect corner positioned apartment, with south facing private balcony, set on the 5th floor of the EWS1 compliant John Cabot House building within the sought after Royal Wharf development.<br><br>Comprising open-plan kitchen/living area, two double bedrooms, one with en-suite and family bathroom. Finished to a high specification complete with integrated appliances, floor-to-ceiling windows and a private balcony.<br><br>Residents benefit from a 24-hour concierge, a gymnasium and swimming pool, as well as a supermarket, independent shops, restaurants and coffee shops on site. With easy access to the City Airport and Canary Wharf and right beside the award winning Thames Barrier Park, this location is set to continue to be attractive to buyers as the regeneration progresses.&lt;br /&gt;&lt;br /&gt;",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two bedroom",
+                "Two bathroom",
+                "799 sq ft",
+                "South facing balcony",
+                "5th floor",
+                "Long Leasehold",
+                "Riverside Development",
+                "24 Hour Concierge Service",
+                "Gym and Swimming Pool"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "3a96cab52bb74dfbbe09c2582c7486d52301ae80.jpg",
+                    "caption": "Picture No. 03"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "37c454ee1a2a0472ca545beeef5394807dbb240a.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "86e301b421cd593dcaed22d152012723a28e5cd5.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3efb9ae2987fb2c0d52ce17db01426f7e681f8ba.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e19e434e31086a9473088672af7ff1db181475da.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b1ced3efffaf7fd2ce25e2cc2b76c909ffcf9077.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e202e06e2c3642f25088e8585624172dfa7af7b3.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e973fb94bebc315894f455b28becbe2774023b8a.jpg",
+                "caption": "Picture No. 01"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d793b52806390c4fa9141cd44adf506a451f97ec.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b1cd4a5943cdf1e133358d74ae4482923ff58cc2.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5e1384d53423a1e7652904c792748cd4a06b2319.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1548be86191906249421c3e7103bcf7092ef900e.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "16f167340f1d1643b8eb988c0b23b6ccab3bef58.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "119e84c7ac2d933e35d07a1dd435d36b4c92419f.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "92c1cb3e5c97498d8e95889da1f67640e251ab12.jpg",
+                "caption": "Picture No. 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a112c809bfa57a897f92c88e09620d47a6d9239b.jpg",
+                "caption": "Picture No. 17"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f814088a917a9cd4d9827314a22a9301f5b68e22.jpg",
+                "caption": "Picture No. 18"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 90734,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396521).png",
+            "branchName": "LiFE Residential - Royal Wharf",
+            "brandName": "LiFE Residential",
+            "chainFree": false,
+            "companyId": 2268,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "John Cabot House, 6 Clipper Street, Royal Wharf E16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2YW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60815341,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "E16",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in John Cabot House, 6 Clipper Street, Royal Wharf E16 - Zoopla",
+        "metaDescription": "2 bed flat for sale in John Cabot House, 6 Clipper Street, Royal Wharf E16, selling for \u00a3575,000 from LiFE Residential - Royal Wharf. See property details on Zoopla or browse all our range of properties in John Cabot House, 6 Clipper Street, Royal Wharf E16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60815341/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.500251,
+                "longitude": 0.02623
+            }
+        },
+        "displayAddress": "John Cabot House, 6 Clipper Street, Royal Wharf E16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-21T20:11:02",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 33
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/3a96cab52bb74dfbbe09c2582c7486d52301ae80.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "LiFE Residential",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60815341,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "26E06AA0-9353-11EC-A2C0-B81A0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E16",
+            "areaNameUri": "london/e16/victoria-docks-canning-town-north-woolwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1998.782828282829
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 409946,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 417472,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -7526
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 431336,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -21390
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 454974,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -45028
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 405330,
+                    "pctChangeSince": 1.139,
+                    "date": "2017-02-26",
+                    "changeSince": 4616
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 259070,
+                    "pctChangeSince": 58.238,
+                    "date": "2012-02-26",
+                    "changeSince": 150876
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 259591,
+                    "pctChangeSince": 57.92,
+                    "date": "2007-02-26",
+                    "changeSince": 150355
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 150728,
+                    "pctChangeSince": 171.977,
+                    "date": "2002-02-26",
+                    "changeSince": 259218
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 403820,
+                    "newBuilds": 0,
+                    "numSales": 143
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 389007,
+                    "newBuilds": 17,
+                    "numSales": 407
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 404670,
+                    "newBuilds": 392,
+                    "numSales": 1497
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 392390,
+                    "newBuilds": 881,
+                    "numSales": 2703
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 535000,
+                    "propertyId": 31407586,
+                    "streetAddress": "40 Ladysmith Road",
+                    "uri": "40-ladysmith-road/london/e16-4nr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 430000,
+                    "propertyId": 7910391,
+                    "streetAddress": "79 Star Lane",
+                    "uri": "79-star-lane/london/e16-4rf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 32999424,
+                    "streetAddress": "9, Windlass House, 21 Schooner Road",
+                    "uri": "9/windlass-house/21-schooner-road/london/e16-2pw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 30844682,
+                    "streetAddress": "Flat 17, The Oxygen, 18 Western Gateway",
+                    "uri": "flat-17/the-oxygen/18-western-gateway/london/e16-1bl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 275000,
+                    "propertyId": 7901501,
+                    "streetAddress": "283 Fishguard Way",
+                    "uri": "283-fishguard-way/london/e16-2ry"
+                }
+            ]
+        }
+    }
+}

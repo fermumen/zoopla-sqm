@@ -1,0 +1,566 @@
+{
+    "address": "St. Albans Villas, London NW5",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 56.9,
+    "sqft": 612.0,
+    "text": "\u2014, \u2014,\n\u2014 SS}\nOO\nKitchen |OO\n2.49m x 2.34m\n(8' 2\" x 7'8\")\nLiving Room\n3.96m x 3.76m\n(13' 0\" x 12' 4\") Mm OC\n. Bathroom >\nj 4.15m x 0.90m\nfp (13\u00b0 7\" x2 11\u00b0)\n\u2014\u2014_\u2014\na Hall\nBedroom 1\n4.80m x 2.86m\n(151 97x97 Se) Bedroom 2\n3.22m x 3.05m\n(10' 7\" x 10' 0\")\n_\u2014\u2014\u2014\u2014\u2014\u2014}\nLSJ 1\n1\nBalcony\nTotal floor area 56.9 sq.m. (612 sq.ft.) approx\nThis floor plan is for illustrative purposes only. It is not drawn to scale. Any measurements, floor areas (including any total floor area), openings and orientation are\napproximate. No details are guaranteed, they cannot be relied upon for any purpose and they do not form part of any agreement. No liability is taken for any error, omission\nor misstatement. A party must rely upon its own inspection(s). Plan produced for Purple Bricks. Powered by www.focalagent.com\n",
+    "image": "./extracted_images/60433552.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60433552/",
+    "listing_no": "60433552",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.560581,
+        "longitude": -0.149923
+    },
+    "first_published": "2021-12-28T12:02:56",
+    "last_sale_date": "1995-04-07",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60433552",
+        "publishedOn": "2021-12-28T12:02:56",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://www.purplebricks.co.uk/brochure/1118939",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": true,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "St. Albans Villas, London NW5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1QU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60433552,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "NW5",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 663100
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/purplebricks-head-office-solihull-58933/",
+            "branchId": "58933",
+            "branchResultsUri": "/for-sale/branch/purplebricks-head-office-solihull-58933/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "phone": "024 7511 8874",
+            "name": "Purplebricks, Head Office",
+            "memberType": "agent",
+            "address": "Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull",
+            "postcode": "B90 4RZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "La Sainte Union Catholic Secondary School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "William Ellis School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Gospel Oak",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tufnell Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=X8BnqaTfaL4"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "caption": "epc",
+                    "original": "https://lc.zoocdn.com/d02d3777ab0d938549ff33389f6c8134643d6313.pdf"
+                }
+            ]
+        },
+        "detailedDescription": "** chain free **<br><br>A newly refurbished two bedroom first floor flat located opposite and overlooking Hampstead Heath &amp; Parliament Hill, that is offered for sale in excellent condition throughout and with no onward chain.<br><br>Measuring approximately 612 sq ft, the property comprises two bedrooms, a family bathroom, a modern fitted kitchen, a living room and a private terrace/balcony to the rear (the only terrace of this size in the area), overlooking the communal gardens.<br><br>Benefits include, double glazing, central heating, communal gardens and residents permit parking.<br><br>Viewings are highly recommended as this property will make an ideal purchase for first time buyers, couples, families and landlords.<br><br>Lease: 86 years remaining<br>Service Charge: Approximately \u00a33,000 per year<br>Ground Rent: \u00a310 per year<br><br>St. Albans Villas is situated on Highgate Road near to Swain's Lane, with the property directly opposite and overlooking the vast open green spaces of Hampstead Heath &amp; Parliament Hill.<br><br>A selection of local shops and cafes can be found nearby on Swain's Lane, whilst Kentish Town, Hampstead and Highgate is less than a mile away with all of it's amenities on offer.<br><br>Gospel Oak Railway Station (North London Line) is only 0.5 mile away, whilst Tuffnell Park Underground Station (Northern Line) is only 0.7 mile away, offering excellent transport links.<br><br><strong>Disclaimer For Virtual Viewings</strong><br><br>Some or all information pertaining to this property may have been provided solely by the vendor, and although we always make every effort to verify the information provided to us, we strongly advise you to make further enquiries before continuing.<br><br>If you book a viewing or make an offer on a property that has had its valuation conducted virtually, you are doing so under the knowledge that this information may have been provided solely by the vendor, and that we may not have been able to access the premises to confirm the information or test any equipment. We therefore strongly advise you to make further enquiries before completing your purchase of the property to ensure you are happy with all the information provided.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two bedroom first floor flat",
+                "Overlooking hampstead heath &amp; parliament hill",
+                "Newly refurbished - excellent condition throughout",
+                "Chain free",
+                "Approximately 612 sq ft",
+                "Private terrace/balcony",
+                "Communal gardens",
+                "Residents permit parking",
+                "Double glazed &amp; central heating",
+                "Excellent transport links &amp; local amenities"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "29beb0a225df7069f8111d2de9f06329e0b423fd.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "127e9b2547f5577449d1cdc95b6256b900ce15ea.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8d49fd31f4e5caba6a3efb01c9c196e8fee730c0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d60329dd5eabc7d1357aa453a8949a9b9b4d036b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "35eb78d1e91a4e890c982080f0c7b606c2d9fd17.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "835a46417e4780512cd032b08e6d42f56fe07395.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a22f0762e1ca1ac2115c4647f699f868418bc35b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f9839572e85816ec1875f2de2088836b00a3eba2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6075ff4ad68880749eaa60a522c6418256fdadc4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cc5c9b8db1c56d3fcfbbdac095002f886aec2461.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f46c28ca0952f5c74e7014917802a4021a2041d7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2fe53f0a07aeb33d7673479f802b9e411352ce6e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a1355396cc8912be3a02470d7d6da3271add074c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "de21ae36f39db44b8c00a67b3802ef26147031e0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4d935b0459ff5e53790f8c49c078880008817571.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2e427c48c1954bb5f1b326c9015b5fb044222dd4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c06224a5d60e1ce7f9b1fb8cacf6c7df3a50bfd2.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": true,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "St. Albans Villas, London NW5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1QU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60433552,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "NW5",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 663100
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in St. Albans Villas, London NW5 - Zoopla",
+        "metaDescription": "2 bed flat for sale in St. Albans Villas, London NW5, selling for \u00a3650,000 from Purplebricks, Head Office. See property details on Zoopla or browse all our range of properties in St. Albans Villas, London NW5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60433552/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.560581,
+                "longitude": -0.149923
+            }
+        },
+        "displayAddress": "St. Albans Villas, London NW5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-28T12:02:56",
+                "priceLabel": "\u00a3675,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "1995-04-07",
+                "newBuild": false,
+                "price": 93000,
+                "priceLabel": "\u00a393,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": false,
+                    "isPriceIncrease": true,
+                    "percentageChangeLabel": "0.7",
+                    "priceChangeDate": "2021-12-29T11:37:41",
+                    "priceChangeLabel": "\u00a35,000",
+                    "priceLabel": "\u00a3680,000"
+                },
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.4",
+                    "priceChangeDate": "2022-01-21T14:51:24",
+                    "priceChangeLabel": "\u00a330,000",
+                    "priceLabel": "\u00a3650,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 245
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/29beb0a225df7069f8111d2de9f06329e0b423fd.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Purplebricks",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60433552,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "E0D21668-7AC9-11EC-B9FF-0CE50D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW5",
+            "areaNameUri": "london/nw5/kentish-town",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2695.333333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 617465,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 627994,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10529
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 647496,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -30031
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 676584,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -59119
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 638351,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -20886
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 440754,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 176711
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 393383,
+                    "pctChangeSince": 56.963,
+                    "date": "2007-02-26",
+                    "changeSince": 224082
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 232309,
+                    "pctChangeSince": 165.795,
+                    "date": "2002-02-26",
+                    "changeSince": 385156
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 654154,
+                    "newBuilds": 0,
+                    "numSales": 106
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 621456,
+                    "newBuilds": 3,
+                    "numSales": 300
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 619111,
+                    "newBuilds": 28,
+                    "numSales": 567
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 614410,
+                    "newBuilds": 49,
+                    "numSales": 901
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 747500,
+                    "propertyId": 17233531,
+                    "streetAddress": "31a Gaisford Street",
+                    "uri": "31a-gaisford-street/london/nw5-2eb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 1025000,
+                    "propertyId": 27354983,
+                    "streetAddress": "First And Second Floor Flat, 8 Burghley Road",
+                    "uri": "first-and-second-floor-flat/8-burghley-road/london/nw5-1ue"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-10T00:00:00Z",
+                    "price": 1150000,
+                    "propertyId": 17240579,
+                    "streetAddress": "50 Coity Road",
+                    "uri": "50-coity-road/london/nw5-4ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 27471767,
+                    "streetAddress": "90b Caversham Road",
+                    "uri": "90b-caversham-road/london/nw5-2dn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-01T00:00:00Z",
+                    "price": 1330000,
+                    "propertyId": 17235128,
+                    "streetAddress": "177 Leighton Road",
+                    "uri": "177-leighton-road/london/nw5-2rd"
+                }
+            ]
+        }
+    }
+}

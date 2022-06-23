@@ -1,0 +1,579 @@
+{
+    "address": "Parkway Apartments, Goodchild Road N4",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 64.7,
+    "sqft": 696.0,
+    "text": "PARKWAY APARTMENTS\nAPPROXIMATE GROSS INTERNAL FLOOR AREA 696 SQ.FT (64.7 SQ.M)\nex\nKA\n\u2122\n>\u00bb\naa\nHee\nPec\nHee\nBeet\nBeet\nHee\nHeer\nHEE\n| eee RECEPTION\n\u2018HER 4 mx 5.8m\nEEE TAX ABA R\nHEEEEECEEEEe\nBALCONY ff\nHE 4.4m xX 1.4m a\nWE 14.4 tx 4.6 ft\nPeo\nHee \u00bb\nHee\nHee\nHEE EEE\nHee\nRec ecccccee ree\n|ttttoooeemees = Bd\nHeeee Cee\nHee re\nEEEEEEEEEE EEE =\nHee\nBee Eee\nHERE KITCHEN\nPee 2.0mX 3.6m\nEERE BeRXtBh\nHee\nUREERESSE ASEEEES BEDROOM 1\n44mX3.2m\n14.4 ft X 10.5 ft\n< >\n| 14\n=\nBEDROOM 2\n44mX28m\n14.4 ft X 9.2 ft\ny |\nt\nENTRANCE\nTHIRD FLOOR\nThis floor plan has been defined by the RICS Code of Measurement. This floor plan and all others are for approximate representative\npurposes only and upon usage is agreed to as such by the client.\nWWW: hdvirtualart.com | TEL: 0203.974.1567 | EMAIL: info@hdvirtualart.com\n",
+    "image": "./extracted_images/60163239.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60163239/",
+    "listing_no": "60163239",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.570972,
+        "longitude": -0.090163
+    },
+    "first_published": "2021-11-10T14:59:32",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60163239",
+        "publishedOn": "2021-11-10T14:59:32",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 52511,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "branchName": "JLL - North London",
+            "brandName": "JLL",
+            "chainFree": false,
+            "companyId": 6050,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Parkway Apartments, Goodchild Road N4",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2BL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60163239,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "N4",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 303578
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jll-north-london-london-52511/",
+            "branchId": "52511",
+            "branchResultsUri": "/for-sale/branch/jll-north-london-london-52511/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "phone": "020 8115 3662",
+            "name": "JLL - North London",
+            "memberType": "agent",
+            "address": "Unit B, Parkway Apartments, Woodberry Park, Goodchild Road, London",
+            "postcode": "N4 2BL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Beis Chinuch Lebonos Girls School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Woodberry Down Community Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Manor House",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Harringay Green Lanes",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://hdvirtualart.com/tours/jll/2129"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Graphs",
+                    "filename": "e9d54c796bf759c030b790403f66e3d527d20499.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Modern and well presented 2 bedroom property on the 3rd floor of Parkway Apartments, part of the sought after Woodberry Down development.<br><br>This spacious and bright apartment offers 2 very good size bedrooms both with floor to ceiling windows allowing lots of natural light. The reception room also features floor to ceiling windows and leads to a private balcony, there is ample space for seating and a dining table. The kitchen is separate from the living room and offers lots of cupboard and worktop space.<br><br>There is a large storage cupboard from the hallway and a bright and modern main bathroom with bath and overhead shower.<br><br>Ideally located close to Manor House tube station for easy access to the City and Central London. There are also good bus connections close by. Both Finsbury Park and Clissold Park are within walking distance offering lots of green space.<br><br>Woodberry Down has many amenities on site such as a grocery store, local size supermarket, dry cleaners, post office, beautician, 2 x coffee shops/ caf\u00e9 and an Italian restaurant and more to come!<br><br>Early viewing is recommended.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "- 2 Bedrooms",
+                "- 1 bathroom",
+                "- Private balcony",
+                "- Walking distance to manor house",
+                "- Sainsbury's Local on site",
+                "- Approx. 696 sq ft (64.7 sq m)",
+                "- Leasehold",
+                "- EPC: C"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": "2021-11-10T12:00:00"
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "7aeb5781ad7e1ab403fa4a94f31d08e6468ebc6d.jpg",
+                    "caption": "13 Parkway Apartm..."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "b50e4c74dad82f390f0bfff54962f2cf034b8b67.jpg",
+                "caption": "Dsc_8242_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "96ca792b3471395318e27d231c2102123ae95d34.jpg",
+                "caption": "Dsc_8258_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c2a3a4753611c16af7688aab3af51cb6d3eab2ee.jpg",
+                "caption": "Dsc_8267_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "baed559144004b1f78c4027a0fd78e30f4f24191.jpg",
+                "caption": "Dsc_8254_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "274ea4d5ab71352a4e57ef99e10b9ac01a930f95.jpg",
+                "caption": "Dsc_8246_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "37790eca5473fe32173bd2b1eedd6a3c4bfab9c0.jpg",
+                "caption": "Dsc_8264_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fbd576da001187a89ef34e8f4a266bad4a49dbb6.jpg",
+                "caption": "Dsc_8271_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "80d381f3f3c707afd58a62255aebc201ab03e4fa.jpg",
+                "caption": "Dsc_8286_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "893b002b703a682e50d47f1806cf193ca64dec12.jpg",
+                "caption": "Dsc_8221_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b7304363f857dab87687f77d4ef3d892a273ee8a.jpg",
+                "caption": "Dsc_8223_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "50df05e9d92ad19a54cf0dfc7b5284c730fa8780.jpg",
+                "caption": "Dsc_8232_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "55209806f35b39990f8130ce3e4d85ff34ce0689.jpg",
+                "caption": "Dsc_8193_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "967cbe640eb8da0fb7636ff4ba992f082643dc0c.jpg",
+                "caption": "Dsc_8197_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "05850d18ff4f3e7f27fea55361678ff2b2fecf10.jpg",
+                "caption": "Dsc_8201_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cc369778227335fd47848a3bc70262f295cc7317.jpg",
+                "caption": "Dsc_8205_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b1aadc45dc62cfac67c64dd7ccab73a02fca78b8.jpg",
+                "caption": "Dsc_8211_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8a4c3ce1edcfa01ad600ab6771bea7833f448ac4.jpg",
+                "caption": "Dsc_8214_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "902295afcfd141976b7ec5f1b7875bf2ea85cb7f.jpg",
+                "caption": "Dsc_8281_Web"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 52511,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "branchName": "JLL - North London",
+            "brandName": "JLL",
+            "chainFree": false,
+            "companyId": 6050,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Parkway Apartments, Goodchild Road N4",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2BL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60163239,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "N4",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 303578
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Parkway Apartments, Goodchild Road N4 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Parkway Apartments, Goodchild Road N4, selling for \u00a3550,000 from JLL - North London. See property details on Zoopla or browse all our range of properties in Parkway Apartments, Goodchild Road N4.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60163239/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.570972,
+                "longitude": -0.090163
+            }
+        },
+        "displayAddress": "Parkway Apartments, Goodchild Road N4",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-10T14:59:32",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 49
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/7aeb5781ad7e1ab403fa4a94f31d08e6468ebc6d.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "JLL",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60163239,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "C0A72FFC-7EC7-11EC-BD63-0F190E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N4",
+            "areaNameUri": "london/n4/finsbury-park-manor-house",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2284.7126436781614
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 473916,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 482109,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8193
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 497209,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -23293
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 522264,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -48348
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 483184,
+                    "pctChangeSince": -1.918,
+                    "date": "2017-02-26",
+                    "changeSince": -9268
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 316775,
+                    "pctChangeSince": 49.607,
+                    "date": "2012-02-26",
+                    "changeSince": 157141
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 297157,
+                    "pctChangeSince": 59.483,
+                    "date": "2007-02-26",
+                    "changeSince": 176759
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 178874,
+                    "pctChangeSince": 164.944,
+                    "date": "2002-02-26",
+                    "changeSince": 295042
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 519070,
+                    "newBuilds": 0,
+                    "numSales": 261
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 508010,
+                    "newBuilds": 4,
+                    "numSales": 645
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 508210,
+                    "newBuilds": 5,
+                    "numSales": 1283
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 502054,
+                    "newBuilds": 149,
+                    "numSales": 2087
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-22T00:00:00Z",
+                    "price": 670000,
+                    "propertyId": 31526984,
+                    "streetAddress": "Flat 49, Riverside Apartments, Goodchild Road",
+                    "uri": "flat-49/riverside-apartments/goodchild-road/london/n4-2ba"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-29T00:00:00Z",
+                    "price": 498500,
+                    "propertyId": 30562697,
+                    "streetAddress": "Flat 10, Waterside Apartments, Goodchild Road",
+                    "uri": "flat-10/waterside-apartments/goodchild-road/london/n4-2aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-01T00:00:00Z",
+                    "price": 395000,
+                    "propertyId": 30562748,
+                    "streetAddress": "Flat 6, Waterside Apartments, Goodchild Road",
+                    "uri": "flat-6/waterside-apartments/goodchild-road/london/n4-2aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 525000,
+                    "propertyId": 30562708,
+                    "streetAddress": "Flat 20, Waterside Apartments, Goodchild Road",
+                    "uri": "flat-20/waterside-apartments/goodchild-road/london/n4-2aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-14T00:00:00Z",
+                    "price": 435000,
+                    "propertyId": 30560945,
+                    "streetAddress": "Flat 47, Waterside Apartments, Goodchild Road",
+                    "uri": "flat-47/waterside-apartments/goodchild-road/london/n4-2aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 390000,
+                    "propertyId": 15095995,
+                    "streetAddress": "Ground Floor Flat, 12 Beatrice Road",
+                    "uri": "ground-floor-flat/12-beatrice-road/london/n4-4pd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 782500,
+                    "propertyId": 27207995,
+                    "streetAddress": "11a Victoria Road",
+                    "uri": "11a-victoria-road/london/n4-3sh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 900000,
+                    "propertyId": 15080808,
+                    "streetAddress": "100 Warham Road",
+                    "uri": "100-warham-road/london/n4-1au"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 485000,
+                    "propertyId": 27169264,
+                    "streetAddress": "Flat C, 59 Digby Crescent",
+                    "uri": "flat-c/59-digby-crescent/london/n4-2hs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 15088161,
+                    "streetAddress": "64 St. Thomas's Road",
+                    "uri": "64-st-thomas-s-road/london/n4-2qw"
+                }
+            ]
+        }
+    }
+}

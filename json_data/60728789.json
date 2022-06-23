@@ -1,0 +1,307 @@
+{
+    "address": "Caxton Road, Wood Green N22,",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//new-homes/details/60728789/",
+    "listing_no": "60728789",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.595238,
+        "longitude": -0.110976
+    },
+    "first_published": "2022-02-10T13:04:02",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60728789",
+        "publishedOn": "2022-02-10T13:04:02",
+        "section": "new-homes",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 59019,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(161270).png",
+            "branchName": "More & Co",
+            "brandName": "More & Co",
+            "chainFree": true,
+            "companyId": 31664,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Caxton Road, Wood Green N22,",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "6TB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60728789,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "N22",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "from",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 539886
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/more-and-co-palmers-green-59019/",
+            "branchId": "59019",
+            "branchResultsUri": "/for-sale/branch/more-and-co-palmers-green-59019/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(161270).png",
+            "phone": "020 8022 4084",
+            "name": "More & Co",
+            "memberType": "agent",
+            "address": "13 Green Lanes, Palmers Green",
+            "postcode": "N13 4TT"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Alexandra Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Paul's RC Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wood Green",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Alexandra Palace",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "As sole agents, we are delighted to offer for sale a choice of 3 new build two bedroom houses.<br><br>The houses will be built to a very high standard and will have superbly presented living space.<br><br>The properties are situated on a quiet residential road in the heart of Wood Green, being close to all transport facilities and an abundance of local shops and amenities.<br><br>For early reservation, call our Sales Team now to enable you to choose your choice of kitchen/bathroom/flooring and colour scheme.<br><br>- Completion anticipated early Autumn<br><br>- Finished to a high specification<br><br>- 10 year new-build warranty<br><br>- Freehold<br><br>- Excellent location<br><br>- Garden to all houses<br><br>Prices start from \u00a3550,000.00. Off plan reservations now being taken, please call More &amp; Co for further information.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "538685a78db1afa9e1e274f1cb8085bed35c3ac6.jpg",
+                "caption": "Picture No. 01"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d159a3bcbef02c2b0250be90fbaa14ce8578caab.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "723eb2f396788471ec018ff2923536d83f07f331.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0202c13fb2c31cafde057220621e9a60f44d3dcf.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a34ef72db81850df876d57a4027e41d8ec9658db.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "89061c193ab1eb6197638ade08c3f86f6ae666dd.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f3b04dc080e715bea44adfb0dff7c39bdd8df03c.jpg",
+                "caption": "Picture No. 12"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 59019,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(161270).png",
+            "branchName": "More & Co",
+            "brandName": "More & Co",
+            "chainFree": true,
+            "companyId": 31664,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Caxton Road, Wood Green N22,",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "6TB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60728789,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "N22",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "from",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 539886
+        },
+        "title": "2 bed property for sale",
+        "metaTitle": "New home, 2 bed property for sale in Caxton Road, Wood Green N22, - Zoopla",
+        "metaDescription": "A new 2 bed property for sale in Caxton Road, Wood Green N22,, selling for \u00a3550,000 from More & Co. See property details on Zoopla or browse all our range of properties in Caxton Road, Wood Green N22,.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60728789/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.595238,
+                "longitude": -0.110976
+            }
+        },
+        "displayAddress": "Caxton Road, Wood Green N22,",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-10T13:04:02",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 251
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "From",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "More & Co",
+            "category": "for-sale/resi/agent/new/gb",
+            "id": 60728789,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "E9986FE4-94AB-11EC-96D9-95320E674736",
+        "marketStats": null
+    }
+}

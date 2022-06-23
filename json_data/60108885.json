@@ -1,0 +1,579 @@
+{
+    "address": "Offenham Road, London SW9",
+    "price": "\u00a3610,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 75.7,
+    "sqft": 815.0,
+    "text": "Offenham Road, London, SW9\nIN Approximate Area = 815 sq ft / 75.7 sqm\nAz) For identification only - Not to scale\n*\nBalcony . \\\n12'11 x 5'9 ;\n(3.94) x (1.75)\nBedroom\n12110 x 11'8\n; (3.91) x (3.56)\nKitchen / \\y\nReception Room :\n19'8 x 13'8\n(5.99) x (4.17)\nBedroom ;\n13'8 x 7'2\n(4.17) x (2.18) j\nSECOND FLOOR\nineaurel apory Mcceurnon canines (Oe Renton Graken ane eae @\nLea] Measurer Produced for Barnard Marcus. REF: 781368 barnard marcus\n",
+    "image": "./extracted_images/60108885.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60108885/",
+    "listing_no": "60108885",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.475617,
+        "longitude": -0.108592
+    },
+    "first_published": "2021-11-03T11:54:13",
+    "last_sale_date": "2016-12-19",
+    "last_sale_new": true,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60108885",
+        "publishedOn": "2021-11-03T11:54:13",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "PDF Property Particulars",
+                "original": "https://lc.zoocdn.com/74584da4e6ef865b21d750c7e44d93b1db8f1329.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.barnardmarcus.co.uk/property/KGT109593",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 869,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - Kennington",
+            "brandName": "Barnard Marcus",
+            "chainFree": false,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Offenham Road, London SW9",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7BN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60108885,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SW9",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 610000,
+            "price": 610000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 460908
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/barnard-marcus-kennington-kennington-869/",
+            "branchId": "869",
+            "branchResultsUri": "/for-sale/branch/barnard-marcus-kennington-kennington-869/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "phone": "020 3463 0244",
+            "name": "Barnard Marcus - Kennington",
+            "memberType": "agent",
+            "address": "315 Kennington Road, Kennington",
+            "postcode": "SE11 4QE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Christ Church Primary SW9",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Saint Gabriel's College",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Oval",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stockwell",
+                "type": "london_underground_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=GBRXC817hqC"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "0e301ba07ce1165d2c6be1268cbcd484df9e5afb.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Summary</strong><br>A stunning two double bedroom, two bathroom second floor apartment situated in this sought after modern development and boasting an impressive 815 sq. Ft. Of accommodation. Finished to an exacting specification, the property enjoys beautiful views across Eythorne Park.<br><br><strong>Description</strong><br>A stunning two double bedroom, two bathroom, second floor apartment situated in this sought after modern development, boasting an impressive 815 sq ft of accommodation making it one of the largest footprints in the development. Finished to an exacting specification, the property enjoys beautiful views across the green spaces of Eythorne Park along with a private balcony from which to enjoy them. Decorated in contemporary tones throughout with modern, high specification, integrated appliances, the property is ideal for anyone looking for something they can move straight in to. Situated in the ever popular Oval Quarter Development the property is ideally positioned for easy access to Brixton High Street and overground station as well as Stockwell tube station (Northern Line). Brixton Road provides a plethora of shops restaurant and bars along with multiple bus routes.<br><br>Accommodation comprises an entrance hall with ample storage, two double bedrooms with en suite to the master, a superb open plan kitchen/reception space, luxury bathroom and private balcony with views across the park.<br><br>View now to avoid disappointment.<br><br>We currently hold lease details as displayed above, should you require further information please contact the branch. Please note additional fees could be incurred for items such as leasehold packs.<br><br>1. Money laundering regulations: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale. <br>2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property. <br>3. The measurements indicated are supplied for guidance only and as such must be considered incorrect. <br>4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase. <br>5. These particulars are issued in good faith but do not constitute representations of fact or form part of any offer or contract. The matters referred to in these particulars should be independently verified by prospective buyers or tenants. Neither sequence (UK) limited nor any of its employees or agents has any authority to make or give any representation or warranty whatever in relation to this property.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedroom",
+                "Second Floor",
+                "En Suite to the Master",
+                "Private Balcony",
+                "Views Across Eythorne Park"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "dafd5ec65378326b89aa634b56a620660bc3c7b4.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "2bfcfddbe19b6433c36760ed3fdcf5e2126a229f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4ef76bb8239b4aba93d3ed82e1d994c8f1765cb1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fa052d9b5f4b2956db50aa69bfde41491edd62e2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c63bcb8a5c4c3a5a811ba68b7d307afaf92fadbe.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6d7919d60ed9b9c17637b9f8a36a3de5580cb430.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4ee4559614c2e56274dc594467dc5a28e4c7c772.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b21fdd0564408b4e2436667fc9b762f0e08d1e76.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "07015f41f8c7e9fdbc9a1875adf8111bff9a2007.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "773f21feb06688fe031ef24145ca5fb323ca3791.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c260a2459de9795184893fc6d2abdb272d71baaa.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4670f41905f50862def170e68d0fb574f45589f1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "867f6ca4503f27a0b0b40ecc42aa5176420b1ed4.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 869,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - Kennington",
+            "brandName": "Barnard Marcus",
+            "chainFree": false,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Offenham Road, London SW9",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7BN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60108885,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SW9",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 610000,
+            "price": 610000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 460908
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Offenham Road, London SW9 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Offenham Road, London SW9, selling for \u00a3610,000 from Barnard Marcus - Kennington. See property details on Zoopla or browse all our range of properties in Offenham Road, London SW9.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60108885/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.475617,
+                "longitude": -0.108592
+            }
+        },
+        "displayAddress": "Offenham Road, London SW9",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-03T11:54:13",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2016-12-19",
+                "newBuild": true,
+                "price": 600000,
+                "priceLabel": "\u00a3600,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "2.4",
+                    "priceChangeDate": "2021-12-26T06:03:49",
+                    "priceChangeLabel": "\u00a315,000",
+                    "priceLabel": "\u00a3610,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 50
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/dafd5ec65378326b89aa634b56a620660bc3c7b4.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3610,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Barnard Marcus",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60108885,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "C1F2BD68-933A-11EC-B1DA-160E0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW9",
+            "areaNameUri": "london/sw9/stockwell-brixton-north",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2148.840909090911
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 478668,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 481031,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2363
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 481337,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2669
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 501414,
+                    "pctChangeSince": -4.536,
+                    "date": "2021-02-26",
+                    "changeSince": -22746
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 485851,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -7183
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 334931,
+                    "pctChangeSince": 42.915,
+                    "date": "2012-02-26",
+                    "changeSince": 143737
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 305962,
+                    "pctChangeSince": 56.447,
+                    "date": "2007-02-26",
+                    "changeSince": 172706
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 186410,
+                    "pctChangeSince": 156.782,
+                    "date": "2002-02-26",
+                    "changeSince": 292258
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 476500,
+                    "newBuilds": 1,
+                    "numSales": 216
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 465414,
+                    "newBuilds": 26,
+                    "numSales": 559
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 458735,
+                    "newBuilds": 74,
+                    "numSales": 1085
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 464302,
+                    "newBuilds": 167,
+                    "numSales": 1840
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 580000,
+                    "propertyId": 32837331,
+                    "streetAddress": "Flat 18, 1 Offenham Road",
+                    "uri": "flat-18/1-offenham-road/london/sw9-7bn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 32951115,
+                    "streetAddress": "Flat 9, 2 Offenham Road",
+                    "uri": "flat-9/2-offenham-road/london/sw9-7bn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 590000,
+                    "propertyId": 32951128,
+                    "streetAddress": "Flat 22, 2 Offenham Road",
+                    "uri": "flat-22/2-offenham-road/london/sw9-7bn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 408500,
+                    "propertyId": 32951122,
+                    "streetAddress": "Flat 16, 2 Offenham Road",
+                    "uri": "flat-16/2-offenham-road/london/sw9-7bn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-17T00:00:00Z",
+                    "price": 399950,
+                    "propertyId": 32951112,
+                    "streetAddress": "Flat 6, 2 Offenham Road",
+                    "uri": "flat-6/2-offenham-road/london/sw9-7bn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 23217134,
+                    "streetAddress": "27 Patmos Road",
+                    "uri": "27-patmos-road/london/sw9-6sq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 27220411,
+                    "streetAddress": "A, 128 Landor Road",
+                    "uri": "a/128-landor-road/london/sw9-9jb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 452500,
+                    "propertyId": 23212677,
+                    "streetAddress": "Flat B, 38 Crewdson Road",
+                    "uri": "flat-b/38-crewdson-road/london/sw9-0lj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 599750,
+                    "propertyId": 27163030,
+                    "streetAddress": "Flat C, 384 Clapham Road",
+                    "uri": "flat-c/384-clapham-road/london/sw9-9ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-23T00:00:00Z",
+                    "price": 640000,
+                    "propertyId": 23213466,
+                    "streetAddress": "44a Hackford Road",
+                    "uri": "44a-hackford-road/london/sw9-0rf"
+                }
+            ]
+        }
+    }
+}

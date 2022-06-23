@@ -1,0 +1,519 @@
+{
+    "address": "Poplar Riverside, London E14",
+    "price": "\u00a3579,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "OPLAR\n\nR\n\nRSIDE\n\nINE\n\n14\n\nPoplar Riverside - Calico House, Property 13, Site Map\n\n\u2018St William\n",
+    "image": "./extracted_images/60152083.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60152083/",
+    "listing_no": "60152083",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.515836,
+        "longitude": -0.006237
+    },
+    "first_published": "2021-11-09T15:44:23",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60152083",
+        "publishedOn": "2021-11-09T15:44:23",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 114006,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(683335).png",
+            "branchName": "Expedius Properties",
+            "brandName": "Expedius Properties",
+            "chainFree": false,
+            "companyId": 79879,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Poplar Riverside, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0LL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60152083,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 579000,
+            "price": 579000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/expedius-properties-london-114006/",
+            "branchId": "114006",
+            "branchResultsUri": "/for-sale/branch/expedius-properties-london-114006/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(683335).png",
+            "phone": "020 3641 3730",
+            "name": "Expedius Properties",
+            "memberType": "agent",
+            "address": "1 Dock Road, Royal Docks, London",
+            "postcode": "E16 1AG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Culloden Primary - A Paradigm Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Langdon Park Community School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Langdon Park",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "All Saints",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A unique opportunity to invest in the first phase of Poplar Riverside. Residents will have access tot a private outdoor space and 2.5 acres of riverside park with a range of facilities and ammenities. Carefully designed by awardwinning interior specialists, make and Bergman interiors.<br><br>Calico House is the first phase of this exciting new regeneration scheme and is now launched.<br><br>View the brand new marketing suite and new showhome by booking your place today",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Concierge"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "3b9ace4e0c591ad38062ba8438b904973688c603.jpg",
+                    "caption": null
+                },
+                {
+                    "__typename": "Media",
+                    "filename": "87d6a89de1f94562be85cc99b0f03e64515348bd.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "bace82d6800877bdc996b879578cb426d6caae53.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f1362ec2a31dd2a2406706b07800f8919e45ec11.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f88b170750ba08f0adbe6e18b90e6bb1ee3e1a3d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "58b7e03f8ae95e3d1abe4df6beefdafa0c43703f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5d6b5b75c84708f4ae711377b63078eaa2f8c8ce.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f5bdcbcc19e19c2927ef73f7ea13fe59e58f9353.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ee6aaf75029ba63ee56c26689581fa9ae0d1755f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3e832fc1ff363ee4d1816f3275ce57d02b10dfcf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3f680ce40b1bd2f2d683591d158863e8c62f508f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8575095924afaedcc41079fca99aeaefa1f02433.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bd9a0c92431c6f415b796e6c84cd41c810309d77.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "38d25aa4aebf54b437c15ce56e7ace030a9f8058.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b315da1128d2faea885d03a086cf920dce330a0f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b581f7e9aaf35260c4032a177e1944ab57c9624e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "66e4c56b616d16edfe6d1c8fc2a76a033effa093.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3e0602b24f1ee46f6e743a811864c7758ddc7f38.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 114006,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(683335).png",
+            "branchName": "Expedius Properties",
+            "brandName": "Expedius Properties",
+            "chainFree": false,
+            "companyId": 79879,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Poplar Riverside, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0LL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60152083,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 579000,
+            "price": 579000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Poplar Riverside, London E14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Poplar Riverside, London E14, selling for \u00a3579,000 from Expedius Properties. See property details on Zoopla or browse all our range of properties in Poplar Riverside, London E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60152083/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.515836,
+                "longitude": -0.006237
+            }
+        },
+        "displayAddress": "Poplar Riverside, London E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-09T15:44:23",
+                "priceLabel": "\u00a3579,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 9
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/3b9ace4e0c591ad38062ba8438b904973688c603.jpg"
+                },
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/87d6a89de1f94562be85cc99b0f03e64515348bd.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3579,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Expedius Properties",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60152083,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "8C345156-8F4C-11EC-979F-EA110E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3199.821151716501
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

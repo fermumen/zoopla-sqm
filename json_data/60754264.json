@@ -1,0 +1,537 @@
+{
+    "address": "Vant Road, Tooting, London SW17",
+    "price": "\u00a3599,950",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 83.7,
+    "sqft": 900.0,
+    "text": "Vant Road\nApproximate Gross Internal Area = 795 sq ft / 73.9 sqm y\nOutbuilding = 105 sq ft / 9.8 sqm N\nTotal = 900 sq ft / 83.7 sqm\n:\nOutbuilding\n11'6x9'2\n3.51m x 2.79m\n!\nes\nAS\nie |\nGarden |\n26'11x 14'0 |\nexe 8.20m x 4.27m eel\n(Approx) |\n; Coa\n|\nBedroom\n103x100 \\\n3.12m x 3.05m\n2\n\u2018J\nBedroom\n15'2x13'2\n4.62m x 4.01m\n=\nI eas =)\n56|| Kitch\n[ss| iitxes Ne =\n3.63m x 2.06m re\na Reception\nRoom\n= 15'9x14'4\n\"% 4.80m x 4.37m\noo \u00a9\n1 AO OE 4 co\n200m\n: im 4 *\nRRO in = *\u00ae >\n\\ \\ S e,\nVa Ss\n[ae 5]\nIN \u2014_[\u2014 14\u00b03x9'1\n4.34m x 2.77m.\nDriveway {4 (Approx)\n_ 17'0x 161 -\n5.18m. va 90m =o\n(Approx) ao SPesoy\nPOQOOOCOOMOOOOOOOOOOOG\nLower Ground Floor\nThis plan is not to scale and must be used as layout guidance only. All measurements and areas are approximate and should not be relied upon to\nprovide accurate information. This plan must not be relied upon when making property valuations, design considerations or any other such relevant\ndecisions. We accept no responsibility or liability (whether in contract, tort or otherwise) in relation to any loss whatsoever arising from or in\nconnection with any use of this plan or the adequacy, accuracy or completeness of it or any information within it.\n",
+    "image": "./extracted_images/60754264.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60754264/",
+    "listing_no": "60754264",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.425248,
+        "longitude": -0.162301
+    },
+    "first_published": "2022-02-14T14:57:18",
+    "last_sale_date": "2014-08-20",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60754264",
+        "publishedOn": "2022-02-14T14:57:18",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/aea/live/pdf.php?p=FRD220002&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16461,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(709153).png",
+            "branchName": "Aspire - Furzedown",
+            "brandName": "Aspire",
+            "chainFree": false,
+            "companyId": 5580,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Vant Road, Tooting, London SW17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8TJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60754264,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW17",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 599950,
+            "price": 599950,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 620213
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/aspire-furzedown-london-16461/",
+            "branchId": "16461",
+            "branchResultsUri": "/for-sale/branch/aspire-furzedown-london-16461/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(709153).png",
+            "phone": "020 8115 9923",
+            "name": "Aspire - Furzedown",
+            "memberType": "agent",
+            "address": "58 Moyser Road, London",
+            "postcode": "SW16 6SQ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tooting Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Franciscan Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tooting Broadway",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tooting",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "c0e5e47ec0001e6f38e476660dd9e85d86882e85.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Presented to the market in immaculate condition throughout is this double-fronted two bedroom garden maisonette with two off-street parking spaces. Highlights include a wonderfully spacious front sitting room with feature fireplace, two ample double bedrooms and a larger than average private South-facing rear garden with a home office to the rear.<br>Vant Road is enviably located in the very heart of Tooting Broadway; the Tube can be found just 0.3m away.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "7dbe7fffcc0c5f0d43b7b1120cd8ca4619169a79.gif",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "6debadb1db67cd50a666da9a88c8203a37a4d734.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "775619f66ddcc6fafdcdbc25cc4aa43f16ccc608.jpg",
+                "caption": "Picture No. 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e5a0410bc925bc50e0d95f02d209a60bc12f3353.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "923346831bd619c003248bbdc84a682c8276b041.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1928804acb9d6e424f5207eccd323509c1ba70a9.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5bd0ace77a578f76db8eed1d23ecdb4223b4bc63.jpg",
+                "caption": "Picture No. 19"
+            },
+            {
+                "__typename": "Media",
+                "filename": "605c35c2c6d442dd9de5bbf3295d20d041d6df06.jpg",
+                "caption": "Picture No. 18"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6d9627f8ddecaff477ca647d0e754da38095c545.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d2192ede0e96eaab70fdf0656efdfea77ea0f0b2.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d3092fe5d3a15d25a0fb6b6906cb1a3fc62617ae.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1a732ca1c7d053368f4b75ee2beb6829e2da3e1b.jpg",
+                "caption": "Google Maps Image"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16461,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(709153).png",
+            "branchName": "Aspire - Furzedown",
+            "brandName": "Aspire",
+            "chainFree": false,
+            "companyId": 5580,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Vant Road, Tooting, London SW17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8TJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60754264,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SW17",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 599950,
+            "price": 599950,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 620213
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Vant Road, Tooting, London SW17 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Vant Road, Tooting, London SW17, selling for \u00a3599,950 from Aspire - Furzedown. See property details on Zoopla or browse all our range of properties in Vant Road, Tooting, London SW17.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60754264/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.425248,
+                "longitude": -0.162301
+            }
+        },
+        "displayAddress": "Vant Road, Tooting, London SW17",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-14T14:57:18",
+                "priceLabel": "\u00a3599,950"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2014-08-20",
+                "newBuild": false,
+                "price": 500000,
+                "priceLabel": "\u00a3500,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 160
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/7dbe7fffcc0c5f0d43b7b1120cd8ca4619169a79.gif"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3599,950",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Aspire",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60754264,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "6881024C-8DA6-11EC-BEB2-4B160E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW17",
+            "areaNameUri": "london/sw17/tooting",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1775.0000000000014
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 463081,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 465368,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2287
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 465663,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2582
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 485088,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -22007
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 470025,
+                    "pctChangeSince": -1.477,
+                    "date": "2017-02-26",
+                    "changeSince": -6944
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 324021,
+                    "pctChangeSince": 42.917,
+                    "date": "2012-02-26",
+                    "changeSince": 139060
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 295995,
+                    "pctChangeSince": 56.449,
+                    "date": "2007-02-26",
+                    "changeSince": 167086
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 180337,
+                    "pctChangeSince": 156.786,
+                    "date": "2002-02-26",
+                    "changeSince": 282744
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 488804,
+                    "newBuilds": 0,
+                    "numSales": 293
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492441,
+                    "newBuilds": 18,
+                    "numSales": 857
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 480456,
+                    "newBuilds": 27,
+                    "numSales": 1562
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 470966,
+                    "newBuilds": 131,
+                    "numSales": 2513
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 23362437,
+                    "streetAddress": "56 Vant Road",
+                    "uri": "56-vant-road/london/sw17-8tj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-10T00:00:00Z",
+                    "price": 692000,
+                    "propertyId": 23362372,
+                    "streetAddress": "81 Vant Road",
+                    "uri": "81-vant-road/london/sw17-8tf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-23T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 23362409,
+                    "streetAddress": "3 Vant Road",
+                    "uri": "3-vant-road/london/sw17-8th"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-12T00:00:00Z",
+                    "price": 1100000,
+                    "propertyId": 23362441,
+                    "streetAddress": "64 Vant Road",
+                    "uri": "64-vant-road/london/sw17-8tj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 625000,
+                    "propertyId": 23364076,
+                    "streetAddress": "19 Frinton Road",
+                    "uri": "19-frinton-road/london/sw17-9eh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 872500,
+                    "propertyId": 23367035,
+                    "streetAddress": "187 Seely Road",
+                    "uri": "187-seely-road/london/sw17-9qx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 486850,
+                    "propertyId": 23367498,
+                    "streetAddress": "73 Sellincourt Road",
+                    "uri": "73-sellincourt-road/london/sw17-9rz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1140000,
+                    "propertyId": 23361420,
+                    "streetAddress": "96 Drakefield Road",
+                    "uri": "96-drakefield-road/london/sw17-8rr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 920000,
+                    "propertyId": 23357308,
+                    "streetAddress": "40 Moring Road",
+                    "uri": "40-moring-road/london/sw17-8dl"
+                }
+            ]
+        }
+    }
+}

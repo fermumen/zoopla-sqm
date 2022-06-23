@@ -1,0 +1,538 @@
+{
+    "address": "Crabtree Lane, London SW6",
+    "price": "\u00a3599,999",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 67.3,
+    "sqft": 724.0,
+    "text": "First Floor\ni;\nBedroom Bedroom 1]\n2.66m x 2.71m i)\nOM X \u00a3./1 3.39m x 3.31m I\n(89\u00b0 x 811\") (11'1\" x 10110\") ii\n* | [i\n. il!\nReception\nRoom\n= 6.33m x 4.13m\nES (20'9\" x 13'6\")\nmi@ wi Hi\n| H//\nee) el\n\u2014 x ye\nNX oy \\ aE |\n| - : \u2014e Lal]\nr\\ ee | Hi\n * ) ye Iii\nLy / a Vd \u2014 /\n/ y = 6) \u00a9\nCIpsy [= 3\nTotal area: approx. 67.3 sq. metres (724.7 sq. feet)\n",
+    "image": "./extracted_images/60193327.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60193327/",
+    "listing_no": "60193327",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.481651,
+        "longitude": -0.223149
+    },
+    "first_published": "2021-11-15T17:05:05",
+    "last_sale_date": "2016-05-17",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60193327",
+        "publishedOn": "2021-11-15T17:05:05",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/3f4be6bce58aebc55413a288ced19834f6df2ffc.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 41946,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Fulham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Crabtree Lane, London SW6",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6LW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60193327,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 4,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 599999,
+            "price": 599999,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 770490
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-fulham-fulham-41946/",
+            "branchId": "41946",
+            "branchResultsUri": "/for-sale/branch/dexters-fulham-fulham-41946/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7386 5386",
+            "name": "Dexters - Fulham",
+            "memberType": "agent",
+            "address": "569 Fulham Road, Fulham",
+            "postcode": "SW6 1ES"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Queen's Manor School and Special Needs Unit",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bridge School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barons Court",
+                "type": "london_underground_station",
+                "distanceMiles": 0.7
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hammersmith (D & P)",
+                "type": "london_underground_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "44e19e2bca638e47f0bc588f8253a129516b7dcb.png",
+                    "url": null
+                },
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "1d007096579d6c7ce37731bcff584d6d1b87112f.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A two double bedroom first floor apartment in a converted building with close proximity to the river. There is an open plan kitchen living room with fantastic ceiling height and two double bedrooms.<br><br>Located within close proximity to the amenities and transport links of Hammersmith and Fulham Palace Road.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedrooms",
+                "Two Bathrooms",
+                "Good Ceiling Height",
+                "Open Plan",
+                "Modern Finish",
+                "Close To River"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "373fcb1fcb8b97e28a53298523525579d6b97d81.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "1504318bd016b81d3ba84abcff9bba3871440516.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0192929587481926190d7410940177c6d26e108a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "48da1bd8cf0166520583887046dc935c2c3fc358.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0873287905a6fa3431e94241e13d48c4393ab328.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 41946,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Fulham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Crabtree Lane, London SW6",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6LW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60193327,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 4,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 599999,
+            "price": 599999,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 770490
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Crabtree Lane, London SW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Crabtree Lane, London SW6, selling for \u00a3599,999 from Dexters - Fulham. See property details on Zoopla or browse all our range of properties in Crabtree Lane, London SW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60193327/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.481651,
+                "longitude": -0.223149
+            }
+        },
+        "displayAddress": "Crabtree Lane, London SW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-15T17:05:05",
+                "priceLabel": "\u00a3725,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2016-05-17",
+                "newBuild": false,
+                "price": 735000,
+                "priceLabel": "\u00a3735,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "6.9",
+                    "priceChangeDate": "2021-11-29T13:59:33",
+                    "priceChangeLabel": "\u00a350,000",
+                    "priceLabel": "\u00a3675,000"
+                },
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "7.4",
+                    "priceChangeDate": "2021-12-15T11:29:58",
+                    "priceChangeLabel": "\u00a350,000",
+                    "priceLabel": "\u00a3625,000"
+                },
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4",
+                    "priceChangeDate": "2022-01-24T10:30:09",
+                    "priceChangeLabel": "\u00a325,001",
+                    "priceLabel": "\u00a3599,999"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 138
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/373fcb1fcb8b97e28a53298523525579d6b97d81.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3599,999",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60193327,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "FC1A3BF6-7D00-11EC-BCA3-18240E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW6",
+            "areaNameUri": "london/sw6/fulham-parsons-green",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3102.639751552796
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 741749,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 745413,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -3664
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 745886,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -4137
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 777001,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -35252
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 752893,
+                    "pctChangeSince": -1.48,
+                    "date": "2017-02-26",
+                    "changeSince": -11144
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 519022,
+                    "pctChangeSince": 42.913,
+                    "date": "2012-02-26",
+                    "changeSince": 222727
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 474130,
+                    "pctChangeSince": 56.444,
+                    "date": "2007-02-26",
+                    "changeSince": 267619
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 288868,
+                    "pctChangeSince": 156.778,
+                    "date": "2002-02-26",
+                    "changeSince": 452881
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 712416,
+                    "newBuilds": 0,
+                    "numSales": 315
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 692544,
+                    "newBuilds": 3,
+                    "numSales": 929
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 701679,
+                    "newBuilds": 50,
+                    "numSales": 1653
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 747775,
+                    "newBuilds": 285,
+                    "numSales": 2791
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-24T00:00:00Z",
+                    "price": 390000,
+                    "propertyId": 23181172,
+                    "streetAddress": "7 Adam Walk, Crabtree Lane",
+                    "uri": "7-adam-walk/crabtree-lane/london/sw6-6le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-31T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 27393729,
+                    "streetAddress": "Flat 1, 52 Crabtree Lane",
+                    "uri": "flat-1/52-crabtree-lane/london/sw6-6lw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-22T00:00:00Z",
+                    "price": 2300000,
+                    "propertyId": 23181426,
+                    "streetAddress": "42 Crabtree Lane",
+                    "uri": "42-crabtree-lane/london/sw6-6lw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-21T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 23174037,
+                    "streetAddress": "Flat 14, Alex Gossip House, Basuto Road",
+                    "uri": "flat-14/alex-gossip-house/basuto-road/london/sw6-4ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 1275000,
+                    "propertyId": 23186386,
+                    "streetAddress": "27 Rosaline Road",
+                    "uri": "27-rosaline-road/london/sw6-7qs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 1750000,
+                    "propertyId": 29512493,
+                    "streetAddress": "5 Parsons Gate Mews",
+                    "uri": "5-parsons-gate-mews/london/sw6-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1140000,
+                    "propertyId": 23181929,
+                    "streetAddress": "Flat 17, Elm Lodge, 75 Stevenage Road",
+                    "uri": "flat-17/elm-lodge/75-stevenage-road/london/sw6-6nz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 23185397,
+                    "streetAddress": "42 Orbain Road",
+                    "uri": "42-orbain-road/london/sw6-7jy"
+                }
+            ]
+        }
+    }
+}

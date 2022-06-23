@@ -1,0 +1,506 @@
+{
+    "address": "East Dulwich Grove, East Dulwich, London SE22",
+    "price": "\u00a3649,950",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60311852/",
+    "listing_no": "60311852",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.457983,
+        "longitude": -0.081511
+    },
+    "first_published": "2021-12-02T15:24:38",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60311852",
+        "publishedOn": "2021-12-02T15:24:38",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/DUL210172",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=DUL210172",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8169,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Dulwich",
+            "brandName": "Winkworth",
+            "chainFree": true,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "East Dulwich Grove, East Dulwich, London SE22",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": false,
+            "incode": "8PU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60311852,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 4,
+            "numRecepts": 1,
+            "outcode": "SE22",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 649950,
+            "price": 649950,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 554080
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-dulwich-east-dulwich-8169/",
+            "branchId": "8169",
+            "branchResultsUri": "/for-sale/branch/winkworth-dulwich-east-dulwich-8169/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8115 8427",
+            "name": "Winkworth - Dulwich",
+            "memberType": "agent",
+            "address": "97 Lordship Lane, East Dulwich",
+            "postcode": "SE22 8HU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Alleyn's School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bessemer Grange Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Dulwich",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "North Dulwich",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "093f27f208a82c1326abb02080963a0fb46f8975.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A fantastic opportunity to purchase a substantial, two-bedroom flat in a highly sought-after location in SE22. This beautiful flat is offered to the market chain free and in fantastic condition. Comprising a large entrance hall that leads in to a bright and airy open-plan kitchen/ reception to front, complete with engineered wood flooring, high-end built-in appliances, breakfast bar and island. The property boasts two large double bedrooms, a stunning family bathroom and ensuite. This is a gorgeous flat, boasting fantastic light throughout. The property is perfectly situated to benefit from easy access to Lordship Lane and Dulwich Village. Transport links are ideally situated from East Dulwich for direct links to London Bridge, a short bus to Herne Hill for the overground, or a bus to Brixton for the underground.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedroom Flat",
+                "Purpose Built",
+                "Open-Plan Kitchen-Reception",
+                "Two Modern Bathroom",
+                "Leasehold",
+                "Chain Free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "f80523cd5991f72313ef65063292ddaec69d6c81.jpg",
+                "caption": "Kitchen-Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b80969fc3415646556be743bce45cfe52ee2b06d.jpg",
+                "caption": "Kitchen-Diner Part 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1941e94e3c5ac40dc0e15d5ee6f427b63d7031db.jpg",
+                "caption": "External"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e868dc155582fc8786b0517e49285f017f863d91.jpg",
+                "caption": "Kitchen-Diner Part 2"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8169,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Dulwich",
+            "brandName": "Winkworth",
+            "chainFree": true,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "East Dulwich Grove, East Dulwich, London SE22",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": false,
+            "incode": "8PU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60311852,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 4,
+            "numRecepts": 1,
+            "outcode": "SE22",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 649950,
+            "price": 649950,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 554080
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in East Dulwich Grove, East Dulwich, London SE22 - Zoopla",
+        "metaDescription": "2 bed flat for sale in East Dulwich Grove, East Dulwich, London SE22, selling for \u00a3649,950 from Winkworth - Dulwich. See property details on Zoopla or browse all our range of properties in East Dulwich Grove, East Dulwich, London SE22.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60311852/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.457983,
+                "longitude": -0.081511
+            }
+        },
+        "displayAddress": "East Dulwich Grove, East Dulwich, London SE22",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-02T15:24:38",
+                "priceLabel": "\u00a3649,950"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 75
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3649,950",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60311852,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "54FC5D20-7C80-11EC-981E-E9FD0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE22",
+            "areaNameUri": "london/se22/east-dulwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1906.9374999999998
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 456902,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 460048,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3146
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 462008,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5106
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 483451,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -26549
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 439686,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 17216
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 287434,
+                    "pctChangeSince": 58.959,
+                    "date": "2012-02-26",
+                    "changeSince": 169468
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 277750,
+                    "pctChangeSince": 64.501,
+                    "date": "2007-02-26",
+                    "changeSince": 179152
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 164806,
+                    "pctChangeSince": 177.236,
+                    "date": "2002-02-26",
+                    "changeSince": 292096
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 488265,
+                    "newBuilds": 0,
+                    "numSales": 148
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 483479,
+                    "newBuilds": 1,
+                    "numSales": 372
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 478928,
+                    "newBuilds": 5,
+                    "numSales": 733
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 467029,
+                    "newBuilds": 7,
+                    "numSales": 1166
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-19T00:00:00Z",
+                    "price": 1602750,
+                    "propertyId": 21179035,
+                    "streetAddress": "201 East Dulwich Grove",
+                    "uri": "201-east-dulwich-grove/london/se22-8sy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 525000,
+                    "propertyId": 27399421,
+                    "streetAddress": "Ground Floor Flat, 78 East Dulwich Grove",
+                    "uri": "ground-floor-flat/78-east-dulwich-grove/london/se22-8tw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-16T00:00:00Z",
+                    "price": 298000,
+                    "propertyId": 21177869,
+                    "streetAddress": "Flat 7, Upton Court, 56 East Dulwich Grove",
+                    "uri": "flat-7/upton-court/56-east-dulwich-grove/london/se22-8ps"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-11T00:00:00Z",
+                    "price": 1135000,
+                    "propertyId": 21177770,
+                    "streetAddress": "18 East Dulwich Grove",
+                    "uri": "18-east-dulwich-grove/london/se22-8pp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-13T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 21177823,
+                    "streetAddress": "51a East Dulwich Grove",
+                    "uri": "51a-east-dulwich-grove/london/se22-8pr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 21172468,
+                    "streetAddress": "19 Crebor Street",
+                    "uri": "19-crebor-street/london/se22-0hf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 884000,
+                    "propertyId": 21173603,
+                    "streetAddress": "47 Mundania Road",
+                    "uri": "47-mundania-road/london/se22-0nw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 910000,
+                    "propertyId": 21182224,
+                    "streetAddress": "21 Rodwell Road",
+                    "uri": "21-rodwell-road/london/se22-9lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 21176816,
+                    "streetAddress": "Flat B, 18 Lordship Lane",
+                    "uri": "flat-b/18-lordship-lane/london/se22-8hn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 638500,
+                    "propertyId": 21180897,
+                    "streetAddress": "148a Crystal Palace Road",
+                    "uri": "148a-crystal-palace-road/london/se22-9ep"
+                }
+            ]
+        }
+    }
+}

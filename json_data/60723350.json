@@ -1,0 +1,545 @@
+{
+    "address": "Great Eastern Road, London E15",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 72.8,
+    "sqft": 784.0,
+    "text": "STRATOSPHERE TOWER\nAPPROXIMATE GROSS INTERNAL FLOOR AREA 784 SQ.FT (72.8 SQ.M)\naN\nEEE eee FE Ea J\na a a oe Boe ll\n| &\n@\nBEDROOM 1 BEDROOM 2 | 3\n< 3.3mX 4.0m >< 3.1mX3.4m > 4\n10.8 ft X 13.1 ft 10.2 ft X 11.1 ft | a\n=\nRECEPTION / KITCHEN |\n5.5mX5.5m\n18.0 ftX 18.0 ft L_\na\n< >\nel \u2014 Er] fr\nf\nt\nENTRANCE\nNINETEENTH FLOOR\nThis floor plan has been defined by the RICS Code of Measurement. This floor plan and all others are for approximate representative\n[| D purposes only and upon usage is agreed to as such by the client.\nWWW: hdvirtualart.com | TEL: 0203.974.1567 | EMAIL: info@hdvirtualart.com\n",
+    "image": "./extracted_images/60723350.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60723350/",
+    "listing_no": "60723350",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.540154,
+        "longitude": -0.00056
+    },
+    "first_published": "2022-02-09T18:04:25",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60723350",
+        "publishedOn": "2022-02-09T18:04:25",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79912,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "branchName": "JLL - Stratford",
+            "brandName": "JLL",
+            "chainFree": false,
+            "companyId": 6050,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Great Eastern Road, London E15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1DU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60723350,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 19,
+            "numRecepts": 1,
+            "outcode": "E15",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jll-stratford-london-79912/",
+            "branchId": "79912",
+            "branchResultsUri": "/for-sale/branch/jll-stratford-london-79912/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "phone": "020 8115 3658",
+            "name": "JLL - Stratford",
+            "memberType": "agent",
+            "address": "Unex Tower, 5 Station Street, London",
+            "postcode": "E15 1DA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stratford",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "John F Kennedy Special School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "School 21",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stratford High Street",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://hdvirtualart.com/tours/jll/2312"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Graphs",
+                    "filename": "64904d1658b4f03386f6e7b098e09492e78796b1.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "2 double bedroom apartment within Stratosphere Tower, Stratford E15.<br><br>Situated on the 19th floor this property boasts fantastic panoramic views and is just under 800 square feet in size. The property boasts an open kitchen/living area with modern integrated appliances, two double bedrooms and two bathrooms, one of which en-suite.<br><br>Stratosphere Tower is located just a short walk from Stratford Underground Station. Residents further benefit from a concierge service, access to residential gymnasium &amp; roof terrace, Wi-Fi lounge and close to local amenities.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "- 2 Bedrooms",
+                "- 2 Bathrooms",
+                "- High specification",
+                "- Winter Garden",
+                "- 24 Hour concierge",
+                "- 0.1 mile from Stratford station",
+                "- Approx. 782 sq ft (72 sq m)",
+                "- Leasehold",
+                "- EPC: B"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": "2022-02-09T12:00:00"
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "b0e60e05c6aeb52bb91d369da536b8dfdbd8797a.jpg",
+                    "caption": "163 Stratosphere"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "616044e39adf900933f714f27e85afd035339364.jpg",
+                "caption": "Dsc_7443_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "da6e6df00f831c11474d0b2b4dabf6753e5effd8.jpg",
+                "caption": "Dsc_7463_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "98e7360d260ae076781dfe6848a2474537c7b4dc.jpg",
+                "caption": "Dsc_7468_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ec976b6495df75abb26bb694cff8a5be304a10b8.jpg",
+                "caption": "Dsc_7432_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7dc2a80117f073bac5001a74a4accbd899d85506.jpg",
+                "caption": "Dsc_7448_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6bfa0e8f16b82778a4550dbc7810113472129f39.jpg",
+                "caption": "Dsc_7490_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "32098c3a75e455b7f2b29ca7b15808f04d7a47bf.jpg",
+                "caption": "Dsc_7524_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ffd8c1b76ba099bacf6b799a6f46ca2e8472456a.jpg",
+                "caption": "Dsc_7459_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "50b0dd68346d96b3f2931cd83f393f6fc9126725.jpg",
+                "caption": "Dsc_7483_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "55596127bbe2efad3e03248c1b871b751d966538.jpg",
+                "caption": "Dsc_7439_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5b3f89c84284bac48ad9d9ac0f7cd59d22f591bc.jpg",
+                "caption": "Dsc_7494_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "adff370dd388e2aabaa2128d699d5f4b351c406a.jpg",
+                "caption": "Dsc_7453_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d0ad0e43de3dcb7468cc1209a66ebedb99270e4a.jpg",
+                "caption": "Dsc_7474_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0d003611b2b0fdee20d8eef9d985d43bd4bf98e6.jpg",
+                "caption": "Dsc_7519_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "335a36c597ce4f457511dd09e8b9bb8e98afe373.jpg",
+                "caption": "Dsc_7503_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c12165414c45af5554bd2735c796a4fb8f487255.jpg",
+                "caption": "Dsc_7533_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0d361694883432e80cf8c532ec4a8fae064bef9e.jpg",
+                "caption": "Dsc_7514_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "026ea9c975d5f58b5f87a393a13de0a5f9cd3fb1.jpg",
+                "caption": "Dsc_7509_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ae79c18e524c96bb82aaca7ff674c4d7040c4fe8.jpg",
+                "caption": "Dsc_7499_Web"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79912,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "branchName": "JLL - Stratford",
+            "brandName": "JLL",
+            "chainFree": false,
+            "companyId": 6050,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Great Eastern Road, London E15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1DU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60723350,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 19,
+            "numRecepts": 1,
+            "outcode": "E15",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Great Eastern Road, London E15 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Great Eastern Road, London E15, selling for \u00a3650,000 from JLL - Stratford. See property details on Zoopla or browse all our range of properties in Great Eastern Road, London E15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60723350/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.540154,
+                "longitude": -0.00056
+            }
+        },
+        "displayAddress": "Great Eastern Road, London E15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-09T18:04:25",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 76
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/b0e60e05c6aeb52bb91d369da536b8dfdbd8797a.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "JLL",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60723350,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "90275CA6-89D7-11EC-A3CB-553C0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E15",
+            "areaNameUri": "london/e15/stratford-west-ham",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2257.1851851851857
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 369933,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 376724,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -6791
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 389235,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -19302
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 410566,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -40633
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 365767,
+                    "pctChangeSince": 1.139,
+                    "date": "2017-02-26",
+                    "changeSince": 4166
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 233783,
+                    "pctChangeSince": 58.238,
+                    "date": "2012-02-26",
+                    "changeSince": 136150
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 234253,
+                    "pctChangeSince": 57.92,
+                    "date": "2007-02-26",
+                    "changeSince": 135680
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 136016,
+                    "pctChangeSince": 171.978,
+                    "date": "2002-02-26",
+                    "changeSince": 233917
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 354500,
+                    "newBuilds": 1,
+                    "numSales": 81
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 367224,
+                    "newBuilds": 58,
+                    "numSales": 307
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 382554,
+                    "newBuilds": 278,
+                    "numSales": 1096
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 354457,
+                    "newBuilds": 382,
+                    "numSales": 1680
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 421000,
+                    "propertyId": 7890227,
+                    "streetAddress": "18 Tavistock Road",
+                    "uri": "18-tavistock-road/london/e15-4er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 532500,
+                    "propertyId": 7889565,
+                    "streetAddress": "41 Tennyson Road",
+                    "uri": "41-tennyson-road/london/e15-4dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 521265,
+                    "propertyId": 7879540,
+                    "streetAddress": "4 Dunmow Road",
+                    "uri": "4-dunmow-road/london/e15-1tz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 485000,
+                    "propertyId": 7885873,
+                    "streetAddress": "13 Ada Gardens",
+                    "uri": "13-ada-gardens/london/e15-3ew"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 7882579,
+                    "streetAddress": "128 Bisson Road",
+                    "uri": "128-bisson-road/london/e15-2rf"
+                }
+            ]
+        }
+    }
+}

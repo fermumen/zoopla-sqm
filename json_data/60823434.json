@@ -1,0 +1,523 @@
+{
+    "address": "Eltringham Street, London SW18",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 71.0,
+    "sqft": 764.0,
+    "text": "First Floor\n_\u2014\u2014\u2014 yy\nYe | Bedroom l Balcon\\\nLi/ Reams 3.92m x 3.42m\n(12\u00b010\" x 12\u00b010\") (12'10\" x 11'3\") ; ;\na __. _Kitchen/Reception\n~ 7 Sl Room\ni~ \u2014r \u201c Heat me io\") \u201ci\nwo) i 17/5\" x 15\u00b097 n\nT. af : |\nMain area: Approx. 71.0 sq. metres (764.4 sq. feet)\nPlus balconies, approx. 3.5 sq. metres (37.2 sq. feet)\n",
+    "image": "./extracted_images/60823434.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60823434/",
+    "listing_no": "60823434",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.462278,
+        "longitude": -0.18425
+    },
+    "first_published": "2022-02-22T15:13:22",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60823434",
+        "publishedOn": "2022-02-22T15:13:22",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/0f5b160239f47b2a3d4e4ef02b941752163f4ff5.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 14234,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275273).png",
+            "branchName": "Jacksons Estate Agents - Wandsworth",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": false,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Eltringham Street, London SW18",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1GS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60823434,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 527906
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jacksons-estate-agents-wandsworth-london-14234/",
+            "branchId": "14234",
+            "branchResultsUri": "/for-sale/branch/jacksons-estate-agents-wandsworth-london-14234/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275273).png",
+            "phone": "020 8875 8899",
+            "name": "Jacksons Estate Agents - Wandsworth",
+            "memberType": "agent",
+            "address": "507 Old York Road, London",
+            "postcode": "SW18 1TF"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Faith's CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Centre Academy London (SEN)",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham Junction",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A well appointed modern apartment with two double bedrooms, large family bathroom and spacious openplan living/kitchen room with balcony overlooking the internal courtyard.<br><br>Oxborough House is located in a residential central location which provides easy access to Wandsworth Town and Clapham Junction mainline stations, the River Thames is within easy reach as are an array of shops and restaurants.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Courtyard Facing",
+                "Private Balcony",
+                "Openplan Living",
+                "Two Double Bedrooms",
+                "Ample Storage",
+                "764 Sq Ft"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "ef278d2e82cf7290e64284ed7177cb271895e0e4.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "900cc11fce6fabfa4a8d79ba9992e044b8e866b9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2c3828771485c1bff73c21de202375d9b945e719.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2bb44c7ffaa18f0b1c12a63d801e677d302cc228.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8f7289723cf849ebffb13a5730ef89e8c26628c1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "29dc10e9b31914df1b3405437155cefa40ff6467.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ca7133c8c586a6d95be308c6bbc83bbfe4c9da73.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7fda23cbd38f6e7dc20d0b444fee7665e2c68a0e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "26d86154700021db2394a2a6d7162f26ea94f262.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 14234,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275273).png",
+            "branchName": "Jacksons Estate Agents - Wandsworth",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": false,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Eltringham Street, London SW18",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1GS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60823434,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 527906
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Eltringham Street, London SW18 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Eltringham Street, London SW18, selling for \u00a3575,000 from Jacksons Estate Agents - Wandsworth. See property details on Zoopla or browse all our range of properties in Eltringham Street, London SW18.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60823434/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.462278,
+                "longitude": -0.18425
+            }
+        },
+        "displayAddress": "Eltringham Street, London SW18",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-22T15:13:22",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 38
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/ef278d2e82cf7290e64284ed7177cb271895e0e4.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Jacksons Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60823434,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "6D9DD6DE-94B2-11EC-A835-90320E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW18",
+            "areaNameUri": "london/sw18/wandsworth-earlsfield",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2440.1807909604536
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 545740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 548436,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -2696
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 548784,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 571676,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -25936
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 553935,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -8195
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 381867,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 163873
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 348838,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 196902
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 212532,
+                    "pctChangeSince": 156.78,
+                    "date": "2002-02-26",
+                    "changeSince": 333208
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 554541,
+                    "newBuilds": 19,
+                    "numSales": 470
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 543782,
+                    "newBuilds": 55,
+                    "numSales": 1296
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 547279,
+                    "newBuilds": 111,
+                    "numSales": 2421
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 550771,
+                    "newBuilds": 488,
+                    "numSales": 4197
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-15T00:00:00Z",
+                    "price": 735000,
+                    "propertyId": 23372811,
+                    "streetAddress": "32 Eltringham Street",
+                    "uri": "32-eltringham-street/london/sw18-1te"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-22T00:00:00Z",
+                    "price": 370110,
+                    "propertyId": 31620211,
+                    "streetAddress": "3, Bevans House, 31 Eltringham Street",
+                    "uri": "3/bevans-house/31-eltringham-street/london/sw18-1gr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 555000,
+                    "propertyId": 31915456,
+                    "streetAddress": "18, Francis House, 25 Eltringham Street",
+                    "uri": "18/francis-house/25-eltringham-street/london/sw18-1gu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-14T00:00:00Z",
+                    "price": 430000,
+                    "propertyId": 28857035,
+                    "streetAddress": "27, Charterhouse Apartments, 21 Eltringham Street",
+                    "uri": "27/charterhouse-apartments/21-eltringham-street/london/sw18-1au"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-23T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 31633118,
+                    "streetAddress": "5, Stockbridge House, 23 Eltringham Street",
+                    "uri": "5/stockbridge-house/23-eltringham-street/london/sw18-1gp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 23379218,
+                    "streetAddress": "13 Heathfield Square",
+                    "uri": "13-heathfield-square/london/sw18-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 23377537,
+                    "streetAddress": "6 Wells Place",
+                    "uri": "6-wells-place/london/sw18-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 696000,
+                    "propertyId": 23384628,
+                    "streetAddress": "16a Duntshill Road",
+                    "uri": "16a-duntshill-road/london/sw18-4ql"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 1325500,
+                    "propertyId": 23388776,
+                    "streetAddress": "94 Elsenham Street",
+                    "uri": "94-elsenham-street/london/sw18-5nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 511000,
+                    "propertyId": 23383425,
+                    "streetAddress": "31 Steerforth Street",
+                    "uri": "31-steerforth-street/london/sw18-4hf"
+                }
+            ]
+        }
+    }
+}

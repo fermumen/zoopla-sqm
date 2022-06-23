@@ -1,0 +1,580 @@
+{
+    "address": "Apollo Building, Isle Of Dogs, London E14",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": "1,096 sq. ft",
+    "sqm": 101.86,
+    "sqft": 1096.0,
+    "text": "\"YK\nSS\nSESS\nEERO RES\nRECEPTION =\n1 1 ROOM\ni T 22'6 x 20'6\n6.86m x 6.25m\nMASTER\nBEDROOM 2 BEDROOM\n14'0 x 9'0 12'0 x 10'0\n4.27m x 2.74m 3.66m x 3.05m\nKITCHEN\nUP. _\nIN DN ~\nSECOND FLOOR\n447 SQFT / 41.50 SQM\nTHIRD FLOOR\n649 SQ FT / 60.36 SQM\nAPPROXIMATE GROSS INTERNAL AREA\n1096 SQ FT / 101.86 SQ M\n",
+    "image": "./extracted_images/60723698.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60723698/",
+    "listing_no": "60723698",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.492181,
+        "longitude": -0.026448
+    },
+    "first_published": "2022-02-09T19:03:54",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60723698",
+        "publishedOn": "2022-02-09T19:03:54",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/e14/myfr0252790/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/e14/myfr0252790",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/e14/myfr0252790/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2885,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Canary Wharf",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Apollo Building, Isle Of Dogs, London E14",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3TS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60723698,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "1096",
+            "tenure": null,
+            "zindex": 636884
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-canary-wharf-london-2885/",
+            "branchId": "2885",
+            "branchResultsUri": "/for-sale/branch/foxtons-canary-wharf-london-2885/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 8115 7866",
+            "name": "Foxtons - Canary Wharf",
+            "memberType": "agent",
+            "address": "20 Canada Square, Poplar, London",
+            "postcode": "E14 5NN"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Edmund's Catholic School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Arnhem Wharf Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Greenland Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Masthouse Terrace Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/430658894"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "This stunning 2 bedroom duplex flat offers striking living and entertaining space, all set within a striking Riverside development on the Isle of Dogs.<br><br>Newton Place is situated on Westferry Road in the heart of the Docklands and is only moments from the various amenities of Canary Wharf and West India Docks.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Superb 2 bedroom flat arranged over 2nd and 3rdfloor",
+                "Offers spacious accommodation throughout",
+                "Boasts private Balcony with lovely views",
+                "Well proportioned reception room with open-plan kitchen",
+                "Generous master bedroom with smart Ensuite",
+                "Additional well presented good sized second bedroom"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "c46b54420e6eb39b2d0e04976d484facedb1977e.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "1cb59de606fa1290d9e5c2cd38c4da8dfd65e50e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "affb1251f909e7d6feb609dd4fcccb2b94552cf6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9fcbd8680568f6f7463230a864c94991e0e00378.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b917b5d8cb614f196a6b316e3734afe341d00628.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "63d3162478720342ffd2a89fbd66ead0f3f2bc2e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5381a10ad5a623941d83091ef0f4a07be605166f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d50258053fddb727f4d85d88a91e1dc287cfe457.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "05d0615ba6948443b665fc2967d3c105d62bcb1d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "73a810f7d8795f7855600b7f7ec2c99f0ba68b0e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e4becc800be43d425386566430f0df419de5e7dd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6a14760335a61c1ee93a21918487607e08c01849.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b919a21808837ab1eeb9747437f4b7360768100b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ff685953b21b6474e9e6dde374b5139ebb8f684b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f02d239f83fc806c2e5cff6fd84e0ec2543a319a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9f5d84cf5be4092ea3c724fe05f81ee99c03e00a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f0caa75431d913a9b7c7d0293a2b84b77754f239.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2167d302ef031451ae7ab0cbb7c0e274f35b670d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "64218d5c982047e3282edbf9dd0eab2f8fbd14aa.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2885,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Canary Wharf",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Apollo Building, Isle Of Dogs, London E14",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3TS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60723698,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "1096",
+            "tenure": null,
+            "zindex": 636884
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Apollo Building, Isle Of Dogs, London E14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Apollo Building, Isle Of Dogs, London E14, selling for \u00a3600,000 from Foxtons - Canary Wharf. See property details on Zoopla or browse all our range of properties in Apollo Building, Isle Of Dogs, London E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60723698/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.492181,
+                "longitude": -0.026448
+            }
+        },
+        "displayAddress": "Apollo Building, Isle Of Dogs, London E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-09T19:03:54",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 168
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/c46b54420e6eb39b2d0e04976d484facedb1977e.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 1096
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 547,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60723698,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "6C5C6AE8-947F-11EC-9B11-D6030E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3199.821151716501
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 537500,
+                    "propertyId": 7853855,
+                    "streetAddress": "Flat 5, Nova Building, 3 Newton Place",
+                    "uri": "flat-5/nova-building/3-newton-place/london/e14-3tt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-16T00:00:00Z",
+                    "price": 540000,
+                    "propertyId": 7853791,
+                    "streetAddress": "71 Apollo Building, 1 Newton Place",
+                    "uri": "71-apollo-building/1-newton-place/london/e14-3ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-23T00:00:00Z",
+                    "price": 250000,
+                    "propertyId": 7853725,
+                    "streetAddress": "11 Apollo Building, 1 Newton Place",
+                    "uri": "11-apollo-building/1-newton-place/london/e14-3ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

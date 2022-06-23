@@ -1,0 +1,522 @@
+{
+    "address": "Highgate West Hill, London N6",
+    "price": "\u00a3590,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 58.3,
+    "sqft": 627.0,
+    "text": "Lower Ground Floor\n\u00a5 \u2014=\nKitchen/ Dining\nRoom\n4.22m x 1.82m\nCa Bedroom\n2.93m x 3.89m\n| \u2014 (9'7\" x 12'9\")\npee oe ' a ]\n7 . S | : \u2014\u2014~\n| hi } [ea <a \\\n= x a }\nFa | \u2014\n( os\nq i\nBedroom\nee Ses\n( Reception\nRoom\n4.87m x 3.80m\n(16' x 12'6\")\n| ' |\nTotal area: approx. 58.3 sq. metres (627.8 sq. feet)\n",
+    "image": "./extracted_images/60297983.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60297983/",
+    "listing_no": "60297983",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.564171,
+        "longitude": -0.153051
+    },
+    "first_published": "2021-11-30T17:27:53",
+    "last_sale_date": "2014-10-28",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60297983",
+        "publishedOn": "2021-11-30T17:27:53",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/772c882bae557917ce7e94fc13e721bda1d84d2a.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 7,
+            "acornType": 7,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16741,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Highgate",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Highgate West Hill, London N6",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6NP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60297983,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "N6",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 590000,
+            "price": 590000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1268120
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-highgate-highgate-16741/",
+            "branchId": "16741",
+            "branchResultsUri": "/for-sale/branch/dexters-highgate-highgate-16741/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 8545 8584",
+            "name": "Dexters - Highgate",
+            "memberType": "agent",
+            "address": "35 Highgate High Street, Highgate",
+            "postcode": "N6 5JT"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "La Sainte Union Catholic Secondary School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brookfield Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Gospel Oak",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Archway",
+                "type": "london_underground_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "ca8f8d2a7bb371d2d03df4b208fc261817662b17.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A delightful garden flat with its own front door leading to an impressive reception room with wooden flooring, original window shutters and decorative fireplace.<br><br>The property is excellently positioned for access to Hampstead Heath and the boutique shopping, caf\u00e9 society and transport links of Swains Lane.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedrooms",
+                "Spacious Reception Room",
+                "Kitchen",
+                "Bathroom",
+                "Front Garden",
+                "Heathside Location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "7d9e0f1d836c17dd6f07a018b5b72584cbfd58a1.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "aee88e3d02f3f431efedeef0887614196044b70f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5ee46d6c29f75be979dee046a0fa28cf482900a8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7c9701c6b575dd4692305913f69aac4238edf895.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8ac69c4a524da25fe7f4ce923582299d36e1ffc4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c4580d4a002352bda4b6af269575768f6dcccd08.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 7,
+            "acornType": 7,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16741,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Highgate",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Highgate West Hill, London N6",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6NP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60297983,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "N6",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 590000,
+            "price": 590000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1268120
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Highgate West Hill, London N6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Highgate West Hill, London N6, selling for \u00a3590,000 from Dexters - Highgate. See property details on Zoopla or browse all our range of properties in Highgate West Hill, London N6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60297983/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.564171,
+                "longitude": -0.153051
+            }
+        },
+        "displayAddress": "Highgate West Hill, London N6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-30T17:27:53",
+                "priceLabel": "\u00a3590,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2014-10-28",
+                "newBuild": false,
+                "price": 500000,
+                "priceLabel": "\u00a3500,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 271
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/7d9e0f1d836c17dd6f07a018b5b72584cbfd58a1.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3590,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60297983,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "CFF8EC16-5F82-11EC-8AE0-791A0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N6",
+            "areaNameUri": "london/n6/highgate",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2404.174603174604
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 774104,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 787487,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -13383
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 812153,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -38049
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 853080,
+                    "pctChangeSince": -9.258,
+                    "date": "2021-02-26",
+                    "changeSince": -78976
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 789265,
+                    "pctChangeSince": -1.921,
+                    "date": "2017-02-26",
+                    "changeSince": -15161
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 517441,
+                    "pctChangeSince": 49.602,
+                    "date": "2012-02-26",
+                    "changeSince": 256663
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 485397,
+                    "pctChangeSince": 59.479,
+                    "date": "2007-02-26",
+                    "changeSince": 288707
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 292186,
+                    "pctChangeSince": 164.935,
+                    "date": "2002-02-26",
+                    "changeSince": 481918
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 728077,
+                    "newBuilds": 0,
+                    "numSales": 108
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 697639,
+                    "newBuilds": 0,
+                    "numSales": 282
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 713731,
+                    "newBuilds": 10,
+                    "numSales": 524
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 716904,
+                    "newBuilds": 12,
+                    "numSales": 809
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 1567000,
+                    "propertyId": 15111565,
+                    "streetAddress": "Flat 19, Brookfield, Highgate West Hill",
+                    "uri": "flat-19/brookfield/highgate-west-hill/london/n6-6as"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 1770000,
+                    "propertyId": 15111574,
+                    "streetAddress": "Flat 5, Brookfield, Highgate West Hill",
+                    "uri": "flat-5/brookfield/highgate-west-hill/london/n6-6as"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-23T00:00:00Z",
+                    "price": 2400000,
+                    "propertyId": 15112731,
+                    "streetAddress": "27 Highgate West Hill",
+                    "uri": "27-highgate-west-hill/london/n6-6np"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 1700000,
+                    "propertyId": 15111597,
+                    "streetAddress": "Flat 40, Brookfield, Highgate West Hill",
+                    "uri": "flat-40/brookfield/highgate-west-hill/london/n6-6at"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-04T00:00:00Z",
+                    "price": 1695000,
+                    "propertyId": 15111592,
+                    "streetAddress": "Flat 35, Brookfield, Highgate West Hill",
+                    "uri": "flat-35/brookfield/highgate-west-hill/london/n6-6at"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 6150000,
+                    "propertyId": 15112655,
+                    "streetAddress": "Merton House, Merton Lane",
+                    "uri": "merton-house/merton-lane/london/n6-6na"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 2175000,
+                    "propertyId": 15108357,
+                    "streetAddress": "5 Dukes Head Yard",
+                    "uri": "5-dukes-head-yard/london/n6-5jq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 1567000,
+                    "propertyId": 15111565,
+                    "streetAddress": "Flat 19, Brookfield, Highgate West Hill",
+                    "uri": "flat-19/brookfield/highgate-west-hill/london/n6-6as"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 545000,
+                    "propertyId": 15108515,
+                    "streetAddress": "Flat 2, 2 Stanhope Road",
+                    "uri": "flat-2/2-stanhope-road/london/n6-5lp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-24T00:00:00Z",
+                    "price": 785000,
+                    "propertyId": 30571184,
+                    "streetAddress": "Flat 247, Makepeace Mansions, Makepeace Avenue",
+                    "uri": "flat-247/makepeace-mansions/makepeace-avenue/london/n6-6et"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,485 @@
+{
+    "address": "Seagrave Road, London SW6",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 55.74,
+    "sqft": null,
+    "text": "Seagrave Road, SW6\nAPPROX. GROSS INTERNAL FLOOR AREA 600 SQFT / 55.74 SQM\n\nKey:\n\nCH - Ceiling Height W\nisl | Pos\nmn in Kitchen/\n\n(| Reception\n(J Room\n+ 21' (6.41) .\ni x 16'3\" (4.95)\nUp |\n|| Bedroom fl\ni Bedroom 2 [0] 15\u00b06\" (4.72) |\n; 15'6\" (4.72) x 72\" (2.18) |\n| x7'6\" (2.29)\nee Be F\n2.26m/ ;\nTHIRD FLOOR\nThe floor plan is not to scale and measurements and\nareas shown are approximate and therefore should be used for illustrative purposes only.\nThe plan has been prepared in accordance with the RICS code of Measuring Practice\nand whilst we have confidence in the information produced, it must not be relied on.\nIf there is any aspect of particular importance, you should carry out or\ncommission your own inspection of the property.\nCopyright of FeaturePRO.\n",
+    "image": "./extracted_images/60121694.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60121694/",
+    "listing_no": "60121694",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.486371,
+        "longitude": -0.196935
+    },
+    "first_published": null,
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60121694",
+        "publishedOn": "2021-11-04T16:48:33",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 14252,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "branchName": "Marsh & Parsons - Fulham",
+            "brandName": "Marsh & Parsons",
+            "chainFree": false,
+            "companyId": 7059,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Seagrave Road, London SW6",
+            "furnishedState": "",
+            "groupId": 10,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1RP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60121694,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Open Plan|Close to Train Station",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 783909
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/marsh-and-parsons-fulham-london-14252/",
+            "branchId": "14252",
+            "branchResultsUri": "/for-sale/branch/marsh-and-parsons-fulham-london-14252/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "phone": "020 3463 9981",
+            "name": "Marsh & Parsons - Fulham",
+            "memberType": "agent",
+            "address": "103-105 Moore Park Road, London",
+            "postcode": "SW6 2DA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "The London Oratory School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Brompton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Brompton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Fulham Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "d2d7a8bdf5837bae309b60da6679c1eb4fa5de26.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This fantastic apartment is arranged over the top floor of a modern terraced building in West Brompton. The flat is made up of a bright, dual-aspect, open-plan kitchen and reception room, two double bedrooms, both of which benefit from built in storage, and a modern bathroom. The property is finished beautifully and flooded with natural light throughout.<br><br>Seagrave Road is a popular residential street on the border of Fulham &amp; Earls Court. The flat is located just moments from West Brompton station (District line and Overground line) and a short walk further to Earls Court station (District line and Piccadilly line). The green spaces of Brompton Park and Brompton Cemetery, and the shops and eateries in Fulham are all close by.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two bedrooms",
+                "Very bright",
+                "Close to station",
+                "Open plan"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Open Plan"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Close to Train Station"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "7e570f948fde3287aed74b3e10d3d2ae07e62b63.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "beb3dfc0debd8c5c1df2807859044d9bd5a9022d.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d6894b4688703ecfeae86eb278daf195140244e4.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "25010d0b8fdd1f3c1c08e7e8f0ea2a460285870d.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bac523fef92465adf51a92f006a84898a2238558.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d6e1e8646ee474fe0a8c9d388882a43bf41bda86.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a67263fd9c3072f3ef14ebe1dd4fddbf75a43369.jpg",
+                "caption": "Exterior"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 14252,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "branchName": "Marsh & Parsons - Fulham",
+            "brandName": "Marsh & Parsons",
+            "chainFree": false,
+            "companyId": 7059,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Seagrave Road, London SW6",
+            "furnishedState": "",
+            "groupId": 10,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1RP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60121694,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Open Plan|Close to Train Station",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 783909
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Seagrave Road, London SW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Seagrave Road, London SW6, selling for \u00a3625,000 from Marsh & Parsons - Fulham. See property details on Zoopla or browse all our range of properties in Seagrave Road, London SW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60121694/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.486371,
+                "longitude": -0.196935
+            }
+        },
+        "displayAddress": "Seagrave Road, London SW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": null,
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 48
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/7e570f948fde3287aed74b3e10d3d2ae07e62b63.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Marsh & Parsons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60121694,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "AEEAA47C-8450-11EC-B206-0B1F0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW6",
+            "areaNameUri": "london/sw6/fulham-parsons-green",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3102.639751552796
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 741749,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 745413,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -3664
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 745886,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -4137
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 777001,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -35252
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 752893,
+                    "pctChangeSince": -1.48,
+                    "date": "2017-02-26",
+                    "changeSince": -11144
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 519022,
+                    "pctChangeSince": 42.913,
+                    "date": "2012-02-26",
+                    "changeSince": 222727
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 474130,
+                    "pctChangeSince": 56.444,
+                    "date": "2007-02-26",
+                    "changeSince": 267619
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 288868,
+                    "pctChangeSince": 156.778,
+                    "date": "2002-02-26",
+                    "changeSince": 452881
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 712416,
+                    "newBuilds": 0,
+                    "numSales": 315
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 692544,
+                    "newBuilds": 3,
+                    "numSales": 929
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 701679,
+                    "newBuilds": 50,
+                    "numSales": 1653
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 747775,
+                    "newBuilds": 285,
+                    "numSales": 2791
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-09T00:00:00Z",
+                    "price": 410000,
+                    "propertyId": 27479563,
+                    "streetAddress": "Flat 3      The First Floor, 41 Seagrave Road",
+                    "uri": "flat-3-the-first-floor/41-seagrave-road/london/sw6-1sa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-21T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 23174037,
+                    "streetAddress": "Flat 14, Alex Gossip House, Basuto Road",
+                    "uri": "flat-14/alex-gossip-house/basuto-road/london/sw6-4ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 1275000,
+                    "propertyId": 23186386,
+                    "streetAddress": "27 Rosaline Road",
+                    "uri": "27-rosaline-road/london/sw6-7qs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 1750000,
+                    "propertyId": 29512493,
+                    "streetAddress": "5 Parsons Gate Mews",
+                    "uri": "5-parsons-gate-mews/london/sw6-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1140000,
+                    "propertyId": 23181929,
+                    "streetAddress": "Flat 17, Elm Lodge, 75 Stevenage Road",
+                    "uri": "flat-17/elm-lodge/75-stevenage-road/london/sw6-6nz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 23185397,
+                    "streetAddress": "42 Orbain Road",
+                    "uri": "42-orbain-road/london/sw6-7jy"
+                }
+            ]
+        }
+    }
+}

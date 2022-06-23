@@ -1,0 +1,535 @@
+{
+    "address": "Glenthorne Road, Brackenbury Village, Hammersmith W6",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 70.28,
+    "sqft": 756.0,
+    "text": "Terrace\n10'2 x 6'6\n(3.09 x 1.99m)\nJ \u2019 Eaves\nT/A 161 x 4'2\nZa (4.91 x 1.28m)\nt Z WT] RAS\n= Reception Room Se\n' ge 20'3 x 127 oe 2 eee baer\n\\ / (6.16 x 3.84m) ]\nsy 7 J TS\ni a at Z Bedroom: Z: :\nit F] \u2014 > 15'5x8'8\n\u2014 Q \\ \u2014 (4.71 x 2.651)\n| gel Bedroom *\n_ 100x9'3 igs] : ;\n7 3.05 x 2.81m) fF \u2014 ) \u2018 ,\n\\ Te IQ OF\n\\ =) \u2014oee ed Koos e a :\ni\n1\nIN\nGROUND FLOOR FIRST FLOOR SECOND FLOOR\nGLENTHORNE ROAD, W6\nApprox. Gross Internal Floor Area\n756 Sq. ft/70.28 Sq. m (Including Eaves)\n688 Sq.ft /64 Sq.m (Excluding Eaves)\nhorton \u00a9 Pixangle Property Marketing Ltd. info@pixangle.com Tel: 0208 870 2118\nThis floor plan has been prepared for the purpose of illustration only in accordance with the latest RICS code of measuring practice and is\nt not to scale. All measurements and areas are approximate and whilst every effort has been made to ensure the accuracy of the plan\ngarton se one Er ge ein\n",
+    "image": "./extracted_images/60716296.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60716296/",
+    "listing_no": "60716296",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.494591,
+        "longitude": -0.231915
+    },
+    "first_published": "2022-02-08T23:41:39",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60716296",
+        "publishedOn": "2022-02-08T23:41:39",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/0086e6ba7812bcd4a8de2a996bd176b0af901b42.pdf",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 15354,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(729286).png",
+            "branchName": "Horton and Garton - Hammersmith and Shepherd's Bush",
+            "brandName": "Horton and Garton",
+            "chainFree": true,
+            "companyId": 7661,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Glenthorne Road, Brackenbury Village, Hammersmith W6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0LR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60716296,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "W6",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 537556
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/horton-and-garton-hammersmith-and-shepherd-s-bush-hammersmith-15354/",
+            "branchId": "15354",
+            "branchResultsUri": "/for-sale/branch/horton-and-garton-hammersmith-and-shepherd-s-bush-hammersmith-15354/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(729286).png",
+            "phone": "020 8033 5804",
+            "name": "Horton and Garton - Hammersmith and Shepherd's Bush",
+            "memberType": "agent",
+            "address": "172 King Street, Hammersmith",
+            "postcode": "W6 0QU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Earl's Court Free School Primary",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West London Free School Primary",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ravenscourt Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hammersmith",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "7a95c69f5fde2ac4d54dcf5955a5df607c362538.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This superbly presented, light and airy split-level maisonette, circa 756 Sq' - 70.28 SqM, set over the first and second (top) floors, benefits from its own private entrance and south facing roof terrace, and is set over the two upper floors of this Victorian corner property which is ideally located close to all amenities of Brackenbury Village, Hammersmith Broadway and Ravenscourt Park.<br><br>Comprises a ground floor entrance, stairs to a first-floor landing hallway, guest WC, bedroom one, an open plan fitted kitchen/reception room with doors leading to a south facing roof terrace, and upstairs there is a double bedroom and modern bathroom suite. The property benefits from communual bike storage on the ground floor. No chain.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Split level maisonette",
+                "756 Sq' - 70.28 SqM",
+                "Private roof terrace",
+                "Open plan kitchen and living room",
+                "EPC rating - C",
+                "Brackenbury Village"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "1fbad4413fac1ebb653a648b7b5a3439693baff5.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "4743554b7fe784bc40283d8812a368a08c8093ed.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "eab389cfc2348b2d3199dbba361bd398b2f0d147.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "46dfb6dc5005295ce15106dff5f0bcc5553c617d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "23c3a39f77115a59c2ff33cd6e714b77f82e161d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "534b71a3dc7453f265dbf8eca474500efe5d8312.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "585c32006c4ef2e12c6eb2a3568b4d7e30232b63.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9a12fd9a4d9474061a9ec654d0c0d4aca6555d9d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cc43f884e82fe31a1d25a8d9cf0503db4abda018.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5e8b069f66456b1f1d5fa8b585e7ede9463a7bb1.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 15354,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(729286).png",
+            "branchName": "Horton and Garton - Hammersmith and Shepherd's Bush",
+            "brandName": "Horton and Garton",
+            "chainFree": true,
+            "companyId": 7661,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Glenthorne Road, Brackenbury Village, Hammersmith W6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0LR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60716296,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "W6",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 537556
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Glenthorne Road, Brackenbury Village, Hammersmith W6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Glenthorne Road, Brackenbury Village, Hammersmith W6, selling for \u00a3650,000 from Horton and Garton - Hammersmith and Shepherd's Bush. See property details on Zoopla or browse all our range of properties in Glenthorne Road, Brackenbury Village, Hammersmith W6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60716296/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.494591,
+                "longitude": -0.231915
+            }
+        },
+        "displayAddress": "Glenthorne Road, Brackenbury Village, Hammersmith W6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-08T23:41:39",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 209
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/1fbad4413fac1ebb653a648b7b5a3439693baff5.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Horton and Garton",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60716296,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "3867A5A8-9502-11EC-BDE4-A1250E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W6",
+            "areaNameUri": "london/w6/hammersmith",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 4067.6369327073567
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 592044,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 601653,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -9609
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 619444,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -27400
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 652961,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -60917
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 647839,
+                    "pctChangeSince": -8.612,
+                    "date": "2017-02-26",
+                    "changeSince": -55795
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 431528,
+                    "pctChangeSince": 37.197,
+                    "date": "2012-02-26",
+                    "changeSince": 160516
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 384829,
+                    "pctChangeSince": 53.846,
+                    "date": "2007-02-26",
+                    "changeSince": 207215
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 228075,
+                    "pctChangeSince": 159.583,
+                    "date": "2002-02-26",
+                    "changeSince": 363969
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 580733,
+                    "newBuilds": 11,
+                    "numSales": 145
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 691477,
+                    "newBuilds": 58,
+                    "numSales": 434
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 683655,
+                    "newBuilds": 142,
+                    "numSales": 799
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 675771,
+                    "newBuilds": 267,
+                    "numSales": 1321
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 869000,
+                    "propertyId": 31229148,
+                    "streetAddress": "Beaulieu House, 15 Glenthorne Road",
+                    "uri": "beaulieu-house/15-glenthorne-road/london/w6-0bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-28T00:00:00Z",
+                    "price": 800955,
+                    "propertyId": 31229149,
+                    "streetAddress": "Montpellier House, 17 Glenthorne Road",
+                    "uri": "montpellier-house/17-glenthorne-road/london/w6-0bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-28T00:00:00Z",
+                    "price": 800955,
+                    "propertyId": 31229149,
+                    "streetAddress": "Montpellier House, 17 Glenthorne Road",
+                    "uri": "montpellier-house/17-glenthorne-road/london/w6-0bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-28T00:00:00Z",
+                    "price": 800955,
+                    "propertyId": 31229149,
+                    "streetAddress": "Montpellier House, 17 Glenthorne Road",
+                    "uri": "montpellier-house/17-glenthorne-road/london/w6-0bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-21T00:00:00Z",
+                    "price": 437500,
+                    "propertyId": 25077104,
+                    "streetAddress": "106a Glenthorne Road",
+                    "uri": "106a-glenthorne-road/london/w6-0lp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 820000,
+                    "propertyId": 25080909,
+                    "streetAddress": "Flat 291, Latymer Court, Hammersmith Road",
+                    "uri": "flat-291/latymer-court/hammersmith-road/london/w6-7ld"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1220000,
+                    "propertyId": 25087560,
+                    "streetAddress": "Flat 61, King Henrys Reach, Manbre Road",
+                    "uri": "flat-61/king-henrys-reach/manbre-road/london/w6-9rh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 2400000,
+                    "propertyId": 25082023,
+                    "streetAddress": "40 Melrose Gardens",
+                    "uri": "40-melrose-gardens/london/w6-7rw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 1150000,
+                    "propertyId": 25083745,
+                    "streetAddress": "40 Gastein Road",
+                    "uri": "40-gastein-road/london/w6-8lu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 1205000,
+                    "propertyId": 25076311,
+                    "streetAddress": "32 Nasmyth Street",
+                    "uri": "32-nasmyth-street/london/w6-0hb"
+                }
+            ]
+        }
+    }
+}

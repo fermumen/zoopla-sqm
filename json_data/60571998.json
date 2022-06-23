@@ -1,0 +1,508 @@
+{
+    "address": "Westwick Gardens, Brook Green, London W14",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 55.0,
+    "sqft": 589.0,
+    "text": "_\u2014\u2014\u2014\u2014\u2014\u2014_\u2014\n\u00ae\nba KITCHEN\nbal 93 x6'S\nRECEPTION eg | (2.8m x 2m)\n13'9 x 13'4 ;-\u2014a\n(4.2m x 4.1m) ~O\nae\n8'x 410 a <>\n(2.4m x 1.5m) IN\nBEDROOM\n10'3 x 9'11\n(3.1m x 3m) a\n.\\\nBEDROOM\n10'S x 8110\n(3.2m x 2.7m)\nv | |\nPe\nFIRST FLOOR\nGROSS INTERNAL\nFLOOR AREA 589 SQ FT\nAPPROX. GROSS INTERNAL FLOOR AREA: 589 SQFT/ 55 SQM\nPROPERTY PHOT:\u00ae PLANS xu\nONE STOP SHOP FOR PROPERTY MARKETING\nThis plan is for illustrative purposes only and should be used as such by any prospective client.\nWhilst every attempt has been made to ensure the accuracy of the Floor Plan contained here, measurements of the doors, windows,\nrooms and any other items are approximate and no responsibility is taken for any errors, omissions, or misstatement.\nThe services, systems and appliances shown have not been tested and no guarantee as to the operability or efficiency can be given.\n",
+    "image": "./extracted_images/60571998.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60571998/",
+    "listing_no": "60571998",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.501575,
+        "longitude": -0.221026
+    },
+    "first_published": "2022-01-20T14:29:19",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60571998",
+        "publishedOn": "2022-01-20T14:29:19",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/HAM220004",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=HAM220004",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 15799,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Hammersmith",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Westwick Gardens, Brook Green, London W14",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0BU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60571998,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 688198
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-hammersmith-hammersmith-15799/",
+            "branchId": "15799",
+            "branchResultsUri": "/for-sale/branch/winkworth-hammersmith-hammersmith-15799/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8033 9140",
+            "name": "Winkworth - Hammersmith",
+            "memberType": "agent",
+            "address": "129 Shepherd's Bush Road, Hammersmith",
+            "postcode": "W6 7LP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Addison Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lena Gardens Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Goldhawk Road",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shepherd's Bush Central",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://360.propertyphotoplans.co.uk/share/collection/7q9N6?logo=1&info=0&fs=1&vr=1&zoom=1&initload=0&thumbs=1"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "c000018a66b1b5b1913f06f72f9566042e3877b0.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Offered in good order throughout but with scope to further improve, accommodation comprises entrance hall, reception room, kitchen, two double bedrooms and bathroom.<br><br>Location:<br>The property is located near to the junction of Westwick Gardens and Rockley Road, ideal for the numerous amenities on offer both in Brook Green and Westfield London. The closest station is Shepherds Bush, where Underground (Central line) and London Overground services are available. Hammersmith station (District, Piccadilly and Hammersmith &amp; City lines) is also within easy reach.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Reception Room",
+                "Kitchen",
+                "2 Bedrooms",
+                "Bathroom",
+                "589 Sq Ft / 55 Sq M",
+                "Council Tax Band D",
+                "EPC Rating Band D"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "d5f69f4952885f88c550ffc5b4094a5be9768bce.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "2141f8d7292923e08db3456561da93c17a809c44.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "55a26d67f0fc7fbb5dc81f653f7bc551ef81a627.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7bedf1dc881226516cca3c8b923b9c7dd627570d.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "998fac00f513f6b1fdba096466d4adb07bba0f7d.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e01a54797b81ec187170f6c098537d72cbdefce5.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a146a957b2486b60f53561ad602cc901af5ea065.jpg",
+                "caption": "Picture No. 01"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2924357efb06cf4509c38badc211ae0b4fcb3e72.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b1722663ddbe58c84e51743d3d193bf21b737f7c.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1964d023cff39bea894b4f8722668e1ede1585ae.jpg",
+                "caption": "Picture No. 11"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 15799,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Hammersmith",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Westwick Gardens, Brook Green, London W14",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0BU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60571998,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 688198
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Westwick Gardens, Brook Green, London W14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Westwick Gardens, Brook Green, London W14, selling for \u00a3600,000 from Winkworth - Hammersmith. See property details on Zoopla or browse all our range of properties in Westwick Gardens, Brook Green, London W14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60571998/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.501575,
+                "longitude": -0.221026
+            }
+        },
+        "displayAddress": "Westwick Gardens, Brook Green, London W14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-20T14:29:19",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 154
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/d5f69f4952885f88c550ffc5b4094a5be9768bce.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60571998,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "4E7CC972-932C-11EC-951B-8ED40D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W14",
+            "areaNameUri": "london/w14/west-kensington-holland-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3482.6566666666668
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 776035,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 788630,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -12595
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 811949,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -35914
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 855883,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -79848
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 849182,
+                    "pctChangeSince": -8.614,
+                    "date": "2017-02-26",
+                    "changeSince": -73147
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 565644,
+                    "pctChangeSince": 37.195,
+                    "date": "2012-02-26",
+                    "changeSince": 210391
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 504431,
+                    "pctChangeSince": 53.844,
+                    "date": "2007-02-26",
+                    "changeSince": 271604
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 298959,
+                    "pctChangeSince": 159.579,
+                    "date": "2002-02-26",
+                    "changeSince": 477076
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 727058,
+                    "newBuilds": 0,
+                    "numSales": 188
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 755004,
+                    "newBuilds": 0,
+                    "numSales": 520
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 777600,
+                    "newBuilds": 18,
+                    "numSales": 982
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 856570,
+                    "newBuilds": 225,
+                    "numSales": 1794
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 567500,
+                    "propertyId": 27184805,
+                    "streetAddress": "Flat 3, 73 Sinclair Road",
+                    "uri": "flat-3/73-sinclair-road/london/w14-0nr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 27285623,
+                    "streetAddress": "Basement Flat, 1 Chesson Road",
+                    "uri": "basement-flat/1-chesson-road/london/w14-9qr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 804011,
+                    "propertyId": 32593125,
+                    "streetAddress": "Flat 11, Trinity House, 377 Kensington High Street",
+                    "uri": "flat-11/trinity-house/377-kensington-high-street/london/w14-8qa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 25178458,
+                    "streetAddress": "142 Blythe Road",
+                    "uri": "142-blythe-road/london/w14-0hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 2950000,
+                    "propertyId": 25178619,
+                    "streetAddress": "24 Sterndale Road",
+                    "uri": "24-sterndale-road/london/w14-0hs"
+                }
+            ]
+        }
+    }
+}

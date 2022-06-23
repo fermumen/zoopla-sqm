@@ -1,0 +1,562 @@
+{
+    "address": "Crouch Hall Road, London N8",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 54.6,
+    "sqft": 587.0,
+    "text": "Approx. Gross Internal Area = 54.6 sq m / 587 sq ft\nSSS ee\nwg ;\nReception Room\n16'11\" x 12'0\"\n5.15m x 3.66m\nKitchen\nii 7'5\" x 6'0\"\nI 2.27m x 1.82m\n(re mv\na (on Bathroom\n\\ 7'5\" x 6'0\"\n:27m x 1.82m\nBedroom Oeil\n19'6\" x 9'7\"\n5.95m x 2.91m |\nBedroom\n11'5\" x 10'9\"\n3.48m x 3.27m\nFirst Floor\nGross Internal\nFloor Area 54.6 sq m/ 587 sq ft\nRef C ight ote.\n; cpio\u201d PLAN\nThe Floor plan is not to scale and measurements and areas shown are approximate and therefore should be used for\nillustrative purposes only. The plan has been prepared in accordance with the RICS code of Measuring Practice and whilst we\nhave confidence in the information produced it must not be relied on. If there is any aspect of particular importance, you should\ncarry out or commission your own inspection of the property.\nCopyright @ BLEUPLAN\n",
+    "image": "./extracted_images/60785253.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60785253/",
+    "listing_no": "60785253",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.57893,
+        "longitude": -0.127518
+    },
+    "first_published": "2022-02-17T14:47:55",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60785253",
+        "publishedOn": "2022-02-17T14:47:55",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Property Brochure",
+                "original": "https://lc.zoocdn.com/eb3d1f6550deb74fae276cda432df024aba3b22e.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "http://www.expertagent.co.uk/EstateAgentSoftware/EstateAgencyProperties.aspx?pid=b55f5447-601d-4d7d-9871-63b450b17406&aid=%7B14be3e0b-5f5d-4c5c-ac41-2ecd75ee5d48%7D",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 23854,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(74755).jpeg",
+            "branchName": "Castles - Crouch End",
+            "brandName": "Castles Estate Agents",
+            "chainFree": false,
+            "companyId": 660,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Crouch Hall Road, London N8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8HT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60785253,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 636375
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/castles-crouch-end-london-23854/",
+            "branchId": "23854",
+            "branchResultsUri": "/for-sale/branch/castles-crouch-end-london-23854/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(74755).jpeg",
+            "phone": "020 3463 8356",
+            "name": "Castles - Crouch End",
+            "memberType": "agent",
+            "address": "12 Topsfield Parade, Crouch End, London",
+            "postcode": "N8 8PR"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Coleridge Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kestrel House School (SEN)",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Crouch Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Highgate",
+                "type": "london_underground_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "Energy Performance Certificate",
+                    "filename": "ba29eb374e9e2a3f5f44a6ef27577eca3382cfe3.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "An exceptionally well-proportioned and immaculately presented, two-bedroom conversion occupying the first-floor of a handsome period residence.<br><br>Desirably positioned on a quiet, residential road on the Highgate periphery within a short stroll from the heart of Crouch End; one of London\u2019s premier urban villages offering a selection of boutiques, bars and restaurants and the favoured Coleridge primary school.<br><br>The property has been tastefully decorated by the current owners and offers space and light in abundance with sleek, neutral internal detailing throughout, complemented with a host of period features, high ceilings and sash windows.<br><br>Further comprising bespoke kitchen, spacious reception room and modern family bathroom.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two-bedroom conversion occupying the first-floor of a handsome period residence",
+                "Exceptionally well-proportioned and immaculately presented",
+                "Favoured Coleridge primary school nearby",
+                "Quiet, residential road on the Highgate periphery",
+                "Tastefully decorated by the current owners",
+                "Bespoke kitchen, spacious reception",
+                "Modern family bathroom",
+                "Host of period features, high ceilings and sash windows",
+                "Short stroll from the heart of Crouch End"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "0b02c6d5cab13fd2c6f807388e21bdcfedc5cca8.jpg",
+                    "caption": "Crouch Hall Road N8"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "b1f3f0165c095708e0467759a2023c6304ddb613.jpg",
+                "caption": "Photo 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d0fc9c48966f39b864153d44cecfeea287d7d0f6.jpg",
+                "caption": "Photo 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "921c9adfdab764d4193fb8fa00a1d128def297dd.jpg",
+                "caption": "Photo 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2817f651ee74d1a9220145c6ac4f64be26207284.jpg",
+                "caption": "Photo 4"
+            },
+            {
+                "__typename": "Media",
+                "filename": "80c8e5d77f9653a169ce2ef6a837a354bff6ab69.jpg",
+                "caption": "Photo 5"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b5e42d0f075599355771cfcd7acdd208fc40ef43.jpg",
+                "caption": "Photo 6"
+            },
+            {
+                "__typename": "Media",
+                "filename": "404152314e56d9701f0b50910d9f5fc7d1fe73f8.jpg",
+                "caption": "Photo 7"
+            },
+            {
+                "__typename": "Media",
+                "filename": "503a08523064e799da164efc10dd0f2887242a77.jpg",
+                "caption": "Photo 8"
+            },
+            {
+                "__typename": "Media",
+                "filename": "37812c4f666a8b75119f1c2d29c2dfe29d6d6a75.jpg",
+                "caption": "Photo 9"
+            },
+            {
+                "__typename": "Media",
+                "filename": "74242d66f9281c59a6b40a470236002ef2bbfdd8.jpg",
+                "caption": "Photo 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0b98bba565b0236e9432b6f5cf808ac8f07164ad.jpg",
+                "caption": "Photo 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "954de36cd1cae8d54afb9cc7a878f66affe9fdf6.jpg",
+                "caption": "Photo 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "daf89747b3df693532befa39cc887acb02ba218a.jpg",
+                "caption": "Photo 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "323d87f6c10a1ab3b949a57a16d7fdb3e1841d52.jpg",
+                "caption": "Photo 14"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 23854,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(74755).jpeg",
+            "branchName": "Castles - Crouch End",
+            "brandName": "Castles Estate Agents",
+            "chainFree": false,
+            "companyId": 660,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Crouch Hall Road, London N8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8HT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60785253,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 636375
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Crouch Hall Road, London N8 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Crouch Hall Road, London N8, selling for \u00a3575,000 from Castles - Crouch End. See property details on Zoopla or browse all our range of properties in Crouch Hall Road, London N8.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60785253/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.57893,
+                "longitude": -0.127518
+            }
+        },
+        "displayAddress": "Crouch Hall Road, London N8",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-17T14:47:55",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 87
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/0b02c6d5cab13fd2c6f807388e21bdcfedc5cca8.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Castles Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60785253,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "643A79B8-9001-11EC-B636-03020E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N8",
+            "areaNameUri": "london/n8/hornsey-crouch-end",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1798.7047619047605
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 510150,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 518969,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8819
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 535223,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -25073
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 562194,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -52044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 520132,
+                    "pctChangeSince": -1.919,
+                    "date": "2017-02-26",
+                    "changeSince": -9982
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 340998,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 169152
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 319880,
+                    "pctChangeSince": 59.482,
+                    "date": "2007-02-26",
+                    "changeSince": 190270
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 192552,
+                    "pctChangeSince": 164.941,
+                    "date": "2002-02-26",
+                    "changeSince": 317598
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 525009,
+                    "newBuilds": 1,
+                    "numSales": 194
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 511616,
+                    "newBuilds": 59,
+                    "numSales": 570
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 500575,
+                    "newBuilds": 59,
+                    "numSales": 1181
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 496272,
+                    "newBuilds": 67,
+                    "numSales": 1729
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 1180000,
+                    "propertyId": 15137888,
+                    "streetAddress": "50 Crouch Hall Road",
+                    "uri": "50-crouch-hall-road/london/n8-8hg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-30T00:00:00Z",
+                    "price": 2780000,
+                    "propertyId": 15137921,
+                    "streetAddress": "40 Crouch Hall Road",
+                    "uri": "40-crouch-hall-road/london/n8-8hj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 630000,
+                    "propertyId": 15138064,
+                    "streetAddress": "Flat 1, 21 Crouch Hall Road",
+                    "uri": "flat-1/21-crouch-hall-road/london/n8-8ht"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-03T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 15137875,
+                    "streetAddress": "Flat 11, Collection Point, 73 Crouch Hall Road",
+                    "uri": "flat-11/collection-point/73-crouch-hall-road/london/n8-8hf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 380000,
+                    "propertyId": 15132181,
+                    "streetAddress": "245 Wightman Road",
+                    "uri": "245-wightman-road/london/n8-0nb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 1090000,
+                    "propertyId": 15138632,
+                    "streetAddress": "107 Priory Road",
+                    "uri": "107-priory-road/london/n8-8ly"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 920000,
+                    "propertyId": 15142037,
+                    "streetAddress": "4 Harvey Road",
+                    "uri": "4-harvey-road/london/n8-9pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 496590,
+                    "propertyId": 15137282,
+                    "streetAddress": "Flat 6, 4 Crescent Road",
+                    "uri": "flat-6/4-crescent-road/london/n8-8at"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-23T00:00:00Z",
+                    "price": 780000,
+                    "propertyId": 15130784,
+                    "streetAddress": "54 Hewitt Road",
+                    "uri": "54-hewitt-road/london/n8-0bl"
+                }
+            ]
+        }
+    }
+}

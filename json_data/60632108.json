@@ -1,0 +1,525 @@
+{
+    "address": "Earlsfield Road, Wandsworth, London SW18",
+    "price": "\u00a3585,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 75.0,
+    "sqft": 807.0,
+    "text": "EARLSFIELD ROAD\nWANDSWORTH, LONDON SW18\nAPPROXIMATE INTERNAL FLOOR AREA\n807 sq ft (75 sq m)\nPC\n|\n| Kitchen /\n|||\\|||/| Dining Room\n(4.2 x 3.5)\n14' x 11'8\"\nCeiling Height 7'10\" / 2.40M\n\\ p\u2014\nReception Bedroom\n(5.2 x 3.8) (4.8 x 3.0)\nNiouxX 1258 45'9\" x 12!\nCeiling Height 12'9\" / a s Ceiling Height 116\" / 3.50M ;\nNJ\n\n2 x\n\nBedroom a\n\n(5.2 x 3.0)\n\n17'4\" x 10'\nCeiling Height 9'4\" / 2.85M| 5\n\nGround floor 807 sq ft\n\nCOPYRIGHT :\nFLOORPLAN PRODUCED FOR \"JOHN D WOOD & Co\"\nBY FLOORPLANNERS 07801 228850 www.floorplanners.co.uk\n",
+    "image": "./extracted_images/60632108.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60632108/",
+    "listing_no": "60632108",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.451638,
+        "longitude": -0.179809
+    },
+    "first_published": "2022-01-28T11:24:51",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60632108",
+        "publishedOn": "2022-01-28T11:24:51",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.johndwood.co.uk/property/WAN210361",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/jdw/live/pdf.php?p=WAN210361&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 15738,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(640761).png",
+            "branchName": "John D Wood & Co. - Wandsworth Sales",
+            "brandName": "John D Wood & Co",
+            "chainFree": false,
+            "companyId": 2016,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Earlsfield Road, Wandsworth, London SW18",
+            "furnishedState": "",
+            "groupId": 8,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3DB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60632108,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 585000,
+            "price": 585000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 457479
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/john-d-wood-and-co-wandsworth-sales-london-15738/",
+            "branchId": "15738",
+            "branchResultsUri": "/for-sale/branch/john-d-wood-and-co-wandsworth-sales-london-15738/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(640761).png",
+            "phone": "020 3463 0480",
+            "name": "John D Wood & Co. - Wandsworth Sales",
+            "memberType": "agent",
+            "address": "324 Trinity Road, London",
+            "postcode": "SW18 3RG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Preparatory School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Swaffield Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Earlsfield",
+                "type": "national_rail_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "768a4a115c43af1a3a87c9f3dabc784ffb2fb195.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A stylish, characterful and beautifully presented two double bedroom ground floor flat of good proportions with the benefit of off-street parking. With high ceilings, excellent communal areas and a discerning finish, this property feels spacious and homely. The reception and kitchen are flooded with natural light from a strategically placed window between the two. The property has been maintained to an exacting standard, from the classic joinery framing the reception fireplace to the traditional and stylish bathroom fittings. The building itself, a Victorian semi-detached villa, has an impressive fa\u00e7ade typical of the period. Further highlights include access to a private rear car park from Heathfield Road and dedicated storage throughout.<br><br>Located moments from the open green spaces of Wandsworth Common and Spencer Park, there are a wide range of fashionable boutique shops, bars and restaurants nearby. Wandsworth Town, Earlsfield and Clapham Junction mainline stations are also close at hand.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "60a7450a1693695b84b7722812d96b71b064a9b5.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "3b3aa6e90faa8e1803b10e74e1128939fef7f079.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d253448fed8403bef37ace83fbadf9b4d39b90b8.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f68519ec0d85394b07cc91cdba9169c2c7f80e4a.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a7d2b292d01f380a87dfb1e6e89e85988f50a84f.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5d7d4cebbcb6d3d78db5fb2b74b1dddb3b146c99.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5ebefcd63b1e8eeb7e2d5d209da38f8a5344441b.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "73dd3e309a8dc4f585f141e598684208de5bcb08.jpg",
+                "caption": "Exterior"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 15738,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(640761).png",
+            "branchName": "John D Wood & Co. - Wandsworth Sales",
+            "brandName": "John D Wood & Co",
+            "chainFree": false,
+            "companyId": 2016,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Earlsfield Road, Wandsworth, London SW18",
+            "furnishedState": "",
+            "groupId": 8,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3DB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60632108,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 585000,
+            "price": 585000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 457479
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Earlsfield Road, Wandsworth, London SW18 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Earlsfield Road, Wandsworth, London SW18, selling for \u00a3585,000 from John D Wood & Co. - Wandsworth Sales. See property details on Zoopla or browse all our range of properties in Earlsfield Road, Wandsworth, London SW18.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60632108/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.451638,
+                "longitude": -0.179809
+            }
+        },
+        "displayAddress": "Earlsfield Road, Wandsworth, London SW18",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-28T11:24:51",
+                "priceLabel": "\u00a3585,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 177
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/60a7450a1693695b84b7722812d96b71b064a9b5.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3585,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "John D Wood & Co",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60632108,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "F0668498-802C-11EC-87CF-A1320E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW18",
+            "areaNameUri": "london/sw18/wandsworth-earlsfield",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2440.1807909604536
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 545740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 548436,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -2696
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 548784,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 571676,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -25936
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 553935,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -8195
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 381867,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 163873
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 348838,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 196902
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 212532,
+                    "pctChangeSince": 156.78,
+                    "date": "2002-02-26",
+                    "changeSince": 333208
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 554541,
+                    "newBuilds": 19,
+                    "numSales": 470
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 543782,
+                    "newBuilds": 55,
+                    "numSales": 1296
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 547279,
+                    "newBuilds": 111,
+                    "numSales": 2421
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 550771,
+                    "newBuilds": 488,
+                    "numSales": 4197
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 23378197,
+                    "streetAddress": "345 Earlsfield Road",
+                    "uri": "345-earlsfield-road/london/sw18-3dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-25T00:00:00Z",
+                    "price": 1115000,
+                    "propertyId": 23378182,
+                    "streetAddress": "315 Earlsfield Road",
+                    "uri": "315-earlsfield-road/london/sw18-3dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-25T00:00:00Z",
+                    "price": 354000,
+                    "propertyId": 31162765,
+                    "streetAddress": "Flat 6, 45 Earlsfield Road",
+                    "uri": "flat-6/45-earlsfield-road/london/sw18-3db"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 1316173,
+                    "propertyId": 23378283,
+                    "streetAddress": "34a Earlsfield Road",
+                    "uri": "34a-earlsfield-road/london/sw18-3dn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 593000,
+                    "propertyId": 27321470,
+                    "streetAddress": "Ground And Basement Floor Flat, 308 Earlsfield Road",
+                    "uri": "ground-and-basement-floor-flat/308-earlsfield-road/london/sw18-3eh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 23379218,
+                    "streetAddress": "13 Heathfield Square",
+                    "uri": "13-heathfield-square/london/sw18-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 23377537,
+                    "streetAddress": "6 Wells Place",
+                    "uri": "6-wells-place/london/sw18-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 696000,
+                    "propertyId": 23384628,
+                    "streetAddress": "16a Duntshill Road",
+                    "uri": "16a-duntshill-road/london/sw18-4ql"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 1325500,
+                    "propertyId": 23388776,
+                    "streetAddress": "94 Elsenham Street",
+                    "uri": "94-elsenham-street/london/sw18-5nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 511000,
+                    "propertyId": 23383425,
+                    "streetAddress": "31 Steerforth Street",
+                    "uri": "31-steerforth-street/london/sw18-4hf"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,575 @@
+{
+    "address": "Eagle Wharf, 35 Narrow Street, Limehouse E14",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 7203.0,
+    "sqft": null,
+    "text": "EAGLE WHARF EAST\nAPPROXIMATE GROSS INTERNAL FLOOR AREA: 775 SQFT - 7203 SQM a\n\n  \n     \n  \n \n\n \n \n \n\nBEDROOM\n431\" x10\n4.00 3.05M\n\n   \n    \n\nBEDROOM\nASH Att\"\n4.86x3.62M\n\n  \n\n%\nKITCHEN\n13x68\"\n3.97 x2.03M.\n\n       \n   \n   \n     \n\n  \n\nRECEPTION!\nDINING ROOM\n158\" x 1444\"\n478x437M\n\n \n\n \n\nFIRST FLOOR\n\nILLUSTRATION PURPOSES ONLY\n\n \n",
+    "image": "./extracted_images/60595919.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60595919/",
+    "listing_no": "60595919",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.509323,
+        "longitude": -0.035042
+    },
+    "first_published": "2022-01-24T15:04:48",
+    "last_sale_date": "2005-12-22",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60595919",
+        "publishedOn": "2022-01-24T15:04:48",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Eagle Wharf, 35 Narrow Street, Limehouse",
+                "original": "https://lc.zoocdn.com/74258f78902ded89e35fc583dab501c227f80418.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31232693",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2496,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(27804).gif",
+            "branchName": "EA2",
+            "brandName": "EA2",
+            "chainFree": true,
+            "companyId": 1164,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Eagle Wharf, 35 Narrow Street, Limehouse E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8DP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60595919,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 579835
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/ea2-london-2496/",
+            "branchId": "2496",
+            "branchResultsUri": "/for-sale/branch/ea2-london-2496/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(27804).gif",
+            "phone": "020 3463 9577",
+            "name": "EA2",
+            "memberType": "agent",
+            "address": "35a Wapping High Street, London",
+            "postcode": "E1W 1NR"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Cyril Jackson Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stephen Hawking School (SEN)",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Limehouse",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Limehouse",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "04f88fe04be7086b10920def5cbb2db3a7d95a68.png",
+                    "url": null
+                },
+                {
+                    "__typename": "Media",
+                    "caption": "EI Rating",
+                    "filename": "2c1b6a6fdd93b4f4a6f16912876761ad26351197.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "EA2 are pleased to offer for sale this generously proportioned modern built 2 Bedroom, 2 Bathroom Apartment located within this popular development on Narrow Street. The apartment benefits from a spacious Reception with doors leading to a South facing Balcony, a separate fully fitted and integrated Kitchen, 2 double Bedrooms with one en-suite shower room and a 2nd family Bathroom. The building further offers a security entry-phone system, a secure underground Parking and Bike Storage. It is ideally located only a few minutes' walk from Limehouse Marina, the Thames Path and Ropemakers Field Park. Close to the Cycle Super Highway and multiple transport links to include Limehouse station providing an easy access to Canary Wharf and The City along with the C2C service to Fenchurch Street. Share of Freehold. Offered Chain Free.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Spacious Apartment in Limehouse",
+                "Large Reception",
+                "2 Double Bedrooms",
+                "2 Modern Bathrooms",
+                "South Facing Balcony",
+                "Underground and Secure Parking Space",
+                "Bike Storage",
+                "Close to Transports and easy access to the City and Canary Wharf",
+                "Share of Freehold",
+                "Chain Free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "ed67eec6422c048f953f7eab12d36c77415c2161.jpg",
+                    "caption": "Floor Plan.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "829746e811c25a0d289098daea69dcdd9c3fd59d.jpg",
+                "caption": "Image-1-1024x1024.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "55123ac9463ebe66bb81873ba3fa5280def383c8.jpg",
+                "caption": "Ws193193-10.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8de1335ae8b6bd8a02abef37418dcc8019d765e1.jpg",
+                "caption": "Image-3-1024x1024.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0f7502f6ff2cacd3fcbf7e0df08d7b22267801d3.jpg",
+                "caption": "Ws193193-05.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6e63bce865ac757c95ba8206d6cb55bbca07eb29.jpg",
+                "caption": "Ws193193-12.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9fc5f63becf4a4bdb5965eacb352f7260fad6e01.jpg",
+                "caption": "Ws193193-04.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "41c992a7bdac89874125705beec6420c5c973ff9.jpg",
+                "caption": "Ws193193-13.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "430d8c9c4a378de7b3df9ec6df440326d0a7044a.jpg",
+                "caption": "Image-6-1024x1024.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ae020625f5038ffae8ec01617a265af8accedc75.jpg",
+                "caption": "Ws193193-06.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b7f5f376bc66f182d54e79109f6981c2934ae021.jpg",
+                "caption": "9158_10583933_Img_07_0000.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5e497be75a39f57746e905498f83a9c9d3ad0684.jpg",
+                "caption": "Ws193193-08.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8dbbf2b6887beb4605e6effcc70dc937e6118b5a.jpg",
+                "caption": "Image-9-1024x1024.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "326580864fc22b116718bcba3e88622f9fec2aaa.jpg",
+                "caption": "Ws193193-03.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2496,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(27804).gif",
+            "branchName": "EA2",
+            "brandName": "EA2",
+            "chainFree": true,
+            "companyId": 1164,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Eagle Wharf, 35 Narrow Street, Limehouse E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8DP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60595919,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 579835
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Eagle Wharf, 35 Narrow Street, Limehouse E14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Eagle Wharf, 35 Narrow Street, Limehouse E14, selling for \u00a3575,000 from EA2. See property details on Zoopla or browse all our range of properties in Eagle Wharf, 35 Narrow Street, Limehouse E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60595919/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.509323,
+                "longitude": -0.035042
+            }
+        },
+        "displayAddress": "Eagle Wharf, 35 Narrow Street, Limehouse E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-24T15:04:48",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2005-12-22",
+                "newBuild": false,
+                "price": 278000,
+                "priceLabel": "\u00a3278,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 183
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/ed67eec6422c048f953f7eab12d36c77415c2161.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "EA2",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60595919,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "68456648-9624-11EC-A432-80090E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3199.821151716501
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 767500,
+                    "propertyId": 7865990,
+                    "streetAddress": "Flat 28, Chinnocks Wharf, 42 Narrow Street",
+                    "uri": "flat-28/chinnocks-wharf/42-narrow-street/london/e14-8dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-22T00:00:00Z",
+                    "price": 410000,
+                    "propertyId": 7865538,
+                    "streetAddress": "Flat 4, Duke Shore Wharf, 106 Narrow Street",
+                    "uri": "flat-4/duke-shore-wharf/106-narrow-street/london/e14-8bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-25T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 7865657,
+                    "streetAddress": "Flat 42, Papermill Wharf, 50 Narrow Street",
+                    "uri": "flat-42/papermill-wharf/50-narrow-street/london/e14-8bz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-02T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 7865932,
+                    "streetAddress": "Flat 30, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-30/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

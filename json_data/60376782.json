@@ -1,0 +1,537 @@
+{
+    "address": "Lilian Road, London SW16",
+    "price": "\u00a3625,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 79.61,
+    "sqft": 857.0,
+    "text": "Lilian Road, Streatham, SW16\nAPPROXIMATE GROSS INTERNAL (LIVING) AREA\n74.12 SQ.M/798 SQ.FT\n(EXCLUDING SHED)\nSHED 5.49 SQ.M/59 SQ.FT\nSHED a \\ INCLUSIVE TOTAL AREA 79.61 SQ.M / 857 SQ.FT\nexert\nGARDEN\n53888 m\nner aoe\n7\nFI a ~\nany\n| i 3 ESE 1\niO) i ee\n| Eexa Wo |\nSF ESERTION \u00a5 C\njae NL\n\u2014 kitchen Ceiling 2.50m VY :\n1, J SEDROON\naioe yt . Sinan\nCeiling 2.50m <I iN \\ beanie\n, a 4\n7A a 4 ae |\na q t \u2014 J\n| a [ \\ OY {|\n|_| CEPTION = |\nSSoxaurm Xl\n\" Gatng 250m\nx BEDROOM BEDROOM\n\\ (Beceem aaix7em\n= : =a.\nNS Vl\n4 Sy tg\nFRONT GARDEN\neri\n= ions FIRST FLOOR\n5 396 SQ.FT / 36.80 SQ.M\nGROUND FLOOR\n402 SQ.FT /37.31SQ.M\nSz N\nDisclaimer:\nNot to scale, for guidance only and must not be relied upon as a statement of fact. All measurements and areas are approximate only and\nhave been prepared for Douglas & Gordon in accordance with the current edition of the RICS Code of Measuring Practice.\n",
+    "image": "./extracted_images/60376782.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60376782/",
+    "listing_no": "60376782",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.411985,
+        "longitude": -0.143582
+    },
+    "first_published": "2021-12-15T09:49:07",
+    "last_sale_date": "2016-05-13",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60376782",
+        "publishedOn": "2021-12-15T09:49:07",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "More Details",
+                "original": "https://www.douglasandgordon.com/buy/property-details/58457/lilian-road-sw16/",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 28,
+            "acornType": 28,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 93594,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(712105).png",
+            "branchName": "Douglas & Gordon - Streatham",
+            "brandName": "Douglas & Gordon",
+            "chainFree": false,
+            "companyId": 5555,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lilian Road, London SW16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "5HW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60376782,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "SW16",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 492913
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/douglas-and-gordon-streatham-london-93594/",
+            "branchId": "93594",
+            "branchResultsUri": "/for-sale/branch/douglas-and-gordon-streatham-london-93594/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(712105).png",
+            "phone": "020 8115 3455",
+            "name": "Douglas & Gordon - Streatham",
+            "memberType": "agent",
+            "address": "Head Office, 212 New King's Road, London",
+            "postcode": "SW6 4NZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Granton Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lonesome Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Mitcham Eastfields",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Streatham Common",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "This beautiful freehold house is presented in excellent condition and ideally located 0.5 miles away from Streatham Common Station on a quiet residential road.<br>The dual aspect double reception room with original wooden floorboards and fireplaces leads directly onto a spacious landscaped garden.<br>There is a well-equipped modern kitchen, three good sized bedrooms, family bathroom, and ample storage space in the loft.<br>Lilian Road is situated within a few minutes' walk of Streatham Common rail station providing direct links to Victoria, London Bridge and Shepherds Bush as well as out of London. The local amenities of Streatham High Road are very close by and include many popular shops, bars and restaurants, as are the green open spaces of Streatham Common itself.<br>The information contained in these particulars is for general information purposes only. Douglas &amp; Gordon does not provide information or give any warranty with regards to train, tube, tram lines or flight paths. Prospective purchasers or tenants are advised to carry out their own research if they have any concern about train, tube, tram lines or flight paths.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "3 bedrooms",
+                "1 bathroom",
+                "1 reception room",
+                "Kitchen / breakfast room",
+                "Garden"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "1a891f02910983f8e4963141f9c03705a71a3a6c.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "375ca9f1d59979d57d74aaf8bc5d90a763324783.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "43d6f1112dc4550e0a6886331cf00075c81145ec.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1173c21a472daec64e4319cdbc483119049623ef.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b26da57bffcab3acb4e9ae75d6b2e632d3aa6fd6.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2aacc50f2c4acf9bbe1483a2beae5e8b09037cc2.jpg",
+                "caption": "Master Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fc955a7ea283300c50f84c58169417bf12656611.jpg",
+                "caption": "Garden"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2464ed1c1eed69e9b51f3c12c3f56a818fb99b4a.jpg",
+                "caption": "Second Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "243ae092b34fbe067980843f43ac4564fcaaedfb.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cb14500a0f4de474d84a412c161c0cfa1ed4b441.jpg",
+                "caption": "Entrance Hall"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4106647efadf550bb491aecfbb26cb7adde980ec.jpg",
+                "caption": "Dining Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "05aacd092d79ba9f9d2e77629ff9df3ef7bedf72.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6c5b3c544a2bec4471292003ecdddd94e76ee74e.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1db001f1e2e7da923e5fa7117aba59c3045af61c.jpg",
+                "caption": "Dining Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8fd001589ff4fdb8954dfbb6ad9f37bc937c3c40.jpg",
+                "caption": "Other"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b4ff6c822912b1ced7f913e9ec7552ebbbad32c4.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5510d7eca0a99d581afbc727c52d074b8d22e92c.jpg",
+                "caption": "Exterior"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 28,
+            "acornType": 28,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 93594,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(712105).png",
+            "branchName": "Douglas & Gordon - Streatham",
+            "brandName": "Douglas & Gordon",
+            "chainFree": false,
+            "companyId": 5555,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lilian Road, London SW16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "5HW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60376782,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "SW16",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 492913
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Lilian Road, London SW16 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Lilian Road, London SW16, selling for \u00a3625,000 from Douglas & Gordon - Streatham. See property details on Zoopla or browse all our range of properties in Lilian Road, London SW16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60376782/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.411985,
+                "longitude": -0.143582
+            }
+        },
+        "displayAddress": "Lilian Road, London SW16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-15T09:49:07",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2016-05-13",
+                "newBuild": false,
+                "price": 525000,
+                "priceLabel": "\u00a3525,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 253
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/1a891f02910983f8e4963141f9c03705a71a3a6c.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Douglas & Gordon",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60376782,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium"
+        },
+        "uuid": "504D6D36-8FCD-11EC-860E-D8350E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW16",
+            "areaNameUri": "london/sw16/streatham-norbury",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2089.5952380952394
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 588330,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 592919,
+                    "pctChangeSince": -0.774,
+                    "date": "2021-11-26",
+                    "changeSince": -4589
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 610665,
+                    "pctChangeSince": -3.657,
+                    "date": "2021-08-26",
+                    "changeSince": -22335
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590759,
+                    "pctChangeSince": -0.411,
+                    "date": "2021-02-26",
+                    "changeSince": -2429
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 564037,
+                    "pctChangeSince": 4.307,
+                    "date": "2017-02-26",
+                    "changeSince": 24293
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 384110,
+                    "pctChangeSince": 53.167,
+                    "date": "2012-02-26",
+                    "changeSince": 204220
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 351211,
+                    "pctChangeSince": 67.515,
+                    "date": "2007-02-26",
+                    "changeSince": 237119
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 214817,
+                    "pctChangeSince": 173.875,
+                    "date": "2002-02-26",
+                    "changeSince": 373513
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 645650,
+                    "newBuilds": 0,
+                    "numSales": 250
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 608957,
+                    "newBuilds": 2,
+                    "numSales": 662
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 592829,
+                    "newBuilds": 2,
+                    "numSales": 1150
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 572988,
+                    "newBuilds": 16,
+                    "numSales": 1784
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-17T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 23337089,
+                    "streetAddress": "47 Lilian Road",
+                    "uri": "47-lilian-road/london/sw16-5hw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 393500,
+                    "propertyId": 23341888,
+                    "streetAddress": "52 Fernthorpe Road",
+                    "uri": "52-fernthorpe-road/london/sw16-6dr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 595000,
+                    "propertyId": 23336532,
+                    "streetAddress": "18 Sherwood Avenue",
+                    "uri": "18-sherwood-avenue/london/sw16-5ew"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 440000,
+                    "propertyId": 23332586,
+                    "streetAddress": "156 Stanford Road",
+                    "uri": "156-stanford-road/london/sw16-4qb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 529000,
+                    "propertyId": 23334919,
+                    "streetAddress": "126 Abercairn Road",
+                    "uri": "126-abercairn-road/london/sw16-5ag"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 23318299,
+                    "streetAddress": "70 Norfolk House Road",
+                    "uri": "70-norfolk-house-road/london/sw16-1jh"
+                }
+            ]
+        }
+    }
+}

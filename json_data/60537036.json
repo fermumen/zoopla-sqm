@@ -1,0 +1,557 @@
+{
+    "address": "Ravilious House, 273 King Street W6",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 55.87,
+    "sqft": 601.0,
+    "text": "y | \\\nN\u2014p\n\\\\ A\nCPE AP SCS SZ SF SMKKKKKKKKKOSOSK\nKasaarereaerentoereroooneone renee\nMeats\u2019 aa Cacanetacenecanelares ace. Olernconeeaneene conceeneeen\nPORK OOK Peeehetatetctated ea statetetens\nPOI ODOQOOOOK SOOO DOO OLX OOO ODOD*K\n[oo\nBEDROOM BEDROOM\n8'6 x 8'2 13'4 x 9'3\nLIVING ROOM / 2.59m x 2.50m 4.07m x 2.83m\nKITCHEN / | \u2122\n16'7 x 1310 , \\\n5.05m x 4.21m ; _\nSO i~\n; a \\ BATHROOM\nAVS \u201c 7'9 x 618\n6m x 2.04m |\nSe) ar )| FFA / She\nTOTAL APPROX. FLOOR AREA 601 SQ.FT. (55.87 SQ.M)\n\nWhilst every attempt has been made to ensure the accuracy of the floor plan contained here, measurements\nof door, windows, rooms and any other items are approximate and no responsibility is taken for any error,\nomission, or mis-statement. This plan is for illustrative purposes only and should be used as such by any\n\nprospective purchaser. The services, systems and appliances shown have not been tested and no guarantee\n\nas to their operability or efficiency can be given\n\u00a9 2021 (ID820927)\n",
+    "image": "./extracted_images/60537036.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60537036/",
+    "listing_no": "60537036",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.493419,
+        "longitude": -0.238768
+    },
+    "first_published": "2022-01-15T12:09:55",
+    "last_sale_date": "2016-06-30",
+    "last_sale_new": true,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60537036",
+        "publishedOn": "2022-01-15T12:09:55",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/lir/live/pdf.php?p=WLN210095&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 4773,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396521).png",
+            "branchName": "LiFE Residential - West London",
+            "brandName": "LiFE Residential",
+            "chainFree": false,
+            "companyId": 2268,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Ravilious House, 273 King Street W6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9QF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60537036,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "W6",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 611570
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/life-residential-west-london-london-4773/",
+            "branchId": "4773",
+            "branchResultsUri": "/for-sale/branch/life-residential-west-london-london-4773/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396521).png",
+            "phone": "020 3589 1768",
+            "name": "LiFE Residential - West London",
+            "memberType": "agent",
+            "address": "FC200 Building, 2 Lakeside Drive, Park Royal, London",
+            "postcode": "NW10 7FQ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ravenscourt Park Preparatory School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Latymer Upper School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ravenscourt Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stamford Brook",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/665957129"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Sculpted in between Hammersmith and Chiswick is this spacious two-bedroom apartment offering not only a fantastic home, but located in close to a variety of pubs, restaurants and coffee shops which are just a stone's throw away. This development is just a short breeze from Ravenscourt Station and Hammersmith stations with excellent transportation links providing you easy access to the Piccadilly, District, Circle and the Hammersmith and City lines.<br><br>This apartment is approximately just over 600 square feet and holds an immaculate kitchen, spacious living space with an open plan kitchen, large master bedroom and good size second bedroom, main bathroom and not to mention a private balcony with the influx of natural light and fresh air.<br><br>Have a parcel being delivered? No need to worry if you are not home, the onsite concierge has got it covered for you. Residents also get to enjoy the residents only fitness suite.&lt;br /&gt;&lt;br /&gt;",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 Bedroom / 1 Bathroom",
+                "601 sq.ft / 4th Floor with Lift Access",
+                "On-site Concierge",
+                "Large Private Balcony",
+                "Moments from Ravenscourt Park and Hammersmith Stations",
+                "Superb High-street Local Amenities"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "d494772a8ecea69c089cce80d3551f2ea45bc114.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "04f14c3b4378961ad20260ed8c973515990046ac.jpg",
+                "caption": "Picture No. 01"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e3fc6e62aec5925723a27ce5f6575034b5b1848f.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e0fbcfa1e8eada8b2d363f23c088e2f2ff5b3ccc.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cf721847eea81be2795e6ecb31189989adf1e35a.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5a7ea1e94e03bc56bcdafe2b72c98e537b55a8b1.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3a4a557a3c408f2832c50859be839810b31f7698.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "845a2aa825fe769997b9eef1029d9339394d5354.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "da5cd6dbae3784fa746295d854e042480fd0c9b8.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9e71e6f7da09cb894edeb552e7111fa21095634c.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5c6a678558c57faf0d549b1c6a7aa5895a06dfcc.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9de77855b7ddd0f4910237af7b2cd3beba246585.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2e52acdd476c31373a22c31136ea719e89845265.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "13695f57761e7dd7573bee715656f0b3dc2a62c3.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8dbd388d4882da8717c5e329c9396bbb613f8ea9.jpg",
+                "caption": "Picture No. 14"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 4773,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396521).png",
+            "branchName": "LiFE Residential - West London",
+            "brandName": "LiFE Residential",
+            "chainFree": false,
+            "companyId": 2268,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Ravilious House, 273 King Street W6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9QF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60537036,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "W6",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 611570
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Ravilious House, 273 King Street W6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Ravilious House, 273 King Street W6, selling for \u00a3625,000 from LiFE Residential - West London. See property details on Zoopla or browse all our range of properties in Ravilious House, 273 King Street W6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60537036/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.493419,
+                "longitude": -0.238768
+            }
+        },
+        "displayAddress": "Ravilious House, 273 King Street W6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-15T12:09:55",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2016-06-30",
+                "newBuild": true,
+                "price": 649000,
+                "priceLabel": "\u00a3649,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 117
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/d494772a8ecea69c089cce80d3551f2ea45bc114.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "LiFE Residential",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60537036,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "1C03F5CC-77D6-11EC-BDCE-2DE30D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W6",
+            "areaNameUri": "london/w6/hammersmith",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 4067.6369327073567
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 592044,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 601653,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -9609
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 619444,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -27400
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 652961,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -60917
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 647839,
+                    "pctChangeSince": -8.612,
+                    "date": "2017-02-26",
+                    "changeSince": -55795
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 431528,
+                    "pctChangeSince": 37.197,
+                    "date": "2012-02-26",
+                    "changeSince": 160516
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 384829,
+                    "pctChangeSince": 53.846,
+                    "date": "2007-02-26",
+                    "changeSince": 207215
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 228075,
+                    "pctChangeSince": 159.583,
+                    "date": "2002-02-26",
+                    "changeSince": 363969
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 580733,
+                    "newBuilds": 11,
+                    "numSales": 145
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 691477,
+                    "newBuilds": 58,
+                    "numSales": 434
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 683655,
+                    "newBuilds": 142,
+                    "numSales": 799
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 675771,
+                    "newBuilds": 267,
+                    "numSales": 1321
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 328000,
+                    "propertyId": 27186643,
+                    "streetAddress": "288 King Street",
+                    "uri": "288-king-street/london/w6-0sp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-07T00:00:00Z",
+                    "price": 625000,
+                    "propertyId": 27157636,
+                    "streetAddress": "Top Floor Flat, 226 King Street",
+                    "uri": "top-floor-flat/226-king-street/london/w6-0ra"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-30T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 25079652,
+                    "streetAddress": "Flat 70, Ashcroft Square, King Street",
+                    "uri": "flat-70/ashcroft-square/king-street/london/w6-0yj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-25T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 32245424,
+                    "streetAddress": "19, Ravilious House, 273 King Street",
+                    "uri": "19/ravilious-house/273-king-street/london/w6-9qf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 820000,
+                    "propertyId": 25080909,
+                    "streetAddress": "Flat 291, Latymer Court, Hammersmith Road",
+                    "uri": "flat-291/latymer-court/hammersmith-road/london/w6-7ld"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1220000,
+                    "propertyId": 25087560,
+                    "streetAddress": "Flat 61, King Henrys Reach, Manbre Road",
+                    "uri": "flat-61/king-henrys-reach/manbre-road/london/w6-9rh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 2400000,
+                    "propertyId": 25082023,
+                    "streetAddress": "40 Melrose Gardens",
+                    "uri": "40-melrose-gardens/london/w6-7rw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 1150000,
+                    "propertyId": 25083745,
+                    "streetAddress": "40 Gastein Road",
+                    "uri": "40-gastein-road/london/w6-8lu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 1205000,
+                    "propertyId": 25076311,
+                    "streetAddress": "32 Nasmyth Street",
+                    "uri": "32-nasmyth-street/london/w6-0hb"
+                }
+            ]
+        }
+    }
+}

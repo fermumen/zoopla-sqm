@@ -1,0 +1,546 @@
+{
+    "address": "Minard Road, Catford, London SE6",
+    "price": "\u00a3620,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "Garden\n\nSI\n\n_\u2014\u2014 a\n\nUd\n\nKitchen/Diner\n\nBedroom\n\n6.12 x 4.02m\n\n3.78 x 3.71m\n\n\u00b0\u00b0\n\n20'1\" x 13'2\"\n\n12'5\" x 12'2\"\n\n0\u00b0\n\nNull\n\nN\n\nLanding\n\nBedroom\n\nLounge\n\nBedroom\n\n4.62 x 4.28m\n\n4.93 x 3.78m\n\n15'2\" x 1411\"\n\n3.01 x 2.23m\n\n16'2\" x 12'5\"\n\n9'11\" x 7'4\"\n\n\\y\n\nVA\n\n\\\n\nVA\n\nGROUND FLOOR\n\nFIRST FLOOR\n\nTotal Area: 104.0 m?... 1120 ft?\n\nAll measurements are approximate and for display purposes only\n",
+    "image": "./extracted_images/60861034.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60861034/",
+    "listing_no": "60861034",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.443754,
+        "longitude": 0.000436
+    },
+    "first_published": "2022-02-26T23:37:39",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60861034",
+        "publishedOn": "2022-02-26T23:37:39",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/206baa44c76c06dd783970143d3ec331a4573550.pdf",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 28,
+            "acornType": 28,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 72047,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(714200).png",
+            "branchName": "Stanfords, Catford",
+            "brandName": "Robert Stanford Estates",
+            "chainFree": false,
+            "companyId": 16917,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Minard Road, Catford, London SE6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1NP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60861034,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE6",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 620000,
+            "price": 620000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 504731
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/stanfords-catford-london-72047/",
+            "branchId": "72047",
+            "branchResultsUri": "/for-sale/branch/stanfords-catford-london-72047/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(714200).png",
+            "phone": "020 8022 3303",
+            "name": "Stanfords, Catford",
+            "memberType": "agent",
+            "address": "1 Catford Broadway, Catford, London",
+            "postcode": "SE6 4SP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Sandhurst Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Winifred's RC Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hither Green",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lee (London)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "This Corbett Estate home is situated on a quiet road on the borders of Hither Green and is ideal for young, growing families with potential to extend (stp).<br><br>Entering into the wide hallway you get an immediate sense of space that you don't find in other period homes. Off the hallway is the vast lounge and to the rear of the property is a 20'1\" x 13'2\" Kitchen/Diner that leads onto the garden. There is also a shower room tucked away at the rear of the house.<br><br>On the first floor, there are 2 large double bedrooms, as well as a family bathroom and a third bedroom/study to the front.<br><br>The Corbett Estate is a family dominated area with a strong community feel to it and is conveniently positioned for several local primary schools, some with outstanding Ofsted ratings. Commuter links are also available to a choice of London Stations, whether you need access to the City with trains to London Bridge, Blackfriars, and Cannon Street taking around 20 minutes and located 0.6 Miles to Hither Green Station.<br><strong>Ground floor<br><br>lounge</strong><br><br>15' 2\" x 14' 1\" (4.62m x 4.29m)<br>Pendant light, double glazed bay window to front, fireplace, laminate flooring.<br><strong>Kitchen/diner</strong><br><br>20' 1\" x 13' 2\" (6.12m x 4.01m)<br>Kitchen: Ceiling light, matching wall and base units, double glazed windows to rear, laminate work surfaces, electric cooker with overhead extractor, plumbing for washing machine, stainless steel sink with drainer, laminate flooring.<br>Diner: Pendant light, double glazed door to rear, laminate flooring.<br><strong>Shower room<br><br>first floor<br><br>bedroom</strong><br><br>16' 2\" x 12' 5\" (4.93m x 3.78m)<br>Pendant light, double glazed bay windows to front, built-in wardrobes, radiator, fitted carpet.<br><strong>Bedroom</strong><br><br>12' 5\" x 12' 2\" (3.78m x 3.71m)<br>Pendant light, double glazed window to rear, built-in wardrobe, fitted carpet.<br><strong>Bathroom</strong><br><br>Ceiling light, tiled walls, pedestal hand basin, panel enclosed bath with shower attachment, w/c, double glazed window to rear, vinyl flooring.<br><strong>Bedroom</strong><br><br>9' 11\" x 7' 4\" (3.02m x 2.24m)<br>Pendant light, double glazed window to front, fitted shelving, fitted carpet.<br><strong>Outside<br><br>garden</strong><br><br>Paved seating area, laid lawn.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Corbett Estate",
+                "3 Bedrooms",
+                "Catford &amp; Hither Green Borders",
+                "Kitchen / Diner",
+                "0.6 Miles to Hither Green Station",
+                "Total Area - 1,120sqft."
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "f99b625d05ef2b80de7dc689e7d7006ade0777af.png",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "02b402491a170f497990ecd634289e5b9115a639.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0aa7b3e1ef039af6546e1153aeb9d643220bd48f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2c6e04e56bc601060e28d7a09beca6418ff11df3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "96e9d31a8f247dfc58a49d55c884081efebe8c18.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "757add50de3015942abedcc0e88dbd61b18111ff.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ead4e01a41fecc01fa8d1b812770370a0192d487.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d531a7a3b3166f3f5be8ecb78b8ed3c55d333101.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a2007a8a0361e821d2cfe9fee099c759e151fcf5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "29fe70105cd36bf6d063e0cdc66147078f1a757c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a239fc3e850169d9ee8afc0cf0f3c57b9e9da432.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b5689904f5eb5ca1826197402cc0495b225e538d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8fc30a1abe8763a7c6ddbbb8cbab965d6af6faf2.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 28,
+            "acornType": 28,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 72047,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(714200).png",
+            "branchName": "Stanfords, Catford",
+            "brandName": "Robert Stanford Estates",
+            "chainFree": false,
+            "companyId": 16917,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Minard Road, Catford, London SE6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1NP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60861034,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE6",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 620000,
+            "price": 620000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 504731
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Minard Road, Catford, London SE6 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Minard Road, Catford, London SE6, selling for \u00a3620,000 from Stanfords, Catford. See property details on Zoopla or browse all our range of properties in Minard Road, Catford, London SE6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60861034/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.443754,
+                "longitude": 0.000436
+            }
+        },
+        "displayAddress": "Minard Road, Catford, London SE6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-26T23:37:39",
+                "priceLabel": "\u00a3620,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 0
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/f99b625d05ef2b80de7dc689e7d7006ade0777af.png"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3620,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Robert Stanford Estates",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60861034,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "17154C18-975D-11EC-A686-CDD30D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE6",
+            "areaNameUri": "london/se6/catford-bellingham-hither-green",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1792.761904761906
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 466371,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 471773,
+                    "pctChangeSince": -1.145,
+                    "date": "2021-11-26",
+                    "changeSince": -5402
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 487461,
+                    "pctChangeSince": -4.326,
+                    "date": "2021-08-26",
+                    "changeSince": -21090
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 493401,
+                    "pctChangeSince": -5.478,
+                    "date": "2021-02-26",
+                    "changeSince": -27030
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 444524,
+                    "pctChangeSince": 4.915,
+                    "date": "2017-02-26",
+                    "changeSince": 21847
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 280918,
+                    "pctChangeSince": 66.017,
+                    "date": "2012-02-26",
+                    "changeSince": 185453
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 261490,
+                    "pctChangeSince": 78.351,
+                    "date": "2007-02-26",
+                    "changeSince": 204881
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 160406,
+                    "pctChangeSince": 190.744,
+                    "date": "2002-02-26",
+                    "changeSince": 305965
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516231,
+                    "newBuilds": 0,
+                    "numSales": 185
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 538491,
+                    "newBuilds": 0,
+                    "numSales": 498
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 507572,
+                    "newBuilds": 0,
+                    "numSales": 912
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 488869,
+                    "newBuilds": 1,
+                    "numSales": 1362
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-25T00:00:00Z",
+                    "price": 615000,
+                    "propertyId": 20933017,
+                    "streetAddress": "152 Minard Road",
+                    "uri": "152-minard-road/london/se6-1nj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-25T00:00:00Z",
+                    "price": 585000,
+                    "propertyId": 20933128,
+                    "streetAddress": "35 Minard Road",
+                    "uri": "35-minard-road/london/se6-1np"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 665000,
+                    "propertyId": 20932981,
+                    "streetAddress": "193 Minard Road",
+                    "uri": "193-minard-road/london/se6-1nh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-23T00:00:00Z",
+                    "price": 760000,
+                    "propertyId": 20933149,
+                    "streetAddress": "77 Minard Road",
+                    "uri": "77-minard-road/london/se6-1np"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-29T00:00:00Z",
+                    "price": 560000,
+                    "propertyId": 20933089,
+                    "streetAddress": "93 Minard Road",
+                    "uri": "93-minard-road/london/se6-1nn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 620600,
+                    "propertyId": 20942000,
+                    "streetAddress": "63 Allerford Road",
+                    "uri": "63-allerford-road/london/se6-3dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 472000,
+                    "propertyId": 32673052,
+                    "streetAddress": "38 Dixie Court, Adenmore Road",
+                    "uri": "38-dixie-court/adenmore-road/london/se6-4fa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 117500,
+                    "propertyId": 28487649,
+                    "streetAddress": "27, Stannard Court, Culverley Road",
+                    "uri": "27/stannard-court/culverley-road/london/se6-2le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 20940667,
+                    "streetAddress": "132 Conisborough Crescent",
+                    "uri": "132-conisborough-crescent/london/se6-2sh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 520500,
+                    "propertyId": 20930547,
+                    "streetAddress": "248 Brownhill Road",
+                    "uri": "248-brownhill-road/london/se6-1au"
+                }
+            ]
+        }
+    }
+}

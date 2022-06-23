@@ -1,0 +1,575 @@
+{
+    "address": "Albion Road, Stoke Newington, London N16",
+    "price": "\u00a3575,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 85.1,
+    "sqft": 916.0,
+    "text": "\u2014\u2014 \u2014 \u2014\u2014_\u2014== \u2014\u2014\nBedroom 3 Bathroom\n2.97m x 2.43m eae\n9' 9\" x 80\"\n(9\"x 80\") Bedroom 1\n| / Mm\u2122 3.47m x 3.40m\n(11\u00b0 5\" x 11\u00b0 2\") Lt\nKitchen ;\n4.80m x 2.64m Landing Landing\n(15' 9\" x 8' 8\") ~*~ SI] ZoaesS 7 \\ =]\na i oe =\nac] Bn ea \u2014_\u2014\niT] CS Eis)\ni [| Re ae\n| \\ Hall | l\n. i. Living Room\nBedroom 2 we. 5.30m x 3.25m\n3.25m x 3.24m (17' 5\" x 10\u00b0 8\")\n(10\u00b0 8\" x 10\u00b0 8\")\n|\u2014______]\nGround Floor First Floor Second Floor\nTotal floor area 85.1 sq.m. (916 sq.ft.) approx\nThis floor plan is for illustrative purposes only. It is not drawn to scale. Any measurements, floor areas (including any total floor area), openings and orientation are approximate. No\ndetails are guaranteed, they cannot be relied upon for any purpose and they do not form part of any agreement. No liability is taken for any error, omission or misstatement. A party\nmust rely upon its own inspection(s). Plan produced for Outlook. Powered by www.focalagent.com\n",
+    "image": "./extracted_images/60085943.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60085943/",
+    "listing_no": "60085943",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.560265,
+        "longitude": -0.083744
+    },
+    "first_published": "2021-11-01T09:23:25",
+    "last_sale_date": "1997-09-17",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60085943",
+        "publishedOn": "2021-11-01T09:23:25",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 53539,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(525471).png",
+            "branchName": "Outlook Property - Walthamstow",
+            "brandName": "Outlook Property",
+            "chainFree": false,
+            "companyId": 8420,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Albion Road, Stoke Newington, London N16",
+            "furnishedState": "",
+            "groupId": 155,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9JY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60085943,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "N16",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Town Centre Location|Open House",
+            "propertyType": "maisonette",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 568278
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/outlook-property-walthamstow-london-53539/",
+            "branchId": "53539",
+            "branchResultsUri": "/for-sale/branch/outlook-property-walthamstow-london-53539/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(525471).png",
+            "phone": "020 8115 3859",
+            "name": "Outlook Property - Walthamstow",
+            "memberType": "agent",
+            "address": "167 Hoe Street, London",
+            "postcode": "E17 3AL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary's Church of England Primary School, Stoke Newington",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Betty Layward Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stoke Newington",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Rectory Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "cdb4c5b1f441b12dce3c78e9f466fb2851b6ccf8.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Three double bedrooms, over 900 sq feet of stoke newington LIVINGThis is a superb opportunity to purchase a large Three-bedroom flat close to Church Street and Clissold Park.<br><br>The Property<br><br>Entering the ground floor of this purpose-built Maisonette you will find a welcoming entrance hallway, cloakroom and a double bedroom. Head up one floor to the kitchen which is large enough to host with a small dining table and plenty of worktop space. There is also another double bedroom on this floor. Another small flight of stairs will lead you into a large living room with dual aspect windows allowing for plenty of natural light to enter. On the top floor of this large home is the main bedroom and a family bathroom too. There is a large communal garden out front which will give you a sense of community and safety.<br><br>The Location<br><br>Albion Road is a popular and well-located road. Just off Stoke Newington Church Street you will enjoy the easy access to Clissold Park and plenty of cafes and restaurants along the bustling Church Street. Getting to and from workplaces will be easy with access to 24-hour bus routes and stations nearby.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three bedroom Maisonette",
+                "Split over Four floors",
+                "Over 900 Square Feet of Living Space",
+                "Large communal garden",
+                "Close to Church Street and Clissold Park",
+                "Easy access to Central London"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Town Centre Location"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Open House"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "d882403c431c1616366051481c0654a11126817a.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "70b3213d2c203be28301c91f5302005ca16223a1.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "40747bdec2e7882a126ba8dd1dff1e5543f0992d.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b0136bd3ea6971bc0274e2a1158abf0ec524c0d0.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5e73b6a377f325aa4eb1594bc7ec7170ca9f69f6.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f3897b595c83e8e0ce9ad7df745001e0089da105.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e7b75f64d6d408f3a8bbe70f8c73f3b2f87da265.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b4d49b8b0ac53fa793073ae2ebc8a47f3066bec5.jpg",
+                "caption": "Picture No. 01"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5699734eb44520b800686f129d3550a6a5f515f6.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2d4cba2e516d0d64bd3eb3c63db3750248e2e278.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0e12f8121d12b43dd320157a13cb619b536f94e6.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a43bee0887b1ea1adc34b498a2b7c742ac09e233.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "93248d2cedb198d720ae410fffd3b533a8045bf0.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ffd2aa0587d58e710802c927f397fb9341b4adb2.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f8a1bcb61d285b42252db9c7b5ae242a9f8de72e.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "daaba8874e35ab35260ca269ca3537316ce52bcc.jpg",
+                "caption": "Picture No. 15"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 53539,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(525471).png",
+            "branchName": "Outlook Property - Walthamstow",
+            "brandName": "Outlook Property",
+            "chainFree": false,
+            "companyId": 8420,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Albion Road, Stoke Newington, London N16",
+            "furnishedState": "",
+            "groupId": 155,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9JY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60085943,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "N16",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Town Centre Location|Open House",
+            "propertyType": "maisonette",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 568278
+        },
+        "title": "3 bed maisonette for sale",
+        "metaTitle": "3 bed maisonette for sale in Albion Road, Stoke Newington, London N16 - Zoopla",
+        "metaDescription": "3 bed maisonette for sale in Albion Road, Stoke Newington, London N16, selling for \u00a3575,000 from Outlook Property - Walthamstow. See property details on Zoopla or browse all our range of properties in Albion Road, Stoke Newington, London N16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60085943/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.560265,
+                "longitude": -0.083744
+            }
+        },
+        "displayAddress": "Albion Road, Stoke Newington, London N16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-01T09:23:25",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "1997-09-17",
+                "newBuild": false,
+                "price": 72000,
+                "priceLabel": "\u00a372,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 61
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/d882403c431c1616366051481c0654a11126817a.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Outlook Property",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60085943,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "F737F84C-93FA-11EC-8ECB-9DCF0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N16",
+            "areaNameUri": "london/n16/stoke-newington-stamford-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2782
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 489352,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 497812,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8460
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 513405,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -24053
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 539276,
+                    "pctChangeSince": -9.258,
+                    "date": "2021-02-26",
+                    "changeSince": -49924
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 498929,
+                    "pctChangeSince": -1.92,
+                    "date": "2017-02-26",
+                    "changeSince": -9577
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 327097,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 162255
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 306840,
+                    "pctChangeSince": 59.481,
+                    "date": "2007-02-26",
+                    "changeSince": 182512
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 184703,
+                    "pctChangeSince": 164.94,
+                    "date": "2002-02-26",
+                    "changeSince": 304649
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 523326,
+                    "newBuilds": 0,
+                    "numSales": 230
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 501637,
+                    "newBuilds": 1,
+                    "numSales": 584
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 501736,
+                    "newBuilds": 51,
+                    "numSales": 1105
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 494034,
+                    "newBuilds": 138,
+                    "numSales": 1834
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 365625,
+                    "propertyId": 27186574,
+                    "streetAddress": "First Floor Flat, 24 Albion Road",
+                    "uri": "first-floor-flat/24-albion-road/london/n16-9ph"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-22T00:00:00Z",
+                    "price": 407000,
+                    "propertyId": 27386615,
+                    "streetAddress": "95b Albion Road",
+                    "uri": "95b-albion-road/london/n16-9pl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-17T00:00:00Z",
+                    "price": 868560,
+                    "propertyId": 27362735,
+                    "streetAddress": "Flat D, 166 Albion Road",
+                    "uri": "flat-d/166-albion-road/london/n16-9js"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-04T00:00:00Z",
+                    "price": 330500,
+                    "propertyId": 15251175,
+                    "streetAddress": "Flat 4, 195 Albion Road",
+                    "uri": "flat-4/195-albion-road/london/n16-9ju"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-28T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 15251772,
+                    "streetAddress": "134a Albion Road",
+                    "uri": "134a-albion-road/london/n16-9pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 931000,
+                    "propertyId": 15247283,
+                    "streetAddress": "11 St. Jude Street",
+                    "uri": "11-st-jude-street/london/n16-8ju"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1450000,
+                    "propertyId": 15239636,
+                    "streetAddress": "110a Osbaldeston Road",
+                    "uri": "110a-osbaldeston-road/london/n16-6nl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 470000,
+                    "propertyId": 15235016,
+                    "streetAddress": "Flat 1, Hamblyn Court, 5 Amhurst Park",
+                    "uri": "flat-1/hamblyn-court/5-amhurst-park/london/n16-5lu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 407000,
+                    "propertyId": 15243972,
+                    "streetAddress": "Flat 2, Elm House, Brooke Road",
+                    "uri": "flat-2/elm-house/brooke-road/london/n16-7rh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-24T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 15247583,
+                    "streetAddress": "Flat 11, Patmore House, Mayville Estate",
+                    "uri": "flat-11/patmore-house/mayville-estate/london/n16-8lq"
+                }
+            ]
+        }
+    }
+}

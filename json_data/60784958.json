@@ -1,0 +1,528 @@
+{
+    "address": "Rubens Street, Catford SE6",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 921.0,
+    "sqft": 921.0,
+    "text": "Approx. Gross Internal Area = 80 sq m/ 861 sq ft\nShed = 5.6 sq m/60 sq ft\nTotal = 85.6 sq m/ 921 sq ft MS\n\u00bb -\nShed\nGarden [ 9'2\" x 6'7\"\n27'11\" x 15'3\" I 2.80m x 2.01m\n8.51m x 4.64m #\nne\nBathroom i\n35 Kitchen 10'5\"x 9\"\n8Sler7\" x 91\" = 3.18m x 2.78m\n2.93m x 2.7\noi pee\n= == = = a\n| Dn _\nReception / ii Bedroom\n\u2014 Dining Room aoa 111\" x 9'3\"\nPat\" i 3.38m x 2.81m\n| fH 3.53m x 3.38m | , \u00b0\nfm . . + pie ooh\nUp\n1\n\u2014 |\nReception Room Bedroom\n13'3\" x 11'7\" 14\u00b065\" x 111\"\n| 4.04m x 3.53m 4.40m x 3.38m\n\u2014] \u2018 \u2014\u2014]\na ni First Floor\n_\u2014\u2014_\u2014\u2014]\nGround Floor\nRef C ight ave\nie Opyrl\neyo PLAN\nThe Floor plan is not to scale and measurements and areas shown are approximate and therefore should be used for\nillustrative purposes only. The plan has been prepared in accordance with the RICS code of Measuring Practice and whilst we\nhave confidence in the information produced it must not be relied on. If there is any aspect of particular importance, you should\ncarry out or commission your own inspection of the property.\nCopyright @ BLEUPLAN\n",
+    "image": "./extracted_images/60784958.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60784958/",
+    "listing_no": "60784958",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.4355,
+        "longitude": -0.031535
+    },
+    "first_published": "2022-02-17T14:21:17",
+    "last_sale_date": "2003-11-21",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60784958",
+        "publishedOn": "2022-02-17T14:21:17",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/FHL220070",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 26046,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - New Cross",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Rubens Street, Catford SE6",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4DH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60784958,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 2,
+            "outcode": "SE6",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 383640
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-new-cross-new-cross-26046/",
+            "branchId": "26046",
+            "branchResultsUri": "/for-sale/branch/winkworth-new-cross-new-cross-26046/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8115 4572",
+            "name": "Winkworth - New Cross",
+            "memberType": "agent",
+            "address": "157 New Cross Road, New Cross",
+            "postcode": "SE14 5DG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Rathfern Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Athelney Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bellingham",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Catford",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "21b4aa455499f4c3902266789a38e3553480f8c4.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "**Guide Price: \u00a3550,000 - \u00a3600,000**<br><br>An opportunity to purchase this stunning, period two double bedroom end of terrace house set within a highly sought after location bordering Forest Hill and Catford.<br><br>The well presented accommodation on offer comprises, private entrance, two reception rooms and a fitted kitchen to the ground floor of the property.<br><br>To the first floor, you have an amazing sized master bedroom measuring out 14'5, another double bedroom and a four piece bathroom.<br><br>Externally there is a well kept garden to the rear aspect of the property.<br><br>Internal viewing is highly recommended, please call Winkworth on to arrange an appointment to view.<br><br>Location:<br>Located in between Forest Hill, Sydenham and Catford Bridge the property offers some speedy great links into Central London, ideal for the daily commute.<br><br>Sydenham, a large area spread across several different boroughs, is a bustling neighbourhood with a range of shops, bars and restaurants to choose from, and is exceptionally well served for green spaces, being surrounded by award winning parks. Since its incorporation into the Overground network, Sydenham has become well connected to the City and Docklands, as well as being a short hop away from the entertainments of the Crystal Palace Triangle. Families with young children are spoilt for choice too, with all types of schools being represented here.<br><br>Forest Hill is a leafy residential area with a cluster of hip cafes and cosy pubs near its namesake railway station. Set in landscaped gardens with a weekly farmers' market and outdoor summer concerts, the family-friendly Horniman Museum has an aquarium, a beloved stuffed walrus, and a musical instrument collection. At the edge of the neighbourhood, Blythe Hill Fields park has sweeping views of the city skyline.<br><br>Catford may be one of the last areas in this part of South East London to resist urban renewal, but if illustrious neighbours Brockley and Forest Hill are anything to go by, it won't be far behind. Although plans to reroute the South Circular have been scrapped, an extensive regeneration of the town centre is still in the pipeline. It's still possible to get a reasonably priced house or flat, often with outdoor space, and during the summer a pleasant haze of BBQ smoke and garden chatter fills the area. Some fine views of London can be enjoyed from many of the local parks including family friendly Mountsfield Park, which also hosts the annual Lewisham People's Day, a community focused festival, and there are excellent cycling and walking opportunities along the Waterlink Way.<br><br>Catford locals are often fiercely proud of the town, and run a number of programmes including an orchard and a bird watching group in Blythe Hill Fields. And they are engaged in local issues, notably the Save Lewisham Hospital campaign, that organises talks and events to raise money and awareness. Many Catford locals have lived here for generations and now share their community with first time buyers and young families looking for more space and affordable property.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "5822cb111f5a1a0d8b65bdfd4d9a64ba7bf2b628.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "6ece33d3196d93d642e40283996b8c09c4fbbe84.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ef29b699a90e5248632f9b3dc07c973c88675c21.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "83c7562cbb7ba4978383b59fe1aa77681ed772ca.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "411c4a4d0a4a8d17e90049a385c316f4af88a69b.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "af0b24d1d1aa0177dadc6f7eeb86b909fcbb1ed7.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9a8de7b0b84e8162e49a3684c20989400841fc0f.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a521a7b13c12ab6ae121bf1024b9b12de6e85f97.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a6c3252e16a46f49722bee57cfeb99deb80c20ab.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d78216a58d170f77515e8f04ffc02cec86ada647.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "420b45f304664c843a665b57a0c9da96442e82d9.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "afc0f149b43416457be0705a144ffbc0d2d1682d.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "aa4036fe5308342dfa243c8e3f412aed492c7ffe.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2e14c2980d7309b67110fa3e3cff9832706de7ec.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6b3909cbfec09c76deb60837ff1a32a3c3c51519.jpg",
+                "caption": "Picture No. 14"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 26046,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - New Cross",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Rubens Street, Catford SE6",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4DH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60784958,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 2,
+            "outcode": "SE6",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 383640
+        },
+        "title": "2 bed end terrace house for sale",
+        "metaTitle": "2 bed end terrace house for sale in Rubens Street, Catford SE6 - Zoopla",
+        "metaDescription": "2 bed end terrace house for sale in Rubens Street, Catford SE6, selling for \u00a3550,000 from Winkworth - New Cross. See property details on Zoopla or browse all our range of properties in Rubens Street, Catford SE6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60784958/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.4355,
+                "longitude": -0.031535
+            }
+        },
+        "displayAddress": "Rubens Street, Catford SE6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-17T14:21:17",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2003-11-21",
+                "newBuild": false,
+                "price": 184000,
+                "priceLabel": "\u00a3184,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 150
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/5822cb111f5a1a0d8b65bdfd4d9a64ba7bf2b628.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 2
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60784958,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "5C4082E2-970F-11EC-97BC-F8E60D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE6",
+            "areaNameUri": "london/se6/catford-bellingham-hither-green",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1599
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 466371,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 471773,
+                    "pctChangeSince": -1.145,
+                    "date": "2021-11-26",
+                    "changeSince": -5402
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 487461,
+                    "pctChangeSince": -4.326,
+                    "date": "2021-08-26",
+                    "changeSince": -21090
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 493401,
+                    "pctChangeSince": -5.478,
+                    "date": "2021-02-26",
+                    "changeSince": -27030
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 444524,
+                    "pctChangeSince": 4.915,
+                    "date": "2017-02-26",
+                    "changeSince": 21847
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 280918,
+                    "pctChangeSince": 66.017,
+                    "date": "2012-02-26",
+                    "changeSince": 185453
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 261490,
+                    "pctChangeSince": 78.351,
+                    "date": "2007-02-26",
+                    "changeSince": 204881
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 160406,
+                    "pctChangeSince": 190.744,
+                    "date": "2002-02-26",
+                    "changeSince": 305965
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516231,
+                    "newBuilds": 0,
+                    "numSales": 185
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 538491,
+                    "newBuilds": 0,
+                    "numSales": 498
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 507572,
+                    "newBuilds": 0,
+                    "numSales": 912
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 488869,
+                    "newBuilds": 1,
+                    "numSales": 1362
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-16T00:00:00Z",
+                    "price": 420000,
+                    "propertyId": 20946399,
+                    "streetAddress": "18 Rubens Street",
+                    "uri": "18-rubens-street/london/se6-4dh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 620600,
+                    "propertyId": 20942000,
+                    "streetAddress": "63 Allerford Road",
+                    "uri": "63-allerford-road/london/se6-3dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 472000,
+                    "propertyId": 32673052,
+                    "streetAddress": "38 Dixie Court, Adenmore Road",
+                    "uri": "38-dixie-court/adenmore-road/london/se6-4fa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 117500,
+                    "propertyId": 28487649,
+                    "streetAddress": "27, Stannard Court, Culverley Road",
+                    "uri": "27/stannard-court/culverley-road/london/se6-2le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 20940667,
+                    "streetAddress": "132 Conisborough Crescent",
+                    "uri": "132-conisborough-crescent/london/se6-2sh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 520500,
+                    "propertyId": 20930547,
+                    "streetAddress": "248 Brownhill Road",
+                    "uri": "248-brownhill-road/london/se6-1au"
+                }
+            ]
+        }
+    }
+}

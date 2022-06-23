@@ -1,0 +1,539 @@
+{
+    "address": "Enfield Road, London N1",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "\\\\\n\nBALCONY\n\n4.40 x 1.01m\n\n\\\\\n\n14'5\" x 3'4\"\n\n\\\\\n\n\\/ BATH\n\nMASTER BEDROOM\n\n\\|\n\n1.50 x 2.10 m| |\n\n\\|\n\n\\|\n\n411\" x61\n\n4.17x3.51m\n\n/ |\n\n\\\n\n\\|\n\n\\|\n\n13'8\" x 11'6\"\n\nBEDROOM\n\n\\|\n\n435 x2.71m\n\ni\n\n\\|\n\n14'3\" x 8111\"\n\n\\\n\n\\|\n\nro\n\ni\n\n\\|\n\n\\|\n\n\\\n\n/\n\n/\n\nHALL\n\n7 \u00a757x1.98m\n\n18\u00b03\" x 66\"\n\n7\n\n| \\\n\n|\n\n|\n\nLIVING AREA\n\n||\n\n{|\n\ni\n\n6.05 x 3.86 m\n\n||\n\n&\n\n{|\n\n{|\n\n19\u00b010\" x 12'8\"\n\ni)\n\nl]\n\ni\n\npo\n\nl]\n\n||\n\n&\n\n||\n\n|]\n\n:\n\n\u00a3\n\n||\n\nIfe\n\n(a\n\nGROSS INTERNAL AREA\n\nSIZE AND DIMENSIONS ARE APPROXIMATE, ACTUAL MAY VARY.\n\nTOTAL: 707 59/66 m?\n",
+    "image": "./extracted_images/55113536.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/55113536/",
+    "listing_no": "55113536",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.53973,
+        "longitude": -0.07727
+    },
+    "first_published": "2022-02-24T13:00:21",
+    "last_sale_date": "2013-06-14",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "55113536",
+        "publishedOn": "2022-02-24T13:00:21",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/twn/live/pdf.php?p=DAL200007&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 89942,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727051).png",
+            "branchName": "Stirling Ackroyd - Dalston",
+            "brandName": "Stirling Ackroyd",
+            "chainFree": true,
+            "companyId": 3602,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Enfield Road, London N1",
+            "furnishedState": "",
+            "groupId": 6,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5EN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 55113536,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 576630
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/stirling-ackroyd-dalston-dalston-89942/",
+            "branchId": "89942",
+            "branchResultsUri": "/for-sale/branch/stirling-ackroyd-dalston-dalston-89942/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727051).png",
+            "phone": "020 8115 4731",
+            "name": "Stirling Ackroyd - Dalston",
+            "memberType": "agent",
+            "address": "539 Kingsland Road, Dalston",
+            "postcode": "E8 4AR"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hackney New School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Haggerston",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Queensbridge Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Dalston Junction",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=Eg12VTxRb3e"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "B",
+                    "filename": "a00bf44fc17e2ace9a85bb6f4272c3c4c04ae1e1.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "An excellent two bedroom flat located within the De Beauvoir Conservation area. Offering 700 square feet of internal space, the property comprises a well-lit open-plan living area with modern integrated kitchen, well-proportioned master bedroom complete with en-suite facilities, a bright and airy second bedroom with direct access onto a private balcony and a chic family bathroom alongside ample storage throughout. The flat has the benefit of both the communal gymnasium and sauna in addition to a concierge six days a week.<br><br>Enfield Road is perfectly positioned on a residential turning within striking distance of the numerous amenities Kingsland Road has to offer. Just minutes away is the Regents Canal, perfect for walking, running, cycling or enjoying the many bars and cafes along the towpath going East towards Victoria Park or West towards Angel, Islington. Haggerston Station is a short walk from the property and provides access into the City, Canary Wharf and the West End.<br><br>Offered chain-free.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Modern apartment",
+                "Two double bedrooms",
+                "Private balcony",
+                "Communal gym and sauna",
+                "Concierge",
+                "Chain-free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "4e9c67fceb743a69b528cbce6318a166e7daf288.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "6a87e0124b0a33be6b93e0b11dde66ffca2d501c.jpg",
+                "caption": "Kitchen/Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ceab0254414e2fc22a274e8ae2163d3104fc5a23.jpg",
+                "caption": "Kitchen/Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2170d8d26e0ba9fb7d929d5ae590cb8b0c6e4524.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3ae8ac331619de6f0e6eb44a5717bdf7eaba727e.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "da8a9a592d449af3a43ad52bf99e8cfe6b75406b.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "65a6edf1d88467ca815f4615255103f9cfd26130.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5e0fa70222d9b4c9828e0634fa9d10ee043f2a48.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7a67c3e6a0d4b3a2151d05d736044f8ec28ba4fc.jpg",
+                "caption": "Balcony"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6841df526ddbd430a05fabaef1dfe9b90f23b645.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bf836c2e76e8ba14f19479b4938dddd706cad118.jpg",
+                "caption": "Exterior"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 89942,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727051).png",
+            "branchName": "Stirling Ackroyd - Dalston",
+            "brandName": "Stirling Ackroyd",
+            "chainFree": true,
+            "companyId": 3602,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Enfield Road, London N1",
+            "furnishedState": "",
+            "groupId": 6,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5EN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 55113536,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 576630
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Enfield Road, London N1 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Enfield Road, London N1, selling for \u00a3550,000 from Stirling Ackroyd - Dalston. See property details on Zoopla or browse all our range of properties in Enfield Road, London N1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/55113536/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.53973,
+                "longitude": -0.07727
+            }
+        },
+        "displayAddress": "Enfield Road, London N1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-24T13:00:21",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2013-06-14",
+                "newBuild": false,
+                "price": 397500,
+                "priceLabel": "\u00a3397,500",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 53
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/4e9c67fceb743a69b528cbce6318a166e7daf288.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Stirling Ackroyd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 55113536,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "476CEB10-9577-11EC-BF2A-F8DA0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N1",
+            "areaNameUri": "london/n1/islington-barnsbury-canonbury",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2906.287878787878
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 602354,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 612767,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -10413
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 631961,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -29607
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 663806,
+                    "pctChangeSince": -9.258,
+                    "date": "2021-02-26",
+                    "changeSince": -61452
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 614141,
+                    "pctChangeSince": -1.919,
+                    "date": "2017-02-26",
+                    "changeSince": -11787
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 402630,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 199724
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 377696,
+                    "pctChangeSince": 59.481,
+                    "date": "2007-02-26",
+                    "changeSince": 224658
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 227355,
+                    "pctChangeSince": 164.94,
+                    "date": "2002-02-26",
+                    "changeSince": 374999
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 622356,
+                    "newBuilds": 1,
+                    "numSales": 395
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 661296,
+                    "newBuilds": 71,
+                    "numSales": 1075
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 646936,
+                    "newBuilds": 170,
+                    "numSales": 2109
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 637559,
+                    "newBuilds": 448,
+                    "numSales": 3526
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-14T00:00:00Z",
+                    "price": 775000,
+                    "propertyId": 15045291,
+                    "streetAddress": "Flat 4, 15 Enfield Road",
+                    "uri": "flat-4/15-enfield-road/london/n1-5en"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 470000,
+                    "propertyId": 15045284,
+                    "streetAddress": "Flat 30, 15 Enfield Road",
+                    "uri": "flat-30/15-enfield-road/london/n1-5en"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 760000,
+                    "propertyId": 15045289,
+                    "streetAddress": "Flat 35, 15 Enfield Road",
+                    "uri": "flat-35/15-enfield-road/london/n1-5en"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 710000,
+                    "propertyId": 15056656,
+                    "streetAddress": "2 Elliotts Place",
+                    "uri": "2-elliotts-place/london/n1-8hx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760001,
+                    "propertyId": 15027781,
+                    "streetAddress": "Flat 3, 80 Copenhagen Street",
+                    "uri": "flat-3/80-copenhagen-street/london/n1-0jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 1350000,
+                    "propertyId": 27513282,
+                    "streetAddress": "Ground First And Second Floor Fl, 7 Brooksby Street",
+                    "uri": "ground-first-and-second-floor-fl/7-brooksby-street/london/n1-1ex"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 15035647,
+                    "streetAddress": "Flat D, 13 Compton Road",
+                    "uri": "flat-d/13-compton-road/london/n1-2pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 15035975,
+                    "streetAddress": "1 Walney Walk",
+                    "uri": "1-walney-walk/london/n1-2pu"
+                }
+            ]
+        }
+    }
+}

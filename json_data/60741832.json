@@ -1,0 +1,529 @@
+{
+    "address": "Orchid Apartments, The Hawksmoors, 57 Crowder Street, London E1",
+    "price": "\u00a3625,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 86.7,
+    "sqft": 934.0,
+    "text": "> } BALCONY\n274x311\n8.33mx 1.20m\n|\n*|\nLOUNGE/DINER |\n27'4 x 12'\n+ | 8.33m x 3.67m\nOO\nBEDROOM\nP a alec te BEDROOM\n\u2014 109 x 74\n3.27m x 2.15m\nBATHROOM \u00b0\nWARDROBE 10'9 x 6'6\n3.27m x 1.99m)\nBO OR\nFomaf> | \u00a9\nBEDROOM\n14'1x9'7\n4.28m x 2.91m\n~} ENSUITE\n72x51 ey\nCO) 2.18m x leaomh IstoRAGE \u2014<5:95mx2.18m]\nC)\nTOTAL APPROX. FLOOR AREA 934 SQ.FT. (86.7 SQ.M.)\nWhilst every attempt has been made to ensure the accuracy of the floor plan contained here, measurements\nof doors, windows, rooms and any other items are approximate and no responsibility is taken for any error,\nomission, or mis-statement. This plan is for illustrative purposes only and should be used as such by any\nprospective purchaser. The services, systems and appliances shown have not been tested and no guarantee\nas to their operability or efficiency can be given\nMade with Metropix \u00a92017\n",
+    "image": "./extracted_images/60741832.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60741832/",
+    "listing_no": "60741832",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.509571,
+        "longitude": -0.061427
+    },
+    "first_published": "2022-02-11T17:38:54",
+    "last_sale_date": "2012-09-11",
+    "last_sale_new": true,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60741832",
+        "publishedOn": "2022-02-11T17:38:54",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/lir/live/pdf.php?p=TBC200033&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 14358,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396521).png",
+            "branchName": "LiFE Residential - North London",
+            "brandName": "LiFE Residential",
+            "chainFree": true,
+            "companyId": 2268,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Orchid Apartments, The Hawksmoors, 57 Crowder Street, London E1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0EZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60741832,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "E1",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 446079
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/life-residential-north-london-london-14358/",
+            "branchId": "14358",
+            "branchResultsUri": "/for-sale/branch/life-residential-north-london-london-14358/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396521).png",
+            "phone": "020 3589 1589",
+            "name": "LiFE Residential - North London",
+            "memberType": "agent",
+            "address": "71b Drayton Park, Islington, London",
+            "postcode": "N5 1BF"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Green Gables Montessori Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Paul's Whitechapel Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shadwell",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shadwell",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "093f27f208a82c1326abb02080963a0fb46f8975.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Stunning 1st floor, 3 bed apartment within Orchid Apartments, Tower Hill E1. Comprising a bright and spacious living area with a modern kitchen with integrated appliances and full height windows that open at the southern aspect to a generous, Three double bedrooms, master ensuite, master &amp; second with fitted wardrobes plus a further family bathroom suite and storage cupboard.<br><br>Residents of Orchid Apartments will benefit from all the local amenities of Tower Bridge and St. Katherine Docks and being ideally located just minutes from transport links for easy access to Canary Wharf and the City.<br>The DLR will take you into bank within 5-7 minutes.<br><br>Should you wish to arrange a viewing please reach out to the team on or send through an enquiry via the portals&lt;br /&gt;&lt;br /&gt;",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "3 Bed, 2 bath",
+                "240 years reaming on the lease",
+                "1st Floor",
+                "0.4 Miles to Shadwell Dlr Station",
+                "934 Sqft",
+                "Open Plan Kitchen Living area",
+                "Balcony",
+                "EWS1 Compliant",
+                "EPC rating B",
+                "Ample Storage"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "0fd3c35abe37585f949541efa58514a0044502dd.jpg",
+                    "caption": "Picture No. 13"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "fe954f31f304efea21109d43acd7d61a73ac6f29.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "695f19e141f1ab7e9a1c5ad30e89eaafc3340d30.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "dd58a59ef2047a3b97ca71c37d6e5b08c1cd6da9.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3d6cb0523a8506c868479a3c377b9273417ea26f.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f7483b7bc7bdc95971fb9176f89302ff0233eaf5.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "99f54b732283ebe5ffc3d15fe9cbff0ad1286cf5.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fbf331d0a7b4951210fb2c83bdcb71b160d9b20c.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8db99d33d6c54e9a84e1b5d8cb372a1e72c24c32.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4b7a8e13f774e1be0aa0c9458ede0ab7da6deb44.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "dcefabca21732c4173b02b0acf595dee02a73266.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f2a53bb69f3814f40a4ef930c3ebb5a8c63053d8.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5d99b882c5eed0de51e54dff6f8d71deefa58ad7.jpg",
+                "caption": "Picture No. 13"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 14358,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396521).png",
+            "branchName": "LiFE Residential - North London",
+            "brandName": "LiFE Residential",
+            "chainFree": true,
+            "companyId": 2268,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Orchid Apartments, The Hawksmoors, 57 Crowder Street, London E1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0EZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60741832,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "E1",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 446079
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Orchid Apartments, The Hawksmoors, 57 Crowder Street, London E1 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Orchid Apartments, The Hawksmoors, 57 Crowder Street, London E1, selling for \u00a3625,000 from LiFE Residential - North London. See property details on Zoopla or browse all our range of properties in Orchid Apartments, The Hawksmoors, 57 Crowder Street, London E1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60741832/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.509571,
+                "longitude": -0.061427
+            }
+        },
+        "displayAddress": "Orchid Apartments, The Hawksmoors, 57 Crowder Street, London E1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-11T17:38:54",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2012-09-11",
+                "newBuild": true,
+                "price": 320000,
+                "priceLabel": "\u00a3320,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 146
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/0fd3c35abe37585f949541efa58514a0044502dd.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "LiFE Residential",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60741832,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "B358B3B6-8DD6-11EC-BCA4-5D280E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E1",
+            "areaNameUri": "london/e1/aldgate-stepney-mile-end-whitechapel",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 4812.532467532486
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 558247,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 568496,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -10249
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 587375,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -29128
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 619566,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -61319
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 551975,
+                    "pctChangeSince": 1.136,
+                    "date": "2017-02-26",
+                    "changeSince": 6272
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 352800,
+                    "pctChangeSince": 58.233,
+                    "date": "2012-02-26",
+                    "changeSince": 205447
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 353510,
+                    "pctChangeSince": 57.915,
+                    "date": "2007-02-26",
+                    "changeSince": 204737
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 205261,
+                    "pctChangeSince": 171.969,
+                    "date": "2002-02-26",
+                    "changeSince": 352986
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 550168,
+                    "newBuilds": 3,
+                    "numSales": 309
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 550854,
+                    "newBuilds": 66,
+                    "numSales": 935
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 553065,
+                    "newBuilds": 87,
+                    "numSales": 1743
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 566126,
+                    "newBuilds": 271,
+                    "numSales": 3216
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 330000,
+                    "propertyId": 7605172,
+                    "streetAddress": "Flat 40, Brockmer House, Crowder Street",
+                    "uri": "flat-40/brockmer-house/crowder-street/london/e1-0bj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1250000,
+                    "propertyId": 7609296,
+                    "streetAddress": "22 Parfett Street",
+                    "uri": "22-parfett-street/london/e1-1jr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 296000,
+                    "propertyId": 7611312,
+                    "streetAddress": "17a Sidney Street",
+                    "uri": "17a-sidney-street/london/e1-2hh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 127500,
+                    "propertyId": 28756974,
+                    "streetAddress": "Flat 39, Coalstore Court, 5 Candle Street",
+                    "uri": "flat-39/coalstore-court/5-candle-street/london/e1-4rs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 7604719,
+                    "streetAddress": "Flat 9, Donovan House, Cable Street",
+                    "uri": "flat-9/donovan-house/cable-street/london/e1-0aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 7629709,
+                    "streetAddress": "Flat 22, Swan Court, Star Place",
+                    "uri": "flat-22/swan-court/star-place/london/e1w-1af"
+                }
+            ]
+        }
+    }
+}

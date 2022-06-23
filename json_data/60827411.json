@@ -1,0 +1,546 @@
+{
+    "address": "Old Street, Old Street, London EC1V",
+    "price": "\u00a3625,000",
+    "beds": "3 beds",
+    "area": "863 sq. ft",
+    "sqm": 80.14,
+    "sqft": 2020.0,
+    "text": "Foxtons Bath Street, EC1V\n17/1/2020 28,295,169 80.14 sqm / 862.62 sqft\nN\nRECEPTION\n5.00m x 8.28m\n(16'5 x 109) KITCHEN\n3.41m x 3.12m\n(11'2 x 10\u00b03)\n=\n~S tz\n\u2019 na\ntT = Sixth Floor\nPD I\n= az\n| >) =\nas rf\n=\n\u2014_\n\u2014\n. a a\ni\n\u2014e\nMAIN BEDROOM 1 sevroom 2\n4.45m x 2.51m Fj 4.44m x 2.56m\n(147 x 8'3) ne (14\u00b07 x 8'5)\nBEDROOM 3\n3.45m x 2.06m\n(11'4 x 6'9)\nSSaaeee\n\u2014 Fifth Floor\n80.14 sqm / 862.62 sqft 73.61 sqm / 792.33 sqft 0.00 sqm / 0.00 sqft 0.00 sqm / 0.00 saft\nfMspec\u2019\nVerified @\n",
+    "image": "./extracted_images/60827411.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60827411/",
+    "listing_no": "60827411",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.525435,
+        "longitude": -0.090712
+    },
+    "first_published": "2022-02-22T19:05:22",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60827411",
+        "publishedOn": "2022-02-22T19:05:22",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/ec1v/chpk1233958/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/ec1v/chpk1233958",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/ec1v/chpk1233958/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 32648,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Clerkenwell",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Old Street, Old Street, London EC1V",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9NS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60827411,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 14,
+            "numRecepts": null,
+            "outcode": "EC1V",
+            "postalArea": "EC",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "863",
+            "tenure": null,
+            "zindex": 484059
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-clerkenwell-london-32648/",
+            "branchId": "32648",
+            "branchResultsUri": "/for-sale/branch/foxtons-clerkenwell-london-32648/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3463 2552",
+            "name": "Foxtons - Clerkenwell",
+            "memberType": "agent",
+            "address": "50-54 Clerkenwell Road, London",
+            "postcode": "EC1M 5PS"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Luke's CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Old Street",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Old Street",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Central Foundation Boys' School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/5fb4e5f78d40de0a06ee4444"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Located close to the City and Silicon Roundabout, this charming 3 bed duplex flat offers a Private Balcony and is set over 2 floors of a purpose built block. Encompasses neutral, modern decor with a well lit interior.<br><br>Newland Court is located next to the busy Old Street roundabout. It is ideal for fast commutes to the City, with the underground station a stone's throw away, while the City can be reached on foot within 20 minutes.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "A lovely duplex flat situated on the 5th and 6th floor",
+                "2 neutral Double Bedrooms",
+                "A further single bedroom",
+                "Private Balcony",
+                "Neatly presented bathroom and WC",
+                "Modern interior throughout",
+                "Warm wooden flooring",
+                "Close to both The City and Shoreditch - very close to Old Street Station"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "fbbf87a22d4f6eefb2de78d86ed776e6805d2f5c.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "606ff4d410f025add01b9260ab5de53a82941259.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a315e992c0cd0f31874f266f72fd0fb9a3ed5f3e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e6612cbb60eb92977b9f1e36acdf1975a2840b85.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e33a6e139c4f675351a3dd81045f2f0393683b5e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5c1eac37a3adb6e261b70ad5846b95c6eb063f9b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fa5d5a402b30c3316b5c1b517bd2582a324fe273.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5971ffce9d125a64f1ae365c9348c0a0b75d79a2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6ea4bfc2e0cb41f267e65e01e1d4ad52e35db8c6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "13eadb0e559df085440a647ef7b28273d50762c3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "42d15a8417f80f6ac97728cc313bfb16778f7b52.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c5fd19141a8ce03863125d4e9b94f5f7164bad3d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d5b2166895666f09fd88ab4646ab1ca2d747daf1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1a1386cb4061c185497365e0a42ca59dc84f1f59.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9607c2be2bcd0bd10817289a02f161552dfd9c64.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 32648,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Clerkenwell",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Old Street, Old Street, London EC1V",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9NS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60827411,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 14,
+            "numRecepts": null,
+            "outcode": "EC1V",
+            "postalArea": "EC",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "863",
+            "tenure": null,
+            "zindex": 484059
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Old Street, Old Street, London EC1V - Zoopla",
+        "metaDescription": "3 bed flat for sale in Old Street, Old Street, London EC1V, selling for \u00a3625,000 from Foxtons - Clerkenwell. See property details on Zoopla or browse all our range of properties in Old Street, Old Street, London EC1V.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60827411/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.525435,
+                "longitude": -0.090712
+            }
+        },
+        "displayAddress": "Old Street, Old Street, London EC1V",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-22T19:05:22",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 54
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/fbbf87a22d4f6eefb2de78d86ed776e6805d2f5c.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": null
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 863
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 724,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60827411,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "64E55EAE-9412-11EC-8406-ABFF0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "EC1V",
+            "areaNameUri": "ec1v",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 4188.88888888889
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 796058,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 802855,
+                    "pctChangeSince": -0.847,
+                    "date": "2021-11-26",
+                    "changeSince": -6797
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 817569,
+                    "pctChangeSince": -2.631,
+                    "date": "2021-08-26",
+                    "changeSince": -21511
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 869681,
+                    "pctChangeSince": -8.466,
+                    "date": "2021-02-26",
+                    "changeSince": -73623
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 864429,
+                    "pctChangeSince": -7.909,
+                    "date": "2017-02-26",
+                    "changeSince": -68371
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 584541,
+                    "pctChangeSince": 36.185,
+                    "date": "2012-02-26",
+                    "changeSince": 211517
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 512266,
+                    "pctChangeSince": 55.399,
+                    "date": "2007-02-26",
+                    "changeSince": 283792
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 334472,
+                    "pctChangeSince": 138.004,
+                    "date": "2002-02-26",
+                    "changeSince": 461586
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-07T00:00:00Z",
+                    "price": 630000,
+                    "propertyId": 7966436,
+                    "streetAddress": "Flat 26, Steadman Court, 165 Old Street",
+                    "uri": "flat-26/steadman-court/165-old-street/london/ec1v-9nd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 7963399,
+                    "streetAddress": "367 St. John Street",
+                    "uri": "367-st-john-street/london/ec1v-4lb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 725000,
+                    "propertyId": 7962088,
+                    "streetAddress": "Flat 12, 26 Bastwick Street",
+                    "uri": "flat-12/26-bastwick-street/london/ec1v-3pp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-27T00:00:00Z",
+                    "price": 625000,
+                    "propertyId": 31072228,
+                    "streetAddress": "Apartment 33, Orchard Building, 25 Pear Tree Street",
+                    "uri": "apartment-33/orchard-building/25-pear-tree-street/london/ec1v-3ap"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 6700000,
+                    "propertyId": 7963427,
+                    "streetAddress": "1 Leo Yard",
+                    "uri": "1-leo-yard/london/ec1v-4lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 580000,
+                    "propertyId": 29600219,
+                    "streetAddress": "210 Dance Square",
+                    "uri": "210-dance-square/london/ec1v-3an"
+                }
+            ]
+        }
+    }
+}

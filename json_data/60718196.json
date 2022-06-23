@@ -1,0 +1,567 @@
+{
+    "address": "Brondesbury Park, London NW6",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": "697 sq. ft",
+    "sqm": 64.8,
+    "sqft": 697.0,
+    "text": "Brondesbury Park, London, NW6\nApproximate Area = 697 sq ft / 64.8 sqm\nYs\nBalcony\nBedroom 2\nws, 124378) min \u201824 (O70)\n\u2018eception Room x max \u2018\n46\u00b011 (5.16) max HIAEN)\nx 11'3 (3.43) min\nKitchen / Cc .s\nf Breakfast Room S\nFao 13'4 (4,06) > 7\nx 8'11 (2.72) \u00ab|\nFIRST FLOOR\nCortified a th RIGS Property Me orporat\n",
+    "image": "./extracted_images/60718196.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60718196/",
+    "listing_no": "60718196",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.542907,
+        "longitude": -0.212197
+    },
+    "first_published": "2022-02-09T10:21:59",
+    "last_sale_date": "2015-01-23",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60718196",
+        "publishedOn": "2022-02-09T10:21:59",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brondesbury Park, London",
+                "original": "https://lc.zoocdn.com/eea0bc8ef137396ad4f5dda4da483a3ee8dcc89f.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 6178,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(596438).png",
+            "branchName": "Camerons Stiff & Co.",
+            "brandName": "Camerons Stiff & Co",
+            "chainFree": false,
+            "companyId": 622,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brondesbury Park, London NW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7BS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60718196,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 17,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "697",
+            "tenure": "leasehold",
+            "zindex": 724481
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/camerons-stiff-and-co-london-6178/",
+            "branchId": "6178",
+            "branchResultsUri": "/for-sale/branch/camerons-stiff-and-co-london-6178/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(596438).png",
+            "phone": "020 3544 7940",
+            "name": "Camerons Stiff & Co.",
+            "memberType": "agent",
+            "address": "62 Salusbury Road, London",
+            "postcode": "NW6 6NS"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Marylebone Boys' School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brondesbury College London",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brondesbury Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kilburn",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://property-teaser-video.s3.eu-west-1.amazonaws.com/836abb78-6192-4363-8374-3ce23a6d45fe.mp4"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "04f88fe04be7086b10920def5cbb2db3a7d95a68.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A well proportioned and presented two bedroom apartment, offering in excess of 695 sq ft of internal living accommodation. Comprised within a mid-century apartment building in the heart of Brondesbury Park, the property offers a fantastic opportunity to acquire a thoughtfully arranged and enviably located apartment.<br><br>The property has a calming, classical aesthetic throughout, and is predominantly decorated in grey, beige and pastel hues. The apartment is constituted around a main entrance hallway, from which all the main rooms are accessible. The kitchen and reception room occupy the left hand side, whilst the two bedrooms occupy the right. A small balcony which overlooks the communal gardens is accessible through the reception room. The main family bathroom offers an enclosed shower, WC and basin while the en-suite is a modern white three piece bathroom suite.<br><br>The property is a short walk from the varied amenities of Willesden Green, Queen\u2019s Park and Kensal Rise. Local transport links include Willesden Green (Jubilee - Zone 2), Brondesbury Park (Overground) and Queen\u2019s Park (Bakerloo - Zone 2).<br><br>Early viewing is recommended.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "A well proportioned two bedroom apartment.",
+                "Offers in excess of 695 sq ft of well laid out internal living accommodation.",
+                "Generous sized open plan reception/kitchen.",
+                "Two good sized double bedrooms with fitted wardrobes and en-suite to bedroom 1.",
+                "Modern three piece bathroom suite.",
+                "Communal gardens.",
+                "Convenient location close to many local amenities.",
+                "Located in the heart of Brondesbury Park.",
+                "Balcony which overlooks the communal garden.",
+                "Secure gated entrance with allocated off-street parking at rear of property."
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "e7b448803324ebadf7603b270fe5ef7db7fd4425.jpg",
+                    "caption": "Watermark Floor Plan.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "aa53ddf1676bcb21aabb16ba6ec14cb0b839126e.jpg",
+                "caption": "Limes Court-Reception Dinning.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e24395ae54e2c7b4676d27018b72234ad0d9338c.jpg",
+                "caption": "Limes Court- Hallway.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e30693bfddec02b0bf31491577d0e06588b7fef8.jpg",
+                "caption": "Limes Court- Building.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7a093e1e3f22e3bfef2f07825fb504f85f6a152e.jpg",
+                "caption": "Limes Court- Kitchen (2).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "33dcbd313dcab4a1c074cd9bf56600328d25b98a.jpg",
+                "caption": "Limes Court- Kitchen.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d9e68652ba829f86e32c09dae423a8bd217bf58c.jpg",
+                "caption": "Limes Court- Reception.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7bea7c07df6b62c1aedf4eefb74a6245e561d2a4.jpg",
+                "caption": "Limes Court-Reception Dinning..Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3d290def0330b0ab08650c1b16effcc2a2f040c1.jpg",
+                "caption": "Limes Court- Bedroom (2).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "400be1d5b5a9fffd72f5d6b97198164901d21742.jpg",
+                "caption": "Limes Court- Bedroom.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7e7577664064a579e828d58980f3ee9d6d17e491.jpg",
+                "caption": "Limes Court- Bedroom (3).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "50f2f620c557ab1889a0a9cbbf1dace066712083.jpg",
+                "caption": "Limes Court- Bedroom (5).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "39a9db14ad1c07c8385c1fa2e1df9cab54d358cf.jpg",
+                "caption": "Limes Court- Bedroom (4).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3e4017bd938e4a3a3f1a557bc6b2f73b1cab8127.jpg",
+                "caption": "Limes Court- Bathroom (2).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9ad20527f5b58e76d641d47d4421d2414e3043b2.jpg",
+                "caption": "Limes Court- Bathroom.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8b61d8f9c53a328bcf3f68c4629fdfaae35ea4bf.jpg",
+                "caption": "Limes Court- View From The Balcony.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "49aaed97c61ad20f03d7712647a96ddf7a79b391.jpg",
+                "caption": "Limes Court- Back Of The Buidling.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a9bca396c14635dc7efac25ba51909d0916bea0f.jpg",
+                "caption": "Communal Gardem.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 6178,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(596438).png",
+            "branchName": "Camerons Stiff & Co.",
+            "brandName": "Camerons Stiff & Co",
+            "chainFree": false,
+            "companyId": 622,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brondesbury Park, London NW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7BS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60718196,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 17,
+            "numRecepts": 1,
+            "outcode": "NW6",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "697",
+            "tenure": "leasehold",
+            "zindex": 724481
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Brondesbury Park, London NW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Brondesbury Park, London NW6, selling for \u00a3550,000 from Camerons Stiff & Co.. See property details on Zoopla or browse all our range of properties in Brondesbury Park, London NW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60718196/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.542907,
+                "longitude": -0.212197
+            }
+        },
+        "displayAddress": "Brondesbury Park, London NW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-09T10:21:59",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2015-01-23",
+                "newBuild": false,
+                "price": 490000,
+                "priceLabel": "\u00a3490,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 224
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/e7b448803324ebadf7603b270fe5ef7db7fd4425.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 697
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 789,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Camerons Stiff & Co",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60718196,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "0EDBBCA4-8A7D-11EC-BB04-C1EF0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW6",
+            "areaNameUri": "london/nw6/kilburn-queens-park-south-and-west-hampstead-brondesbury-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2462.275362318841
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 639412,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 650315,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10903
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 670511,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -31099
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 700633,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -61221
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 661041,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -21629
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 456421,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 182991
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 407367,
+                    "pctChangeSince": 56.962,
+                    "date": "2007-02-26",
+                    "changeSince": 232045
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 240567,
+                    "pctChangeSince": 165.794,
+                    "date": "2002-02-26",
+                    "changeSince": 398845
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 667712,
+                    "newBuilds": 3,
+                    "numSales": 291
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 672521,
+                    "newBuilds": 45,
+                    "numSales": 870
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 677804,
+                    "newBuilds": 112,
+                    "numSales": 1709
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 662927,
+                    "newBuilds": 321,
+                    "numSales": 2863
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-26T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 30814183,
+                    "streetAddress": "Flat 2, 21 Brondesbury Park",
+                    "uri": "flat-2/21-brondesbury-park/london/nw6-7bs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760000,
+                    "propertyId": 17241471,
+                    "streetAddress": "Flat 3, Lawn Mansions, Gondar Gardens",
+                    "uri": "flat-3/lawn-mansions/gondar-gardens/london/nw6-1er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 3350000,
+                    "propertyId": 17259571,
+                    "streetAddress": "98 Christchurch Avenue",
+                    "uri": "98-christchurch-avenue/mapesbury/london/nw6-7pe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1196750,
+                    "propertyId": 17241043,
+                    "streetAddress": "1 Norman Terrace, Agamemnon Road",
+                    "uri": "1-norman-terrace/agamemnon-road/london/nw6-1bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 262500,
+                    "propertyId": 17252821,
+                    "streetAddress": "Flat 4, Kilburn Gate, Kilburn Priory",
+                    "uri": "flat-4/kilburn-gate/kilburn-priory/london/nw6-5nd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 875000,
+                    "propertyId": 17260049,
+                    "streetAddress": "10 Douglas Road",
+                    "uri": "10-douglas-road/london/nw6-7rp"
+                }
+            ]
+        }
+    }
+}

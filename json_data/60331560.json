@@ -1,0 +1,477 @@
+{
+    "address": "Holmleigh Road, London N16",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": "822 sq. ft",
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60331560/",
+    "listing_no": "60331560",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.569459,
+        "longitude": -0.075191
+    },
+    "first_published": "2021-12-06T16:30:06",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60331560",
+        "publishedOn": "2021-12-06T16:30:06",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 87565,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(479377).png",
+            "branchName": "Home Provider Ltd",
+            "brandName": "Home Provider Ltd",
+            "chainFree": false,
+            "companyId": 59406,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Holmleigh Road, London N16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5QG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60331560,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 1,
+            "numRecepts": 1,
+            "outcode": "N16",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_in_region_of",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "822",
+            "tenure": "leasehold",
+            "zindex": 428552
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/home-provider-ltd-london-87565/",
+            "branchId": "87565",
+            "branchResultsUri": "/for-sale/branch/home-provider-ltd-london-87565/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(479377).png",
+            "phone": "020 8115 7613",
+            "name": "Home Provider Ltd",
+            "memberType": "agent",
+            "address": "32 Montefiore Court, 69 Stamford Hill, London",
+            "postcode": "N16 5TY"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Holmleigh Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wiznitz Cheder School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stoke Newington",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stamford Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "4bbf46b8f2db645064c08e2a23d98cbbfb7f0b96.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "We are delighted to offer this 2 bedroom ground floor garden flat to the market in this sought after central location.<br><br>The flat briefly comprises:<br><br>- 2 Bedrooms<br>- Spacious dining/living room<br>- Kosher kitchen/diner<br>- Shared garden<br><br>Circa 53 years remaining on the lease (Possibility to extend)<br><br>The property has excellent transport links and is located within 0.4 miles of Stoke Newington br station and is a 5 min/7 min drive to Manor House and Seven Sisters underground stations.. There are also numerous bus routes on Stamford Hill servicing all directions. There is an excellent choice of recreation space nearby including Clissold Park, Stoke Newingon Common and Abney Park. Church Street is also close by, with it's choice of popular coffee shops, restaurants and amenities.<br><br>See floor plan for full dimensions and overall layout.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Private garden",
+                "Central heating",
+                "Central Location",
+                "Great Transport Links"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/88765754d765f38067669cd2aa194ff792c79333.pdf",
+                    "caption": null
+                }
+            ]
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "9b7cc101537e33d3c72b56bfc6113b5c94025c71.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 87565,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(479377).png",
+            "branchName": "Home Provider Ltd",
+            "brandName": "Home Provider Ltd",
+            "chainFree": false,
+            "companyId": 59406,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Holmleigh Road, London N16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5QG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60331560,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 1,
+            "numRecepts": 1,
+            "outcode": "N16",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_in_region_of",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "sizeSqFeet": "822",
+            "tenure": "leasehold",
+            "zindex": 428552
+        },
+        "title": "2 bed maisonette for sale",
+        "metaTitle": "2 bed maisonette for sale in Holmleigh Road, London N16 - Zoopla",
+        "metaDescription": "2 bed maisonette for sale in Holmleigh Road, London N16, selling for \u00a3550,000 from Home Provider Ltd. See property details on Zoopla or browse all our range of properties in Holmleigh Road, London N16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60331560/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.569459,
+                "longitude": -0.075191
+            }
+        },
+        "displayAddress": "Holmleigh Road, London N16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-06T16:30:06",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 179
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/88765754d765f38067669cd2aa194ff792c79333.pdf"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 822
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "Offers in region of",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 669,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Home Provider Ltd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60331560,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "ED5A5644-6191-11EC-83A6-72D70D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N16",
+            "areaNameUri": "london/n16/stoke-newington-stamford-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2184.942028985508
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 489352,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 497812,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8460
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 513405,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -24053
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 539276,
+                    "pctChangeSince": -9.258,
+                    "date": "2021-02-26",
+                    "changeSince": -49924
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 498929,
+                    "pctChangeSince": -1.92,
+                    "date": "2017-02-26",
+                    "changeSince": -9577
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 327097,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 162255
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 306840,
+                    "pctChangeSince": 59.481,
+                    "date": "2007-02-26",
+                    "changeSince": 182512
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 184703,
+                    "pctChangeSince": 164.94,
+                    "date": "2002-02-26",
+                    "changeSince": 304649
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 523326,
+                    "newBuilds": 0,
+                    "numSales": 230
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 501637,
+                    "newBuilds": 1,
+                    "numSales": 584
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 501736,
+                    "newBuilds": 51,
+                    "numSales": 1105
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 494034,
+                    "newBuilds": 138,
+                    "numSales": 1834
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-10T00:00:00Z",
+                    "price": 1068000,
+                    "propertyId": 15235775,
+                    "streetAddress": "138 Holmleigh Road",
+                    "uri": "138-holmleigh-road/london/n16-5py"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-18T00:00:00Z",
+                    "price": 455000,
+                    "propertyId": 15235754,
+                    "streetAddress": "Flat 8, Carlton Mansions, Holmleigh Road",
+                    "uri": "flat-8/carlton-mansions/holmleigh-road/london/n16-5px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-15T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 15235716,
+                    "streetAddress": "Flat 31, Carlton Mansions, Holmleigh Road",
+                    "uri": "flat-31/carlton-mansions/holmleigh-road/london/n16-5px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 931000,
+                    "propertyId": 15247283,
+                    "streetAddress": "11 St. Jude Street",
+                    "uri": "11-st-jude-street/london/n16-8ju"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1450000,
+                    "propertyId": 15239636,
+                    "streetAddress": "110a Osbaldeston Road",
+                    "uri": "110a-osbaldeston-road/london/n16-6nl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 470000,
+                    "propertyId": 15235016,
+                    "streetAddress": "Flat 1, Hamblyn Court, 5 Amhurst Park",
+                    "uri": "flat-1/hamblyn-court/5-amhurst-park/london/n16-5lu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 407000,
+                    "propertyId": 15243972,
+                    "streetAddress": "Flat 2, Elm House, Brooke Road",
+                    "uri": "flat-2/elm-house/brooke-road/london/n16-7rh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-24T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 15247583,
+                    "streetAddress": "Flat 11, Patmore House, Mayville Estate",
+                    "uri": "flat-11/patmore-house/mayville-estate/london/n16-8lq"
+                }
+            ]
+        }
+    }
+}

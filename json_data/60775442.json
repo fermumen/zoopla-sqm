@@ -1,0 +1,597 @@
+{
+    "address": "Blondin Way, Canada Water SE16",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 80.8,
+    "sqft": 870.0,
+    "text": "Blackthorn House,\nBlondin Way\nApprox. Gross Internal Area 870 Sq Ft - 80.8 SqM\nN\nReception/\nDining Room/\n| Kitchen\n25' x 13'9\"\n| 7.62 x 4.19m\n| 09]\na]\nT\nCael\nBedroom ge = (\u00e9}\n1411\" x 10'6\" SiS\n4.29 x 3.20m \u00a9 a]\nHall .\n16'3\" x 11'11\"\nBedroom 4.95 x 3.63m =\n1411\" x 10'5\"\n4.29 x 3.17m Ensuite\n102\" x 4'10\" \\|\n3.10 x 1.4)\npot) LA\nFirst Floor\nFor Illustration Purposes Only - Not To Scale\n\u2018This for plan shoud be used as a general outne fr guidance ony and doesnot constiutein whol on part an offer or contract\nAny intending purchaser or lessee shou sats themselves by nspecion searches, enquires and ful suvey ato te correctness of ech statement\n(ay atees, measurements or dlances quied are approxima and shou not be used vahe a property or be te basis of any sae orl\n",
+    "image": "./extracted_images/60775442.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60775442/",
+    "listing_no": "60775442",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.500946,
+        "longitude": -0.036765
+    },
+    "first_published": "2022-02-16T13:57:16",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60775442",
+        "publishedOn": "2022-02-16T13:57:16",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Blondin Way, Canada Water, Se16",
+                "original": "https://lc.zoocdn.com/4ecc8f4ebc3dc320442c45a375f6559adf5f74cf.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31289840",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 105279,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(634987).png",
+            "branchName": "Alex & Matteo Estate Agents",
+            "brandName": "Alex & Matteo Estate Agents",
+            "chainFree": false,
+            "companyId": 81687,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Blondin Way, Canada Water SE16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6BB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60775442,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "SE16",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/alex-and-matteo-estate-agents-london-105279/",
+            "branchId": "105279",
+            "branchResultsUri": "/for-sale/branch/alex-and-matteo-estate-agents-london-105279/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(634987).png",
+            "phone": "020 8033 0922",
+            "name": "Alex & Matteo Estate Agents",
+            "memberType": "agent",
+            "address": "The Biscuit Factory, London",
+            "postcode": "SE16 4DG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Redriff Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St John's Roman Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hilton Docklands Nelson Dock Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Greenland Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "6f8f4b9e96efe22af590658e90d2c54328bc1d78.png",
+                    "url": null
+                },
+                {
+                    "__typename": "Media",
+                    "caption": "EI Rating",
+                    "filename": "6084c61809b53a9f11b6703e67cc6c8e28799f8f.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A generous (the biggest layout in the building) two double bedroom two bathroom apartment with balcony in a modern and tranquil portered Canada Water development.<br>The property boasts a generous and naturally bright open plan living space featuring a contemporary kitchen with all mod-cons, the spacious master bedroom en-suite with plenty of storage space, the second generous double bedroom, a stylish family bathroom, and a spacious storage / laundry room in the hallway. The property comes with gated covered parking space.<br>A few steps down from their front doors, residents can enjoy a state of art fitness facility alongside a concierge.<br>Located next to the greenery of Russia Dock Woodland which is also a stones throw away from Redriff Primary City of London Academy school which is rated by ofsted being outstanding. The property is also a short stroll from Canada Water underground station as well as the River Thames, the property is ideal for those looking to live in a modern and tranquil setting without giving up the privilege to live in the heart of London.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Underfloor Heating",
+                "Two Double Bedrooms",
+                "Two Bathrooms",
+                "Gated Covered Parking Space",
+                "Secure Bicycle Storage",
+                "Gym &amp; Concierge",
+                "East Facing Apartment",
+                "Within Redriff School Catchment Area",
+                "Within Easy Reach of Canada Water Station",
+                "Moments from River Thames"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "6439ce47fb024ffc61ed158f08ae8fe6d0f47837.jpg",
+                    "caption": "14 Blackthorn House, Blondin Way - Hi.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "8eb9d5827153bb5618f95e0afca87032ff2ff15a.jpg",
+                "caption": "_Dsc2822.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f68c1dd4c69882140f5f7095a8e62086c57b2029.jpg",
+                "caption": "_Dsc2843.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c151df71d420ee07f28fd19e811f3b987e38f382.jpg",
+                "caption": "_Dsc2846.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4f1e505f5ea181685cd33748d0f6551d7da93f6c.jpg",
+                "caption": "_Dsc2851.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "556a95813557a2ca09d5de6910c8c6df9c8065d3.jpg",
+                "caption": "_Dsc2840.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "763c3ebf77b1b8f19ed47d638bcef2e935ce72c8.jpg",
+                "caption": "_Dsc2804.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "382729636cf826887e6f5ccf17961ec1913878ff.jpg",
+                "caption": "_Dsc2805.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b1cc036a2b2c35c577512d66e0447b2ad2a5f27a.jpg",
+                "caption": "_Dsc2817.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4a19748df986f54dbf3cd9d6eb6a183879897a23.jpg",
+                "caption": "_Dsc2855.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e244c04b927a98d650dcfa546ae96285ff904cbc.jpg",
+                "caption": "_Dsc2857.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "dd9c5de21a7fc86e82f2d60863e00ec65aef6700.jpg",
+                "caption": "_Dsc2824.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "dca499f168e239ad5f414446b495b9b39c0b67cf.jpg",
+                "caption": "_Dsc6246.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "de1ad424958f8f08384bb9a4085f54b197828129.jpg",
+                "caption": "_Dsc6250.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "68c2770e61321b0a436597181d651a4775760814.jpg",
+                "caption": "_Dsc2860.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ba2135653db95726c295bfb2bfd08000b956d967.jpg",
+                "caption": "_Dsc2859.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f666db04d1c84f64fe0ea53569e0f9902d0d7210.jpg",
+                "caption": "_Dsc6254.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "88ba4da87dd546034d713e3c091eed68533affb9.jpg",
+                "caption": "_Dsc6257.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2fba60abfaa5faf418d5085c0579a067734a5e68.jpg",
+                "caption": "_Dsc6269.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 105279,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(634987).png",
+            "branchName": "Alex & Matteo Estate Agents",
+            "brandName": "Alex & Matteo Estate Agents",
+            "chainFree": false,
+            "companyId": 81687,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Blondin Way, Canada Water SE16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6BB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60775442,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "SE16",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Blondin Way, Canada Water SE16 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Blondin Way, Canada Water SE16, selling for \u00a3600,000 from Alex & Matteo Estate Agents. See property details on Zoopla or browse all our range of properties in Blondin Way, Canada Water SE16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60775442/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.500946,
+                "longitude": -0.036765
+            }
+        },
+        "displayAddress": "Blondin Way, Canada Water SE16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-16T13:57:16",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 79
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/6439ce47fb024ffc61ed158f08ae8fe6d0f47837.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Alex & Matteo Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60775442,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "C9143214-9409-11EC-B5A8-99CF0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE16",
+            "areaNameUri": "london/se16/rotherhithe-south-bermonsey-surrey-docks",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2224.213333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 471740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 474988,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3248
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 477012,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5272
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 499153,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -27413
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 453967,
+                    "pctChangeSince": 3.915,
+                    "date": "2017-02-26",
+                    "changeSince": 17773
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 296770,
+                    "pctChangeSince": 58.958,
+                    "date": "2012-02-26",
+                    "changeSince": 174970
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 286772,
+                    "pctChangeSince": 64.5,
+                    "date": "2007-02-26",
+                    "changeSince": 184968
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 170159,
+                    "pctChangeSince": 177.235,
+                    "date": "2002-02-26",
+                    "changeSince": 301581
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 450307,
+                    "newBuilds": 0,
+                    "numSales": 232
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 436769,
+                    "newBuilds": 65,
+                    "numSales": 678
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 452137,
+                    "newBuilds": 183,
+                    "numSales": 1544
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 446815,
+                    "newBuilds": 355,
+                    "numSales": 2646
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-29T00:00:00Z",
+                    "price": 218000,
+                    "propertyId": 31857686,
+                    "streetAddress": "2, Robinia House, 10 Blondin Way",
+                    "uri": "2/robinia-house/10-blondin-way/london/se16-6bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 546000,
+                    "propertyId": 31750692,
+                    "streetAddress": "39, Bluebell House, 8 Blondin Way",
+                    "uri": "39/bluebell-house/8-blondin-way/london/se16-6bd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-23T00:00:00Z",
+                    "price": 525000,
+                    "propertyId": 31750676,
+                    "streetAddress": "23, Bluebell House, 8 Blondin Way",
+                    "uri": "23/bluebell-house/8-blondin-way/london/se16-6bd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-10T00:00:00Z",
+                    "price": 198000,
+                    "propertyId": 31857687,
+                    "streetAddress": "3, Robinia House, 10 Blondin Way",
+                    "uri": "3/robinia-house/10-blondin-way/london/se16-6bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-03T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 31750665,
+                    "streetAddress": "12, Bluebell House, 8 Blondin Way",
+                    "uri": "12/bluebell-house/8-blondin-way/london/se16-6bd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 268000,
+                    "propertyId": 21086900,
+                    "streetAddress": "62 Amina Way",
+                    "uri": "62-amina-way/london/se16-3uj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 835000,
+                    "propertyId": 21097466,
+                    "streetAddress": "42 Rope Street",
+                    "uri": "42-rope-street/london/se16-7te"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 21090848,
+                    "streetAddress": "Flat 1, Old Fire Station Court, 241 Rotherhithe Street",
+                    "uri": "flat-1/old-fire-station-court/241-rotherhithe-street/london/se16-5el"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 347500,
+                    "propertyId": 21098418,
+                    "streetAddress": "Flat 6, Mast Court, 1 Boat Lifter Way",
+                    "uri": "flat-6/mast-court/1-boat-lifter-way/london/se16-7wh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 21096228,
+                    "streetAddress": "Flat 8, Gabriel House, 10 Odessa Street",
+                    "uri": "flat-8/gabriel-house/10-odessa-street/london/se16-7hq"
+                }
+            ]
+        }
+    }
+}

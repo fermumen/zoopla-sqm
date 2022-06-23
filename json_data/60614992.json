@@ -1,0 +1,528 @@
+{
+    "address": "Adelaide Road, London NW3",
+    "price": "\u00a3580,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 67.0,
+    "sqft": null,
+    "text": "REGENCY LODGE, ADELAIDE ROAD, NW3\nTOTAL APPROX. FLOOR PLAN AREA 717 SQFT (67 SQ.M.)\nFOURTH FLOOR N\nCREATED ON 01/12/2015, sly\n20\nays\n= ry\n5)\nBEDROOM\n- 139 1110\nCM (4.20m x 3.60m)\nFIRE EXIT Be\n(3.60m x 2.15m) (6)-\n= v\nWC. \\ BATHROOM }\n53x29 . 6A) 10x53\n(1.70m x 0.85m) iq Z (2.70m x 1.60m)\nCG \u00a2 )\nINS 2\nCc\nRECEPTION\n16'11 x 128\n(5.15m x 3.85m)\nBEDROOM\n135x810\n(4.10m x 2.70m)\ny\nee\n=o /Almeasurements wats, doors, wndows tings andthe applances, he size neocons ae\n= Show corventorahy end are spprouncie cay aeiconnolte garded ss Bag roresaTont\nGIZENTUVO \u2014 Six rSederohegwertrann\n",
+    "image": "./extracted_images/60614992.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60614992/",
+    "listing_no": "60614992",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.543937,
+        "longitude": -0.161752
+    },
+    "first_published": "2022-01-26T14:43:28",
+    "last_sale_date": "2006-10-11",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60614992",
+        "publishedOn": "2022-01-26T14:43:28",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Adelaide Road, Swiss Cottage",
+                "original": "https://lc.zoocdn.com/ad938c2246423b9496f54dd26f0252116426898e.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31238788",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 104308,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727276).png",
+            "branchName": "Wellington Estates",
+            "brandName": "Wellington Estates Property Ltd",
+            "chainFree": false,
+            "companyId": 80436,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Adelaide Road, London NW3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5EB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60614992,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "NW3",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 765089
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/wellington-estates-london-104308/",
+            "branchId": "104308",
+            "branchResultsUri": "/for-sale/branch/wellington-estates-london-104308/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727276).png",
+            "phone": "020 8033 2116",
+            "name": "Wellington Estates",
+            "memberType": "agent",
+            "address": "Worklife, 174 Hammersmith Rd, London",
+            "postcode": "W6 7JP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Fine Arts College",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Sarum Hall School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Chalk Farm",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Belsize Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "ad555731f2501088e88cd814fceae9288cd42d5e.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This well appointed two double bedroom apartment is set within a desirable mansion block (with lift and porter) in the heart of Swiss Cottage.<br><br>The property benefits from wooden flooring, family bathroom as well as additional WC, separate high-spec kitchen, generous reception room and two double bedrooms.<br><br>Regency Lodge is within easy access of the local amenities of Finchley Road and the beautiful surroundings of Primrose Hill, as well as the shops, bars and restaurants of St John's Wood and Belsize Park.<br><br>Local transport links include Swiss Cottage tube (Zone 2, Jubilee Line), which is only two minutes walk, and offers quick and easy access to the City and Central London. There are also many buses available from the Finchley Road.<br><br>Tenure: Leasehold<br>Lease length: 156 years remaining.<br>Service charge: \u00a33,900 inclusive of heating and hot water.<br>Ground rent: \u00a3200pa<br><br><strong>Reception</em> (large reception)</strong><br><br><strong>Bedroom</em> (two double bedrooms)</strong><br><br><strong>Bedroom</strong><br><br><strong>Kitchen</strong>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 bedroom apartment",
+                "Portered block",
+                "In secure mansion block",
+                "24 hour porterage"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "cdb2655fc2a0a29e08b17a4506de14112bfad47f.jpg",
+                    "caption": "Floor Plan 108.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "fdf14efc0e0da2faccbf482f58aae183621c7071.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "dba6d863d22d08b53ea83b6332bc70e60155ec57.jpg",
+                "caption": "M8Bf0Wcrwem8Vwbgtg4Gxa.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "170c2df7d46ddcbd7a60ae7889695efc6afa4938.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "276b2c50057b403086fdb2f12d9656f728cf3ad1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "65c7a0269ab81450c08f05775ac048ebd91d837e.jpg",
+                "caption": "J9Kmvtd48Eeujccdc7Ussq.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "300bd4a6fcd2b378bb954a272fb00adc718f0213.jpg",
+                "caption": "H6Djboorves2l9Kjhysbfw.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 104308,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727276).png",
+            "branchName": "Wellington Estates",
+            "brandName": "Wellington Estates Property Ltd",
+            "chainFree": false,
+            "companyId": 80436,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Adelaide Road, London NW3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5EB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60614992,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "NW3",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 765089
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Adelaide Road, London NW3 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Adelaide Road, London NW3, selling for \u00a3580,000 from Wellington Estates. See property details on Zoopla or browse all our range of properties in Adelaide Road, London NW3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60614992/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.543937,
+                "longitude": -0.161752
+            }
+        },
+        "displayAddress": "Adelaide Road, London NW3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-26T14:43:28",
+                "priceLabel": "\u00a3580,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2006-10-11",
+                "newBuild": false,
+                "price": 310000,
+                "priceLabel": "\u00a3310,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 140
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/cdb2655fc2a0a29e08b17a4506de14112bfad47f.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3580,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Wellington Estates Property Ltd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60614992,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "CFAA7042-7EC0-11EC-9011-FD120E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW3",
+            "areaNameUri": "london/nw3/hampstead-belsize-park-swiss-cottage",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3590.2343749999995
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 1009467,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 1026681,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -17214
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 1058566,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -49099
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1106121,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -96654
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1043627,
+                    "pctChangeSince": -3.273,
+                    "date": "2017-02-26",
+                    "changeSince": -34160
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 720580,
+                    "pctChangeSince": 40.091,
+                    "date": "2012-02-26",
+                    "changeSince": 288887
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 643135,
+                    "pctChangeSince": 56.96,
+                    "date": "2007-02-26",
+                    "changeSince": 366332
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 379798,
+                    "pctChangeSince": 165.79,
+                    "date": "2002-02-26",
+                    "changeSince": 629669
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 1063042,
+                    "newBuilds": 0,
+                    "numSales": 312
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1050118,
+                    "newBuilds": 12,
+                    "numSales": 752
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1030646,
+                    "newBuilds": 64,
+                    "numSales": 1363
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1027216,
+                    "newBuilds": 85,
+                    "numSales": 2182
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 27281952,
+                    "streetAddress": "Flat 3, 39 Adelaide Road",
+                    "uri": "flat-3/39-adelaide-road/london/nw3-3qb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 497000,
+                    "propertyId": 17207813,
+                    "streetAddress": "Flat 28, Constable House, Adelaide Road",
+                    "uri": "flat-28/constable-house/adelaide-road/london/nw3-3qa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-22T00:00:00Z",
+                    "price": 525000,
+                    "propertyId": 29021520,
+                    "streetAddress": "11 Adelaide Road",
+                    "uri": "11-adelaide-road/london/nw3-3qe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-31T00:00:00Z",
+                    "price": 250000,
+                    "propertyId": 17207536,
+                    "streetAddress": "Flat 46, Taplow, Adelaide Road",
+                    "uri": "flat-46/taplow/adelaide-road/london/nw3-3ny"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-31T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 17207661,
+                    "streetAddress": "Flat 81, Dorney, Adelaide Road",
+                    "uri": "flat-81/dorney/adelaide-road/london/nw3-3pn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 805000,
+                    "propertyId": 27184415,
+                    "streetAddress": "Flat 8, 13 South Hill Park Gardens",
+                    "uri": "flat-8/13-south-hill-park-gardens/london/nw3-2td"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 31526691,
+                    "streetAddress": "Flat 3, 13 Belsize Grove",
+                    "uri": "flat-3/13-belsize-grove/london/nw3-4ux"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 2500000,
+                    "propertyId": 17202532,
+                    "streetAddress": "4 Shirlock Road",
+                    "uri": "4-shirlock-road/london/nw3-2hs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 975000,
+                    "propertyId": 17208098,
+                    "streetAddress": "97 King Henrys Road",
+                    "uri": "97-king-henrys-road/london/nw3-3qx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1850000,
+                    "propertyId": 17216240,
+                    "streetAddress": "26 Bracknell Gardens",
+                    "uri": "26-bracknell-gardens/london/nw3-7ed"
+                }
+            ]
+        }
+    }
+}

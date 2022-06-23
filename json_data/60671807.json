@@ -1,0 +1,553 @@
+{
+    "address": "Fortess Road, Kentish Town, London NW5",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "FORTESS ROAD NW5\n\nApproximate Gross Internal Area\n\n61.63 m? / 663.39 sqft\n\n[ROOF TERRACE.\n\n7.39m x 4.52m +\n\n2a3\"x wie\u2019\n\n|\n\nRECEPTION\n\nKITCHEN\n\n(ose)\n\n5.21m x 3.11m\n\n2.11m x 2.46m\n\nOO\n\n611\"x81\"\n\n17'1\"x 10'2\"\n\nSECOND FLOOR\n\n=\n\n|\n\nCH\n\nBEDROOM\n\nBEDROOM\n\n3.76m x 3.96m\n\n3.72m x2.72m\n\n|\n\n12'4\"x 12'12\"\n\n12'2\"x8'11\"\n\noe eed Saas S\n\nmene ese Sees\n\nTHIRD FLOOR\n",
+    "image": "./extracted_images/60671807.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60671807/",
+    "listing_no": "60671807",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.551975,
+        "longitude": -0.140878
+    },
+    "first_published": "2022-02-02T20:46:15",
+    "last_sale_date": "2001-08-15",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60671807",
+        "publishedOn": "2022-02-02T20:46:15",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/kea/live/pdf.php?p=KEN220008&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 4468,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(554153).png",
+            "branchName": "Keatons - Kentish Town",
+            "brandName": "Keatons",
+            "chainFree": true,
+            "companyId": 2104,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Fortess Road, Kentish Town, London NW5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2ES",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60671807,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 17,
+            "numRecepts": 1,
+            "outcode": "NW5",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 473157
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/keatons-kentish-town-london-4468/",
+            "branchId": "4468",
+            "branchResultsUri": "/for-sale/branch/keatons-kentish-town-london-4468/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(554153).png",
+            "phone": "020 8033 5916",
+            "name": "Keatons - Kentish Town",
+            "memberType": "agent",
+            "address": "316-318 Kentish Town Road, Kentish Town, London",
+            "postcode": "NW5 2TH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kentish Town",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kentish Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Eleanor Palmer Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kentish Town Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://mls.ricohtours.com/6acdbbf4-660d-4db9-8c7b-54c9e23c5c05"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "2c4dc2d997e169bd5feba2d5aa850b1f31c87a6e.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A fantastic two double bedroom apartment situated on the top floor of this Victorian conversion. The property is flooded with natural light and consists of two bedrooms, a separate kitchen, family bathroom, bright reception room and has an exceptionally large, private south east facing roof terrace. The property is excellently located with Kentish Town Underground station only 0.1m from the property. Fortess Road is moments from all of the amenities Kentish Town and Tufnell Park has to offer, with the open green spaces of Hampstead Heath only a short walk. The property is being sold Chain Free.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedrooms",
+                "Private Roof Terrace",
+                "Separate Kitchen",
+                "Chain Free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "357b6dc2a37b81ef4ab64fa3d667980f5e3f6c2b.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "e9a10f64b15b01dc840b080a669756d004ebe251.jpg",
+                "caption": "Terrace"
+            },
+            {
+                "__typename": "Media",
+                "filename": "34a9044d229a70e4fadfc501b7495b6d5435463e.jpg",
+                "caption": "Bedroom 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "21955abe40a23c5c35d8ea855005e6ea00915969.jpg",
+                "caption": "Bedroom 1 View 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "58b4720889d8565a30164bac5b6d9cb53c8f0ca0.jpg",
+                "caption": "Bedroom 1 View 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "310b9228ded4c2a7d396ba5f25259df16684ab9c.jpg",
+                "caption": "Bedroom 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0cb5e71ac56b23bf6f5e13040543564fef68d317.jpg",
+                "caption": "Bedroom 2 View 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e339d1549a2dd7a369cd69f1532d3c63c6e9c832.jpg",
+                "caption": "Terrace View 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6f80ae5d0e76a5a94e269a99308cf0b6b39f7090.jpg",
+                "caption": "Terrace View 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "37fc7d4ccffa1931a7bd885ff52ddb1c82af3318.jpg",
+                "caption": "Living Room View 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f35a6a1adc241465a5f870e8b863613d98f4c22f.jpg",
+                "caption": "Living Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bc9c963e69f6b7fe02d18094c2f10f9f1091eed5.jpg",
+                "caption": "Living Room View 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7b187a96d8fff3d94547d9634adbcc73bff02e27.jpg",
+                "caption": "Kitchen View 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6e8c95616d8c4818794043e3b05027f6751bc084.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "333287509a4fbd49a02a2ab3446cd7102845396d.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "83c26956b1351b0ede4e3a7ff3a1ee1f622700ed.jpg",
+                "caption": "Bathroom View 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d3b090d203106152733c3e6982b8d4d55b3a9f34.jpg",
+                "caption": "Dining Area"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b0f29dd6a8b019d863261e6b54de5f2d2f23cf12.jpg",
+                "caption": "Exterior"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 4468,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(554153).png",
+            "branchName": "Keatons - Kentish Town",
+            "brandName": "Keatons",
+            "chainFree": true,
+            "companyId": 2104,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Fortess Road, Kentish Town, London NW5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2ES",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60671807,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 17,
+            "numRecepts": 1,
+            "outcode": "NW5",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 473157
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Fortess Road, Kentish Town, London NW5 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Fortess Road, Kentish Town, London NW5, selling for \u00a3600,000 from Keatons - Kentish Town. See property details on Zoopla or browse all our range of properties in Fortess Road, Kentish Town, London NW5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60671807/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.551975,
+                "longitude": -0.140878
+            }
+        },
+        "displayAddress": "Fortess Road, Kentish Town, London NW5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-02T20:46:15",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2001-08-15",
+                "newBuild": false,
+                "price": 210000,
+                "priceLabel": "\u00a3210,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 330
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/357b6dc2a37b81ef4ab64fa3d667980f5e3f6c2b.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Keatons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60671807,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "E7097108-95B2-11EC-B89F-F6140E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW5",
+            "areaNameUri": "london/nw5/kentish-town",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2695.333333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 617465,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 627994,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10529
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 647496,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -30031
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 676584,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -59119
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 638351,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -20886
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 440754,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 176711
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 393383,
+                    "pctChangeSince": 56.963,
+                    "date": "2007-02-26",
+                    "changeSince": 224082
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 232309,
+                    "pctChangeSince": 165.795,
+                    "date": "2002-02-26",
+                    "changeSince": 385156
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 654154,
+                    "newBuilds": 0,
+                    "numSales": 106
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 621456,
+                    "newBuilds": 3,
+                    "numSales": 300
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 619111,
+                    "newBuilds": 28,
+                    "numSales": 567
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 614410,
+                    "newBuilds": 49,
+                    "numSales": 901
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-13T00:00:00Z",
+                    "price": 682500,
+                    "propertyId": 31475308,
+                    "streetAddress": "Apartment 5, Piano Works, 32 Fortess Road",
+                    "uri": "apartment-5/piano-works/32-fortess-road/london/nw5-2hb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 747500,
+                    "propertyId": 17233531,
+                    "streetAddress": "31a Gaisford Street",
+                    "uri": "31a-gaisford-street/london/nw5-2eb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 1025000,
+                    "propertyId": 27354983,
+                    "streetAddress": "First And Second Floor Flat, 8 Burghley Road",
+                    "uri": "first-and-second-floor-flat/8-burghley-road/london/nw5-1ue"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-10T00:00:00Z",
+                    "price": 1150000,
+                    "propertyId": 17240579,
+                    "streetAddress": "50 Coity Road",
+                    "uri": "50-coity-road/london/nw5-4ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 27471767,
+                    "streetAddress": "90b Caversham Road",
+                    "uri": "90b-caversham-road/london/nw5-2dn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-01T00:00:00Z",
+                    "price": 1330000,
+                    "propertyId": 17235128,
+                    "streetAddress": "177 Leighton Road",
+                    "uri": "177-leighton-road/london/nw5-2rd"
+                }
+            ]
+        }
+    }
+}

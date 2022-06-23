@@ -1,0 +1,597 @@
+{
+    "address": "Railton Road, London SE24",
+    "price": "\u00a3635,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 84.8,
+    "sqft": 912.0,
+    "text": "Railton Road, SE24 es_eil\n><\n/\nApproximate Floor Area = 84.8 sq m/ 912 sq ft YN\nIncluding Limited Use Area (4.4 sq m/ 47 sq ft) ps\n< IN\nUp\nSE Sa\naa Ss)\nSESS\nRoof Terrace\n3.58 x 3.10\n11'9 x 10'2\nrs i,\n|____1= Reduced head height below 1.5m\nFirst Floor\n4.7 sq m/ 50 sq ft\n\u2014\u2014\u2014 Ss\n@@\n[33] \u2014- fi \u2014 i\nal I\nReception / Dining Room / i G\nKitchen \u2014 Bedroom\n5.49 x 4.04 3.51 x 3.38\n180x133 | aN'6x 114\n(CH= 81/246)\n| L_| \u2014\nme = me\nmN\\ Sy Ea _\nBe Za 7-14 Principal Bedroom\n12 On = Saas 3.48 x 3.28\neeee| ae\n|] Ay Lee Bedroom a eee ses ra\nele 3.61 x 2.03 4 ' \u2018 |\n| Lt | 11110 x 68 (eee: ee | | Wy\n_\u2014 _\u2014\u2014\u2014\u2014\u2014]\nSecond Floor Third Floor\n43.1 sq m/ 464 sq ft 37 sq m/398 sq ft\nThis plan is for layout guidance only. Not drawn to scale unless stated. Windows and door openings\nare approximate. Whilst every care is taken in the preparation of this plan, please check all dimensions,\nshapes and compass bearings before making any decisions reliant upon them. (1D748158)\n",
+    "image": "./extracted_images/58221391.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/58221391/",
+    "listing_no": "58221391",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.458232,
+        "longitude": -0.108433
+    },
+    "first_published": "2021-11-08T14:45:03",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "58221391",
+        "publishedOn": "2021-11-08T14:45:03",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/HHI130313",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=HHI130313",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 8174,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Herne Hill",
+            "brandName": "Winkworth",
+            "chainFree": true,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Railton Road, London SE24",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0LR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 58221391,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "SE24",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 635000,
+            "price": 635000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 540718
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-herne-hill-herne-hill-8174/",
+            "branchId": "8174",
+            "branchResultsUri": "/for-sale/branch/winkworth-herne-hill-herne-hill-8174/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8022 2681",
+            "name": "Winkworth - Herne Hill",
+            "memberType": "agent",
+            "address": "236 Railton Road, Herne Hill",
+            "postcode": "SE24 0JT"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hill Mead Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Jude's Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brixton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brixton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/T8q1phDpLrQ?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "5e772983e6ed9b1e0ad5c1a8f3acad21083da4f9.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Available exclusively through Winkworth we are delighted to present this large (912 Sq. Ft.) split level three-bedroom apartment with a private roof terrace. The property has a large open plan kitchen/reception/diner with wood floors and a modern fitted kitchen which overlooks the front of the property. On the first floor there is a bedroom to the rear, a family bathroom with a shower over the bath, a wash hand basin and a WC with floor to ceiling 'travertine' tiles. On the second floor there is a good size landing which leads onto two double bedrooms with French doors that give you lovely views across London. Furthermore, you also have the benefit of a private roof terrace, perfect for al-fresco dining. There is also a new shower room with marble effect tiles with a shower over the bath, a wash hand basin and a WC. The apartment benefits from double glazing throughout, new carpets, a long lease (over 100 years) and is offered chain free.<br><br>Location:<br>Brixton/Herne Hill",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Period",
+                "Victorian Conversion",
+                "Split Level",
+                "Open-Plan Kitchen/Reception",
+                "Three Bedrooms",
+                "Bathroom with WC",
+                "Shower Room with WC",
+                "Private Roof Terrace",
+                "Long Lease",
+                "Chain free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "b8b5b07941acbc950e860feb19ec087470a354e6.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "17bb94b903a35554f9e91289c1afcf2b20bf202a.jpg",
+                "caption": "Private Terrace"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9e7b3e917686daa8c89d220610ccb74c857df993.jpg",
+                "caption": "Exterior Front"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c24c809265f5854cc8a50cc639cd665cad9c14ef.jpg",
+                "caption": "Reception/Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d5dd2b5ae29aaf5cf226ef6369ec3c0924d535bc.jpg",
+                "caption": "Principle Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fa78b15d91894f91297380f84bfa9f97ecfeee1d.jpg",
+                "caption": "Shower Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5ff8fac14de8ceece622186bd1b02e8db20d8a56.jpg",
+                "caption": "Bedroom Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5abac132e3f0acebbd126811776f289898bdcadd.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "036671804e3cc085a4e2d21261d954589024707c.jpg",
+                "caption": "Bedroom Three"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8a89c6f933de16d76c5a44236ade7170d3daffe7.jpg",
+                "caption": "Lovely Views"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2f8de6e3954d5b49659a4df7d00c5abb1b38412d.jpg",
+                "caption": "Reception/Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "70c79cce2f053d1ea68b60d7263416c71d3221cc.jpg",
+                "caption": "Bedroom Three"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ac3432b096be4ceefb56e2b98f1f09b8897fc6a6.jpg",
+                "caption": "Principle Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "90fcd63982f1baf59ebc027f286690b8bb16feb1.jpg",
+                "caption": "Reception/Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e2d13afbc2f04569097b3919fd70817405c1185f.jpg",
+                "caption": "Exterior Front"
+            },
+            {
+                "__typename": "Media",
+                "filename": "43e3cbef923ef81c273421579ce894537869ec0a.jpg",
+                "caption": "Private Terrace"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5614271ab210a15183dff4c4071fc778d2a1ff2c.jpg",
+                "caption": "Lovely Views"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 8174,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Herne Hill",
+            "brandName": "Winkworth",
+            "chainFree": true,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Railton Road, London SE24",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0LR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 58221391,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "SE24",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 635000,
+            "price": 635000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 540718
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Railton Road, London SE24 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Railton Road, London SE24, selling for \u00a3635,000 from Winkworth - Herne Hill. See property details on Zoopla or browse all our range of properties in Railton Road, London SE24.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/58221391/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.458232,
+                "longitude": -0.108433
+            }
+        },
+        "displayAddress": "Railton Road, London SE24",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-08T14:45:03",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "2.3",
+                    "priceChangeDate": "2022-02-22T13:20:30",
+                    "priceChangeLabel": "\u00a315,000",
+                    "priceLabel": "\u00a3635,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 138
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/b8b5b07941acbc950e860feb19ec087470a354e6.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3635,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 58221391,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "7C13E5D8-96FA-11EC-9B12-863A0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE24",
+            "areaNameUri": "london/se24/herne-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2400.6666666666665
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 514411,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 517954,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3543
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 520161,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5750
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 544304,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -29893
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 495034,
+                    "pctChangeSince": 3.914,
+                    "date": "2017-02-26",
+                    "changeSince": 19377
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 323616,
+                    "pctChangeSince": 58.957,
+                    "date": "2012-02-26",
+                    "changeSince": 190795
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 312713,
+                    "pctChangeSince": 64.499,
+                    "date": "2007-02-26",
+                    "changeSince": 201698
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 185552,
+                    "pctChangeSince": 177.233,
+                    "date": "2002-02-26",
+                    "changeSince": 328859
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516861,
+                    "newBuilds": 0,
+                    "numSales": 82
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 496328,
+                    "newBuilds": 0,
+                    "numSales": 214
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 490404,
+                    "newBuilds": 0,
+                    "numSales": 402
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 492597,
+                    "newBuilds": 3,
+                    "numSales": 644
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-29T00:00:00Z",
+                    "price": 970000,
+                    "propertyId": 21199469,
+                    "streetAddress": "140 Railton Road",
+                    "uri": "140-railton-road/london/se24-0jx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 845000,
+                    "propertyId": 21199466,
+                    "streetAddress": "134 Railton Road",
+                    "uri": "134-railton-road/london/se24-0jx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 825000,
+                    "propertyId": 21199809,
+                    "streetAddress": "193 Railton Road",
+                    "uri": "193-railton-road/london/se24-0lu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 445000,
+                    "propertyId": 21199601,
+                    "streetAddress": "86 Railton Road",
+                    "uri": "86-railton-road/london/se24-0ld"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-31T00:00:00Z",
+                    "price": 488500,
+                    "propertyId": 21199782,
+                    "streetAddress": "Flat B, 139 Railton Road",
+                    "uri": "flat-b/139-railton-road/london/se24-0lt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 1540000,
+                    "propertyId": 21201172,
+                    "streetAddress": "4 Berwyn Road",
+                    "uri": "4-berwyn-road/london/se24-9bd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1098000,
+                    "propertyId": 21203057,
+                    "streetAddress": "21 Ruskin Walk",
+                    "uri": "21-ruskin-walk/london/se24-9na"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 1600000,
+                    "propertyId": 21197503,
+                    "streetAddress": "139 Herne Hill Road",
+                    "uri": "139-herne-hill-road/london/se24-0ad"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 1180000,
+                    "propertyId": 21198207,
+                    "streetAddress": "162 Lowden Road",
+                    "uri": "162-lowden-road/london/se24-0bt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 3551001,
+                    "propertyId": 21201954,
+                    "streetAddress": "46 Stradella Road",
+                    "uri": "46-stradella-road/london/se24-9ha"
+                }
+            ]
+        }
+    }
+}

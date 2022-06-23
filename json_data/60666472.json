@@ -1,0 +1,547 @@
+{
+    "address": "Gipsy Hill, Upper Norwood, London SE19",
+    "price": "\u00a3625,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 122.6,
+    "sqft": 686.0,
+    "text": "Gipsy Hill, SE19\nApproximate Gross Internal Area\nLower Ground Floor = 63.7 sq m/ 686 sq ft\nGround Floor = 58.9 sq m/ 634 sq ft\nTotal = 122.6 sq m/ 1320 sq ft\nee ee\n \u2014S\u2014sa\n\u2014 \u00ab@ EJ\ni #88 /)\\\nrc J\nrss Lx\n[ee (NS\n= -\u2014=S=sTerrace ss \u00ae <n > Bedroom 3\nL _ 3.45 x 2.11\nttoxass| zs V 45 x2.\n13\" \u2019 Po 3] 11'4x6'11\n\u2014-\nees Kitchen\nee Css = ~\n| TT 3.86 x 1.85 \\\nee \\\nb&b 4 Ge \u2014 )\n. \\ \u00a3\u00a3. \u2014\nfi\nHH\n\\ Main Bedroom\n[|\n4.14 x 4.09 4\n137 x 13'5 KH}\n[| [|\n\u2014 \u2014\u2014\na AP / [fy\nN aN V = ae\nUp r|\n{\nReception / < BF vA \u00bb sod\nDining Room / VG nw 7 TF\n9.78 x 3.81 / SS _\n3211 x 12'6 nwo /\n\u00a9 [ iva\noo N\\\nStudy \\ ~S \\\n2.74 x 1.88 \u2014 a ~ \u2014\n90x62 ms A\nBedroom 2\nscssssesssssse 3.84 x 3.84\nfk ; \"\nVy (27x 127\nLower Ground Floor Ground Floor\nCopyright www.pedderproperty.com \u00a9 2022\nThese plans are for representation purposes only as defined by RICS - Code of Measuring Practice.\nNot drawn to Scale. Windows and door openings are approximate. Please check all dimensions,\nshapes and compass bearings before making any decisions reliant upon them.\n",
+    "image": "./extracted_images/60666472.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60666472/",
+    "listing_no": "60666472",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.420716,
+        "longitude": -0.083057
+    },
+    "first_published": "2022-02-02T12:26:36",
+    "last_sale_date": "2003-07-14",
+    "last_sale_new": true,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60666472",
+        "publishedOn": "2022-02-02T12:26:36",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/6418e1f20c39ca28c4ed786bcdbe51aa920298d0.pdf",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 7839,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(466941).png",
+            "branchName": "Pedder - Crystal Palace",
+            "brandName": "Pedder",
+            "chainFree": false,
+            "companyId": 29514,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Gipsy Hill, Upper Norwood, London SE19",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1NL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60666472,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SE19",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 497041
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/pedder-crystal-palace-upper-norwood-7839/",
+            "branchId": "7839",
+            "branchResultsUri": "/for-sale/branch/pedder-crystal-palace-upper-norwood-7839/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(466941).png",
+            "phone": "020 3641 4484",
+            "name": "Pedder - Crystal Palace",
+            "memberType": "agent",
+            "address": "Pissarro House, 77a Westow Hill, Upper Norwood",
+            "postcode": "SE19 1TZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Paxton Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Rockmount Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Gipsy Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Crystal Palace",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/2u3YlmIOP_I?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "0ae01491d3fd55e516bebdab635721bfe6a96bd2.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A generously proportioned three bedroom split level garden flat conveniently positioned at the top of Gipsy Hill.<br><br>The space totals 1320 sq ft / 122.6 sq m which includes a 32 ft reception room and a separate study which could be ideal for home working.<br><br>Other notable features include shuttered windows, fitted bedroom storage, a mosaic tiled bathroom with a separate walk-in shower, a downstairs WC, and a share of the freehold. Externally there is a private courtyard access via double doors which offers a low maintenance blank canvas.<br><br>This location offers near immediate access to a wealth of leisure and shopping options at the Triangle and also works well for access to both Gipsy Hill and Crystal Palace rail links.<br><br>EPC: D | Band B",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three bedroom split level conversion",
+                "32ft reception room",
+                "Private garden",
+                "A share of the freehold",
+                "Sought after location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "766daeda6b586c51657316a8dcd06727614d3329.gif",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "ab9a975f9d9dfbb8c2f3a0cdcca613394cd19ac8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b8766770e85a8a06434f8e0ff8c93466d7ea3e9c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "35c50a0ae2170fca27b4e58455bbb29bc06747be.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0c94d1c1d038d7279dc229d29702ec8c3342d278.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2ec0de689e82364a7202459ddf67e7c61240008b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c366441d227bbcfaca36ccbb4a521a98fceb2f47.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5622ebab29e99e34c8da94b97a36e47fb648af98.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ee17eda1b6d243761f2b3d493230f9522833182f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "53f0adc597a7d28d1d5f896ab64b9ad49c0f5400.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1067fd93748e594648b3e7c8925d845ac5560bc4.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 7839,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(466941).png",
+            "branchName": "Pedder - Crystal Palace",
+            "brandName": "Pedder",
+            "chainFree": false,
+            "companyId": 29514,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Gipsy Hill, Upper Norwood, London SE19",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1NL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60666472,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SE19",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 497041
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Gipsy Hill, Upper Norwood, London SE19 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Gipsy Hill, Upper Norwood, London SE19, selling for \u00a3625,000 from Pedder - Crystal Palace. See property details on Zoopla or browse all our range of properties in Gipsy Hill, Upper Norwood, London SE19.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60666472/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.420716,
+                "longitude": -0.083057
+            }
+        },
+        "displayAddress": "Gipsy Hill, Upper Norwood, London SE19",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-02T12:26:36",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2003-07-14",
+                "newBuild": true,
+                "price": 250000,
+                "priceLabel": "\u00a3250,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 84
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/766daeda6b586c51657316a8dcd06727614d3329.gif"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Pedder",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60666472,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "9BE9E562-9595-11EC-9D16-55E50D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE19",
+            "areaNameUri": "london/se19/upper-norwood-crystal-palace-norwood-new-town",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1837.3333333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 315741,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 317915,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2174
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 319269,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -3528
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 334086,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -18345
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 303836,
+                    "pctChangeSince": 3.918,
+                    "date": "2017-02-26",
+                    "changeSince": 11905
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 198625,
+                    "pctChangeSince": 58.963,
+                    "date": "2012-02-26",
+                    "changeSince": 117116
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 191933,
+                    "pctChangeSince": 64.506,
+                    "date": "2007-02-26",
+                    "changeSince": 123808
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 113885,
+                    "pctChangeSince": 177.245,
+                    "date": "2002-02-26",
+                    "changeSince": 201856
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 371828,
+                    "newBuilds": 1,
+                    "numSales": 171
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 378139,
+                    "newBuilds": 12,
+                    "numSales": 527
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 382174,
+                    "newBuilds": 53,
+                    "numSales": 1042
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 366893,
+                    "newBuilds": 71,
+                    "numSales": 1733
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-11T00:00:00Z",
+                    "price": 430000,
+                    "propertyId": 21145571,
+                    "streetAddress": "3 Gipsy Hill",
+                    "uri": "3-gipsy-hill/london/se19-1qg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-20T00:00:00Z",
+                    "price": 337500,
+                    "propertyId": 27292668,
+                    "streetAddress": "Flat 2, 73 Gipsy Hill",
+                    "uri": "flat-2/73-gipsy-hill/london/se19-1qh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-09T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 21145153,
+                    "streetAddress": "10 Gipsy Hill",
+                    "uri": "10-gipsy-hill/london/se19-1nl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-09T00:00:00Z",
+                    "price": 352000,
+                    "propertyId": 21145176,
+                    "streetAddress": "34a Gipsy Hill",
+                    "uri": "34a-gipsy-hill/london/se19-1nl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-11T00:00:00Z",
+                    "price": 430000,
+                    "propertyId": 21145571,
+                    "streetAddress": "3 Gipsy Hill",
+                    "uri": "3-gipsy-hill/london/se19-1qg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 489995,
+                    "propertyId": 21142872,
+                    "streetAddress": "Flat 1, 34 Alexandra Drive",
+                    "uri": "flat-1/34-alexandra-drive/london/se19-1aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 264000,
+                    "propertyId": 21149857,
+                    "streetAddress": "246 Sylvan Road",
+                    "uri": "246-sylvan-road/london/se19-2sb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 268000,
+                    "propertyId": 21143234,
+                    "streetAddress": "37b Central Hill",
+                    "uri": "37b-central-hill/london/se19-1bw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 560333,
+                    "propertyId": 21149339,
+                    "streetAddress": "3 Southholme Close",
+                    "uri": "3-southholme-close/london/se19-2qu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 347000,
+                    "propertyId": 21150410,
+                    "streetAddress": "7e St. Aubyns Road",
+                    "uri": "7e-st-aubyns-road/london/se19-3ad"
+                }
+            ]
+        }
+    }
+}

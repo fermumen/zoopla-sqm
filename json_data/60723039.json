@@ -1,0 +1,514 @@
+{
+    "address": "Delamere Terrace, London W2",
+    "price": "\u00a3600,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 75.8,
+    "sqft": null,
+    "text": "N_ Lapworth Court, W2\nay \u2018Approximate\u2019 Gross internal Area'= 75.8 sq m/816'sq fe\nBedroom Bedroom\n3.70 x 2.88 4.34 x 2.89\n12'2x 9'5 143 x 96\nIN Upl+!\nNM! Reception Room\n5.09 x 3.30\nBedroom i 168 x 10'10\n3.46 x 2.03 ; .\n11'4 x 6'8 Kitchen cH\n3.55 x 2.71 8'0/2.4\nI'8x 8'll 1 f\n7 Dn\n-\u2014 Dn\nGarden\n9.66 x 5.06\n31'8 x 16'7\n(Approx)\nGround Floor\nIllustration for identification purposes only, measurements are approximate, not to scale,\n",
+    "image": "./extracted_images/60723039.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60723039/",
+    "listing_no": "60723039",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.52122,
+        "longitude": -0.1862
+    },
+    "first_published": "2022-02-09T17:30:40",
+    "last_sale_date": "2007-10-25",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60723039",
+        "publishedOn": "2022-02-09T17:30:40",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 125046,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727138).png",
+            "branchName": "Jefferies James",
+            "brandName": "Jefferies James",
+            "chainFree": false,
+            "companyId": 99921,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Delamere Terrace, London W2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6NP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60723039,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "W2",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 543804
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jefferies-james-london-125046/",
+            "branchId": "125046",
+            "branchResultsUri": "/for-sale/branch/jefferies-james-london-125046/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727138).png",
+            "phone": "020 7768 7766",
+            "name": "Jefferies James",
+            "memberType": "agent",
+            "address": "126 New Kings Road, London",
+            "postcode": "SW6 4LZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Edward Wilson Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary Magdalene CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Warwick Avenue",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Royal Oak",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Jefferies James are proud to present this beautifully located three bedroom property tucked away in the heart of Little Venice, with a generous south facing outdoor space. The perfect opportunity for a buy-to-let investor or a young family.<br><br>The property is flooded with natural light and overlooks one of the stunning canals that Little Venice has to offer, with the trendy Waterside Caf\u00e9 on your doorstep.<br><br>The kitchen is recently renovated and boasts fully fitted modern units with integrated appliances. There are three brilliant sized double bedrooms, two to the front and one on the rear.<br><br>Entrances from the living room and kitchen lead through to a quiet, fenced south facing outdoor space, ideal for entertaining throughout the year.<br><br>The property is ideally located a short walk from both Warwick Avenue (Bakerloo line) &amp; Royal Oak (Circle &amp; Hammersmith &amp; City lines) tube stations",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "cbe086d19522b57162dcedee02191eeff43b1e55.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "691f331e699129f60fefaaf4a4490a7c9be7be45.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ba326b286d48627c766302c475d89f2fc094a1d8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "089ed0069717ef5c98bde66be6f5f746851b332d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e80ada44ff513a94f438c97a2e15115da50815d6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cb1715ec904c7ebde99b3748018e4f6769d4ed31.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ef830f99455ad074b4753f4974b50ca73246e93f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c601552200c594c6e67c28542176d18336a053e0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e71d726c3c054c488c6364bb1ed3bc4caa7b47d5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "aea3b80daebf999b53e7f2c46b5570943185c1e2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4a2c03729871ac2cb693af59e08d9627e1dd4669.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "26a37537299314436c0171af971c74d9f419a376.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cc77ff37a651cc9738f873a2867a9f129f837b0b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "160af72bc18b7bece3c812f3b869fc9579cddb72.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3fcd913e44ccdd89adbc8f16e07314a7043f0b7b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fd9735fb846878658df528f4eb471b08ad44be3c.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 125046,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727138).png",
+            "branchName": "Jefferies James",
+            "brandName": "Jefferies James",
+            "chainFree": false,
+            "companyId": 99921,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Delamere Terrace, London W2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6NP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60723039,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "W2",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 543804
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Delamere Terrace, London W2 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Delamere Terrace, London W2, selling for \u00a3600,000 from Jefferies James. See property details on Zoopla or browse all our range of properties in Delamere Terrace, London W2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60723039/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.52122,
+                "longitude": -0.1862
+            }
+        },
+        "displayAddress": "Delamere Terrace, London W2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-09T17:30:40",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2007-10-25",
+                "newBuild": false,
+                "price": 340000,
+                "priceLabel": "\u00a3340,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 361
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/cbe086d19522b57162dcedee02191eeff43b1e55.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Jefferies James",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60723039,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "8AA69EE8-8A74-11EC-85CE-CAED0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W2",
+            "areaNameUri": "london/w2/paddington-bayswater-hyde-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 7190.901776384516
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 933627,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 948781,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -15154
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 976837,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -43210
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1029693,
+                    "pctChangeSince": -9.33,
+                    "date": "2021-02-26",
+                    "changeSince": -96066
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1021633,
+                    "pctChangeSince": -8.614,
+                    "date": "2017-02-26",
+                    "changeSince": -88006
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 680514,
+                    "pctChangeSince": 37.194,
+                    "date": "2012-02-26",
+                    "changeSince": 253113
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 606870,
+                    "pctChangeSince": 53.843,
+                    "date": "2007-02-26",
+                    "changeSince": 326757
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 359671,
+                    "pctChangeSince": 159.578,
+                    "date": "2002-02-26",
+                    "changeSince": 573956
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 964420,
+                    "newBuilds": 0,
+                    "numSales": 256
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1058602,
+                    "newBuilds": 2,
+                    "numSales": 701
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1088039,
+                    "newBuilds": 16,
+                    "numSales": 1289
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1053600,
+                    "newBuilds": 26,
+                    "numSales": 2104
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-24T00:00:00Z",
+                    "price": 642500,
+                    "propertyId": 25018405,
+                    "streetAddress": "77, Atherstone Court, Delamere Terrace",
+                    "uri": "77/atherstone-court/delamere-terrace/london/w2-6ph"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 685000,
+                    "propertyId": 25004333,
+                    "streetAddress": "13 Sussex Square",
+                    "uri": "13-sussex-square/london/w2-2sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 900000,
+                    "propertyId": 25008980,
+                    "streetAddress": "Flat B, 41 Linden Gardens",
+                    "uri": "flat-b/41-linden-gardens/london/w2-4hq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 3600000,
+                    "propertyId": 25008982,
+                    "streetAddress": "Flat D, 41 Linden Gardens",
+                    "uri": "flat-d/41-linden-gardens/london/w2-4hq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 3250000,
+                    "propertyId": 25001234,
+                    "streetAddress": "22 Portsea Place",
+                    "uri": "22-portsea-place/london/w2-2bl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 3000000,
+                    "propertyId": 25005331,
+                    "streetAddress": "Flat 15, 22 Brook Mews North",
+                    "uri": "flat-15/22-brook-mews-north/london/w2-3bw"
+                }
+            ]
+        }
+    }
+}

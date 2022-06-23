@@ -1,0 +1,494 @@
+{
+    "address": "Osborne Road, London W3",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": "984 sq. ft",
+    "sqm": 91.41,
+    "sqft": null,
+    "text": "Akenside Court, W3 x\nAPPROX. GROSS INTERNAL FLOOR AREA 984 SQFT/91.41SQM as 2\nKey: OT,\nCH - Ceiling Height f\n= \u2014 \u2014 :\nL5) Balcony\n- 26'1\" (8.55)\nKitchen! x77\" (232)\nEe Reception -\nBe Room oH\n281\" (8.55) 260m!\nx 124\" (3.75)\naN\n: i hess Bedroom\n3 ~ =\\ 16 (4.87) - l\n\u00e9 iil z x 11'4\" (3.38) |\nye a CP wedraom\nJ \u00a2 1914\" (5.89)\na x 9'3\" (2.83) be!\nFIRST FLOOR\n",
+    "image": "./extracted_images/60806058.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60806058/",
+    "listing_no": "60806058",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.502419,
+        "longitude": -0.272451
+    },
+    "first_published": "2022-02-20T08:34:26",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60806058",
+        "publishedOn": "2022-02-20T08:34:26",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16930,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "branchName": "Strike",
+            "brandName": "Strike",
+            "chainFree": false,
+            "companyId": 6808,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Osborne Road, London W3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "8SJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60806058,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "984",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/strike-middleborough-16930/",
+            "branchId": "16930",
+            "branchResultsUri": "/for-sale/branch/strike-middleborough-16930/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "phone": "0113 482 9379",
+            "name": "Strike",
+            "memberType": "agent",
+            "address": "The Octagon, Middleborough",
+            "postcode": "CO1 1TG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Berrymede Infant School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Berrymede Junior School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "South Acton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Acton Town",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "This remarkable two-bedroom apartment is located on the first floor of this recently-built, modern development. The property is more spacious than most equivalent apartments and has been immaculately maintained. It offers an open-plan kitchen and reception room, two bedrooms, with one an en-suite and one family bathroom. The flat also offers a large balcony with views over landscaped lawns.<br><br>The flat also comes with an allocated off-street parking space in a secure underground garage.<br><br>Acton Gardens is minutes away from the charming cafes and restaurants on Chiswick High Road. It is very well connected - just a short walk from Acton Town tube station, with District and Piccadilly lines (direct to the West End or Heathrow airport), and also close to the overground service to Willesden Junction and other North London stops.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "First Floor Apartment",
+                "Modern Recently Built Development",
+                "Two Bedrooms",
+                "Master with En-Suite",
+                "Balcony",
+                "Allocated Underground Secure Parking",
+                "Close to Local Amenities"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "a138bf346ef79c64f470df7b1eb787631ba369ec.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "fa55b9cd90600c01bff7ab74b862b241a1e724c5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "97169838a9150eb3f744c5183e3ac085d13b717c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4c740cc1b951497370e3df8c405cc21b875f98d3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a5bcec24ad7f7ab6417662043a663994b9a36440.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fc0a7e2f75497cedf4b2e6c844abb39fc0803de8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2947ab0c0346ae19151f455c3d1a52b5847678cd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e8afbbbe47dbf742e7c45ea41c67f1b09827a10b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6e84ccd282b28a5d3f7b5b57bf8dc4f5f87551b9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c2907a6d1f951b7928d6854f0a5f48a99475919e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "23cc89a7567ab9d5f315e678ada0f5ea50199512.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16930,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "branchName": "Strike",
+            "brandName": "Strike",
+            "chainFree": false,
+            "companyId": 6808,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Osborne Road, London W3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "8SJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60806058,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "984",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Osborne Road, London W3 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Osborne Road, London W3, selling for \u00a3625,000 from Strike. See property details on Zoopla or browse all our range of properties in Osborne Road, London W3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60806058/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.502419,
+                "longitude": -0.272451
+            }
+        },
+        "displayAddress": "Osborne Road, London W3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-20T08:34:26",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 63
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/a138bf346ef79c64f470df7b1eb787631ba369ec.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 984
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 635,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Strike",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60806058,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "EA2EFF30-9227-11EC-882D-B22F0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W3",
+            "areaNameUri": "london/w3/acton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1956.199999999999
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 404918,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 411489,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -6571
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 423656,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -18738
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 446579,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -41661
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 443072,
+                    "pctChangeSince": -8.611,
+                    "date": "2017-02-26",
+                    "changeSince": -38154
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 295132,
+                    "pctChangeSince": 37.199,
+                    "date": "2012-02-26",
+                    "changeSince": 109786
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 263193,
+                    "pctChangeSince": 53.848,
+                    "date": "2007-02-26",
+                    "changeSince": 141725
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 155985,
+                    "pctChangeSince": 159.588,
+                    "date": "2002-02-26",
+                    "changeSince": 248933
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 435683,
+                    "newBuilds": 0,
+                    "numSales": 146
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 422801,
+                    "newBuilds": 39,
+                    "numSales": 486
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 426404,
+                    "newBuilds": 119,
+                    "numSales": 1029
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 427267,
+                    "newBuilds": 208,
+                    "numSales": 1779
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 827500,
+                    "propertyId": 25020302,
+                    "streetAddress": "72 Princes Gardens",
+                    "uri": "72-princes-gardens/london/w3-0lq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 910000,
+                    "propertyId": 25022231,
+                    "streetAddress": "24 Stuart Road",
+                    "uri": "24-stuart-road/london/w3-6dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 830000,
+                    "propertyId": 25034544,
+                    "streetAddress": "14 Gunnersbury Crescent",
+                    "uri": "14-gunnersbury-crescent/london/w3-9aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 840000,
+                    "propertyId": 25020344,
+                    "streetAddress": "139 Princes Gardens",
+                    "uri": "139-princes-gardens/london/w3-0ls"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 315000,
+                    "propertyId": 25027951,
+                    "streetAddress": "33 Larch Avenue",
+                    "uri": "33-larch-avenue/london/w3-7lh"
+                }
+            ]
+        }
+    }
+}

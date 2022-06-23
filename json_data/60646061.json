@@ -1,0 +1,487 @@
+{
+    "address": "City View Point, Poplar E14",
+    "price": "\u00a3550,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": 921.0,
+    "text": "//\n/ BALCONY\n/\n| \"\n/ f] \\\\\nHf iN\nMi DINING \\\n/ if 67x12\" * \\\n/ j/f 2.02 mx 3.10 m \\\n/ /) \\\ni i} LIVING ROOM \\\n/ Hf 11'8\" x 16'0\"\nL i) 3.57 mx 4.87 m \\\\\nSS feet \\\\\nee joo\nKITCHEN = =\ngi\"xss\" | 4 \\O\n3.01 mx 2.65 m | Po _\n7 \u2014/ |C\n/\n=i \u2014\na 3 ]\n<= A Su }\n(| ad Ae J\ny Ue ia poe BFOROOM\nH/ Bato | TI Ct) ey = ive x80\" \\\ni \u2014\u2014 % 3.49 mx 2.44 m \\\n4 i ) \u00bb \\ \\\na RS _/} &, \\ \\\\\n} 32g\n} zx\ndl aus\nA { ae\ni} \\ | 3 | } in\nMASTER BEDROOM BEDROOM\nif 15'0\" x 9'3\" \u2014 a 14'S\" x 91\" \\\n/] 4.57 mx 2.83 m \u2014 4.40 mx 2.77 m \\\\\n5 fo sy\n/\n\u2014\u2014\n4TH XN\nGROSS INTERNAL AREA\nPOWERED BY\nTOTAL: 921 sq ft,86 n\\ i) matterport\u2019\n",
+    "image": "./extracted_images/60646061.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60646061/",
+    "listing_no": "60646061",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.515888,
+        "longitude": -0.005053
+    },
+    "first_published": "2022-01-31T12:14:33",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60646061",
+        "publishedOn": "2022-01-31T12:14:33",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 82096,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(473010).png",
+            "branchName": "Fraser & Co - City",
+            "brandName": "Fraser & Co",
+            "chainFree": false,
+            "companyId": 6623,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "City View Point, Poplar E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0LL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60646061,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/fraser-and-co-city-london-82096/",
+            "branchId": "82096",
+            "branchResultsUri": "/for-sale/branch/fraser-and-co-city-london-82096/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(473010).png",
+            "phone": "020 8033 8689",
+            "name": "Fraser & Co - City",
+            "memberType": "agent",
+            "address": "47 Great Eastern Street, Hoxton, London",
+            "postcode": "EC2A 3EP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Culloden Primary - A Paradigm Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Langdon Park Community School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Langdon Park",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "All Saints",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=un2unv5HFWC"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "Picture No. 23",
+                    "filename": "094c16610ff14de16b7d15a55b2ccb91b3ac596e.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Three-bedroom, two-bathroom apartment on the fourth floor of this popular development. With a private terrace, this 926 sq.ft* apartment has elegant yet contemporary interiors throughout. In addition to high-specifications, this flat boasts north, east and west-facing aspect.<br><br>Leven Wharf is close to DLR and Underground Services at Canning Town, Langdon Park, All Saints and East India Quay Stations. Each gives you easy access to Canary Wharf, London City Airport, Stratford International for Eurostar service and Bank for the City. Langdon Park DLR station is the closest of all these stations - being a mere 7 minute* walk away.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "3 bedrooms, 2 bathrooms",
+                "926 sq.ft internally",
+                "North, east &amp; West facing aspects",
+                "4th floor elevation",
+                "Private terrace",
+                "Excellent transport links via Langdon Park DLR Station"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "a82c249d96f17de6ffc83f3012600b36697714e4.jpg",
+                    "caption": "Picture No. 46"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "ede9131afefd43b4ecbb030edfca72c434bf59ca.jpg",
+                "caption": "Picture No. 43"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8fb1289e6f70233336cf7f2ec2d36d7b70fcb0bc.jpg",
+                "caption": "Picture No. 34"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0336d2fd13c8108f145f3c305d847ba9cac04339.jpg",
+                "caption": "Picture No. 37"
+            },
+            {
+                "__typename": "Media",
+                "filename": "181375fe37439fe32d336dc7da41d8bde55a335f.jpg",
+                "caption": "Picture No. 36"
+            },
+            {
+                "__typename": "Media",
+                "filename": "98347b17a62d2a5843c9cea8774d89b65ee310e9.jpg",
+                "caption": "Picture No. 38"
+            },
+            {
+                "__typename": "Media",
+                "filename": "48c38ff35e2da425afda05501a1410b4196cc21d.jpg",
+                "caption": "Picture No. 35"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c66e5fda976875913b15e040323b7c46f4ef4882.jpg",
+                "caption": "Picture No. 39"
+            },
+            {
+                "__typename": "Media",
+                "filename": "165e252e5cf9a1224a662de1a750da01664b70ce.jpg",
+                "caption": "Picture No. 41"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 82096,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(473010).png",
+            "branchName": "Fraser & Co - City",
+            "brandName": "Fraser & Co",
+            "chainFree": false,
+            "companyId": 6623,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "City View Point, Poplar E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0LL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60646061,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in City View Point, Poplar E14 - Zoopla",
+        "metaDescription": "3 bed flat for sale in City View Point, Poplar E14, selling for \u00a3550,000 from Fraser & Co - City. See property details on Zoopla or browse all our range of properties in City View Point, Poplar E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60646061/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.515888,
+                "longitude": -0.005053
+            }
+        },
+        "displayAddress": "City View Point, Poplar E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-31T12:14:33",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 109
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/a82c249d96f17de6ffc83f3012600b36697714e4.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Fraser & Co",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60646061,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "9FF32BFE-834E-11EC-8876-01C50D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 4490.167901234557
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

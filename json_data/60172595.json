@@ -1,0 +1,540 @@
+{
+    "address": "Carroun Road, London SW8",
+    "price": "\u00a3550,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "Bedroom 3\n\n3.20m x 2.01m\n\nLiving Room\n\n(10' 6\" x 67\")\n\nBedroom 1\n\n4.43m x 4.04m\n\n4.19m x 2.67m\n\n(14' 6\" x 13' 3\")\n\n(13' 9\" x 8' 9\")\n\n_\u2014\n\nLanding\n\nOO\n\nOO\n\nKitchen\n\nHall\n\n3.48m x 2.55m)|||||\n\nI\u2122\n\n(11\u00b0 5\" x 8 4\") CO\n\nBedroom 2\n\n3.70m x 2.56m\n\nToilet\n\nBathroom\n\n(12' 2\" x 8'5\")\n\n282m 1.36m\n\n@rxeo)\n\nShed\n\nI\u2014N\n\n2.00m x 1.30m\n\n7x43)\n\n\u00a9\n\nGround Floor\n\nFirst Floor\n\nOutbuilding\n\nThis floor plan is for illustrative purposes only. It is not drawn to scale. Any measurements, floor areas (including any total floor area), openings and orientation are\n\napproximate. No details are guaranteed, they cannot be relied upon for any purpose and they do not form part of any agreement. No liability is taken for any error,\n\nomission or misstatement. A party must rely upon its own inspection(s). Powered by www.focalagent.com\n",
+    "image": "./extracted_images/60172595.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60172595/",
+    "listing_no": "60172595",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.479891,
+        "longitude": -0.119458
+    },
+    "first_published": "2021-11-11T16:12:32",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60172595",
+        "publishedOn": "2021-11-11T16:12:32",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 16930,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "branchName": "Strike",
+            "brandName": "Strike",
+            "chainFree": false,
+            "companyId": 6808,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Carroun Road, London SW8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1AY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60172595,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SW8",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 401349
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/strike-middleborough-16930/",
+            "branchId": "16930",
+            "branchResultsUri": "/for-sale/branch/strike-middleborough-16930/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "phone": "0113 482 9379",
+            "name": "Strike",
+            "memberType": "agent",
+            "address": "The Octagon, Middleborough",
+            "postcode": "CO1 1TG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Stephen's Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Archbishop Tenison's School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Oval",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Vauxhall",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://tour.vieweet.com/viewer/YBL7TPX"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "ff0c32ccb45acc6aec4442749e6637769d51fb75.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A well-presented ground floor split level 3 bedroom property with its own private garden, benefitting from off-street parking. Located in a convenient position close to local amenities and transport links.<br><br>Tenure - Leasehold<br><br>Description<br><br>This ground floor property is split over two floors with access to its own enclosed rear garden.<br><br>On the ground floor, the property consists of an entrance hall, a fitted kitchen with a gas hob, electric oven and extractor fan. The living room is bright and spacious with lots of natural light and access to the rear garden.<br><br>On the first floor are 3 good sized double bedrooms, the family bathroom fitted with a bath, overhead shower and a washbasin. The WC is seperate.<br><br>To the rear of the property is a private low maintenance garden with a slabbed patio area leading to the artificial turf, also with a shed.<br><br>The property has gas central heating and is fitted with double glazed windows throughout. It also comes with access to off-street parking.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Private Rear Garden",
+                "Off Street Parking",
+                "Great Location",
+                "Well Presented 3 Double Bedroom Maisonette",
+                "Gas Central Heating &amp; Double Glazed Windows"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "0b3a2cf0f1c34de2295aec3c6d6184505bf59f64.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "13f7cf2c25245741456208da9a801403fe72f39d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3a192fa1f5c3aaae85eba1e10e653c032e6fb710.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "663854b6373832ad38c994568f3d374139057840.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2a936c08afdf5217b14c48012a9e17a62ff7a12d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3ab2a44ee2f508c2c1b0ec63570d059f2ac0f708.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "00e7157cbd8722ff9ce03706b483bd98e6eb1eaf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6c66f6bb4f62ad124d878beedfa08fc3d871efdb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "eedc1547bdcc03d2345b9168c0cd82c978ca2f23.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0251a003950b783625c29cfe91f438a6444fd811.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b936d99bcc2c4a66df9dae97fd088b1978a563e5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4b5e3662a86831ea7dd82418df6bcc1a20bf2a4a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1b26513e6729ea6fb50fa198ca8ffa292c3b78fc.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "adc275f44352208abd958473cb4b6d779d0c7484.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "56ccaf32cc7a9615217f79e8e093f1529fd06211.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a87091e89e4115d70e43127eb68e8dfeb966d34c.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 16930,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "branchName": "Strike",
+            "brandName": "Strike",
+            "chainFree": false,
+            "companyId": 6808,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Carroun Road, London SW8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1AY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60172595,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SW8",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 401349
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Carroun Road, London SW8 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Carroun Road, London SW8, selling for \u00a3550,000 from Strike. See property details on Zoopla or browse all our range of properties in Carroun Road, London SW8.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60172595/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.479891,
+                "longitude": -0.119458
+            }
+        },
+        "displayAddress": "Carroun Road, London SW8",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-11T16:12:32",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.3",
+                    "priceChangeDate": "2021-11-26T11:23:03",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3550,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 75
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/0b3a2cf0f1c34de2295aec3c6d6184505bf59f64.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Strike",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60172595,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "2C7275F6-7E9C-11EC-82AD-E1290E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW8",
+            "areaNameUri": "london/sw8/nine-elms-south-lambeth-vauxhall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 5702.210526315809
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 690742,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 694153,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -3411
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 694594,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3852
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 723568,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -32826
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 701118,
+                    "pctChangeSince": -1.48,
+                    "date": "2017-02-26",
+                    "changeSince": -10376
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 483330,
+                    "pctChangeSince": 42.913,
+                    "date": "2012-02-26",
+                    "changeSince": 207412
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 441525,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 249217
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 269003,
+                    "pctChangeSince": 156.779,
+                    "date": "2002-02-26",
+                    "changeSince": 421739
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 555984,
+                    "newBuilds": 1,
+                    "numSales": 166
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 594962,
+                    "newBuilds": 101,
+                    "numSales": 566
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 613407,
+                    "newBuilds": 219,
+                    "numSales": 1125
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 648438,
+                    "newBuilds": 710,
+                    "numSales": 2201
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-26T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 23198065,
+                    "streetAddress": "29 Carroun Road",
+                    "uri": "29-carroun-road/london/sw8-1js"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 657500,
+                    "propertyId": 23204131,
+                    "streetAddress": "3 Rosetta Close",
+                    "uri": "3-rosetta-close/london/sw8-2tl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 601500,
+                    "propertyId": 23205872,
+                    "streetAddress": "65a Ingelow Road",
+                    "uri": "65a-ingelow-road/london/sw8-3pe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 885000,
+                    "propertyId": 23208769,
+                    "streetAddress": "258 Queenstown Road",
+                    "uri": "258-queenstown-road/london/sw8-4lp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 23207255,
+                    "streetAddress": "62 Robertson Street",
+                    "uri": "62-robertson-street/london/sw8-3ty"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 765000,
+                    "propertyId": 23204740,
+                    "streetAddress": "123 Heath Road",
+                    "uri": "123-heath-road/london/sw8-3bb"
+                }
+            ]
+        }
+    }
+}

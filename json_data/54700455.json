@@ -1,0 +1,499 @@
+{
+    "address": "Casterton Street, London, Hackney E8",
+    "price": "\u00a3650,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 72.16,
+    "sqft": null,
+    "text": "ASA\n. PATIO\n*6.22m x 2.14m\u00b0*\n| (20'5x7'0) \u00ab\nApprox. ,* 72.16 sqm / 776.72 sqft\noT 2\ni aN\nUk\u201d\noA KITCHEN\n\u201cSoy 3.08m x 2.05m\nale (10'1 x 6'9)\nee\nR\\ BEDROOM 3\nPS \u201c] 3.63m x 2.50m\n| (11'11 x 8'2)\ntz,\n~.\nRECEPTION \\\n7.31m x 4.49m :\n(24'0 x 14'9) a\n2 t :) \u00a9 ;\nY\nBEDROOM 2 mal BEDRGON 2 ! 4\n3.67m x 3.18m .5im x 40m soos\n(12'0 x 10'S) (18'1 x 11'2) -\n\u2014 Ground Floor \u2014 Firat Floor\n",
+    "image": "./extracted_images/54700455.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/54700455/",
+    "listing_no": "54700455",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.545557,
+        "longitude": -0.058272
+    },
+    "first_published": "2022-02-17T13:29:19",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "54700455",
+        "publishedOn": "2022-02-17T13:29:19",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 18078,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(327607).png",
+            "branchName": "City & Urban International Shoreditch",
+            "brandName": "City & Urban International",
+            "chainFree": false,
+            "companyId": 792,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Casterton Street, London, Hackney E8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1BN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 54700455,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 14,
+            "numRecepts": null,
+            "outcode": "E8",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 477022
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/city-and-urban-international-shoreditch-london-18078/",
+            "branchId": "18078",
+            "branchResultsUri": "/for-sale/branch/city-and-urban-international-shoreditch-london-18078/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(327607).png",
+            "phone": "020 3463 9603",
+            "name": "City & Urban International Shoreditch",
+            "memberType": "agent",
+            "address": "68 Great Eastern Street, London",
+            "postcode": "EC2A 3JT"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Boxing Academy AP Free School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hackney Central",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hackney Downs",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Urswick School - A Church of England Secondary School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/zmVl4nbFd6o?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A fantastic opportunity to purchase this stunning detached freehold house located on an attractive tree lined residential street. The house was completely refurbished including new plumbing, electrical wiring and new staircase just over a year ago and was finished to a very modern specification. The property compromises of 3 double bedrooms, 2 bathrooms, a large semi open plan lounge / kitchen with large sky light and a small garden area at the rear. London Fields is within a short walk.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "afdccd7e1b3fe98375c827befc94102d2c5e8f45.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "48ad5c7a3227d51df1b249ef2a8c63d6b35c6341.jpg",
+                "caption": "Photo 0"
+            },
+            {
+                "__typename": "Media",
+                "filename": "39095e37432829547e7991bb02b9e7e5fc7d03d4.jpg",
+                "caption": "Photo 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f982d7faee6495928bc23946fe016b41bc4232c8.jpg",
+                "caption": "Photo 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1a330f395ec29216802a1e06b19228a6cfbfd237.jpg",
+                "caption": "Photo 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "81a1c01f8425799c155f9126ac199135ce9e401f.jpg",
+                "caption": "Photo 4"
+            },
+            {
+                "__typename": "Media",
+                "filename": "22886de660e5712c156dc890e2d87f59a584fce2.jpg",
+                "caption": "Photo 5"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5d5f97cab29081bf05923b4a3125b110ed4c1025.jpg",
+                "caption": "Photo 6"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ddea94f367e3886bb458ab045775cff6ac91df7d.jpg",
+                "caption": "Photo 7"
+            },
+            {
+                "__typename": "Media",
+                "filename": "37078d8654f390839c45205dc129f9331a630f31.jpg",
+                "caption": "Photo 8"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d7d6d88378cff7824c6c89c731b6825d407bb8a8.jpg",
+                "caption": "Photo 9"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e1cb7ff33548082505e9e1f4eb24c0df8649d9a1.jpg",
+                "caption": "Photo 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cf3b8ff489ff7454296943ab6c73ec5baebe3162.jpg",
+                "caption": "Photo 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7af46a0a31b95e0ac1317e9df9766441fd1fcf80.jpg",
+                "caption": "Photo 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fbcfe4f6415344398f64f37e5ff693ced6582bcb.jpg",
+                "caption": "Photo 13"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 18078,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(327607).png",
+            "branchName": "City & Urban International Shoreditch",
+            "brandName": "City & Urban International",
+            "chainFree": false,
+            "companyId": 792,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Casterton Street, London, Hackney E8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1BN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 54700455,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 14,
+            "numRecepts": null,
+            "outcode": "E8",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 477022
+        },
+        "title": "3 bed end terrace house for sale",
+        "metaTitle": "3 bed end terrace house for sale in Casterton Street, London, Hackney E8 - Zoopla",
+        "metaDescription": "3 bed end terrace house for sale in Casterton Street, London, Hackney E8, selling for \u00a3650,000 from City & Urban International Shoreditch. See property details on Zoopla or browse all our range of properties in Casterton Street, London, Hackney E8.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/54700455/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.545557,
+                "longitude": -0.058272
+            }
+        },
+        "displayAddress": "Casterton Street, London, Hackney E8",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-17T13:29:19",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 224
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/afdccd7e1b3fe98375c827befc94102d2c5e8f45.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "City & Urban International",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 54700455,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "EBEDEF9A-96FD-11EC-8B4F-FEE60D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E8",
+            "areaNameUri": "london/e8/hackney-dalston",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3783.5416666666665
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 906202,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 923970,
+                    "pctChangeSince": -1.923,
+                    "date": "2021-11-26",
+                    "changeSince": -17768
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 956760,
+                    "pctChangeSince": -5.284,
+                    "date": "2021-08-26",
+                    "changeSince": -50558
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 909970,
+                    "pctChangeSince": -0.414,
+                    "date": "2021-02-26",
+                    "changeSince": -3768
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 888201,
+                    "pctChangeSince": 2.027,
+                    "date": "2017-02-26",
+                    "changeSince": 18001
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 530345,
+                    "pctChangeSince": 70.87,
+                    "date": "2012-02-26",
+                    "changeSince": 375857
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 527303,
+                    "pctChangeSince": 71.856,
+                    "date": "2007-02-26",
+                    "changeSince": 378899
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 306305,
+                    "pctChangeSince": 195.85,
+                    "date": "2002-02-26",
+                    "changeSince": 599897
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 1097852,
+                    "newBuilds": 0,
+                    "numSales": 50
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1039983,
+                    "newBuilds": 1,
+                    "numSales": 129
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1031514,
+                    "newBuilds": 1,
+                    "numSales": 236
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1005208,
+                    "newBuilds": 5,
+                    "numSales": 342
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1170000,
+                    "propertyId": 7765140,
+                    "streetAddress": "77 Shrubland Road",
+                    "uri": "77-shrubland-road/london/e8-4nh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 636000,
+                    "propertyId": 7766589,
+                    "streetAddress": "1 Samuel Close, Pownall Road",
+                    "uri": "1-samuel-close/pownall-road/london/e8-4sg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 635000,
+                    "propertyId": 7756806,
+                    "streetAddress": "Flat 18, Milton House Mansions, Shacklewell Lane",
+                    "uri": "flat-18/milton-house-mansions/shacklewell-lane/london/e8-2eh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 482500,
+                    "propertyId": 7762673,
+                    "streetAddress": "488 Kingsland Road",
+                    "uri": "488-kingsland-road/london/e8-4ae"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-08T00:00:00Z",
+                    "price": 950000,
+                    "propertyId": 7757174,
+                    "streetAddress": "36 Independent Place",
+                    "uri": "36-independent-place/london/e8-2he"
+                }
+            ]
+        }
+    }
+}

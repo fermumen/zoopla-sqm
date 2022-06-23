@@ -1,0 +1,491 @@
+{
+    "address": "Denholme Road, London W9",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 65.2,
+    "sqft": 701.0,
+    "text": "Second Floor\nBedroom\n4.01m x 3.33m\n(13'2\" x 10111\")\n|\nFirst Floor a \"\n|\n==\nBedroom a\n2.92m x 3.48m \u2014\n(9'7\" x 11'5\")\n(SS\n\\ G 0)\n. <\na ( ON\nvv \\A SJ G\nCi\nKitchen/Reception\u2014\u2014\nRoom\n5.46m x 5.38m\n(17'11\" x 17'8\")\nTotal area: approx. 65.2 sq. metres (701.7 sq. feet)\n",
+    "image": "./extracted_images/60378514.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60378514/",
+    "listing_no": "60378514",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.530639,
+        "longitude": -0.199856
+    },
+    "first_published": "2021-12-15T13:31:56",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60378514",
+        "publishedOn": "2021-12-15T13:31:56",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/214d33a2d82092e1d18780637cb16b847e71b7bb.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 5898,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Maida Vale",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Denholme Road, London W9",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3HT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60378514,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "W9",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 537508
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-maida-vale-maida-vale-5898/",
+            "branchId": "5898",
+            "branchResultsUri": "/for-sale/branch/dexters-maida-vale-maida-vale-5898/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7266 2020",
+            "name": "Dexters - Maida Vale",
+            "memberType": "agent",
+            "address": "298 Elgin Avenue, Maida Vale",
+            "postcode": "W9 1JS"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Kilburn Park School Foundation",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Carlton Vale Infant School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Queen's Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Queens Park (London)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "984ee2eb4ba7644090c7a2be5b86fd28ac5fb1d9.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Situated on the second floor of a well maintained Victorian conversion, the property itself comprises two double bedrooms, bathroom and a large open plan kitchen/living room. Very light and bright and close to the local amenities.<br><br>Denholme Road is excellently located for the cafes and restaurants of Salusbury Road and less than half a mile to Queens Park underground station (Bakerloo line) Paddington recreation ground is also within easy reach.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedrooms",
+                "Open Plan Kitchen",
+                "Wooden Floors",
+                "Great Condition",
+                "Light and bright",
+                "Victorian Conversion"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "353417daa912e012eb69b17a11a014a376f5be75.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "c6ae1b9d479c99d9e3f21e8df1bc3d5a3c299bde.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ec1ded4dc6aacbbc28858ef4401fe63c8c243c79.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e4020381f4ca9236a784f97f6331f951d2d879e8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "adf6fdf771d9899caae81bee1d07ddb3c96bc023.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d5124fa843af8c46f402e053b1455dcbe604a747.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "47e16cca12602d85ad930f269aa689ffbcec6c1a.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 5898,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Maida Vale",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Denholme Road, London W9",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3HT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60378514,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "W9",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 537508
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Denholme Road, London W9 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Denholme Road, London W9, selling for \u00a3600,000 from Dexters - Maida Vale. See property details on Zoopla or browse all our range of properties in Denholme Road, London W9.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60378514/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.530639,
+                "longitude": -0.199856
+            }
+        },
+        "displayAddress": "Denholme Road, London W9",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-15T13:31:56",
+                "priceLabel": "\u00a3630,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.8",
+                    "priceChangeDate": "2022-01-25T11:29:21",
+                    "priceChangeLabel": "\u00a330,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 106
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/353417daa912e012eb69b17a11a014a376f5be75.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60378514,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "024BBC06-89A0-11EC-97A7-3CEA0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W9",
+            "areaNameUri": "london/w9/maida-vale-warwick-avenue-maida-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3799.972222222223
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 742547,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 754599,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -12052
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 776912,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -34365
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 818950,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -76403
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 812535,
+                    "pctChangeSince": -8.614,
+                    "date": "2017-02-26",
+                    "changeSince": -69988
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 541233,
+                    "pctChangeSince": 37.195,
+                    "date": "2012-02-26",
+                    "changeSince": 201314
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 482662,
+                    "pctChangeSince": 53.844,
+                    "date": "2007-02-26",
+                    "changeSince": 259885
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 286057,
+                    "pctChangeSince": 159.58,
+                    "date": "2002-02-26",
+                    "changeSince": 456490
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 799815,
+                    "newBuilds": 1,
+                    "numSales": 181
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 775463,
+                    "newBuilds": 3,
+                    "numSales": 503
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 796543,
+                    "newBuilds": 14,
+                    "numSales": 941
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 783996,
+                    "newBuilds": 32,
+                    "numSales": 1571
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 647000,
+                    "propertyId": 25119033,
+                    "streetAddress": "23 Shirland Mews",
+                    "uri": "23-shirland-mews/london/w9-3dy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1110000,
+                    "propertyId": 25113905,
+                    "streetAddress": "Flat 34, Sandringham Court, Maida Vale",
+                    "uri": "flat-34/sandringham-court/maida-vale/london/w9-1ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 27436863,
+                    "streetAddress": "Upper Ground Floor Flat, 8 Oakington Road",
+                    "uri": "upper-ground-floor-flat/8-oakington-road/london/w9-2dh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 25115298,
+                    "streetAddress": "3 Marylands Road",
+                    "uri": "3-marylands-road/london/w9-2du"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 687000,
+                    "propertyId": 25116721,
+                    "streetAddress": "Flat 146, Delaware Mansions, Delaware Road",
+                    "uri": "flat-146/delaware-mansions/delaware-road/london/w9-2ll"
+                }
+            ]
+        }
+    }
+}

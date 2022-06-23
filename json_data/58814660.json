@@ -1,0 +1,515 @@
+{
+    "address": "Caxton Street North, Canning Town E16",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": "899 sq. ft",
+    "sqm": 84.0,
+    "sqft": null,
+    "text": "Thanet Tower, E16 MADISON BROOK\n2 bedrooms apartment - 13th floor INTERNATIONAL\n= aI [JF\na ERPACE il MASTER BEDROOM | ayes\neiem x 308m || Aste m 3.46 m x 2.67 m\n_\nSS SE V2] \\ J\nCian (IEA\nee _\\\nI\nBATH\n\\ (ete) de <I) 9\nSw [m x 1.69: 2.64 m x 3.96 m__ 2\n~ Piers Pill\n= =]\nLT\nEntrance Level\nET [I :\nfs\n3.61 mx 1.26m ss\n[_\u2014 IFT J\n. earns. L\nLIVING ROOM 2.50mx4.51m\n12'4\" x 14'0\"\n=| 3.75mx4.27m\nApprox. Internal Area\nEntrance Level: 446 Sqft / 41 Sqm\nTop Level: 453 Sqft / 42 Sqm Set WZ\nTOTAL 899 Sqft / 84 Sqm eel OS dt\noo Hii\nExcl. areas: eee\nTerrace: 206 Saft / 19 Sqm 3.03 mx 1.72m\nBalcony: 49 Sqft / 5 Sqm\nTop Level\n] ] ] 2 2\na\neB ~\u201d & 6\nIllustration for identification purposes only.\nMeasurements are approximate. Not to scale.\n",
+    "image": "./extracted_images/58814660.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/58814660/",
+    "listing_no": "58814660",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.51065,
+        "longitude": 0.012658
+    },
+    "first_published": "2022-01-25T17:34:26",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "58814660",
+        "publishedOn": "2022-01-25T17:34:26",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Landscape A4 Brochure",
+                "original": "https://lc.zoocdn.com/145f1556d1307f632bcb5af2cf5b2e50c6bc9db4.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31236722",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 32020,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(575649).png",
+            "branchName": "Madison Brook International E16",
+            "brandName": "Madison Brook International",
+            "chainFree": false,
+            "companyId": 14748,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Caxton Street North, Canning Town E16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1XN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 58814660,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "E16",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "899",
+            "tenure": null,
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/madison-brook-international-e16-docklands-32020/",
+            "branchId": "32020",
+            "branchResultsUri": "/for-sale/branch/madison-brook-international-e16-docklands-32020/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(575649).png",
+            "phone": "020 8033 6025",
+            "name": "Madison Brook International E16",
+            "memberType": "agent",
+            "address": "20 Unit B, Western Gateway, Royal Victoria, Docklands",
+            "postcode": "E16 1BS"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Luke's Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hallsville Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Royal Victoria",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Canning Town",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=8W55kwLKds4"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "e1ad45e6c38d8ebfaf119cd3592303576d939f26.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "**guide price \u00a3650,000-\u00a3675,000** This stunning two bedroom, two bathroom penthouse is located on the 12th &amp; 13th floor, has two secure parking spaces &amp; beautiful views out to the 02 Arena &amp; River Thames.<br><br>Situated over 899 Sq. Ft internally the property offers a smart, modern open plan living and kitchen area with integrated appliances, two well proportioned double bedrooms with the principle benefiting from a en suite, access to a sizable terrace &amp; then a further family bathroom. Additionally the apartment has a second balcony off the living room, very high celling's, lots of natural light &amp; ample storage throughout.<br><br>Thanet Tower is well served by the local amenities in Canning Town, while Canary Wharf is within easy reach. Local transport links include Canning Town underground station (Jubilee Line) and Canning Town Station (National Rail) as well easy access to the A12 and A13.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedroom Penthouse",
+                "12th &amp; 13th Floor Location",
+                "899 Sq. Ft Internally",
+                "Private Terrace",
+                "Close To Canning Town Station",
+                "Beautiful Views Out To The 02 Arena",
+                "Two Secure Car Parking Spaces",
+                "Service Charge: \u00a33,500.00 Per Annum",
+                "Ground Rent: \u00a3650.00 Per Annum",
+                "Lease Length: 247 Years Remaining"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "bd97886869fc9005df0197cfdfc1ce6301414772.png",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "3331b349b1f57fcbbb9fa4275300c3ff592786ff.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1e183a6617f6d516869681d583f56e47f3aa275d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2b3faa50ffcd2085e0c1a64fba3bf37d9d81263d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4ebe0d6c5ccf6d96b77e633a43152692e12b7dcf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9ffdccf4aed508aa5e4900d78a2ac0dff5c93cd0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a524f8c3411d99482101e38f6ae80f58318229eb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1423cff1806286caa2eaf88d56aba299378b0a3c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bf44e4e2b3f8302013c24b1fe1fc51c8556c3be0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7c9f6833d1ef50c37c2f8777cb379882f37bab55.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 32020,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(575649).png",
+            "branchName": "Madison Brook International E16",
+            "brandName": "Madison Brook International",
+            "chainFree": false,
+            "companyId": 14748,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Caxton Street North, Canning Town E16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1XN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 58814660,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "E16",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "899",
+            "tenure": null,
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Caxton Street North, Canning Town E16 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Caxton Street North, Canning Town E16, selling for \u00a3650,000 from Madison Brook International E16. See property details on Zoopla or browse all our range of properties in Caxton Street North, Canning Town E16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/58814660/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.51065,
+                "longitude": 0.012658
+            }
+        },
+        "displayAddress": "Caxton Street North, Canning Town E16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-25T17:34:26",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 38
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/bd97886869fc9005df0197cfdfc1ce6301414772.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 899
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 723,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Madison Brook International",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 58814660,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "482F649E-8B6B-11EC-B97A-A7290E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E16",
+            "areaNameUri": "london/e16/victoria-docks-canning-town-north-woolwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1998.782828282829
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 409946,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 417472,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -7526
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 431336,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -21390
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 454974,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -45028
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 405330,
+                    "pctChangeSince": 1.139,
+                    "date": "2017-02-26",
+                    "changeSince": 4616
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 259070,
+                    "pctChangeSince": 58.238,
+                    "date": "2012-02-26",
+                    "changeSince": 150876
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 259591,
+                    "pctChangeSince": 57.92,
+                    "date": "2007-02-26",
+                    "changeSince": 150355
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 150728,
+                    "pctChangeSince": 171.977,
+                    "date": "2002-02-26",
+                    "changeSince": 259218
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 403820,
+                    "newBuilds": 0,
+                    "numSales": 143
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 389007,
+                    "newBuilds": 17,
+                    "numSales": 407
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 404670,
+                    "newBuilds": 392,
+                    "numSales": 1497
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 392390,
+                    "newBuilds": 881,
+                    "numSales": 2703
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 535000,
+                    "propertyId": 31407586,
+                    "streetAddress": "40 Ladysmith Road",
+                    "uri": "40-ladysmith-road/london/e16-4nr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 430000,
+                    "propertyId": 7910391,
+                    "streetAddress": "79 Star Lane",
+                    "uri": "79-star-lane/london/e16-4rf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 32999424,
+                    "streetAddress": "9, Windlass House, 21 Schooner Road",
+                    "uri": "9/windlass-house/21-schooner-road/london/e16-2pw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 30844682,
+                    "streetAddress": "Flat 17, The Oxygen, 18 Western Gateway",
+                    "uri": "flat-17/the-oxygen/18-western-gateway/london/e16-1bl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 275000,
+                    "propertyId": 7901501,
+                    "streetAddress": "283 Fishguard Way",
+                    "uri": "283-fishguard-way/london/e16-2ry"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,496 @@
+{
+    "address": "Brecknock Road, Tufnell Park N7",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 52.41,
+    "sqft": 564.0,
+    "text": " \n\n \n\n \n\n \n\n \n\n \n\n \n\nGROUND FLOOR\n564 SQ FT/52.41 SQM\n",
+    "image": "./extracted_images/60527298.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60527298/",
+    "listing_no": "60527298",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.549313,
+        "longitude": -0.129761
+    },
+    "first_published": "2022-01-14T09:43:26",
+    "last_sale_date": "2011-12-20",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60527298",
+        "publishedOn": "2022-01-14T09:43:26",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 22522,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(465909).png",
+            "branchName": "Robert Lehrer Properties",
+            "brandName": "Robert Lehrer Properties",
+            "chainFree": false,
+            "companyId": 11502,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brecknock Road, Tufnell Park N7",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0DD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60527298,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": null,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 523875
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/robert-lehrer-properties-london-22522/",
+            "branchId": "22522",
+            "branchResultsUri": "/for-sale/branch/robert-lehrer-properties-london-22522/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(465909).png",
+            "phone": "020 3328 6545",
+            "name": "Robert Lehrer Properties",
+            "memberType": "agent",
+            "address": "365 Archway Road, Highgate, London",
+            "postcode": "N6 4EJ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Torriano Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hungerford School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kentish Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kentish Town",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/ixxvba69UNs?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "842516fd20a2674c1e4128f4d11bd3892c20ced3.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Detailed Description</strong><br><br>A ground floor 2 bedroom gardens flat with a large reception room with a sociable open-plan kitchen with leads onto a private garden, 2 double bedrooms and a fully tiled bathroom. The property is a short walk from Tufnell Park, Camden &amp; Kentish Town Tube Station as well being seconds away from local amenities.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "4560386fb91a6957ad0e7b471c6fbd479e4ba552.jpg",
+                    "caption": "Floor Plan 1"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "6659847f164910980b4e08f779ab5d50904b2d0f.jpg",
+                "caption": "Photo 6"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e6a76826bace4b4ad57314597d0547a5d2f7822e.jpg",
+                "caption": "Photo 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cdca0a678b4b14816668e9422d94f785db539843.jpg",
+                "caption": "Photo 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b174ceb2e6aca0e95459eaada1c3798144d11a91.jpg",
+                "caption": "Photo 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a8c231009d407dc8f2cef0df8d312dfe764829a3.jpg",
+                "caption": "Photo 4"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c24f33adf69e58f7d55cbbc47956243c98596018.jpg",
+                "caption": "Photo 5"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bdce9d06f856754bf45c14517271dfde561c3bc3.jpg",
+                "caption": "Photo 7"
+            },
+            {
+                "__typename": "Media",
+                "filename": "da85c931918644b63a386ac6c56df9d67ac6f682.jpg",
+                "caption": "Photo 8"
+            },
+            {
+                "__typename": "Media",
+                "filename": "26935341371db2f2174a16ac13d8c63ba3f9ebf3.jpg",
+                "caption": "Photo 9"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 22522,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(465909).png",
+            "branchName": "Robert Lehrer Properties",
+            "brandName": "Robert Lehrer Properties",
+            "chainFree": false,
+            "companyId": 11502,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Brecknock Road, Tufnell Park N7",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0DD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60527298,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": null,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 523875
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Brecknock Road, Tufnell Park N7 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Brecknock Road, Tufnell Park N7, selling for \u00a3550,000 from Robert Lehrer Properties. See property details on Zoopla or browse all our range of properties in Brecknock Road, Tufnell Park N7.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60527298/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.549313,
+                "longitude": -0.129761
+            }
+        },
+        "displayAddress": "Brecknock Road, Tufnell Park N7",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-14T09:43:26",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2011-12-20",
+                "newBuild": false,
+                "price": 327000,
+                "priceLabel": "\u00a3327,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 106
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/4560386fb91a6957ad0e7b471c6fbd479e4ba552.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Robert Lehrer Properties",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60527298,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "527A95E0-95C0-11EC-879E-CCEB0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N7",
+            "areaNameUri": "london/n7/holloway",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2225.222222222224
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 506811,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 515573,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8762
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 531722,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -24911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 558515,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -51704
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 516722,
+                    "pctChangeSince": -1.918,
+                    "date": "2017-02-26",
+                    "changeSince": -9911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 338762,
+                    "pctChangeSince": 49.607,
+                    "date": "2012-02-26",
+                    "changeSince": 168049
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 317783,
+                    "pctChangeSince": 59.483,
+                    "date": "2007-02-26",
+                    "changeSince": 189028
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 191290,
+                    "pctChangeSince": 164.944,
+                    "date": "2002-02-26",
+                    "changeSince": 315521
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 524496,
+                    "newBuilds": 0,
+                    "numSales": 200
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 518653,
+                    "newBuilds": 8,
+                    "numSales": 549
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 499646,
+                    "newBuilds": 8,
+                    "numSales": 1035
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 499177,
+                    "newBuilds": 124,
+                    "numSales": 1796
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-29T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 15113610,
+                    "streetAddress": "97a Brecknock Road",
+                    "uri": "97a-brecknock-road/london/n7-0bx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 755000,
+                    "propertyId": 15118599,
+                    "streetAddress": "11 Empire Square",
+                    "uri": "11-empire-square/london/n7-6jn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1620000,
+                    "propertyId": 15124242,
+                    "streetAddress": "6 Orleston Mews",
+                    "uri": "6-orleston-mews/london/n7-8ll"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 309000,
+                    "propertyId": 27250808,
+                    "streetAddress": "Flat 3, 17 Carleton Road",
+                    "uri": "flat-3/17-carleton-road/london/n7-0qz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 15121738,
+                    "streetAddress": "21 Selden Walk",
+                    "uri": "21-selden-walk/london/n7-7rl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 15114386,
+                    "streetAddress": "81 Penderyn Way, Carleton Road",
+                    "uri": "81-penderyn-way/carleton-road/london/n7-0ey"
+                }
+            ]
+        }
+    }
+}

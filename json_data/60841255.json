@@ -1,0 +1,568 @@
+{
+    "address": "Monks Park, Wembley HA9",
+    "price": "\u00a3650,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 121.5,
+    "sqft": null,
+    "text": "Monks Park, HA9 6JE\nApprox. Gross Internal Area = 115.1 sq m/ 1238 sq ft\nGarage = 6.4 sq m/ 68 sq ft\nTotal = 121.5 sq m/ 1306 sq ft\nGarden\n63'10\" x 22'0\" \\\n49.45m x 6.71m at\n\\ _ Pa A\nL NI 4\nL\nat\nKitchen) Fo [Bathroom\nDining Room JU gy Tix ae\n170\"x 141\" FL 4\n5.18m x 4.30m J else\n\\ J [- Bathroom\n~ 68\" x 50\"\n\\V~] ) 203m x 1,53m|\n) / :\nY = - \u2014_\n: lf b: ryOrS U\nEntertaining [| ee haa\n778'10\"x7'10\"\"| Reception Room r Bedroom\n2.70m x 2.40m| 13'2\"x 11'1\" ei \\ 11'7\" x 10'4\"\nNib, 4.0\u00a2m x3.37m wee IP 54m x3.14m\nres yon y\n=m : Hey \u2014\n| 7 1 )\nHi Living Room i Bedroom\noe 1511\" x 133\" Bedroom watexarid\"\n4.60m x 4.04m 97\u00b0 x75\" H. 4.86m x 3.64m\n\u2018 |2.92m x 2.27m|\n1 \u2018*t 1\n[Garage \\ I \\\n|4.08m x 1.54m) * \u00bb * \u00bb\nGround Floor First Floor\n_ BLEU\nRet Copyright BL AN\nThe Floor plan is not to scale and measurements and areas shown are approximate and therefore should be used for\nillustrative purposes only. The plan has been prepared in accordance with the RICS code of Measuring Practice and whilst we\nhave confidence in the information produced it must not be relied on. If there is any aspect of particular importance, you should\ncatry out or commission your own inspection ofthe property\nCopyright @ BLEUPLAN\n",
+    "image": "./extracted_images/60841255.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60841255/",
+    "listing_no": "60841255",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.548686,
+        "longitude": -0.27136
+    },
+    "first_published": "2022-02-24T11:39:00",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60841255",
+        "publishedOn": "2022-02-24T11:39:00",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Monks Park, Wembley",
+                "original": "https://lc.zoocdn.com/2bd4d6d6d886bd531836d6d1956396dc052d6b2a.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31308207",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 25,
+            "acornType": 25,
+            "areaName": "Wembley",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 13461,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(381722).png",
+            "branchName": "Daniels Estate Agents - Wembley",
+            "brandName": "Daniels",
+            "chainFree": false,
+            "companyId": 1017,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Monks Park, Wembley HA9",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6JE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60841255,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "Wembley",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 14,
+            "numRecepts": 2,
+            "outcode": "HA9",
+            "postalArea": "HA",
+            "postTownName": "Wembley",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "semi_detached",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 437318
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/daniels-estate-agents-wembley-wembley-13461/",
+            "branchId": "13461",
+            "branchResultsUri": "/for-sale/branch/daniels-estate-agents-wembley-wembley-13461/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(381722).png",
+            "phone": "020 3463 0082",
+            "name": "Daniels Estate Agents - Wembley",
+            "memberType": "agent",
+            "address": "438 High Road, Wembley",
+            "postcode": "HA9 6AH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Oakington Manor Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brentfield Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stonebridge Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stonebridge Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=LTWWW2ZcSC7"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Daniels are delighted in bringing to market this excellent three bedroom, two receptions, dining room, two bathrooms, semi-detached home with garage own drive and potential to extend (stpp).<br><br>Located within a quiet residential part of Wembley yet minutes walking distance from all the local amenities of the high road offering a local selection of shops, restaurants, supermarket, gyms and more, for transport you have Stonebridge &amp; Wembley central stations servicing the Bakerloo &amp; Silverlink, with a direct line into Central London as well as various bus routes.<br><br>Only by viewing can you really appreciate what this home has to offer, so call and book an early appointment with us your leading local estate agent.<br><br><strong>Entrance</strong><br><br><strong>Reception 1</strong><br><br><strong>Reception 2 - (Bedroom 4)</strong><br><br><strong>Dining Room</strong><br><br><strong>Bathroom (En-Suite To Bedroom 4)</strong><br><br><strong>Landing</strong><br><br><strong>Bedroom 1</strong><br><br><strong>Bedroom 2</strong><br><br><strong>Bedroom 3</strong><br><br><strong>Bathroom</strong><br><br><strong>Sep Wc</strong><br><br><strong>Garden Rear</strong><br><br><strong>Garden Front</strong><br><br><strong>Garage Own Drive</strong>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Semi-detached",
+                "3 / 4 bedrooms",
+                "Two receptions",
+                "Two bathrooms",
+                "Garage own drive",
+                "Off street parking"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "3957f2f8eacc21f8425cd50431b232c9fd0c1a98.jpg",
+                    "caption": "Monks Park, Ha9 6Je.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "5d34d02424d77d933d7ccba2d49d73f53507c459.jpg",
+                "caption": "Front.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ef0e032d860e33589f444a64ebb271c7e37b034c.jpg",
+                "caption": ".Recep 1.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "29962183ce5519d0f12096bdefd9c4bf9519b72c.jpg",
+                "caption": ".Kitchen.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d2076b178cb1b92846a708f0b671c57e2e18eaef.jpg",
+                "caption": "Dining Room..Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b8ad438337e00a302aed5c0b42776069bb19c450.jpg",
+                "caption": "Recep 1.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "09e1d52fe1dc9d71e9d04bbba31a8b481c6fa1a9.jpg",
+                "caption": "Recep 2,.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7caeb1169f13a2b013635e2d27f38478b9e0a33d.jpg",
+                "caption": "Recep 2- Bedroom 4.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f23f98d5fe50e6e6176bf7908a32edd0f196e0fe.jpg",
+                "caption": "Bathroom.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f02256fd325bcdb729f37af2d4e530545a84daa9.jpg",
+                "caption": "Bedroom 1..Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1cf3475a86a948b4b1e59afc3a1b100d18aa8e63.jpg",
+                "caption": "Bedroom 1.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b160bb995e3907693952c4000cc88e4a5ea31b00.jpg",
+                "caption": "Bedroom 2.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e446b8021c7b65d2c4e69e53375be799e05cfbae.jpg",
+                "caption": "Bedroom 3.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "dfb0f9089f694c3cf030c96a9b66b1eeeeddfbb0.jpg",
+                "caption": "Bathroom - Sep WC.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "584a4893fa4d5774233538294dd32be13392a472.jpg",
+                "caption": "Garden.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "Wembley",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 25,
+            "acornType": 25,
+            "areaName": "Wembley",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 13461,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(381722).png",
+            "branchName": "Daniels Estate Agents - Wembley",
+            "brandName": "Daniels",
+            "chainFree": false,
+            "companyId": 1017,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Monks Park, Wembley HA9",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6JE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60841255,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 14,
+            "numRecepts": 2,
+            "outcode": "HA9",
+            "postalArea": "HA",
+            "postTownName": "Wembley",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "semi_detached",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 437318
+        },
+        "title": "3 bed semi-detached house for sale",
+        "metaTitle": "3 bed semi-detached house for sale in Monks Park, Wembley HA9 - Zoopla",
+        "metaDescription": "3 bed semi-detached house for sale in Monks Park, Wembley HA9, selling for \u00a3650,000 from Daniels Estate Agents - Wembley. See property details on Zoopla or browse all our range of properties in Monks Park, Wembley HA9.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60841255/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.548686,
+                "longitude": -0.27136
+            }
+        },
+        "displayAddress": "Monks Park, Wembley HA9",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-24T11:39:00",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 113
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/3957f2f8eacc21f8425cd50431b232c9fd0c1a98.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 2
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Daniels",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60841255,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "88094900-9632-11EC-89CA-2D0E0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "HA9",
+            "areaNameUri": "ha9",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1951.1818181818169
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 579375,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 589152,
+                    "pctChangeSince": -1.66,
+                    "date": "2021-11-26",
+                    "changeSince": -9777
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 607204,
+                    "pctChangeSince": -4.583,
+                    "date": "2021-08-26",
+                    "changeSince": -27829
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 634145,
+                    "pctChangeSince": -8.637,
+                    "date": "2021-02-26",
+                    "changeSince": -54770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 549745,
+                    "pctChangeSince": 5.39,
+                    "date": "2017-02-26",
+                    "changeSince": 29630
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 389774,
+                    "pctChangeSince": 48.644,
+                    "date": "2012-02-26",
+                    "changeSince": 189601
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 380615,
+                    "pctChangeSince": 52.221,
+                    "date": "2007-02-26",
+                    "changeSince": 198760
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 223278,
+                    "pctChangeSince": 159.486,
+                    "date": "2002-02-26",
+                    "changeSince": 356097
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 593475,
+                    "newBuilds": 0,
+                    "numSales": 55
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 580023,
+                    "newBuilds": 0,
+                    "numSales": 161
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 581723,
+                    "newBuilds": 0,
+                    "numSales": 300
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 563951,
+                    "newBuilds": 3,
+                    "numSales": 470
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 10283451,
+                    "streetAddress": "27 Monks Park",
+                    "uri": "27-monks-park/wembley/ha9-6jf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-24T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 10283433,
+                    "streetAddress": "22 Monks Park",
+                    "uri": "22-monks-park/wembley/ha9-6je"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-04T00:00:00Z",
+                    "price": 542500,
+                    "propertyId": 10283612,
+                    "streetAddress": "125 Monks Park",
+                    "uri": "125-monks-park/wembley/ha9-6jp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-26T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 10283427,
+                    "streetAddress": "10 Monks Park",
+                    "uri": "10-monks-park/wembley/ha9-6je"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-01T00:00:00Z",
+                    "price": 490000,
+                    "propertyId": 10283600,
+                    "streetAddress": "101 Monks Park",
+                    "uri": "101-monks-park/wembley/ha9-6jp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 10285360,
+                    "streetAddress": "10 Tudor Court South",
+                    "uri": "10-tudor-court-south/wembley/ha9-6sq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 288000,
+                    "propertyId": 10295228,
+                    "streetAddress": "Flat 12, Wessex Court, 120 The Avenue",
+                    "uri": "flat-12/wessex-court/120-the-avenue/wembley/ha9-9rh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 272000,
+                    "propertyId": 27148660,
+                    "streetAddress": "55b Jesmond Avenue",
+                    "uri": "55b-jesmond-avenue/wembley/ha9-6dz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 915000,
+                    "propertyId": 10289027,
+                    "streetAddress": "43 Oakington Avenue",
+                    "uri": "43-oakington-avenue/wembley/ha9-8hx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-08T00:00:00Z",
+                    "price": 485000,
+                    "propertyId": 10283735,
+                    "streetAddress": "73 Park View",
+                    "uri": "73-park-view/wembley/ha9-6ju"
+                }
+            ]
+        }
+    }
+}

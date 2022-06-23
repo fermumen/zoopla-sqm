@@ -1,0 +1,577 @@
+{
+    "address": "Selwyn Road, Harlesden, London NW10",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": "823 sq. ft",
+    "sqm": 76.5,
+    "sqft": 2021.0,
+    "text": "Foxtons Selwyn Road, NW10\n2onj2021 3.816187 76.50 sqm / 823.44 sqft\n| Zz\n\u201cea 3 paTIO. 7.\nsrt 8 11.24m x 5.05m* 8 tt\n. . + \u00ab+ (36'11x 16'7) \u00ab soe .\neT Approx,\n. . are oe hee . oe\nan en re\n\u2018 \u2014 = J\nBEDROOM 2\n3.77m x 3.62m\neo KITCHEN (12'4 x 11\u00b011)\n4.64m x 3.76m .\n(15'3 x 12'4) an\ni\nJ a\n7 | ..\nRECEPTION MAIN BEDROOM\n3.87m x 3.51m 4.62m x 3.89m\na (12'8 x 11'6) (15'2 x 12'9)\n2.0.7. pRONTPATIO |. ee\u201d\nwo 1 4.82m x 2.938m 7 7\nsoe 8 8 (510K 9'7) 2 Fee\nTe, Approx. we\n= Ground Floor = First Floor\n76.50 sqm / 823.44 sqft 70.26 sqm / 756.27 sqft 0.00 sqm / 0.00 sqft 0.83 sqm / 8.93 sqft\nMspec\u2019\nVerified \u00a9\n",
+    "image": "./extracted_images/60251921.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60251921/",
+    "listing_no": "60251921",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.54418,
+        "longitude": -0.256295
+    },
+    "first_published": "2021-11-23T15:20:55",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60251921",
+        "publishedOn": "2021-11-23T15:20:55",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/nw10/chpk1008405/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/nw10/chpk1008405",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/nw10/chpk1008405/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 31703,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Willesden Green",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Selwyn Road, Harlesden, London NW10",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "8QY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60251921,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 21,
+            "numRecepts": 1,
+            "outcode": "NW10",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "823",
+            "tenure": null,
+            "zindex": 469572
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-willesden-green-london-31703/",
+            "branchId": "31703",
+            "branchResultsUri": "/for-sale/branch/foxtons-willesden-green-london-31703/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3463 0250",
+            "name": "Foxtons - Willesden Green",
+            "memberType": "agent",
+            "address": "2-6 Station Parade, London",
+            "postcode": "NW2 4NH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Mitchell Brook Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Joseph's Roman Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Harlesden",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Harlesden",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/415983503"
+                }
+            ],
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/619b97139dc5980a4c8f5a60"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Set in a gorgeous converted property, this 2 bedroom house presents chic interiors with retained period finishes throughout. It further boasts a lovely private patio and an ideal setting close to Brentfield Open Space.<br><br>Selwyn Road benefits from a terrific location in close proximity to local amenities, schools and shops in the surrounding area. Harlesden Overground and Neasden Underground are the closest stations with links around the city.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Excellent house arranged over the ground and 1st floor of a period property",
+                "Comfortable reception with a fireplace and fitted shelving",
+                "Stunning eat-in kitchen with integrated appliances",
+                "Private patio with potential to dine and entertain",
+                "2 Stylish double bedrooms with period fireplaces",
+                "Chic bathroom with a skylight and subway tiling",
+                "Retained hardwood flooring throughout"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "d486a42d443126f03eec886c979420f5433baed3.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "2c907074ce072af939f6ae49b459e405d8cf66a3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "17cac12dec5bada579222928ba5feae273bc42d3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "922b898b5750c787d3955fd24c1a28eceb9b5228.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0449340d4410d53bb8b52a3d51733fb1cec3960f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7a896dc665fa641bc6a758ecb9a6bc023a4d01c9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1715ef3cc91275675167cb873a14ea5b29c30b4a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6a1b161be8ac4f24c2cac50c771808aae684d553.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ade2381e29a8ea5d843ab00b2566b91dbbd82c2a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b64fe67b5f4bc2bc34b8aef71318b4dacbd7c5c7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7956a3e3f9d939ae7238ce7af0b405db30caa019.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "eed4ceb27966b79d3a3e09eb9ff915b6af93367e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d98535887ecfb78203cedb1c38ec68c4b41fb7ef.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4f3992783974cf60d246dffe74dbe3fdfc2c091f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0bac21d885ab6c483821251d2a44b0bdb3bd2201.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fda38ec0d775c1e8af97837c0add596f66f1390e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "824bba848b15fc060082c61558d12b9a94d95b53.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "737b8422eed8bb949cb5afe98ee6abeb6ba6d05f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "699bf581e66ec50f56c196a41dfaee9fdffecdd8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "47069ee898242492e618d1442741b756ced28f75.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "699f79381d4b252d9f766404ef28c8463951d10f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e25e7a3b4d1473a9a27729f4e9344c1abf45bebd.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 31703,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Willesden Green",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Selwyn Road, Harlesden, London NW10",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "8QY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60251921,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 21,
+            "numRecepts": 1,
+            "outcode": "NW10",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "823",
+            "tenure": null,
+            "zindex": 469572
+        },
+        "title": "2 bed terraced house for sale",
+        "metaTitle": "2 bed terraced house for sale in Selwyn Road, Harlesden, London NW10 - Zoopla",
+        "metaDescription": "2 bed terraced house for sale in Selwyn Road, Harlesden, London NW10, selling for \u00a3575,000 from Foxtons - Willesden Green. See property details on Zoopla or browse all our range of properties in Selwyn Road, Harlesden, London NW10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60251921/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.54418,
+                "longitude": -0.256295
+            }
+        },
+        "displayAddress": "Selwyn Road, Harlesden, London NW10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-23T15:20:55",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 44
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/d486a42d443126f03eec886c979420f5433baed3.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 823
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 699,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60251921,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "FF3DD67C-9604-11EC-A10A-2E0E0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW10",
+            "areaNameUri": "london/nw10/willesden-harlesden-kensal-green",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1661.3999999999999
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 763908,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 778372,
+                    "pctChangeSince": -1.858,
+                    "date": "2021-11-26",
+                    "changeSince": -14464
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 805011,
+                    "pctChangeSince": -5.106,
+                    "date": "2021-08-26",
+                    "changeSince": -41103
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 785564,
+                    "pctChangeSince": -2.757,
+                    "date": "2021-02-26",
+                    "changeSince": -21656
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 671941,
+                    "pctChangeSince": 13.687,
+                    "date": "2017-02-26",
+                    "changeSince": 91967
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 481686,
+                    "pctChangeSince": 58.59,
+                    "date": "2012-02-26",
+                    "changeSince": 282222
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 429361,
+                    "pctChangeSince": 77.917,
+                    "date": "2007-02-26",
+                    "changeSince": 334547
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 251120,
+                    "pctChangeSince": 204.2,
+                    "date": "2002-02-26",
+                    "changeSince": 512788
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 908047,
+                    "newBuilds": 0,
+                    "numSales": 124
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 889190,
+                    "newBuilds": 0,
+                    "numSales": 345
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 861928,
+                    "newBuilds": 0,
+                    "numSales": 618
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 844704,
+                    "newBuilds": 1,
+                    "numSales": 950
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 424000,
+                    "propertyId": 17334129,
+                    "streetAddress": "34b Baker Road",
+                    "uri": "34b-baker-road/london/nw10-8ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 525000,
+                    "propertyId": 17336379,
+                    "streetAddress": "52 Glynfield Road",
+                    "uri": "52-glynfield-road/london/nw10-9le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 607000,
+                    "propertyId": 27225904,
+                    "streetAddress": "141a Purves Road",
+                    "uri": "141a-purves-road/london/nw10-5th"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1450000,
+                    "propertyId": 17317593,
+                    "streetAddress": "112 Hanover Road",
+                    "uri": "112-hanover-road/london/nw10-3dp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1400000,
+                    "propertyId": 17318304,
+                    "streetAddress": "208 Chamberlayne Road",
+                    "uri": "208-chamberlayne-road/london/nw10-3jx"
+                }
+            ]
+        }
+    }
+}

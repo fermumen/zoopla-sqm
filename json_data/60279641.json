@@ -1,0 +1,487 @@
+{
+    "address": "Rivington Street, London EC2A",
+    "price": "\u00a3565,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 64.4,
+    "sqft": 693.0,
+    "text": "Third Floor\naBedroom Reception\nmx 263m\n\n\u2018ghg gig Bedroom Room /\n\neoxes) 3.43m x 3.34m Kitchen\n(11'3\"x 11\") 4.53m x 8.76m :\n4 (14'10\" x 28'9\")\n1 t 4 rei\n\nTotal area: approx. 64.4 sq. metres (693.6 sq. feet)\n",
+    "image": "./extracted_images/60279641.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60279641/",
+    "listing_no": "60279641",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.525947,
+        "longitude": -0.081331
+    },
+    "first_published": "2021-11-26T17:03:04",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60279641",
+        "publishedOn": "2021-11-26T17:03:04",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/5fb75c34ea0641d9cdb8a3d92d33e10cd230069e.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79241,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Shoreditch",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Rivington Street, London EC2A",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3LX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60279641,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "EC2A",
+            "postalArea": "EC",
+            "postTownName": "London",
+            "priceActual": 565000,
+            "price": 565000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-shoreditch-london-79241/",
+            "branchId": "79241",
+            "branchResultsUri": "/for-sale/branch/dexters-shoreditch-london-79241/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7483 6371",
+            "name": "Dexters - Shoreditch",
+            "memberType": "agent",
+            "address": "44 Great Eastern Street, London",
+            "postcode": "EC2A 3EP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Monica's Roman Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Central Foundation Boys' School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Old Street",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Old Street",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "690a87fa9f6a2ea77693624b13aa504aa58a63d1.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A two double bedroom, warehouse conversion on Rivington Street. There are wood floors, exposed brick walls, modern u-shaped kitchen and open plan kitchen/reception room.<br><br>Around the corner from Great Eastern Street and only a quarter of a mile from Old Street underground station, this modern, warehouse conversion is in the centre of Shoreditch.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Offers In Excess Of",
+                "Two Double Bedroom",
+                "Warehouse Conversion",
+                "Open Plan Layout",
+                "Period Features",
+                "Exposed Brick",
+                "No Onward Chain"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "b6d97ceb2b24d5d066bc2bed7f2bf2cf23eac9a8.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "2dbace7980615b8da86043708f04aa4442926dec.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3a5e44c8c1fbf1075dde31155cb746ffaa9b1604.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8add22356887ba517f72a9255e15bc18bcd22329.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e0b48c7ba8fe669695a1961fe3a5fd778812ad24.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5b46fe4a92c1d8185e092b92776f551fd2e2de8b.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79241,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Shoreditch",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Rivington Street, London EC2A",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3LX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60279641,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "EC2A",
+            "postalArea": "EC",
+            "postTownName": "London",
+            "priceActual": 565000,
+            "price": 565000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Rivington Street, London EC2A - Zoopla",
+        "metaDescription": "2 bed flat for sale in Rivington Street, London EC2A, selling for \u00a3565,000 from Dexters - Shoreditch. See property details on Zoopla or browse all our range of properties in Rivington Street, London EC2A.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60279641/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.525947,
+                "longitude": -0.081331
+            }
+        },
+        "displayAddress": "Rivington Street, London EC2A",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-26T17:03:04",
+                "priceLabel": "\u00a3637,500"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "11.4",
+                    "priceChangeDate": "2021-11-26T17:54:34",
+                    "priceChangeLabel": "\u00a372,500",
+                    "priceLabel": "\u00a3565,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 224
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/b6d97ceb2b24d5d066bc2bed7f2bf2cf23eac9a8.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3565,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60279641,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "06CCD73C-5FA3-11EC-B298-D92B0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "EC2A",
+            "areaNameUri": "ec2a",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 4564.083333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 948057,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 956153,
+                    "pctChangeSince": -0.847,
+                    "date": "2021-11-26",
+                    "changeSince": -8096
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 973676,
+                    "pctChangeSince": -2.631,
+                    "date": "2021-08-26",
+                    "changeSince": -25619
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1035740,
+                    "pctChangeSince": -8.466,
+                    "date": "2021-02-26",
+                    "changeSince": -87683
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1029490,
+                    "pctChangeSince": -7.91,
+                    "date": "2017-02-26",
+                    "changeSince": -81433
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 696158,
+                    "pctChangeSince": 36.184,
+                    "date": "2012-02-26",
+                    "changeSince": 251899
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 610082,
+                    "pctChangeSince": 55.398,
+                    "date": "2007-02-26",
+                    "changeSince": 337975
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 398339,
+                    "pctChangeSince": 138.003,
+                    "date": "2002-02-26",
+                    "changeSince": 549718
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 1100000,
+                    "propertyId": 31185866,
+                    "streetAddress": "Flat 5, 34 Worship Street",
+                    "uri": "flat-5/34-worship-street/london/ec2a-2ah"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-21T00:00:00Z",
+                    "price": 1390000,
+                    "propertyId": 7969235,
+                    "streetAddress": "Flat 25, City Lofts 112-116, Tabernacle Street",
+                    "uri": "flat-25/city-lofts-112-116/tabernacle-street/london/ec2a-4le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-27T00:00:00Z",
+                    "price": 975000,
+                    "propertyId": 7968793,
+                    "streetAddress": "Flat 2, 133 Curtain Road",
+                    "uri": "flat-2/133-curtain-road/london/ec2a-3bx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 875000,
+                    "propertyId": 7969087,
+                    "streetAddress": "Flat 3, 60 Great Eastern Street",
+                    "uri": "flat-3/60-great-eastern-street/london/ec2a-3qr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 1281000,
+                    "propertyId": 7969088,
+                    "streetAddress": "Flat 4, 60 Great Eastern Street",
+                    "uri": "flat-4/60-great-eastern-street/london/ec2a-3qr"
+                }
+            ]
+        }
+    }
+}

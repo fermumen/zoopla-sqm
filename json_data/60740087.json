@@ -1,0 +1,500 @@
+{
+    "address": "Defoe House, London City Island, London E14",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 74.97,
+    "sqft": null,
+    "text": "APPROXIMATE GROSS INTERNAL FLOOR AREA: 807 SQFT - 74.97 SQM\n| 2\npr co\nJ ae ISS SSS\nN\nN\nBEDROOM N\n115\"x 103\" N\n3.48 x 3.12M N\n(\u2014 BALCONY | N\nN\n2 RECEPTION ROOM\na \u00e9 KITCHEN '\n2610\" x 134\" N\n0 8.19 4.06M '\nLsssessseel)\nKO\na\njoke)\nBEDROOM |\nJ 4,06 x 3,01M\nSIXTH FLOOR\nFOR ILLUSTRATION PURPOSES ONLY\n",
+    "image": "./extracted_images/60740087.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60740087/",
+    "listing_no": "60740087",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.512946,
+        "longitude": 0.007016
+    },
+    "first_published": "2022-02-11T16:02:55",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60740087",
+        "publishedOn": "2022-02-11T16:02:55",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 68977,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(505166).png",
+            "branchName": "JOHNS&CO - New Providence Wharf",
+            "brandName": "Johns & Co",
+            "chainFree": false,
+            "companyId": 32248,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Defoe House, London City Island, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0TU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60740087,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/johns-and-co-new-providence-wharf-london-68977/",
+            "branchId": "68977",
+            "branchResultsUri": "/for-sale/branch/johns-and-co-new-providence-wharf-london-68977/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(505166).png",
+            "phone": "020 8022 5575",
+            "name": "JOHNS&CO - New Providence Wharf",
+            "memberType": "agent",
+            "address": "8 New Providence Wharf, 1 Fairmont Avenue, London",
+            "postcode": "E14 9PA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Canning Town",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Luke's Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Faraday School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East India",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "f2e240df3cc3931903a08e754929ac2624724ea9.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Larger than usual dual aspect two bedroom apartment located on the corner of Defoe House. Spread across a spacious c.807 sq ft, the property comprises a bright open plan kitchen/living area, two double bedrooms with built in storage, an en suite and a stylish family bathroom. Further benefits include a private balcony overlooking Trinity Square and a number of on site amenities such as a Chocolatier, The Lockdown Room bar, a Caf\u00e9 and a gallery.<br><br>All of the Island\u2019s residents are members of the exclusive City Island Social club, with membership comes access to a range of stylishly designed private facilities. These include, a clubhouse, concierge, a grocer\u2019s shop, gymnasium, spa &amp; treatment rooms, a screening room, pools and gardens. Numerous transport links include the London Underground and DLR, or take the more unusual method of boat with the Thames Clipper and enjoy a leisurely trip to work.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two bedroom apartment",
+                "6th floor, c.807 sq ft",
+                "Dual aspect",
+                "Private balcony",
+                "24hr concierge",
+                "Pool, gym, steam room, sauna and studio",
+                "Onsite Grocer and resident's game room",
+                "Close to Zone 2 station DLR and Jubilee Line"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": "2022-02-11T00:00:00"
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "c727dad9fa8e98f5ab7fe9dd26c4162e5ff1eb28.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "08fd204c4ab423cff5be0403efaa764e0433ef4b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "88c2f49b0a1c1f81c95affb940749a1c4f7672a5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e7746d07b94d3063c1fa4eaaf712d5565794e946.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9e8e58c993f067e8703e254be857153eb6aa472e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7bf88978f26b6f13cbb45ab87c1246c61619b7d0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "37d83497c157688f5171b5a6fd97b6cf9fcf2e47.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "66a76243fde64afdc62366d072cdf4a9b426c837.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a135ffa6023785ea140252a0975d8cf1c3d80371.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2a796306a33df097168f4ecfba455cd4bb6396f8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ccc5c39b945660f128d3a79afef3d3c18b2ece3b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5491a0e3087e2ac43a19ccc3c7528d21acd28a55.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2d5aed808bee08e806db3e168b3039caa0200a20.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 68977,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(505166).png",
+            "branchName": "JOHNS&CO - New Providence Wharf",
+            "brandName": "Johns & Co",
+            "chainFree": false,
+            "companyId": 32248,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Defoe House, London City Island, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0TU",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60740087,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Defoe House, London City Island, London E14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Defoe House, London City Island, London E14, selling for \u00a3625,000 from JOHNS&CO - New Providence Wharf. See property details on Zoopla or browse all our range of properties in Defoe House, London City Island, London E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60740087/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.512946,
+                "longitude": 0.007016
+            }
+        },
+        "displayAddress": "Defoe House, London City Island, London E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-11T16:02:55",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 57
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/c727dad9fa8e98f5ab7fe9dd26c4162e5ff1eb28.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Johns & Co",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60740087,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "13AA0D12-8B54-11EC-99BC-5F030E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3199.821151716501
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

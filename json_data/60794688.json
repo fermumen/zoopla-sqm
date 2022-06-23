@@ -1,0 +1,555 @@
+{
+    "address": "Lancaster Road, London E17",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "KITCHEN\n\nBATHROOM\n\n2.30 x 2.76m\n\n2.30 x 2.50m\n\n76\" x9't\n\nTe x82\"\n\nSTORAGE\n\nRECEPTION 2\n\nBEDROOM\n\n2.49 x 3.16m\n\n3.21 x3.12m.\n\n106\" x 103\"\n\noa\n\nRECEPTION 1\n\nBEDROOM\n\n3.02 x3.88m\n\n4.02 x3.29m.\n\n13'2\"x 109\"\n\n11\" x 129\"\n\nFIRST FLOOR\n\nGROUND FLOOR\n\nTotal Area: 66.5 m?\n\n716 ft?\n\nWhilst every attempt has been made to ensure the accuracy of the floor plan contained here,\n\nmeasurements of doors, windows, rooms and any other items are approximate and no responsibility is taken for any error, omission, or mis-statement.\n\nThis plan is for illustrative purposes only and should be used as such by any prospective purchaser. The services, systems and appliances shown have\n\nnot been tested and no guarantee as to their operability or efficiency can be given\n",
+    "image": "./extracted_images/60794688.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60794688/",
+    "listing_no": "60794688",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.594707,
+        "longitude": -0.03732
+    },
+    "first_published": "2022-02-18T14:38:44",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60794688",
+        "publishedOn": "2022-02-18T14:38:44",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Lancaster Road, Walthamstow",
+                "original": "https://lc.zoocdn.com/8648cf2e9f7a44fcc64ea157a8afc3058c107550.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31293969",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 64464,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725233).png",
+            "branchName": "The Stow Brothers - E17",
+            "brandName": "Stow Residential",
+            "chainFree": false,
+            "companyId": 34271,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lancaster Road, London E17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6AJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60794688,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "E17",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 478819
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/the-stow-brothers-e17-64464/",
+            "branchId": "64464",
+            "branchResultsUri": "/for-sale/branch/the-stow-brothers-e17-64464/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725233).png",
+            "phone": "020 8128 4610",
+            "name": "The Stow Brothers - E17",
+            "memberType": "agent",
+            "address": "236 Hoe Street",
+            "postcode": "E17 3AY"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hillyfield Primary Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Whittingham Primary Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Blackhorse Road",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Blackhorse Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "174befcd1f57e22a0f1c7b5faed62c83ff7bdc82.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A characterful two bedroom Victorian terrace with a wealth of vintage charm, potential for further development, handsome brick frontage and a private rear garden. It's all sat just off our burgeoning new locale of Blackhorse Lane.<br><br>With both the green spaces of Lloyd Park and the transport links of Blackhorse Road within easy reach, you have the best of both worlds here.<br><br>If you lived here<br><br>Design &amp; Decor may need some final flourishes here and there, but you've a whole host of lovable period features just waiting to be bought back to life. Your 230 square foot, dual aspect through lounge has classic tiling in front of each chimney breast and original floorboards running underfoot throughout, all ready to be sanded and stained to their former glory.<br><br>Elsewhere your kitchen leads out to the secluded rear garden, a mix of patio and lawn sheltered behind timber fencing. There's more lovely vintage flooring upstairs, where both bedrooms are substantial doubles and your bathroom's finished in tranquil cream peach. Finally, with the loft space so far untouched, you could follow your neighbours' lead and add your own whole new storey, subject to the usual permissions.<br><br>Outside and the charms of the Walthamstow Beer mile start just at the end of your road. A much loved and feast growing part of the local landscape, this collection of independent tap room, breweries and beer gardens will have craft beer fans in heaven. First among equals is the huge Truman's Social Club, with a massive beer garden and performance space, just eight minutes away.<br><br>What else?<br><br>- London's largest nature reserve, the 500 acre, Green Flag award winning Walthamstow Wetlands is barely five minutes walk via the little-known Lockwood Way entrance. The perfect escape from city living right on your doorstep.<br>- Blackhorse Road station is just a half mile on foot and will get directly to Kings Cross in just fifteen minutes via the Victoria line. Plus we're practically at the top of the line here so you'll always get a seat.<br>- Local schools are plentiful and excellent, with sixteen primary schools rated 'Good' or 'Outstanding' by Ofsted, all less than twenty minutes on foot. There are also four secondaries, just as esteemed and just as close.<br><br><strong>Side Return</em> (2.77m x 1.55m (9'1\" x 5'1\"))</strong><br><br><strong>Reception Room</em> (3.02m x 3.88m (9'10\" x 12'8\"))</strong><br><br><strong>Reception Room</em> (3.21m x 3.12m (10'6\" x 10'2\"))</strong><br><br><strong>Kitchen</em> (2.30m x 2.76m (7'6\" x 9'0\"))</strong><br><br><strong>Storage</strong><br><br><strong>Garden</em> (9.4m x 4.2m (30'10\" x 13'9\"))</strong><br><br><strong>Bedroom</em> (4.02m x 3.29m (13'2\" x 10'9\"))</strong><br><br><strong>Bedroom</em> (2.49m x 3.16m (8'2\" x 10'4\"))</strong><br><br><strong>Bathroom</em> (2.30m x 2.50m (7'6\" x 8'2\"))</strong><br><br>A word from the expert...<br><br>\"For me it\u2019s the sheer variety you find in each pocket of Walthamstow that makes working and socialising here so enjoyable.<br><br>Whether it\u2019s having a coffee from Perky Blenders, going for a Sunday morning walk in Epping Forest, dropping into one of the local breweries in Blackhorse Road, or catching up with friends in Lloyd Park, the growth and positive changes within E17 have been incredible in recent years.\"<br><strong>Kim heywood<br></strong><br><br>E17 branch manager",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedrooms",
+                "Victorian Terraced",
+                "1st Floor Bathroom",
+                "Short walk to Blackhorse Road Station",
+                "Potential to extend (stpp)",
+                "Brick fronted",
+                "Close proximity to Walthamstow wetlands"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "1a4befff74b69a06a6e3454bb3049c5ededd1a9f.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "c2ea59c6a8a7c4e178a78995f91a8c8a4203752b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cdcc3d1aabc4f479cc56e9485e5aa19d96a932bd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bc9081356f7fbc31b298e7157a65aeb6320f2a79.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fc28f664b34cfbeb1b0b7db583df3f8f8c958ca1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "08e4d9b09284a3484f7cbc0b40cbd9b4473b6689.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5d9acee761f27e809b8d4f7db307c92c83541688.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7e17938cb9aad44e80067f73717e7a36a23052c2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "dd9399f07b9fe51f43d5b1e3de6eb1772fc6cecb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "47a9f83c486b28e9da2cedf905f4d5886949fa9a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7f5a8843a9820929f66535b498af750f71acc091.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ed6cb33a767ef2727ef948aab03e8eaf8704be31.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9a52504d927095554fd1921145943658dce46457.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9fa80586fbc9b775ad0d96cafbb8c4b757d2e371.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 64464,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725233).png",
+            "branchName": "The Stow Brothers - E17",
+            "brandName": "Stow Residential",
+            "chainFree": false,
+            "companyId": 34271,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lancaster Road, London E17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6AJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60794688,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "E17",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 478819
+        },
+        "title": "2 bed terraced house for sale",
+        "metaTitle": "2 bed terraced house for sale in Lancaster Road, London E17 - Zoopla",
+        "metaDescription": "2 bed terraced house for sale in Lancaster Road, London E17, selling for \u00a3575,000 from The Stow Brothers - E17. See property details on Zoopla or browse all our range of properties in Lancaster Road, London E17.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60794688/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.594707,
+                "longitude": -0.03732
+            }
+        },
+        "displayAddress": "Lancaster Road, London E17",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-18T14:38:44",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 259
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/1a4befff74b69a06a6e3454bb3049c5ededd1a9f.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Stow Residential",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60794688,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "79E561FC-90C8-11EC-81E5-0AF30D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E17",
+            "areaNameUri": "london/e17/walthamstow",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1783.1666666666665
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 555821,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 566718,
+                    "pctChangeSince": -1.923,
+                    "date": "2021-11-26",
+                    "changeSince": -10897
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 586830,
+                    "pctChangeSince": -5.284,
+                    "date": "2021-08-26",
+                    "changeSince": -31009
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 558131,
+                    "pctChangeSince": -0.414,
+                    "date": "2021-02-26",
+                    "changeSince": -2310
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 544769,
+                    "pctChangeSince": 2.029,
+                    "date": "2017-02-26",
+                    "changeSince": 11052
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 325282,
+                    "pctChangeSince": 70.874,
+                    "date": "2012-02-26",
+                    "changeSince": 230539
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 323416,
+                    "pctChangeSince": 71.859,
+                    "date": "2007-02-26",
+                    "changeSince": 232405
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 187869,
+                    "pctChangeSince": 195.856,
+                    "date": "2002-02-26",
+                    "changeSince": 367952
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 632928,
+                    "newBuilds": 0,
+                    "numSales": 512
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 612813,
+                    "newBuilds": 0,
+                    "numSales": 1245
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 592660,
+                    "newBuilds": 13,
+                    "numSales": 2242
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 563675,
+                    "newBuilds": 25,
+                    "numSales": 3407
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-09T00:00:00Z",
+                    "price": 695000,
+                    "propertyId": 7927682,
+                    "streetAddress": "42 Lancaster Road",
+                    "uri": "42-lancaster-road/london/e17-6aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-14T00:00:00Z",
+                    "price": 715000,
+                    "propertyId": 7927697,
+                    "streetAddress": "72 Lancaster Road",
+                    "uri": "72-lancaster-road/london/e17-6aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-06T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 7927642,
+                    "streetAddress": "49 Lancaster Road",
+                    "uri": "49-lancaster-road/london/e17-6ah"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-01T00:00:00Z",
+                    "price": 525000,
+                    "propertyId": 7927685,
+                    "streetAddress": "48 Lancaster Road",
+                    "uri": "48-lancaster-road/london/e17-6aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 510052,
+                    "propertyId": 7918448,
+                    "streetAddress": "67 Sturge Avenue",
+                    "uri": "67-sturge-avenue/london/e17-4lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 394000,
+                    "propertyId": 7931301,
+                    "streetAddress": "26a Hawarden Road",
+                    "uri": "26a-hawarden-road/london/e17-6ns"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 595000,
+                    "propertyId": 32727347,
+                    "streetAddress": "14 Penrhyn Grove",
+                    "uri": "14-penrhyn-grove/london/e17-5de"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 225500,
+                    "propertyId": 27428745,
+                    "streetAddress": "Flat 100, Cannock Court, 3 Hawker Place",
+                    "uri": "flat-100/cannock-court/3-hawker-place/london/e17-4ge"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 280000,
+                    "propertyId": 7928706,
+                    "streetAddress": "104 Green Pond Close",
+                    "uri": "104-green-pond-close/london/e17-6ef"
+                }
+            ]
+        }
+    }
+}

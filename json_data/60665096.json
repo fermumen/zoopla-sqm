@@ -1,0 +1,535 @@
+{
+    "address": "Blackwall Way, London E14",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": "90 sq. ft",
+    "sqm": 90.0,
+    "sqft": null,
+    "text": "GROSS INTERNAL AREA: 90 Sqm SEAS :\n| N\nBALCONY\nAH ie EDS\nKT (4.12 x 2.34) ea rN\nAtt {TTT Vv | \\ 7\nr ; cl ttt tt T/ [| im 7 oo\neit tTeitly -T_\n: j\n4\nBEDROOM 2 RECEPTION MASTER BEDROOM\n| 14.27m? 21.73m? 21.32m? 8\ns (3.29 x 5.46) (3.35 x 6.49) (3.18 x 7.32)\n| KITCHEN\n10.35m? |\n(2.98 x 4.20) | :\n|\noT (C\nPe\n- Second Floor as\n",
+    "image": "./extracted_images/60665096.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60665096/",
+    "listing_no": "60665096",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.510106,
+        "longitude": 0.000221
+    },
+    "first_published": "2022-02-02T10:43:19",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60665096",
+        "publishedOn": "2022-02-02T10:43:19",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16930,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "branchName": "Strike",
+            "brandName": "Strike",
+            "chainFree": true,
+            "companyId": 6808,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Blackwall Way, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9QS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60665096,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "90",
+            "tenure": "leasehold",
+            "zindex": 555133
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/strike-middleborough-16930/",
+            "branchId": "16930",
+            "branchResultsUri": "/for-sale/branch/strike-middleborough-16930/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "phone": "0113 482 9379",
+            "name": "Strike",
+            "memberType": "agent",
+            "address": "The Octagon, Middleborough",
+            "postcode": "CO1 1TG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "East India",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East India Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Woolmore Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Culloden Primary - A Paradigm Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "*guide price \u00a3500,000-\u00a3550,000*<br>This well-presented two bedroom flat is located in Switch House on Blackwall Way, London. This property is on the second floor and comes with an allocated parking space, a balcony, and gym access. Both bedrooms are generous doubles with the master bedroom benefitting from ensuite and fitted wardrobes. The kitchen is spacious with all fitted appliances. The living room/ dining room is of great size. This property benefits from all windows being double glazed. This property is offered with no chain.<br>Close to Canary Wharf and Canning Town tube stations as well as other amenities such as various shops and restaurants, the O2, gyms and schools.<br>With an influx of interest on this property, book a viewing today!",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Balcony",
+                "En suite",
+                "Allocated parking space",
+                "Central london",
+                "Leasehold",
+                "Gym access",
+                "Fitted kitchen"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "3e9b3c63c0ddc4d26472ed6a3d5c7754f07e32bf.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "76dc5fabe955099f96eb69873e317010b686ffbc.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3e4a92f4f3c181ef0e0b9e9256b1ea5122622632.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6af0d98155e7921610b20a9f9ea7789cc41beda9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "eb6d4a3f2b5a7386843f10e3cd17fb9b94718d21.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "18d9588d4cd7ecefc4a7ac017916beb5aca107e8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c6b4797f60cfe81bd60a805698d11dd8fdae3598.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "19dd965c1b351fd178f08a92f9205dd739ec1503.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7dac3a95be6604b394893dfcf7e889d776b26483.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3b3ccef16b72c0b920be10f945c55ea5a35da3d8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "333661a49da3dea9556093d017ede09227fa9c36.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d41b1626b13b09cc7c9aa6fa1a0a4ee13c0ac60b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "68f34236bc004bc12cff7c916a13d12574ec61da.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4ff96cde2e57e11d3634eb0f3623b5b5ec6dbdc8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "57cf3c0a103b782d2ded1793e8908f4362dc8514.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8d453327adba63f90ffe2a986cb4bd342c3ecafd.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16930,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "branchName": "Strike",
+            "brandName": "Strike",
+            "chainFree": true,
+            "companyId": 6808,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Blackwall Way, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9QS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60665096,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "90",
+            "tenure": "leasehold",
+            "zindex": 555133
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Blackwall Way, London E14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Blackwall Way, London E14, selling for \u00a3550,000 from Strike. See property details on Zoopla or browse all our range of properties in Blackwall Way, London E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60665096/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.510106,
+                "longitude": 0.000221
+            }
+        },
+        "displayAddress": "Blackwall Way, London E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-02T10:43:19",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 67
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/3e9b3c63c0ddc4d26472ed6a3d5c7754f07e32bf.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 90
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 6111,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Strike",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60665096,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "EB54B4E8-8996-11EC-AD9F-00130E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3199.821151716501
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-22T00:00:00Z",
+                    "price": 268000,
+                    "propertyId": 28442958,
+                    "streetAddress": "Flat 344, Neutron Tower, 6 Blackwall Way",
+                    "uri": "flat-344/neutron-tower/6-blackwall-way/london/e14-9gt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 28442642,
+                    "streetAddress": "Flat 40, Elektron Tower, 12 Blackwall Way",
+                    "uri": "flat-40/elektron-tower/12-blackwall-way/london/e14-9gb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

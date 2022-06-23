@@ -1,0 +1,567 @@
+{
+    "address": "Walworth Road SE1, Elephant And Castle, London,",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": "681 sq. ft",
+    "sqm": 63.3,
+    "sqft": 681.0,
+    "text": "APPROXIMATE FLOOR AREA = 681 SQ FT / 63.3 SQM oN\nINCLUDING LIMITED USE AREA (6 SQ FT / 0.6 SQ M) SA\nVO\n\u2014=y\nSD\nRECEPTION ROOM /\nKITCHEN -\n16'10 x 15'0\n5.13m x 4.57m\na\nGI\n\\ ;\nMASTER\nBEDROOM\n11'4x9'9\n3.45m x 2.97m SD\nBEDROOM 2\n11'7 x 10'8\n3.53m x 3.25m _\nfo\n/\n(\u2014~ a) =\n| 4 / &IN\nTHIRD FLOOR\nSurveyed and drawn in accordance with the International Property Measurement Standards (IPMS 2: = Certified\nResidential) FOXTONS.CO.UK\neasurer\n",
+    "image": "./extracted_images/60827437.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60827437/",
+    "listing_no": "60827437",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.492931,
+        "longitude": -0.099952
+    },
+    "first_published": "2022-02-22T19:08:41",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60827437",
+        "publishedOn": "2022-02-22T19:08:41",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/se1/chpk3602673/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/se1/chpk3602673",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/se1/chpk3602673/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 52795,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - London Bridge",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Walworth Road SE1, Elephant And Castle, London,",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6EB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60827437,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE1",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "681",
+            "tenure": null,
+            "zindex": 307766
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-london-bridge-london-52795/",
+            "branchId": "52795",
+            "branchResultsUri": "/for-sale/branch/foxtons-london-bridge-london-52795/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3544 1626",
+            "name": "Foxtons - London Bridge",
+            "memberType": "agent",
+            "address": "94 Borough High Street, London",
+            "postcode": "SE1 1LL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Elephant & Castle",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Crampton School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St John's Walworth Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Elephant & Castle",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/416367743"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Benefitting from fabulously finished interiors, 2 double bedrooms and a beautiful open plan reception room, this stylish apartment also offers a fantastic location in the heart of Elephant and Castle.<br><br>Ideally located on Walworth Road, Strata Pavilion benefits from a location surrounded by a wealth of bars, restaurants and shops. For excellent transport links, Elephant and Castle is only a short walk away.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "3rd floor apartment",
+                "Beautiful interiors",
+                "Open plan reception",
+                "2 double bedrooms",
+                "Sleek family bathroom",
+                "Great location",
+                "Concierge facilities in nearby Strata tower"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "2c8a21a1faf55b1b085425357549a51011f11c03.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "8cea233489eb7a2afaa5653e4ad22e158424ec66.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "aa9a8ed9ef77c5711271c1931508e84758ababb2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a86293cac6070a6e5c79e6d7bec18283dcdfa59b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "52794d6c12c28fe7d834e0cc7d07a6a5de7f68a0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "13fe75d17f8fa8416c4c62aa9da816fe512d6a52.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bb620aa29a4901fc55a426035bf900065c07aded.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2c7cf197304d036e4477a2ad59f19106491e5f22.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5cc9cac8448d95812ac5c529dbada739908c0988.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "513d68714de8f4ef48c05cbce195ebc7d02d719d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ab7d8bbda964a01507a43b67ae855a615aa44e31.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "276eae11cb0729bd58c28faadc71e79e4e14061b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bf688fb86a44926d3a72acbae3344da44543a6b8.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 52795,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - London Bridge",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Walworth Road SE1, Elephant And Castle, London,",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6EB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60827437,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE1",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "681",
+            "tenure": null,
+            "zindex": 307766
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Walworth Road SE1, Elephant And Castle, London, - Zoopla",
+        "metaDescription": "2 bed flat for sale in Walworth Road SE1, Elephant And Castle, London,, selling for \u00a3600,000 from Foxtons - London Bridge. See property details on Zoopla or browse all our range of properties in Walworth Road SE1, Elephant And Castle, London,.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60827437/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.492931,
+                "longitude": -0.099952
+            }
+        },
+        "displayAddress": "Walworth Road SE1, Elephant And Castle, London,",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-22T19:08:41",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 75
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/2c8a21a1faf55b1b085425357549a51011f11c03.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 681
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 881,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60827437,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "01A5094C-9413-11EC-93AA-B4E10D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE1",
+            "areaNameUri": "london/se1/waterloo-bermondsey-south-bank-the-borough-north-lambeth",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3689.3737373737354
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 737858,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 742939,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -5081
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 746105,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -8247
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 780738,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -42880
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 710078,
+                    "pctChangeSince": 3.912,
+                    "date": "2017-02-26",
+                    "changeSince": 27780
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 464196,
+                    "pctChangeSince": 58.954,
+                    "date": "2012-02-26",
+                    "changeSince": 273662
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 448557,
+                    "pctChangeSince": 64.496,
+                    "date": "2007-02-26",
+                    "changeSince": 289301
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 266156,
+                    "pctChangeSince": 177.228,
+                    "date": "2002-02-26",
+                    "changeSince": 471702
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 672517,
+                    "newBuilds": 7,
+                    "numSales": 342
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 732618,
+                    "newBuilds": 146,
+                    "numSales": 1094
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 734821,
+                    "newBuilds": 469,
+                    "numSales": 2563
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 739640,
+                    "newBuilds": 1154,
+                    "numSales": 4560
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-22T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 32672199,
+                    "streetAddress": "Apartment 1007, 8 Walworth Road",
+                    "uri": "apartment-1007/8-walworth-road/london/se1-6ee"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-23T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 32887122,
+                    "streetAddress": "Apartment 3009, 8 Walworth Road",
+                    "uri": "apartment-3009/8-walworth-road/london/se1-6ej"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-09T00:00:00Z",
+                    "price": 420000,
+                    "propertyId": 32427052,
+                    "streetAddress": "Apartment 1509, 8 Walworth Road",
+                    "uri": "apartment-1509/8-walworth-road/london/se1-6eg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-26T00:00:00Z",
+                    "price": 440000,
+                    "propertyId": 32887131,
+                    "streetAddress": "Apartment 3107, 8 Walworth Road",
+                    "uri": "apartment-3107/8-walworth-road/london/se1-6ej"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-15T00:00:00Z",
+                    "price": 142500,
+                    "propertyId": 32672144,
+                    "streetAddress": "Apartment 410, 8 Walworth Road",
+                    "uri": "apartment-410/8-walworth-road/london/se1-6ee"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 20861951,
+                    "streetAddress": "171 St. James's Road",
+                    "uri": "171-st-james-s-road/london/se1-5bp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 20865933,
+                    "streetAddress": "22 Marcia Road",
+                    "uri": "22-marcia-road/london/se1-5xf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 826000,
+                    "propertyId": 20866398,
+                    "streetAddress": "Flat 1, 19 Harper Road",
+                    "uri": "flat-1/19-harper-road/london/se1-6aw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 726000,
+                    "propertyId": 20866401,
+                    "streetAddress": "Flat 4, 19 Harper Road",
+                    "uri": "flat-4/19-harper-road/london/se1-6aw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1202000,
+                    "propertyId": 20866402,
+                    "streetAddress": "Flat 5, 19 Harper Road",
+                    "uri": "flat-5/19-harper-road/london/se1-6aw"
+                }
+            ]
+        }
+    }
+}

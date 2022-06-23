@@ -1,0 +1,545 @@
+{
+    "address": "Highshore Road, London SE15",
+    "price": "\u00a3580,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 84.2,
+    "sqft": null,
+    "text": "Balcony |\nee\nT\nKitchen/\nReception Room\n21'0 X 20110\n(6.40 X 6.35)\n0)\ntd\n| PN\n\\\nL Ps \u2019 2\n8) f-\u2014] |)\n(sa) New\nVY } ___ Ensuite\n| Bathroom \u2014_/ \u2018eo\nNA] \\ |\ngated Sl\na alas\nCc \u2014 JF\nBedroom\\_ wt Bedroom\n147 X 83 15'9 X 9'O\n(4.45 X 2.51) (4.80 X 2.74)\n, a\n1 / !\nx \u2014\nIN\nApproximate gross internal area\n84.20 sq m/ 907.0 sa ft\n",
+    "image": "./extracted_images/60361082.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60361082/",
+    "listing_no": "60361082",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.471465,
+        "longitude": -0.07065
+    },
+    "first_published": "2021-12-11T13:20:07",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60361082",
+        "publishedOn": "2021-12-11T13:20:07",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floor Plan",
+                "original": "https://www.alexneil.com/property-details/7388_5976070#fp",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Book A Viewing",
+                "original": "https://www.alexneil.com/property-details/7388_5976070#viewing",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Video Tour",
+                "original": "https://vimeo.com/656080047",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Floor Plan",
+                "original": "https://ano.alexneil.com/propertiestobuy.php?id=5976070&showtab=floorplan",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 209,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(667080).png",
+            "branchName": "Alex Neil Estate Agents - Rotherhithe & Bermondsey",
+            "brandName": "Alex Neil",
+            "chainFree": true,
+            "companyId": 108,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Highshore Road, London SE15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "5AA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60361082,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SE15",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 440373
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/alex-neil-estate-agents-rotherhithe-and-bermondsey-rotherhithe-209/",
+            "branchId": "209",
+            "branchResultsUri": "/for-sale/branch/alex-neil-estate-agents-rotherhithe-and-bermondsey-rotherhithe-209/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(667080).png",
+            "phone": "020 8033 9170",
+            "name": "Alex Neil Estate Agents - Rotherhithe & Bermondsey",
+            "memberType": "agent",
+            "address": "146 Lower Road, Rotherhithe",
+            "postcode": "SE16 2UG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Peckham Rye",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Harris Academy Peckham",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Harris Primary Free School Peckham",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Queens Road (Peckham)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": [
+                {
+                    "__typename": "Media",
+                    "url": "https://ano.alexneil.com/propertiestobuy.php?id=5976070&video=1"
+                }
+            ],
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Offered chain free is this larger than average two bedroom apartment in the convenient Highshore Road, Peckham Rye SE15. The property boasts generous proportions throughout and is immaculately presented. The accommodation comprises of a large living area, modern fitted kitchen with integrated appliances and direct access to a large balcony, two large double bedrooms, en-suite to the master and a modern three piece bathroom. Further benefits include double glazing, wooden flooring, bike storage and residents parking. This stunning property is within easy reach of a plethora of shops and eateries affording the perfect weekend stroll around Bellenden Village or out for a nice meal. Highshore Road is also ideally positioned for Peckham Rye and Queens Road Peckham station, offering fantastic links to the City and Canary Wharf. An early inspection is recommended.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two bedrooms",
+                "Apartment",
+                "Chain Free",
+                "Large Balcony",
+                "Modern Decor",
+                "Incredible Location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "de2e5531a7ea46614840d2fa924176cbfe40281c.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "12032fa2b902e9fd6aff0f1b92f115d494fdfc4f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0b9d2cb68bbf33b10a133cf4daadf6c413e378da.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "dc605744f38f3fae9ef9c38d28f2b3a8b6439738.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0478805ee8e87f120899a786a876275235312d96.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "40f67c5911866dfe9db7444f0950caf5545e5128.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "42790d680063f4a764d972b313b84c7ff12a7c13.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ba157112bff65b9e7c3815986f7dad37a303bc88.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1f4221e663ea2988a6c3fc1f3ddb4cea4d5ca452.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6a768c76120ae7ffcdd9084a7bed5383c2178cbb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9ee2237d717b0959817be3bf1e6a764bdf971b45.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "448dbb078f064c19172bdea58ed52554c8a142e6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "64edafb6d579e2b179dfff5c9978e96851037e36.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "170622a9cbe22842b8e059628c027585ce569ee7.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 209,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(667080).png",
+            "branchName": "Alex Neil Estate Agents - Rotherhithe & Bermondsey",
+            "brandName": "Alex Neil",
+            "chainFree": true,
+            "companyId": 108,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Highshore Road, London SE15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "5AA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60361082,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SE15",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 440373
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Highshore Road, London SE15 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Highshore Road, London SE15, selling for \u00a3580,000 from Alex Neil Estate Agents - Rotherhithe & Bermondsey. See property details on Zoopla or browse all our range of properties in Highshore Road, London SE15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60361082/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.471465,
+                "longitude": -0.07065
+            }
+        },
+        "displayAddress": "Highshore Road, London SE15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-11T13:20:07",
+                "priceLabel": "\u00a3585,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "0.9",
+                    "priceChangeDate": "2022-02-18T01:10:34",
+                    "priceChangeLabel": "\u00a35,000",
+                    "priceLabel": "\u00a3580,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 84
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/de2e5531a7ea46614840d2fa924176cbfe40281c.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3580,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Alex Neil",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60361082,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "A5E73D90-9706-11EC-8E9B-7D170E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE15",
+            "areaNameUri": "london/se15/peckham-nunhead",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1671.1190476190468
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 395607,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 398331,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2724
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 400027,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -4420
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 418593,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -22986
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 380699,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 14908
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 248873,
+                    "pctChangeSince": 58.959,
+                    "date": "2012-02-26",
+                    "changeSince": 146734
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 240488,
+                    "pctChangeSince": 64.502,
+                    "date": "2007-02-26",
+                    "changeSince": 155119
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 142696,
+                    "pctChangeSince": 177.238,
+                    "date": "2002-02-26",
+                    "changeSince": 252911
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 439321,
+                    "newBuilds": 0,
+                    "numSales": 205
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 425683,
+                    "newBuilds": 18,
+                    "numSales": 623
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 418250,
+                    "newBuilds": 75,
+                    "numSales": 1237
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 399404,
+                    "newBuilds": 115,
+                    "numSales": 2053
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 21077836,
+                    "streetAddress": "66 Latona Road",
+                    "uri": "66-latona-road/london/se15-6ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 431500,
+                    "propertyId": 21069681,
+                    "streetAddress": "48b Nutbrook Street",
+                    "uri": "48b-nutbrook-street/london/se15-4le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 945000,
+                    "propertyId": 21062590,
+                    "streetAddress": "212 Ivydale Road",
+                    "uri": "212-ivydale-road/london/se15-3bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 32800154,
+                    "streetAddress": "Apartment 41, 2 Woods Road",
+                    "uri": "apartment-41/2-woods-road/london/se15-2px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-17T00:00:00Z",
+                    "price": 377000,
+                    "propertyId": 31064196,
+                    "streetAddress": "Flat B, 62 Choumert Road",
+                    "uri": "flat-b/62-choumert-road/london/se15-4ax"
+                }
+            ]
+        }
+    }
+}

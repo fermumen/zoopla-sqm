@@ -1,0 +1,552 @@
+{
+    "address": "Rotherhithe New Road, London SE16",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 73.8,
+    "sqft": 794.0,
+    "text": "fe) S/o Bedroom\nUU = 5.07m x 3.24m\nOy \\ (16'8 x 10'8)\nen Bedroom\n3.46m x 3.07m\nWA (11'4 x 10'1)\nO\u00a9\u00ae | 7\niil Kitchen /\n(\u00b0 Reception Room\n| 6.87m x 4.55m\n(22'6 x 14'11)\n=P\nBalcony\nFourteenth Floor\nTotal area (approx.): 73.8 sq. m (794.3 sq. ft)\nBalcony area: 3.9 sq. m (41.9 sq. ft)\n",
+    "image": "./extracted_images/60421674.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60421674/",
+    "listing_no": "60421674",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.485085,
+        "longitude": -0.065338
+    },
+    "first_published": "2021-12-24T09:22:59",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60421674",
+        "publishedOn": "2021-12-24T09:22:59",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/eb9d8c79995599cd8cb1b686da01d9c797159565.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 83268,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - London Bridge",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Rotherhithe New Road, London SE16",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3FP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60421674,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SE16",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 484696
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-london-bridge-london-83268/",
+            "branchId": "83268",
+            "branchResultsUri": "/for-sale/branch/dexters-london-bridge-london-83268/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7650 5100",
+            "name": "Dexters - London Bridge",
+            "memberType": "agent",
+            "address": "54 Borough High Street, Southwark, London",
+            "postcode": "SE1 1XL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "John Keats Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Phoenix Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "South Bermondsey",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Queens Road (Peckham)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "522959937366e2f14a94c1c0fbf909f503510e5c.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Valid EWS1 Form. With panoramic views of London, this two double bedroom flat is in stunning condition and boasts two bathrooms, concierge, gym, private balcony and communal roof terrace.<br><br>Chancellor House is located only 0.4 miles from South Bermondsey station and one mile from Bermondsey tube station offering excellent transport links to all of London. A wide range of artisan shops, delis and caf\u00e9s are also close by.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedrooms",
+                "Two Bathrooms",
+                "Private Balcony",
+                "Incredible Views",
+                "Excellent Condition",
+                "Concierge, Roof Terrace &amp; Gym",
+                "Valid EWS1 Form"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "2844e8276976c05166bd41de1ba0e9de4b60ce66.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "5fa1229077894b3be779d0e2eea981c05819d59e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ccbf14388a055e7a8a503515c2b25ba41b14106f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "599735d8c9bc1e4faa95c266e7159835bba1db10.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8d3c3fcf553fd8b4238db10da071ff51ee6a2c68.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9c626a7a1a5f2797269257574fef26803fefef2c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8786d9ca932f5e16549ad17741ad137642c9ac75.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a4d37272cfdf8a5bb2e2196e6ee357f74cdf63dd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3b0e9d49bca331fafdb385bef3757ae2d0a1f32e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "dab555d162c279aee9760546888239a1b0d54fbf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "99850f305735000391c4fd8aa707720dc3974182.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 83268,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - London Bridge",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Rotherhithe New Road, London SE16",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3FP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60421674,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SE16",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 484696
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Rotherhithe New Road, London SE16 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Rotherhithe New Road, London SE16, selling for \u00a3550,000 from Dexters - London Bridge. See property details on Zoopla or browse all our range of properties in Rotherhithe New Road, London SE16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60421674/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.485085,
+                "longitude": -0.065338
+            }
+        },
+        "displayAddress": "Rotherhithe New Road, London SE16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-24T09:22:59",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.3",
+                    "priceChangeDate": "2022-01-13T12:02:30",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3550,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 26
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/2844e8276976c05166bd41de1ba0e9de4b60ce66.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60421674,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "8D40E0F0-890C-11EC-91D2-02DC0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE16",
+            "areaNameUri": "london/se16/rotherhithe-south-bermonsey-surrey-docks",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2224.213333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 471740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 474988,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3248
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 477012,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5272
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 499153,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -27413
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 453967,
+                    "pctChangeSince": 3.915,
+                    "date": "2017-02-26",
+                    "changeSince": 17773
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 296770,
+                    "pctChangeSince": 58.958,
+                    "date": "2012-02-26",
+                    "changeSince": 174970
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 286772,
+                    "pctChangeSince": 64.5,
+                    "date": "2007-02-26",
+                    "changeSince": 184968
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 170159,
+                    "pctChangeSince": 177.235,
+                    "date": "2002-02-26",
+                    "changeSince": 301581
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 450307,
+                    "newBuilds": 0,
+                    "numSales": 232
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 436769,
+                    "newBuilds": 65,
+                    "numSales": 678
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 452137,
+                    "newBuilds": 183,
+                    "numSales": 1544
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 446815,
+                    "newBuilds": 355,
+                    "numSales": 2646
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-18T00:00:00Z",
+                    "price": 257000,
+                    "propertyId": 21079541,
+                    "streetAddress": "Flat 111, Westlake, Rotherhithe New Road",
+                    "uri": "flat-111/westlake/rotherhithe-new-road/london/se16-2dt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-09T00:00:00Z",
+                    "price": 267500,
+                    "propertyId": 21081460,
+                    "streetAddress": "Flat 64, Addy House, Rotherhithe New Road",
+                    "uri": "flat-64/addy-house/rotherhithe-new-road/london/se16-2pd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-01T00:00:00Z",
+                    "price": 617000,
+                    "propertyId": 21078892,
+                    "streetAddress": "194 Rotherhithe New Road",
+                    "uri": "194-rotherhithe-new-road/london/se16-2ap"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-01T00:00:00Z",
+                    "price": 578000,
+                    "propertyId": 33108753,
+                    "streetAddress": "20, Bloomhouse, 389 Rotherhithe New Road",
+                    "uri": "20/bloomhouse/389-rotherhithe-new-road/london/se16-3fn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-05T00:00:00Z",
+                    "price": 520000,
+                    "propertyId": 33108750,
+                    "streetAddress": "17, Bloomhouse, 389 Rotherhithe New Road",
+                    "uri": "17/bloomhouse/389-rotherhithe-new-road/london/se16-3fn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 268000,
+                    "propertyId": 21086900,
+                    "streetAddress": "62 Amina Way",
+                    "uri": "62-amina-way/london/se16-3uj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 835000,
+                    "propertyId": 21097466,
+                    "streetAddress": "42 Rope Street",
+                    "uri": "42-rope-street/london/se16-7te"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 21090848,
+                    "streetAddress": "Flat 1, Old Fire Station Court, 241 Rotherhithe Street",
+                    "uri": "flat-1/old-fire-station-court/241-rotherhithe-street/london/se16-5el"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 347500,
+                    "propertyId": 21098418,
+                    "streetAddress": "Flat 6, Mast Court, 1 Boat Lifter Way",
+                    "uri": "flat-6/mast-court/1-boat-lifter-way/london/se16-7wh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 21096228,
+                    "streetAddress": "Flat 8, Gabriel House, 10 Odessa Street",
+                    "uri": "flat-8/gabriel-house/10-odessa-street/london/se16-7hq"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,522 @@
+{
+    "address": "Fitzjames Avenue, London W14",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 671.0,
+    "sqft": null,
+    "text": "NORTH END HOUSE, W14 \"\nApproximate gross internal area \u2018\n62.34 sq ft /671 sqm\nKey: \\\nCH - Ceiling Height\nl Bedroom aii\n- 156x88\n(ok: (4.72 x 2.63m)\nKitehen _\n417 x64\neg) Sex\nL, Bedroom =| < -\n10'9x 103\n(8.28x 3.13m)\ncH\n267m\nGROUND FLOOR\nNot to scale, for guidance only and must not be relied upon as a statement of fact.\nAll measurements and areas are approximate only\n",
+    "image": "./extracted_images/60709933.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60709933/",
+    "listing_no": "60709933",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.492855,
+        "longitude": -0.210313
+    },
+    "first_published": "2022-02-08T12:42:21",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60709933",
+        "publishedOn": "2022-02-08T12:42:21",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Fitzjames Avenue, London",
+                "original": "https://lc.zoocdn.com/ffa853593488c4603540ca04634c16c684bec75e.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31269155",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 26171,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(729475).png",
+            "branchName": "Tates",
+            "brandName": "Tates",
+            "chainFree": false,
+            "companyId": 6463,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Fitzjames Avenue, London W14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0RZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60709933,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 1198448
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/tates-london-26171/",
+            "branchId": "26171",
+            "branchResultsUri": "/for-sale/branch/tates-london-26171/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(729475).png",
+            "phone": "020 3463 9522",
+            "name": "Tates",
+            "memberType": "agent",
+            "address": "135 Hammersmith Road, West Kensington, London",
+            "postcode": "W14 0QL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St James Senior Girls' School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Avonmore Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Kensington",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barons Court",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "955831b8c2f21e40f84eab96a6e8b8071d241454.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A two bedroom ground floor apartment in this sought-after 1920's development with communal gardens.<br><br>This apartment, comprising reception room, kitchen, two bedrooms and bathroom, currently tenanted, offers the purchaser the opportunity to put their own 'stamp' on it.<br><br>North End House is a gated development with 24 hour porterage ideally situated not far from Barons Court tube (District &amp; Piccadilly lines) and West Kensington tube (District line), and within walking distance of the start of Kensington High Street. Hammersmith Broadway, with it's bus terminus is a short walk away.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedrooms",
+                "Ground Floor",
+                "Gated development",
+                "Communal gardens",
+                "Leasehold",
+                "24 Hr security",
+                "Barons Court tube (District &amp; Piccadilly)",
+                "West Kensington tube (District)"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "5baef354ed28fd85fc0b5d26f985aa95b926c478.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "c28cfd3b4045892b4be856e199f9dc6166125127.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2a0eca9548e76f3533ce0b4dba3a0d4a4aa09ba6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2b391c6497b06f7b3add1cc247f122013484f4fe.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "327a6191482e125eda6562891a42a6ee95a57d05.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5aec8565052b72835de6519cacd81139b30a0180.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5b224f148ff363759d44edd117709ce672c74509.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "15884883608350d6acd425a37208894a78c18816.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 26171,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(729475).png",
+            "branchName": "Tates",
+            "brandName": "Tates",
+            "chainFree": false,
+            "companyId": 6463,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Fitzjames Avenue, London W14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0RZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60709933,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 1198448
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Fitzjames Avenue, London W14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Fitzjames Avenue, London W14, selling for \u00a3650,000 from Tates. See property details on Zoopla or browse all our range of properties in Fitzjames Avenue, London W14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60709933/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.492855,
+                "longitude": -0.210313
+            }
+        },
+        "displayAddress": "Fitzjames Avenue, London W14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-08T12:42:21",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 269
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/5baef354ed28fd85fc0b5d26f985aa95b926c478.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Tates",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60709933,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "79C0D178-9575-11EC-8AEC-F6DA0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W14",
+            "areaNameUri": "london/w14/west-kensington-holland-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3482.6566666666668
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 776035,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 788630,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -12595
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 811949,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -35914
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 855883,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -79848
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 849182,
+                    "pctChangeSince": -8.614,
+                    "date": "2017-02-26",
+                    "changeSince": -73147
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 565644,
+                    "pctChangeSince": 37.195,
+                    "date": "2012-02-26",
+                    "changeSince": 210391
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 504431,
+                    "pctChangeSince": 53.844,
+                    "date": "2007-02-26",
+                    "changeSince": 271604
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 298959,
+                    "pctChangeSince": 159.579,
+                    "date": "2002-02-26",
+                    "changeSince": 477076
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 727058,
+                    "newBuilds": 0,
+                    "numSales": 188
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 755004,
+                    "newBuilds": 0,
+                    "numSales": 520
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 777600,
+                    "newBuilds": 18,
+                    "numSales": 982
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 856570,
+                    "newBuilds": 225,
+                    "numSales": 1794
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-22T00:00:00Z",
+                    "price": 1015000,
+                    "propertyId": 25180450,
+                    "streetAddress": "Flat 19, North End House, Fitzjames Avenue",
+                    "uri": "flat-19/north-end-house/fitzjames-avenue/london/w14-0rs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-28T00:00:00Z",
+                    "price": 1360000,
+                    "propertyId": 25180506,
+                    "streetAddress": "Flat 67, North End House, Fitzjames Avenue",
+                    "uri": "flat-67/north-end-house/fitzjames-avenue/london/w14-0rx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-18T00:00:00Z",
+                    "price": 1500000,
+                    "propertyId": 25180538,
+                    "streetAddress": "Flat 108, North End House, Fitzjames Avenue",
+                    "uri": "flat-108/north-end-house/fitzjames-avenue/london/w14-0ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-17T00:00:00Z",
+                    "price": 1500000,
+                    "propertyId": 25180391,
+                    "streetAddress": "12a Fitzjames Avenue",
+                    "uri": "12a-fitzjames-avenue/london/w14-0rp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 567500,
+                    "propertyId": 27184805,
+                    "streetAddress": "Flat 3, 73 Sinclair Road",
+                    "uri": "flat-3/73-sinclair-road/london/w14-0nr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 27285623,
+                    "streetAddress": "Basement Flat, 1 Chesson Road",
+                    "uri": "basement-flat/1-chesson-road/london/w14-9qr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 804011,
+                    "propertyId": 32593125,
+                    "streetAddress": "Flat 11, Trinity House, 377 Kensington High Street",
+                    "uri": "flat-11/trinity-house/377-kensington-high-street/london/w14-8qa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 25178458,
+                    "streetAddress": "142 Blythe Road",
+                    "uri": "142-blythe-road/london/w14-0hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 2950000,
+                    "propertyId": 25178619,
+                    "streetAddress": "24 Sterndale Road",
+                    "uri": "24-sterndale-road/london/w14-0hs"
+                }
+            ]
+        }
+    }
+}

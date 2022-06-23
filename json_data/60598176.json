@@ -1,0 +1,537 @@
+{
+    "address": "Doverfield Road, London SW2",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 53.04,
+    "sqft": 571.0,
+    "text": "Ground Floor\nTo Garden\n[_\u2014}}\u2014+ \u2014 == _\nU \u00a2 uw Kitchen\n2.68 x 2.60m\nBedroom (8'10\" x 8'6\")\n3.57 x 3.20m 50\n(11'9\" x 10'6\") le _\nReception /\nDining Room Bedroom\n4.57 x 4.13m 2.55 x 3.78m\n; (15'0\" x 13\u00b07\") (8'4\" x 12'5\")\nTotal area (approx.) 53.04 sq. m (571 sq. ft)\n",
+    "image": "./extracted_images/60598176.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60598176/",
+    "listing_no": "60598176",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.44934,
+        "longitude": -0.125062
+    },
+    "first_published": "2022-01-24T18:00:29",
+    "last_sale_date": "2017-08-31",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60598176",
+        "publishedOn": "2022-01-24T18:00:29",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/4fabf7dd75d66e12ff29d78569fc75d427fa220a.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 56771,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Clapham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Doverfield Road, London SW2",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5NF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60598176,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 441662
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-clapham-clapham-56771/",
+            "branchId": "56771",
+            "branchResultsUri": "/for-sale/branch/dexters-clapham-clapham-56771/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 8742 4140",
+            "name": "Dexters - Clapham",
+            "memberType": "agent",
+            "address": "28 Abbeville Road, Clapham",
+            "postcode": "SW4 9NG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Richard Atkins Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Christ Church, Streatham Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Streatham Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.8
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham South",
+                "type": "london_underground_station",
+                "distanceMiles": 1
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "db0b9a057a9f312d2f5400550f6ef153435d3d56.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This two double bedroom ground floor flat is presented in excellent order throughout and has a large private garden. Further accommodation includes a bright reception room, separate kitchen and a bathroom.<br><br>Doverfield Road provides easy access to Brixton Underground (Victoria Line) &amp; Streatham Hill Station. The wide open spaces of Brockwell Park, Tooting Common and Clapham Common are a short stroll away.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Ground Floor Flat",
+                "Large Reception Room",
+                "Two Double Bedrooms",
+                "Separate Kitchen",
+                "Private Garden",
+                "Share Of Freehold"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "2a10a2ed4dad23b5d8ecead8b4e2e07edbdaab9a.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "2b83f66fe61c7338a8ab9f6f2a432ce3a8ecf055.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "edde99e799e6a5543be943281fa43a6d9e02f65e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bdfc90bb5c3dacd2057bb5884abb306bbebd9ad1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "14520341879b9e87f8ec4451432548b94d98cde1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0cf3926580aa0b996997e16b201e8e8c8952d13f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ace8f8bf1eacb0f68a5818081da1af301719ed1d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c402723e805df0a0b9d1bb1e7299c410113cd88b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "39ab914318b5e5e6013872716547bb64bd19bda5.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 56771,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Clapham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Doverfield Road, London SW2",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5NF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60598176,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 441662
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Doverfield Road, London SW2 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Doverfield Road, London SW2, selling for \u00a3550,000 from Dexters - Clapham. See property details on Zoopla or browse all our range of properties in Doverfield Road, London SW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60598176/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.44934,
+                "longitude": -0.125062
+            }
+        },
+        "displayAddress": "Doverfield Road, London SW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-24T18:00:29",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2017-08-31",
+                "newBuild": false,
+                "price": 495000,
+                "priceLabel": "\u00a3495,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 69
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/2a10a2ed4dad23b5d8ecead8b4e2e07edbdaab9a.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60598176,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "5EED69B8-93FB-11EC-B10D-BC020E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW2",
+            "areaNameUri": "london/sw2/brixton-centralsouth-streatham-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1908.7634408602153
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 416692,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 418750,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2058
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 419016,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -2324
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 436495,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -19803
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 422941,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -6249
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 291563,
+                    "pctChangeSince": 42.917,
+                    "date": "2012-02-26",
+                    "changeSince": 125129
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 266345,
+                    "pctChangeSince": 56.448,
+                    "date": "2007-02-26",
+                    "changeSince": 150347
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 162273,
+                    "pctChangeSince": 156.785,
+                    "date": "2002-02-26",
+                    "changeSince": 254419
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 468018,
+                    "newBuilds": 0,
+                    "numSales": 325
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 469309,
+                    "newBuilds": 15,
+                    "numSales": 865
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 464625,
+                    "newBuilds": 94,
+                    "numSales": 1643
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 453303,
+                    "newBuilds": 116,
+                    "numSales": 2581
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 650000,
+                    "propertyId": 23127323,
+                    "streetAddress": "31 Doverfield Road",
+                    "uri": "31-doverfield-road/london/sw2-5ne"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 23127324,
+                    "streetAddress": "33 Doverfield Road",
+                    "uri": "33-doverfield-road/london/sw2-5ne"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 425000,
+                    "propertyId": 23127334,
+                    "streetAddress": "53 Doverfield Road",
+                    "uri": "53-doverfield-road/london/sw2-5nf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-19T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 23127286,
+                    "streetAddress": "48 Doverfield Road",
+                    "uri": "48-doverfield-road/london/sw2-5nb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-19T00:00:00Z",
+                    "price": 492175,
+                    "propertyId": 23127285,
+                    "streetAddress": "46 Doverfield Road",
+                    "uri": "46-doverfield-road/london/sw2-5nb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 1230000,
+                    "propertyId": 23120724,
+                    "streetAddress": "90 Downton Avenue",
+                    "uri": "90-downton-avenue/london/sw2-3ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 216000,
+                    "propertyId": 23120868,
+                    "streetAddress": "Flat 11, Christchurch House, Christchurch Road",
+                    "uri": "flat-11/christchurch-house/christchurch-road/london/sw2-3ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 32297780,
+                    "streetAddress": "Flat 2, Burney House, 4 Ardwell Road",
+                    "uri": "flat-2/burney-house/4-ardwell-road/london/sw2-4bt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 480000,
+                    "propertyId": 23117947,
+                    "streetAddress": "43 Cricklade Avenue",
+                    "uri": "43-cricklade-avenue/london/sw2-3hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 23125193,
+                    "streetAddress": "5a Sudbourne Road",
+                    "uri": "5a-sudbourne-road/london/sw2-5ae"
+                }
+            ]
+        }
+    }
+}

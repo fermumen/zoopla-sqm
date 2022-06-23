@@ -1,0 +1,534 @@
+{
+    "address": "Delamere Terrace, Paddington W2",
+    "price": "\u00a3600,000",
+    "beds": "3 beds",
+    "area": "803 sq. ft",
+    "sqm": 74.69,
+    "sqft": 2022.0,
+    "text": "we,\nS Uhnice Delamere Terrace, W2\nProperties\noor avor/2022 11999,782 74.69 sqm / 803.96 sqft\nae\nRECEPTION\n4.93m x 3.32m\n(16'2 x 10'11)\nMAIN BEDROOM\n4.41m x 2.76m\ngt (14'6 x 911)\n\u2019\n/\n1\n\\\nY i\nN ee /\nWragg wt\n\\ \\ ia\nUTILITY ROOM D> \\\n2.02m x 1.44m| Se. eng\n(6'8 x 4'9) ly \\\n\\\nY |\n| faz seoRooMm 2\nis a? 3.70m x 2.74m\nKITCHEN ge (12'2 x 9'0)\n3.41m x 2.56m t\n(11'2 x 8'5) |\no\n/\nDINING ROOM {\n3.36m x 2.04m if\n(11'0 x 6'8)\n= First Floor\n74.69 sqm / 803.96 sqft 68.67 sqm / 739.16 sqft 0.00 sqm / 0.00 saft 0.00 sqm / 0.00 saft\nMspec\u2019\nVerified @\n",
+    "image": "./extracted_images/60670148.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60670148/",
+    "listing_no": "60670148",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.522056,
+        "longitude": -0.187882
+    },
+    "first_published": "2022-02-02T17:06:18",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60670148",
+        "publishedOn": "2022-02-02T17:06:18",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 7681,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(70783).jpeg",
+            "branchName": "Venice Property",
+            "brandName": "Venice Property",
+            "chainFree": false,
+            "companyId": 3865,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Delamere Terrace, Paddington W2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6PG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60670148,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "W2",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "803",
+            "tenure": "leasehold",
+            "zindex": 479338
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/venice-property-7681/",
+            "branchId": "7681",
+            "branchResultsUri": "/for-sale/branch/venice-property-7681/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(70783).jpeg",
+            "phone": "020 3544 2532",
+            "name": "Venice Property",
+            "memberType": "agent",
+            "address": "412 Edgware Road, Paddington",
+            "postcode": "W2 1ED"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Edward Wilson Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary Magdalene CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Warwick Avenue",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Royal Oak",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Venice Properties is proud to present this large 3 bedroom apartment for sale on the prestigious Little Venice. The property is a total of 803 sq.ft and features a separate kitchen, large reception room, three bedroom, balcony access and a newly refurbished bathroom.<br><br>The property is situated on the first floor and you have views of the canal from the apartment.<br><br>Lease remaining- 99 years<br>Service charges- Approximately \u00a31,900 pa<br><br>The property offers excellent transport links with Warwick Avenue station just a short walk away.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "b5a3d8bccbb61647e63c3f2f96857e04922760c0.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "0ce76e73324d691cfe8d26cc6debac46bb458f7b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4c579aeb92aa4a2665474508f4fd7a6da18ae7fe.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c871c70f2732243b0ff569e812701d0293d26745.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4738488c35439b9c030965d04b87483803fa981d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "639468d02e68d2c79115e077a929b28994a1b6e0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5ec6be9531476721e0df5102444ad34ab7c62e2a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "488ac858a095dcbd22b03b1001f459c5ea656086.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "42c0475831532ae01fdf6a21db384f06d0f20733.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "df7822df50b7eed2684a5e5c2db8a08b9ec0a53a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fc89aebcf1cc9894cdd218f75e2974c58b133279.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "24f9d641e74242769a915cb10eebc2312181b39f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "299e6a0fc9b1fb76d2d3a68662a54658b1fa12b7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d3a99b5b1da9e056a53edd69e21197a1f2e8a514.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e5924ac6d8bf093de051a54cdc1d601e899b5a59.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8ba5a8959e37689d46b1052939762e0545bbabd6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "acd40e4e61ed5c0a2c2b394ec6d1a3e9af33f3c5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9692a23f4c77ad15a491b9472b8c0a4c0f81b06e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8157c74a618edfe98cf735312bca28cd5c490c08.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 7681,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(70783).jpeg",
+            "branchName": "Venice Property",
+            "brandName": "Venice Property",
+            "chainFree": false,
+            "companyId": 3865,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Delamere Terrace, Paddington W2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6PG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60670148,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "W2",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "803",
+            "tenure": "leasehold",
+            "zindex": 479338
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Delamere Terrace, Paddington W2 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Delamere Terrace, Paddington W2, selling for \u00a3600,000 from Venice Property. See property details on Zoopla or browse all our range of properties in Delamere Terrace, Paddington W2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60670148/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.522056,
+                "longitude": -0.187882
+            }
+        },
+        "displayAddress": "Delamere Terrace, Paddington W2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-02T17:06:18",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 271
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/b5a3d8bccbb61647e63c3f2f96857e04922760c0.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 803
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 747,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Venice Property",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60670148,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "17F9B7BE-844C-11EC-9AD2-0F1F0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W2",
+            "areaNameUri": "london/w2/paddington-bayswater-hyde-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 7190.901776384516
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 933627,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 948781,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -15154
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 976837,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -43210
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1029693,
+                    "pctChangeSince": -9.33,
+                    "date": "2021-02-26",
+                    "changeSince": -96066
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1021633,
+                    "pctChangeSince": -8.614,
+                    "date": "2017-02-26",
+                    "changeSince": -88006
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 680514,
+                    "pctChangeSince": 37.194,
+                    "date": "2012-02-26",
+                    "changeSince": 253113
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 606870,
+                    "pctChangeSince": 53.843,
+                    "date": "2007-02-26",
+                    "changeSince": 326757
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 359671,
+                    "pctChangeSince": 159.578,
+                    "date": "2002-02-26",
+                    "changeSince": 573956
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 964420,
+                    "newBuilds": 0,
+                    "numSales": 256
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1058602,
+                    "newBuilds": 2,
+                    "numSales": 701
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1088039,
+                    "newBuilds": 16,
+                    "numSales": 1289
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1053600,
+                    "newBuilds": 26,
+                    "numSales": 2104
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-24T00:00:00Z",
+                    "price": 642500,
+                    "propertyId": 25018405,
+                    "streetAddress": "77, Atherstone Court, Delamere Terrace",
+                    "uri": "77/atherstone-court/delamere-terrace/london/w2-6ph"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 685000,
+                    "propertyId": 25004333,
+                    "streetAddress": "13 Sussex Square",
+                    "uri": "13-sussex-square/london/w2-2sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 900000,
+                    "propertyId": 25008980,
+                    "streetAddress": "Flat B, 41 Linden Gardens",
+                    "uri": "flat-b/41-linden-gardens/london/w2-4hq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 3600000,
+                    "propertyId": 25008982,
+                    "streetAddress": "Flat D, 41 Linden Gardens",
+                    "uri": "flat-d/41-linden-gardens/london/w2-4hq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 3250000,
+                    "propertyId": 25001234,
+                    "streetAddress": "22 Portsea Place",
+                    "uri": "22-portsea-place/london/w2-2bl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 3000000,
+                    "propertyId": 25005331,
+                    "streetAddress": "Flat 15, 22 Brook Mews North",
+                    "uri": "flat-15/22-brook-mews-north/london/w2-3bw"
+                }
+            ]
+        }
+    }
+}

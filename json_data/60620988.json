@@ -1,0 +1,526 @@
+{
+    "address": "Point Pleasant, London SW18",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 66.6,
+    "sqft": 716.0,
+    "text": "Fourth Floor\nBalcony\nBedroom\n3.87m x 2.57m\n(12'8\" x S55)\nBalcony yy\n= if o 4 |\nKitchen/ Reception\nRoom\n8.12m x 3.56m\nBedroom (26'8\" x 11'8\")\n3.71m x 3.34m\n(12'2\" x 11')\n= = \u2014 - ~~ j=\na H+} \u2014\ni i]\nMain area: Approx. 66.6 sq. metres (716.4 sq. feet)\nPlus balconies, approx. 9.2 sq. metres (99.0 sq. feet)\n",
+    "image": "./extracted_images/60620988.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60620988/",
+    "listing_no": "60620988",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.461175,
+        "longitude": -0.199293
+    },
+    "first_published": "2022-01-27T09:14:28",
+    "last_sale_date": "2006-12-01",
+    "last_sale_new": true,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60620988",
+        "publishedOn": "2022-01-27T09:14:28",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/915b1e8a30e636b07a6e5fdd19467c53d7493b73.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 14234,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275273).png",
+            "branchName": "Jacksons Estate Agents - Wandsworth",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": true,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Point Pleasant, London SW18",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1GG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60620988,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 643558
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jacksons-estate-agents-wandsworth-london-14234/",
+            "branchId": "14234",
+            "branchResultsUri": "/for-sale/branch/jacksons-estate-agents-wandsworth-london-14234/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275273).png",
+            "phone": "020 8875 8899",
+            "name": "Jacksons Estate Agents - Wandsworth",
+            "memberType": "agent",
+            "address": "507 Old York Road, London",
+            "postcode": "SW18 1TF"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Joseph's RC Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Riverside Quarter Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Roche School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A very well presented 2 bedroom apartment set within The Radial Development, boasting two bathrooms, 2 private balcony and secure off street parking.<br><br>The Radial Development is very well located on Wandsworth Riverside. There is a plethora of benefits to its location, including but not limited to the luxury of having the green haven of Wandsworth Park, as well as the River Thames on the doorstep. There are two restaurants located on the riverside, and Southside Shopping Centre is within walking distance. Point Pleasant has its own pier for access to the Thames Clipper that offers the scenic way to travel to central London. East Putney underground station is within walking distance, as well as Wandsworth Town station which is one stop to Clapham Junction and there is an excellent bus service.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 Double Bedrooms",
+                "2 Bathrooms",
+                "Dual Balconies",
+                "Secure Underground Parking",
+                "Excellent Condition",
+                "Chain Free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "0eb29909a6e17b990a94f023e869782bf955edaf.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "268a31fd26f0175bb769db4ceb0ca30793dae5a9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cb58e693124a6c39e6056da7466bbca66a5fc094.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "eed111a9944acffa5af5e88bf1341231c4fea13e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "95760fa27c4508b3bbb60d6d71028d10f93c7327.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c706bc01321ad068e3ed193eca0728caaee78181.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9e2813608996b7d013eec67ea4f407a5bb5fb788.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "eec24c2be05a3482517a6abb9426391e9993e0ce.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 14234,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275273).png",
+            "branchName": "Jacksons Estate Agents - Wandsworth",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": true,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Point Pleasant, London SW18",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1GG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60620988,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 643558
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Point Pleasant, London SW18 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Point Pleasant, London SW18, selling for \u00a3600,000 from Jacksons Estate Agents - Wandsworth. See property details on Zoopla or browse all our range of properties in Point Pleasant, London SW18.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60620988/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.461175,
+                "longitude": -0.199293
+            }
+        },
+        "displayAddress": "Point Pleasant, London SW18",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-27T09:14:28",
+                "priceLabel": "\u00a3675,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2006-12-01",
+                "newBuild": true,
+                "price": 355196,
+                "priceLabel": "\u00a3355,196",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3.7",
+                    "priceChangeDate": "2022-02-07T16:06:57",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3650,000"
+                },
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "7.7",
+                    "priceChangeDate": "2022-02-17T14:22:28",
+                    "priceChangeLabel": "\u00a350,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 173
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/0eb29909a6e17b990a94f023e869782bf955edaf.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Jacksons Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60620988,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "5339B83A-8FFD-11EC-8C97-F0C20D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW18",
+            "areaNameUri": "london/sw18/wandsworth-earlsfield",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2440.1807909604536
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 545740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 548436,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -2696
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 548784,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 571676,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -25936
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 553935,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -8195
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 381867,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 163873
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 348838,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 196902
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 212532,
+                    "pctChangeSince": 156.78,
+                    "date": "2002-02-26",
+                    "changeSince": 333208
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 554541,
+                    "newBuilds": 19,
+                    "numSales": 470
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 543782,
+                    "newBuilds": 55,
+                    "numSales": 1296
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 547279,
+                    "newBuilds": 111,
+                    "numSales": 2421
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 550771,
+                    "newBuilds": 488,
+                    "numSales": 4197
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-01T00:00:00Z",
+                    "price": 385000,
+                    "propertyId": 23371738,
+                    "streetAddress": "Flat 31, Prospect Quay, 98 Point Pleasant",
+                    "uri": "flat-31/prospect-quay/98-point-pleasant/london/sw18-1pr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-09T00:00:00Z",
+                    "price": 920000,
+                    "propertyId": 23371760,
+                    "streetAddress": "Flat 51, Prospect Quay, 98 Point Pleasant",
+                    "uri": "flat-51/prospect-quay/98-point-pleasant/london/sw18-1pr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-07T00:00:00Z",
+                    "price": 795000,
+                    "propertyId": 23371757,
+                    "streetAddress": "Flat 49, Prospect Quay, 98 Point Pleasant",
+                    "uri": "flat-49/prospect-quay/98-point-pleasant/london/sw18-1pr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 23379218,
+                    "streetAddress": "13 Heathfield Square",
+                    "uri": "13-heathfield-square/london/sw18-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 23377537,
+                    "streetAddress": "6 Wells Place",
+                    "uri": "6-wells-place/london/sw18-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 696000,
+                    "propertyId": 23384628,
+                    "streetAddress": "16a Duntshill Road",
+                    "uri": "16a-duntshill-road/london/sw18-4ql"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 1325500,
+                    "propertyId": 23388776,
+                    "streetAddress": "94 Elsenham Street",
+                    "uri": "94-elsenham-street/london/sw18-5nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 511000,
+                    "propertyId": 23383425,
+                    "streetAddress": "31 Steerforth Street",
+                    "uri": "31-steerforth-street/london/sw18-4hf"
+                }
+            ]
+        }
+    }
+}

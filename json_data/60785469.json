@@ -1,0 +1,555 @@
+{
+    "address": "Finchley Road, Hampstead, London NW3",
+    "price": "\u00a3630,000",
+    "beds": "2 beds",
+    "area": "634 sq. ft",
+    "sqm": 58.9,
+    "sqft": 634.0,
+    "text": "APPROXIMATE FLOOR AREA = 634 SQ FT / 58.9 SQM \u201c\nINCLUDING LIMITED USE AREA (9 SQ FT / 0.8 SQ M) XK)\nNO\n\u201cKITCHEN |\n\\ 8'7 x 7'9 Is3|\nge 2.62m x 2.36m\n\u2122 RECEPTION ROOM 7 [ |\n14'10 x 14'3 =\n4.52m x 4.34m a lon\nOQ la\n: Y\nLW a / 7 ~ a,\n\\ va \\\\\nNN / \\\nBEDROOM 2 4s |\n9'10 x 9'0 \\ IN\n3.00m x 2.74m XL |\nBEDROOM 1\n124x911\n3.76m x 3.02m /\nFIRST FLOOR\nSurveyed and drawn in accordance with the International Property Measurement Standards (IPMS 2: = Certified\nResidential) FOXTONS.CO.UK\n",
+    "image": "./extracted_images/60785469.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60785469/",
+    "listing_no": "60785469",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.556222,
+        "longitude": -0.194561
+    },
+    "first_published": "2022-02-17T15:06:50",
+    "last_sale_date": "2021-06-16",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60785469",
+        "publishedOn": "2022-02-17T15:06:50",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/nw3/chpk0281904/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/nw3/chpk0281904",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/nw3/chpk0281904/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2879,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Hampstead",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Finchley Road, Hampstead, London NW3",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7AG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60785469,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "NW3",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 630000,
+            "price": 630000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "634",
+            "tenure": null,
+            "zindex": 543790
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-hampstead-london-2879/",
+            "branchId": "2879",
+            "branchResultsUri": "/for-sale/branch/foxtons-hampstead-london-2879/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3463 7492",
+            "name": "Foxtons - Hampstead",
+            "memberType": "agent",
+            "address": "47 Heath Street, Hampstead, London",
+            "postcode": "NW3 6UA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Luke's Church of England Primary",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Margaret's School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Hampstead Thameslink",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Hampstead",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/677692087"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Arranged on the first floor, this immaculate 2 bedroom flat boasts spacious interiors, generous living space and access to manicured communal gardens.<br><br>Located on Finchley Road, this property benefits from strong bus links into Swiss Cottage and Golders Green, with the O2 centre also close by.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Fabulous 2 bedroom first floor flat",
+                "Well-maintained period conversion",
+                "Very well-presented throughout",
+                "Spacious reception room",
+                "Separate well-equipped kitchen",
+                "2 good-sized bedrooms",
+                "Access to gated communal gardens",
+                "Popular located affording easy access into town"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "a0cc79d23788776c959a8b62c6825c8ce5b188f5.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "56ebfec75c9f400f70b346fca9a622fd4e205ecf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0ed53bab713e71f0f7d24d8511c13a0075fd98f1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5471318dccc60ada4eae73281098a734c7deeef0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "85ef12b0ab46b16b96bd6df4be52467567d36ea9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fbc4887ac82d7f2010be933456d86fa3b24350b0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "68512650a22034b28aaaa96349910d9efa172296.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4b5b1343189fa22910db233f8773286c831c2183.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7d166eed3aa43dee7b0d671dfa94644c218fa87f.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2879,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Hampstead",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Finchley Road, Hampstead, London NW3",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7AG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60785469,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "NW3",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 630000,
+            "price": 630000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "634",
+            "tenure": null,
+            "zindex": 543790
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Finchley Road, Hampstead, London NW3 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Finchley Road, Hampstead, London NW3, selling for \u00a3630,000 from Foxtons - Hampstead. See property details on Zoopla or browse all our range of properties in Finchley Road, Hampstead, London NW3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60785469/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.556222,
+                "longitude": -0.194561
+            }
+        },
+        "displayAddress": "Finchley Road, Hampstead, London NW3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-17T15:06:50",
+                "priceLabel": "\u00a3630,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2021-06-16",
+                "newBuild": false,
+                "price": 320000,
+                "priceLabel": "\u00a3320,000",
+                "recentlySold": true
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 130
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/a0cc79d23788776c959a8b62c6825c8ce5b188f5.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 634
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3630,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 994,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60785469,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "44F13356-9003-11EC-A102-ECC20D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW3",
+            "areaNameUri": "london/nw3/hampstead-belsize-park-swiss-cottage",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3590.2343749999995
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 1009467,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 1026681,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -17214
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 1058566,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -49099
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1106121,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -96654
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1043627,
+                    "pctChangeSince": -3.273,
+                    "date": "2017-02-26",
+                    "changeSince": -34160
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 720580,
+                    "pctChangeSince": 40.091,
+                    "date": "2012-02-26",
+                    "changeSince": 288887
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 643135,
+                    "pctChangeSince": 56.96,
+                    "date": "2007-02-26",
+                    "changeSince": 366332
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 379798,
+                    "pctChangeSince": 165.79,
+                    "date": "2002-02-26",
+                    "changeSince": 629669
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 1063042,
+                    "newBuilds": 0,
+                    "numSales": 312
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1050118,
+                    "newBuilds": 12,
+                    "numSales": 752
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1030646,
+                    "newBuilds": 64,
+                    "numSales": 1363
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1027216,
+                    "newBuilds": 85,
+                    "numSales": 2182
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-26T00:00:00Z",
+                    "price": 475000,
+                    "propertyId": 17214324,
+                    "streetAddress": "Flat 21, Hillside Court, 409 Finchley Road",
+                    "uri": "flat-21/hillside-court/409-finchley-road/london/nw3-6hg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-06T00:00:00Z",
+                    "price": 377000,
+                    "propertyId": 17215902,
+                    "streetAddress": "Flat 4, 352 Finchley Road",
+                    "uri": "flat-4/352-finchley-road/london/nw3-7aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-02T00:00:00Z",
+                    "price": 258750,
+                    "propertyId": 32606243,
+                    "streetAddress": "Flat 11, 330 Finchley Road",
+                    "uri": "flat-11/330-finchley-road/london/nw3-7aw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 17215958,
+                    "streetAddress": "525 Finchley Road",
+                    "uri": "525-finchley-road/london/nw3-7bb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 467000,
+                    "propertyId": 17215809,
+                    "streetAddress": "304 Finchley Road",
+                    "uri": "304-finchley-road/london/nw3-7ag"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 805000,
+                    "propertyId": 27184415,
+                    "streetAddress": "Flat 8, 13 South Hill Park Gardens",
+                    "uri": "flat-8/13-south-hill-park-gardens/london/nw3-2td"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 31526691,
+                    "streetAddress": "Flat 3, 13 Belsize Grove",
+                    "uri": "flat-3/13-belsize-grove/london/nw3-4ux"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 2500000,
+                    "propertyId": 17202532,
+                    "streetAddress": "4 Shirlock Road",
+                    "uri": "4-shirlock-road/london/nw3-2hs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 975000,
+                    "propertyId": 17208098,
+                    "streetAddress": "97 King Henrys Road",
+                    "uri": "97-king-henrys-road/london/nw3-3qx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1850000,
+                    "propertyId": 17216240,
+                    "streetAddress": "26 Bracknell Gardens",
+                    "uri": "26-bracknell-gardens/london/nw3-7ed"
+                }
+            ]
+        }
+    }
+}

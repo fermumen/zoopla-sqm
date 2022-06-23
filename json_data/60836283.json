@@ -1,0 +1,536 @@
+{
+    "address": "Hornsey Rise, Crouch End, London N19",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": "784 sq. ft",
+    "sqm": 72.9,
+    "sqft": 2022.0,
+    "text": "Foxtons Hornsey Rise, N19\n21/02/2022 1,684,027 72.90 sqm / 784.69 sqft\nza\n\u2014\nBEDROOM 2 \\\n3.90m x 3.09m\n(12\u00b010 x 10'2)\nSI\n=| >\nOI)\nMAIN BEDROOM |\n3.55m x 3.35m = =\n(11'8 x 110) \\ GQ\n\\ -\nse {\n7 /\n1\nll a\nKITCHEN ' <\nd ' 3.26m x 2.01m\n(10'8 x 6'7)\n' :\nNS y\n\u2014\ni\nL J\nRECEPTION\n6.13m x 4.12m\n(201 x 13\u00b06) |\n\u2014\u2014 \u2014\u2014\n= First Floor\n72.90 sqm / 784.69 sqft 68.18 sqm / 733.88 sqft 0.00 sqm / 0.00 sqft 0.00 sqm / 0.00 saft\nfMspec\u2019\nVerified @\n",
+    "image": "./extracted_images/60836283.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60836283/",
+    "listing_no": "60836283",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.570203,
+        "longitude": -0.123971
+    },
+    "first_published": "2022-02-23T19:04:56",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60836283",
+        "publishedOn": "2022-02-23T19:04:56",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/n19/chpk4939892/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/n19/chpk4939892",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/n19/chpk4939892/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 52940,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Crouch End",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Hornsey Rise, Crouch End, London N19",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3SB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60836283,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "N19",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "784",
+            "tenure": null,
+            "zindex": 533541
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-crouch-end-london-52940/",
+            "branchId": "52940",
+            "branchResultsUri": "/for-sale/branch/foxtons-crouch-end-london-52940/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3544 2505",
+            "name": "Foxtons - Crouch End",
+            "memberType": "agent",
+            "address": "3-5 Crouch End Hill, London",
+            "postcode": "N8 8DH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Duncombe Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ashmount Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Crouch Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Upper Holloway",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/621482911503c50a6c773f15"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Set in a handsome period building, this 2 bedroom flat is well located for the green space of Elthorne Park. It presents neutral-hues with ample fitted storage, excellent space to lounge and a separate modern kitchen.<br><br>Hornsey Rise is well served by the selection of popular bars, restaurants and amenities of Hornsey Road and is a short distance from Wray Crescent Open Space. Excellent transport links include Upper Holloway Station and Archway Station.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Spacious two double bedroom first floor flat in a period conversion",
+                "Comfortable reception room with room to relax",
+                "Modern kitchen with ample storage space",
+                "Two bathrooms (1 ensuite)",
+                "Close to local amenities on Hornsey Road and Crouch End Broadway",
+                "Walking distance to several primary and secondary schools",
+                "A stones throw away from Crouch Hill overground station",
+                "Secured intercom access"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "6157c4b8ad9c4156df525f207d7a96c18ead4d0c.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "58f594f301bcab0e0ca6f430092d600c751bdd85.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1a7076c98dd7fc854c37f7860a498dbc0dc99c42.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "438cf14cbebe2e1255c8a359cc6b0840e9975a05.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6a761bd38d965ed7100b4c80422a08d0d5f6e14e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2ab6864701567404d4ba2fbe4610f5a94e01ef29.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "583a8872d701ab72dad104600533fa069110dbb7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4366439c2e5e27b2b60a912fed1209aab0ea39f2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b05e001cfab7ed942f1e25cf04e452ad1bbbce80.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bb26f1a09e5c39534c474ad4d4a78c6fc3b49ebc.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7c583ca1b900a9b8b8cd1e74c156445065ac566f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "83804ef3ff2ed49af29b0f1c609d32024fcd7d87.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "09f1a6a2e1d8de5a39431a8cdceba5dde341848d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "71b5636a701814daed9ab0d4131f70c8dc7527ce.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 52940,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Crouch End",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Hornsey Rise, Crouch End, London N19",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3SB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60836283,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "N19",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "784",
+            "tenure": null,
+            "zindex": 533541
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Hornsey Rise, Crouch End, London N19 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Hornsey Rise, Crouch End, London N19, selling for \u00a3550,000 from Foxtons - Crouch End. See property details on Zoopla or browse all our range of properties in Hornsey Rise, Crouch End, London N19.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60836283/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.570203,
+                "longitude": -0.123971
+            }
+        },
+        "displayAddress": "Hornsey Rise, Crouch End, London N19",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-23T19:04:56",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 86
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/6157c4b8ad9c4156df525f207d7a96c18ead4d0c.png"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 784
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 702,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60836283,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "A4C075A8-94DB-11EC-83DC-79CA0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N19",
+            "areaNameUri": "london/n19/upper-holloway-archway-tufnell-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2252.014492753623
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 478218,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 486485,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8267
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 501722,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -23504
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 527005,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -48787
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 487573,
+                    "pctChangeSince": -1.919,
+                    "date": "2017-02-26",
+                    "changeSince": -9355
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 319652,
+                    "pctChangeSince": 49.606,
+                    "date": "2012-02-26",
+                    "changeSince": 158566
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 299856,
+                    "pctChangeSince": 59.483,
+                    "date": "2007-02-26",
+                    "changeSince": 178362
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 180499,
+                    "pctChangeSince": 164.942,
+                    "date": "2002-02-26",
+                    "changeSince": 297719
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 497660,
+                    "newBuilds": 0,
+                    "numSales": 132
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 506627,
+                    "newBuilds": 1,
+                    "numSales": 349
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 495395,
+                    "newBuilds": 30,
+                    "numSales": 639
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 489059,
+                    "newBuilds": 35,
+                    "numSales": 975
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 1484300,
+                    "propertyId": 15286934,
+                    "streetAddress": "67 St. John's Villas",
+                    "uri": "67-st-john-s-villas/london/n19-3ee"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 480000,
+                    "propertyId": 27436704,
+                    "streetAddress": "Flat B, 11 Giesbach Road",
+                    "uri": "flat-b/11-giesbach-road/london/n19-3da"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 427000,
+                    "propertyId": 15287203,
+                    "streetAddress": "71 Mulkern Road",
+                    "uri": "71-mulkern-road/london/n19-3hh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 1150000,
+                    "propertyId": 15295977,
+                    "streetAddress": "42 Corinne Road",
+                    "uri": "42-corinne-road/london/n19-5ey"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 1442000,
+                    "propertyId": 15296020,
+                    "streetAddress": "53 Corinne Road",
+                    "uri": "53-corinne-road/london/n19-5ez"
+                }
+            ]
+        }
+    }
+}

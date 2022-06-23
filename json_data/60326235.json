@@ -1,0 +1,599 @@
+{
+    "address": "Juniper Drive, London SW18",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 77.7,
+    "sqft": 836.0,
+    "text": "J. IN\nae SUNTERRACE =3f Joa. \\ /\nM : 316K 5 (8 8 SKE I\nkx 960m x 152m I Y\na8 Be ES WS\ni __\n(e =]\n| MASTER ,\nBEDROOM\n18'6 x 9'9\n5.64m x 2.97m |\nzl | RECEPTION .\nHee lan oy, is\nZ| 2] 16'5 x 11'8\na\n() [| 5.00m x 3.56m\nZ|\ncuPsoang Ie g\nwa\u2019\nCD iD KITCHEN Ht\n117 x 5'7 Giel\nlow --~ BATHROOM 3.53m x 1 70m|S4]\nQensurey \u20ac) \u2014\n| a F\nee , \u2014\u2014 |\nTOTAL APPROX. FLOOR AREA 836 SQ.FT. (77.7 SQ.M.)\nWhilst every attempt has been made to ensure the accuracy of the floor plan contained here, measurements\nof doors, windows, rooms and any other items are approximate and no responsibility is taken for any error,\nwb \u2018omission, or mis-statement. This plan is for illustrative purposes only and should be used as such by any\nprospective purchaser. The services, systems and appliances shown have not been tested and no guarantee\nas to their operability or efficiency can be given\nMade with Metropix \u00a92021\n",
+    "image": "./extracted_images/60326235.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60326235/",
+    "listing_no": "60326235",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.4643,
+        "longitude": -0.184537
+    },
+    "first_published": "2021-12-04T19:06:03",
+    "last_sale_date": "2012-09-07",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60326235",
+        "publishedOn": "2021-12-04T19:06:03",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.ewemove.com/property-show/?commodore-house-juniper-drive-london-sw18-1tw-42346&utm_source=ZPG&utm_medium=BrochureLink&utm_campaign=PropertyListings",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79683,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(381970).png",
+            "branchName": "EweMove Sales & Lettings - Putney",
+            "brandName": "EweMove Sales & Lettings",
+            "chainFree": true,
+            "companyId": 14493,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Juniper Drive, London SW18",
+            "furnishedState": "",
+            "groupId": 62,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1TW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60326235,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "Waterfront|Chain Free",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 675920
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/ewemove-sales-and-lettings-putney-cleckheaton-79683/",
+            "branchId": "79683",
+            "branchResultsUri": "/for-sale/branch/ewemove-sales-and-lettings-putney-cleckheaton-79683/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(381970).png",
+            "phone": "020 8033 9550",
+            "name": "EweMove Sales & Lettings - Putney",
+            "memberType": "agent",
+            "address": "Head Office Address: Cavendish House, Littlewood Drive, Rawfolds, Cleckheaton",
+            "postcode": "BD19 4TE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Faith's CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Thomas's Fulham",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham Junction",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "original": "https://lc.zoocdn.com/474b75b1f7e948d531f0e7ca645fee3dd43f5488.pdf"
+                }
+            ]
+        },
+        "detailedDescription": "With a broad terrace overlooking the Thames and 836 sq ft of living space, this bright, spacious, two bedroom, first floor flat is part of the exclusive Battersea Reach development, a vibrant riverside community, set a short walk from Wandsworth Town station, with direct line to Waterloo.<br><br>Exiting the lift on the first floor, one enters the flat via an almost theatrically long, wooden floored, L-shaped hallway (that would make a great art or photo gallery), emerging into a good-sized open-plan reception, suffused with natural light from the full-width French doors. These open out on to the terrace, a fabulous outdoor room that extends along the entire width of the property, offering ample space for al fresco dining and entertaining. The handsome, well equipped kitchen features granite work surfaces and integrated appliances. It is self-contained and, once a meal is prepared, can be closed off entirely with sliding wooden doors.<br><br>With abundant natural light streaming through the floor-to-ceiling windows, the master bedroom offers a generous, versatile space, with large built-in wardrobe and ample room for a king-size bed and other bedroom furniture. It also benefits from an attractive en suite shower room. The second bedroom is a good-sized double that benefits from French doors leading on to the terrace, filling the room with natural light. Across the hallway is a well appointed family bathroom, with bath and shower. There is abundant storage throughout the flat.<br><br>Commodore House is situated at the heart of Battersea Reach, a lively, ever-popular development with concierge, residents' exclusive gym, video-entry system and 24-hour security, it also benefits from attractive, well maintained communal gardens and courtyards.<br><br>The property is well located for local transport links, with Wandsworth Town Railway station (direct line to Waterloo) an eight minute walk away and Clapham Junction an eight minute bus ride.<br><br>Additional Information:<br><li><strong>Council Tax: </strong><br><br>Band F<br><br><li><strong>Service Included: </strong><br><br>Maintenance of all communal areas, including reception, lifts, gardens and courtyards and residents' gym, as well as the concierge.<br></li><br>For anyone seeking a stylish, generously sized apartment, with abundant outdoor space and river views, conveniently located for local transport links, this handsome property may well be the end of your search.<br><br><strong><i>Marketed by EweMove Sales &amp; Lettings (Putney) - Property Reference 42346</strong></i>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Stylish, modern, first floor apartment within the Battersea Reach development",
+                "Large outdoor terrace with views of the Thames - great for entertaining",
+                "Handsome, well equipped kitchen",
+                "Two double bedrooms, one with en suite shower room",
+                "Video entry, concierge, residents' gym and 24-hour security",
+                "Secure, allocated, underground parking",
+                "Eight minutes walk from Wandsworth Town station",
+                "Chain free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Waterfront"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Chain Free"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "591c438e1cf6e7bb1d83a904174d997c4ba28e8b.jpg",
+                    "caption": "Floorplan 2D"
+                },
+                {
+                    "__typename": "Media",
+                    "filename": "a90c2760bc6c79ceb457cde657f777261fa0bd45.jpg",
+                    "caption": "Floorplan 3D"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "66d76839c2f5f83e9085d8ada4cab78410346fa0.jpg",
+                "caption": "View From Property At Front"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e6f41c59c6fc537aeda1272b0fedfb4d7c9f360c.jpg",
+                "caption": "Living Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b89d8ee792aea2d9aa63c1eb5980158470d15cf2.jpg",
+                "caption": "Living Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cefd9c7f85744bbcb6f770d96c91beb803d3cd5f.jpg",
+                "caption": "Living Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c2b914ab1bb7d76115cecffb2d28df8efa40ee2f.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "eb730096616dcb4419835cb88265f9b5530a4f35.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "509b985c77f9ed26b02c7770baeb1e9313619824.jpg",
+                "caption": "View From Property At Front"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f0521cb2f8a6b78038f20b3d552b4c998fb244ce.jpg",
+                "caption": "Master Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c8425485230602e262eb3a0fbb2328b7f50cfc10.jpg",
+                "caption": "Master Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ba047754d820d2caed0bf1fc240c851b9bdedbe5.jpg",
+                "caption": "Ensuite To Bed 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "22cc6384c8811111158bfdedefeff59dda46f04c.jpg",
+                "caption": "Bathroom (Family Bathroom)"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b6ae14f7f7cb56f4b8f7b79abae3ff432632a0cf.jpg",
+                "caption": "Bedroom 2 (Double)"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7d52616ba3ae18d1cc7b34a1ac69c2bbf33a4001.jpg",
+                "caption": "View From Property At Front"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0080d2f8a138819230ea0fb1ef1e67007c6ad520.jpg",
+                "caption": "Battersea Reach - River Views"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79683,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(381970).png",
+            "branchName": "EweMove Sales & Lettings - Putney",
+            "brandName": "EweMove Sales & Lettings",
+            "chainFree": true,
+            "companyId": 14493,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Juniper Drive, London SW18",
+            "furnishedState": "",
+            "groupId": 62,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1TW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60326235,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "Waterfront|Chain Free",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 675920
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Juniper Drive, London SW18 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Juniper Drive, London SW18, selling for \u00a3650,000 from EweMove Sales & Lettings - Putney. See property details on Zoopla or browse all our range of properties in Juniper Drive, London SW18.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60326235/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.4643,
+                "longitude": -0.184537
+            }
+        },
+        "displayAddress": "Juniper Drive, London SW18",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-04T19:06:03",
+                "priceLabel": "\u00a3675,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2012-09-07",
+                "newBuild": false,
+                "price": 500000,
+                "priceLabel": "\u00a3500,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3.7",
+                    "priceChangeDate": "2022-02-02T16:31:50",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3650,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 41
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/591c438e1cf6e7bb1d83a904174d997c4ba28e8b.jpg"
+                },
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/a90c2760bc6c79ceb457cde657f777261fa0bd45.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "EweMove Sales & Lettings",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60326235,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "F1F5F8F8-8445-11EC-AE24-65E80D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW18",
+            "areaNameUri": "london/sw18/wandsworth-earlsfield",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2440.1807909604536
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 545740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 548436,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -2696
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 548784,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 571676,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -25936
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 553935,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -8195
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 381867,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 163873
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 348838,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 196902
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 212532,
+                    "pctChangeSince": 156.78,
+                    "date": "2002-02-26",
+                    "changeSince": 333208
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 554541,
+                    "newBuilds": 19,
+                    "numSales": 470
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 543782,
+                    "newBuilds": 55,
+                    "numSales": 1296
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 547279,
+                    "newBuilds": 111,
+                    "numSales": 2421
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 550771,
+                    "newBuilds": 488,
+                    "numSales": 4197
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-16T00:00:00Z",
+                    "price": 585000,
+                    "propertyId": 29598185,
+                    "streetAddress": "Flat 17, Spinnaker House, Juniper Drive",
+                    "uri": "flat-17/spinnaker-house/juniper-drive/london/sw18-1fr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-24T00:00:00Z",
+                    "price": 1740000,
+                    "propertyId": 29158733,
+                    "streetAddress": "25 Ascensis Tower, Juniper Drive",
+                    "uri": "25-ascensis-tower/juniper-drive/london/sw18-1ay"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-02T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 31187302,
+                    "streetAddress": "24 Jasmine House, Juniper Drive",
+                    "uri": "24-jasmine-house/juniper-drive/london/sw18-1gj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 695000,
+                    "propertyId": 31127724,
+                    "streetAddress": "63 Jasmine House, Juniper Drive",
+                    "uri": "63-jasmine-house/juniper-drive/london/sw18-1gl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 470000,
+                    "propertyId": 32571781,
+                    "streetAddress": "23, Trafalgar House, Juniper Drive",
+                    "uri": "23/trafalgar-house/juniper-drive/london/sw18-1gy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 23379218,
+                    "streetAddress": "13 Heathfield Square",
+                    "uri": "13-heathfield-square/london/sw18-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 23377537,
+                    "streetAddress": "6 Wells Place",
+                    "uri": "6-wells-place/london/sw18-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 696000,
+                    "propertyId": 23384628,
+                    "streetAddress": "16a Duntshill Road",
+                    "uri": "16a-duntshill-road/london/sw18-4ql"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 1325500,
+                    "propertyId": 23388776,
+                    "streetAddress": "94 Elsenham Street",
+                    "uri": "94-elsenham-street/london/sw18-5nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 511000,
+                    "propertyId": 23383425,
+                    "streetAddress": "31 Steerforth Street",
+                    "uri": "31-steerforth-street/london/sw18-4hf"
+                }
+            ]
+        }
+    }
+}

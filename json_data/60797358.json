@@ -1,0 +1,565 @@
+{
+    "address": "New Cross Road, London SE14",
+    "price": "\u00a3575,000",
+    "beds": "3 beds",
+    "area": "1,000 sq. ft",
+    "sqm": 83.6,
+    "sqft": 900.0,
+    "text": "Approximate Gross Internal Area = 83.6 sq m/ 900 sq ft _\nSh\ni. \\\nrE 4\nA =\" \u2014 \\ y, [- 00\n\u201cTO : NN \u2014\nAe 7 WY >? i = , \u2014\n5 @ | oir Bedroom iw WA NY SS dL\nBedroom - \\ \\ 3.63 x 3.34 C'bd ~< x <\n4.43 x 3.69 S\u00a2 \\ & \\ 11'11 x 10'11 a | A : ; i\n14'6 x 1211 ;\n/ Living / Dining Room /\n/ / . Kitchen\n\\ L LY 8.26 x 5.16 a\nA 2 gOS 27'1 x 16'11 f\nGround Floor\nWhilst every attempt has been made to ensure the accuracy of the floor plan contained here, measurements of doors, windows, rooms and any other items are approximate and\nno responsibility is taken for any error, omission, or mis-statement.This plan is for illustrative purposes only and should be used as such by any prospective purchase.\n",
+    "image": "./extracted_images/60797358.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60797358/",
+    "listing_no": "60797358",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.475711,
+        "longitude": -0.034257
+    },
+    "first_published": "2022-02-18T17:41:54",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60797358",
+        "publishedOn": "2022-02-18T17:41:54",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 16930,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "branchName": "Strike",
+            "brandName": "Strike",
+            "chainFree": false,
+            "companyId": 6808,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "New Cross Road, London SE14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6AG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60797358,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 17,
+            "numRecepts": 1,
+            "outcode": "SE14",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "1000",
+            "tenure": "leasehold",
+            "zindex": 363087
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/strike-middleborough-16930/",
+            "branchId": "16930",
+            "branchResultsUri": "/for-sale/branch/strike-middleborough-16930/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "phone": "0113 482 9379",
+            "name": "Strike",
+            "memberType": "agent",
+            "address": "The Octagon, Middleborough",
+            "postcode": "CO1 1TG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "New Cross",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "New Cross",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Childeric Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Deptford Green School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "This stunning 3 bedroom flat is set in a Victorian conversion, minutes from Fordham Park and New Cross Station. It offers a beautifully skylit open plan kitchen/living room.<br><br>New Cross Road is ideally located near an array of attractions, shops, bars and restaurants in the area. Deptford Market Yard is a short distance away, while New Cross and New Cross Gate stations offer reliable transport into the city.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Garden",
+                "Double-glazed-windows",
+                "Period-features-character"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "0db6d742f97cd533e2a884a81f0cf927297279ad.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "843fe878acff2bfc2f0e23a68fc1deaf37da2e59.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ab044060bb831282ae581a0c21d2953023087d91.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "df3e085e8e6260f0ce2d47d56c98f4ef64b8aada.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d834476a2bcc607a7f5c778b30435b2d4e38401b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6395524f8d6a6b9207cde0b2c211620cc5fd59cd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9568f89ac64478700c15a83a04dc18bc2d64e3c7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c8db64200608b8b4ec1e1c4651f719feb981926b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6610645f168da62222ebc0570d72a06bcbfece3b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "97d1adedb5e5136373c5f99f96e682ddee627728.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6aac496d5a010aefc54aa3bbbea6dcdde84268cb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9af13bf4436831a4e55157c0bc1b9090b7b161bf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3db94936e5bb05ed114a83f19db2eebe3d259cf5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d761d8494d63a83c297f2fd4b89657167c78778d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c12a64bed87ff8c6c436e37d58bc392f8e69cb0c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3b002068d231743462058122ac03857d54c910d0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "06c64f6f112aae9f52393e0adc8316eeccdb5c9f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "918dc9bff6f4c1f1211d1d255e61ed81badd36b0.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 16930,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(725875).png",
+            "branchName": "Strike",
+            "brandName": "Strike",
+            "chainFree": false,
+            "companyId": 6808,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "New Cross Road, London SE14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6AG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60797358,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 17,
+            "numRecepts": 1,
+            "outcode": "SE14",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "1000",
+            "tenure": "leasehold",
+            "zindex": 363087
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in New Cross Road, London SE14 - Zoopla",
+        "metaDescription": "3 bed flat for sale in New Cross Road, London SE14, selling for \u00a3575,000 from Strike. See property details on Zoopla or browse all our range of properties in New Cross Road, London SE14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60797358/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.475711,
+                "longitude": -0.034257
+            }
+        },
+        "displayAddress": "New Cross Road, London SE14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-18T17:41:54",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 154
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/0db6d742f97cd533e2a884a81f0cf927297279ad.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 1000
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 575,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Strike",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60797358,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "160CA4BE-90E2-11EC-BE40-5AC10D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE14",
+            "areaNameUri": "london/se14/new-cross-new-cross-gate",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2213.25
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 322886,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 325109,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2223
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 326494,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -3608
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 341647,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -18761
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 310712,
+                    "pctChangeSince": 3.918,
+                    "date": "2017-02-26",
+                    "changeSince": 12174
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 203120,
+                    "pctChangeSince": 58.963,
+                    "date": "2012-02-26",
+                    "changeSince": 119766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 196277,
+                    "pctChangeSince": 64.505,
+                    "date": "2007-02-26",
+                    "changeSince": 126609
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 116463,
+                    "pctChangeSince": 177.243,
+                    "date": "2002-02-26",
+                    "changeSince": 206423
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 387443,
+                    "newBuilds": 0,
+                    "numSales": 77
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 391260,
+                    "newBuilds": 66,
+                    "numSales": 309
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 369634,
+                    "newBuilds": 105,
+                    "numSales": 564
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 354257,
+                    "newBuilds": 114,
+                    "numSales": 875
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 440000,
+                    "propertyId": 31200990,
+                    "streetAddress": "Flat A, 109 New Cross Road",
+                    "uri": "flat-a/109-new-cross-road/london/se14-5dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-02T00:00:00Z",
+                    "price": 232000,
+                    "propertyId": 21052243,
+                    "streetAddress": "Flat 10, Crossleigh Court 407b, New Cross Road",
+                    "uri": "flat-10/crossleigh-court-407b/new-cross-road/london/se14-6la"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 527000,
+                    "propertyId": 21049983,
+                    "streetAddress": "237 New Cross Road",
+                    "uri": "237-new-cross-road/london/se14-5uh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 230000,
+                    "propertyId": 21050443,
+                    "streetAddress": "372 New Cross Road",
+                    "uri": "372-new-cross-road/london/se14-6ag"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-10T00:00:00Z",
+                    "price": 890000,
+                    "propertyId": 21049974,
+                    "streetAddress": "211 New Cross Road",
+                    "uri": "211-new-cross-road/london/se14-5uh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-24T00:00:00Z",
+                    "price": 1120000,
+                    "propertyId": 21053057,
+                    "streetAddress": "75a, 75 Lewisham Way",
+                    "uri": "75a/75-lewisham-way/london/se14-6qd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 335000,
+                    "propertyId": 27467230,
+                    "streetAddress": "Flat C, 125 Jerningham Road",
+                    "uri": "flat-c/125-jerningham-road/london/se14-5nj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 440000,
+                    "propertyId": 31200990,
+                    "streetAddress": "Flat A, 109 New Cross Road",
+                    "uri": "flat-a/109-new-cross-road/london/se14-5dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-01T00:00:00Z",
+                    "price": 935000,
+                    "propertyId": 21049214,
+                    "streetAddress": "21 Drakefell Road",
+                    "uri": "21-drakefell-road/london/se14-5sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 230000,
+                    "propertyId": 21048495,
+                    "streetAddress": "Flat 3, Carew Court, 3 Samuel Close",
+                    "uri": "flat-3/carew-court/3-samuel-close/london/se14-5rp"
+                }
+            ]
+        }
+    }
+}

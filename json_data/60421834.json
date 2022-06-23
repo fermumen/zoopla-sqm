@@ -1,0 +1,538 @@
+{
+    "address": "Edith Road, London W14",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 59.1,
+    "sqft": 636.0,
+    "text": "Ground Floor\ngpg\nBedroom\n3.37m x 3.05m Dini\n(11'1\" x 10\u2019) Roce\ni (oom\na ale 2.40m x 2.44m\nva (711\" x8)\n/\n__ ge]\n| |_Iool_|\n\u00e9-)| Kitchen |\n+ J] adam 195m\n| SH\nReception\nRoom\n4,94m x 3.84m\na (163\" x 127\")\nUtility y\n/ aS ON\nL eae p _|\ni\ney\nee Bedroom\n\\ 3.49m x 4.58m ts\n(11'5\" x 15') S\nRY hy,\nXY Ly,\nTotal area: approx. 59.1 sq. metres (636.0 sq. feet)\n",
+    "image": "./extracted_images/60421834.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60421834/",
+    "listing_no": "60421834",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.492986,
+        "longitude": -0.213602
+    },
+    "first_published": "2021-12-24T09:59:57",
+    "last_sale_date": "2002-09-20",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60421834",
+        "publishedOn": "2021-12-24T09:59:57",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/ec684b89a6f7fa077c0407df0b474ba4bb053e42.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10248,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - West Kensington",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Edith Road, London W14",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9BA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60421834,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 778725
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-west-kensington-london-10248/",
+            "branchId": "10248",
+            "branchResultsUri": "/for-sale/branch/dexters-west-kensington-london-10248/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7381 6381",
+            "name": "Dexters - West Kensington",
+            "memberType": "agent",
+            "address": "181 North End Road, London",
+            "postcode": "W14 9NL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Parayhouse School (SEN)",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kingsmere School (SEN)",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barons Court",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kensington Olympia",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "d0f4249cc133f16d35e7d19913e4d34b1abe4802.png",
+                    "url": null
+                },
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "1d007096579d6c7ce37731bcff584d6d1b87112f.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A lovely and bright two bedroom apartment situated on the raised ground floor and positioned in a fantastic location. The property has a spacious open plan living/kitchen area with space for dining and offered with no chain.<br><br>The property is within four hundred yards to both West Kensington and Barons Court tube stations. The numerous shops, bars and restaurants in Kensington are within a 15 minute walk.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Share Of Freehold",
+                "Ideal Investment",
+                "Building In Great Condition",
+                "Two Bedrooms",
+                "Close To Tube",
+                "Double Glazed Windows"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "c44e477daae104f455e949f0a3437e8da6c93b31.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "aad7fb461bbb5510f1b0347268651093c986fc85.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "697a6395c54af2862be0ae9856aeff006020247e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "255cd70bb2a6e1db566b5b11e0fb148b4a760281.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cb02eedfea7fbd3bd7d316ad6300bffec3034eaa.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "75a3f769c58f27c8dbb0a031e954b7ad9d0d1d59.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b285b79f5a840de8596a48274cf73989a920620a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d65fca46a312710eb6b76a7ead80e04a1e477c79.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10248,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - West Kensington",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Edith Road, London W14",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9BA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60421834,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 778725
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Edith Road, London W14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Edith Road, London W14, selling for \u00a3625,000 from Dexters - West Kensington. See property details on Zoopla or browse all our range of properties in Edith Road, London W14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60421834/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.492986,
+                "longitude": -0.213602
+            }
+        },
+        "displayAddress": "Edith Road, London W14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-24T09:59:57",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2002-09-20",
+                "newBuild": false,
+                "price": 250000,
+                "priceLabel": "\u00a3250,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 89
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/c44e477daae104f455e949f0a3437e8da6c93b31.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60421834,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "34FBE2E4-6D48-11EC-B13E-1B270E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W14",
+            "areaNameUri": "london/w14/west-kensington-holland-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3482.6566666666668
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 776035,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 788630,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -12595
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 811949,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -35914
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 855883,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -79848
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 849182,
+                    "pctChangeSince": -8.614,
+                    "date": "2017-02-26",
+                    "changeSince": -73147
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 565644,
+                    "pctChangeSince": 37.195,
+                    "date": "2012-02-26",
+                    "changeSince": 210391
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 504431,
+                    "pctChangeSince": 53.844,
+                    "date": "2007-02-26",
+                    "changeSince": 271604
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 298959,
+                    "pctChangeSince": 159.579,
+                    "date": "2002-02-26",
+                    "changeSince": 477076
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 727058,
+                    "newBuilds": 0,
+                    "numSales": 188
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 755004,
+                    "newBuilds": 0,
+                    "numSales": 520
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 777600,
+                    "newBuilds": 18,
+                    "numSales": 982
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 856570,
+                    "newBuilds": 225,
+                    "numSales": 1794
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 560000,
+                    "propertyId": 28173705,
+                    "streetAddress": "Flat 3, 79 Edith Road",
+                    "uri": "flat-3/79-edith-road/london/w14-0tj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 1625000,
+                    "propertyId": 25180743,
+                    "streetAddress": "9 Edith Road",
+                    "uri": "9-edith-road/london/w14-0su"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-23T00:00:00Z",
+                    "price": 750000,
+                    "propertyId": 25180927,
+                    "streetAddress": "103a Edith Road",
+                    "uri": "103a-edith-road/london/w14-0tj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-14T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 25185703,
+                    "streetAddress": "110 Edith Road",
+                    "uri": "110-edith-road/london/w14-9ap"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-14T00:00:00Z",
+                    "price": 1600000,
+                    "propertyId": 25185940,
+                    "streetAddress": "14 Edith Road",
+                    "uri": "14-edith-road/london/w14-9ba"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 567500,
+                    "propertyId": 27184805,
+                    "streetAddress": "Flat 3, 73 Sinclair Road",
+                    "uri": "flat-3/73-sinclair-road/london/w14-0nr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 27285623,
+                    "streetAddress": "Basement Flat, 1 Chesson Road",
+                    "uri": "basement-flat/1-chesson-road/london/w14-9qr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 804011,
+                    "propertyId": 32593125,
+                    "streetAddress": "Flat 11, Trinity House, 377 Kensington High Street",
+                    "uri": "flat-11/trinity-house/377-kensington-high-street/london/w14-8qa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 25178458,
+                    "streetAddress": "142 Blythe Road",
+                    "uri": "142-blythe-road/london/w14-0hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 2950000,
+                    "propertyId": 25178619,
+                    "streetAddress": "24 Sterndale Road",
+                    "uri": "24-sterndale-road/london/w14-0hs"
+                }
+            ]
+        }
+    }
+}

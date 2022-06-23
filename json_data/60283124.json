@@ -1,0 +1,554 @@
+{
+    "address": "Haverstock Hill, London NW3",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 68.7,
+    "sqft": 739.0,
+    "text": "Haverstock Hill\nApproximate Gross Internal Area = 68.7 sq m/ 739 sq ft\nVY\nN . at\nD4 / |\u201d Reception Room\n_ 5.08 x 4.42\n16'8 x 14'6\nBedroom 2 f\n3.46 x 2.42 {\n4x71 Jao\n\u00a9 Aw] %))\nSoh,\nP\u2014\u2014t = f Dn\nSU Ff )\n< , - | | Bedroom 1\nKitchen ae 3.17x3.17 =\nOo8-22x 2.17 Fe / 10'S x 10'S\n|OO] 10\u00b07 x 74 = = ~s\n/ Up [\n| l\n4s\nIN\nLower Ground Floor Ground Floor\nIllustration for identification purposes only,\nmeasurements are approximate, not to scale.\n",
+    "image": "./extracted_images/60283124.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60283124/",
+    "listing_no": "60283124",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.54648,
+        "longitude": -0.157492
+    },
+    "first_published": "2021-11-27T12:53:15",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60283124",
+        "publishedOn": "2021-11-27T12:53:15",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/b1edc1a32e06a33090c96b896e4c994b928287a5.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 30010,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(71760).png",
+            "branchName": "Salter Rex",
+            "brandName": "Salter Rex",
+            "chainFree": true,
+            "companyId": 3376,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Haverstock Hill, London NW3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2BD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60283124,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "NW3",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "from",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1017958
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/salter-rex-london-30010/",
+            "branchId": "30010",
+            "branchResultsUri": "/for-sale/branch/salter-rex-london-30010/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(71760).png",
+            "phone": "020 8022 0764",
+            "name": "Salter Rex",
+            "memberType": "agent",
+            "address": "47 South End Road, London",
+            "postcode": "NW3 2QB"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Village School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Haverstock School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Chalk Farm",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Belsize Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A spacious two bedroom split-level apartment extending to approximately 739 sq. Ft., set on the raised and lower ground floors of an attractive period building with commercial premises on the ground floor.<br><br>The property comprises a spacious reception leading onto a small courtyard, two bedrooms, kitchen, bathroom and separate WC.<br><br>Haverstock Hill is a pleasant residential area close to Primrose Hill and Chalk Farm and the shops, bars and restaurants of Belsize Park, Hampstead, and Camden Town, as well as the open green spaces of Primrose Hill and Hampstead Heath. Belsize Park Underground Station (Northern Line Zone 2) is only a short walk, providing excellent transport links to the City and West End.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedroom Split-level Apartment",
+                "Spacious Reception",
+                "Small Courtyard",
+                "Family Bathroom &amp; Separate WC",
+                "5 Minutes Walk From Chalk Farm Tube Station",
+                "No Onward Chain"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "763990095c50f0b06c01d0b49857026cb75119d2.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "a0bca3b14c90a8b24df7881caa504efbad9cdf80.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8e114a5122ef6027550e4f78b581e30e9a454580.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ba108311a07699553f8b9957b8c136dd77d6788c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b0137951b023add113d84a62c935d29d9f3575d3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0b3201b825948e83b837ef2d6bec5b1acfa73048.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6daccf4a1036a7de844eaf8c2612ea122aa8b4e1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3abeaa08bd591d1e6be5cdb2d5f440692799a86e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2d0b7d24ba6864b81df4592ee32c55b87f398936.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ded1b27a31deeb951761fc1c913b004718845f3b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0cda315848bb84b929aafef0d8b80d1424c78a45.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "229bdba875e6077543f546427890bd936e584c48.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d1a4b63adecfb2f74e0c55a9b06917b9d0f4627a.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 30010,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(71760).png",
+            "branchName": "Salter Rex",
+            "brandName": "Salter Rex",
+            "chainFree": true,
+            "companyId": 3376,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Haverstock Hill, London NW3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2BD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60283124,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "NW3",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "from",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1017958
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Haverstock Hill, London NW3 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Haverstock Hill, London NW3, selling for \u00a3575,000 from Salter Rex. See property details on Zoopla or browse all our range of properties in Haverstock Hill, London NW3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60283124/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.54648,
+                "longitude": -0.157492
+            }
+        },
+        "displayAddress": "Haverstock Hill, London NW3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-27T12:53:15",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.2",
+                    "priceChangeDate": "2022-01-21T18:35:18",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3575,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 62
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/763990095c50f0b06c01d0b49857026cb75119d2.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": "From",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Salter Rex",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60283124,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "324E3C2C-7AEA-11EC-9198-351F0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW3",
+            "areaNameUri": "london/nw3/hampstead-belsize-park-swiss-cottage",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3590.2343749999995
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 1009467,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 1026681,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -17214
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 1058566,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -49099
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1106121,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -96654
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1043627,
+                    "pctChangeSince": -3.273,
+                    "date": "2017-02-26",
+                    "changeSince": -34160
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 720580,
+                    "pctChangeSince": 40.091,
+                    "date": "2012-02-26",
+                    "changeSince": 288887
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 643135,
+                    "pctChangeSince": 56.96,
+                    "date": "2007-02-26",
+                    "changeSince": 366332
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 379798,
+                    "pctChangeSince": 165.79,
+                    "date": "2002-02-26",
+                    "changeSince": 629669
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 1063042,
+                    "newBuilds": 0,
+                    "numSales": 312
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1050118,
+                    "newBuilds": 12,
+                    "numSales": 752
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1030646,
+                    "newBuilds": 64,
+                    "numSales": 1363
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1027216,
+                    "newBuilds": 85,
+                    "numSales": 2182
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 480000,
+                    "propertyId": 17210162,
+                    "streetAddress": "Flat 1, Stanbury Court, 99 Haverstock Hill",
+                    "uri": "flat-1/stanbury-court/99-haverstock-hill/london/nw3-4rp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 17210197,
+                    "streetAddress": "Flat 36, Stanbury Court, 99 Haverstock Hill",
+                    "uri": "flat-36/stanbury-court/99-haverstock-hill/london/nw3-4rr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-10T00:00:00Z",
+                    "price": 650000,
+                    "propertyId": 27268302,
+                    "streetAddress": "Flat 2, 70 Haverstock Hill",
+                    "uri": "flat-2/70-haverstock-hill/london/nw3-2be"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-03T00:00:00Z",
+                    "price": 625000,
+                    "propertyId": 27247967,
+                    "streetAddress": "187b Haverstock Hill",
+                    "uri": "187b-haverstock-hill/london/nw3-4qg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-16T00:00:00Z",
+                    "price": 1400000,
+                    "propertyId": 27521395,
+                    "streetAddress": "Basement And Ground Floor Premis, 73 Haverstock Hill",
+                    "uri": "basement-and-ground-floor-premis/73-haverstock-hill/london/nw3-4sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 805000,
+                    "propertyId": 27184415,
+                    "streetAddress": "Flat 8, 13 South Hill Park Gardens",
+                    "uri": "flat-8/13-south-hill-park-gardens/london/nw3-2td"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 31526691,
+                    "streetAddress": "Flat 3, 13 Belsize Grove",
+                    "uri": "flat-3/13-belsize-grove/london/nw3-4ux"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 2500000,
+                    "propertyId": 17202532,
+                    "streetAddress": "4 Shirlock Road",
+                    "uri": "4-shirlock-road/london/nw3-2hs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 975000,
+                    "propertyId": 17208098,
+                    "streetAddress": "97 King Henrys Road",
+                    "uri": "97-king-henrys-road/london/nw3-3qx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1850000,
+                    "propertyId": 17216240,
+                    "streetAddress": "26 Bracknell Gardens",
+                    "uri": "26-bracknell-gardens/london/nw3-7ed"
+                }
+            ]
+        }
+    }
+}

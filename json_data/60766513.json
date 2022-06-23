@@ -1,0 +1,557 @@
+{
+    "address": "Drakefell Road, Brockley SE14",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": "713 sq. ft",
+    "sqm": 66.2,
+    "sqft": 713.0,
+    "text": "eestatatatatetatctctetctetetetetatsl\n[anaes SS 8\nKexesesererin x tcocsoocoeoaoe\neseces Tyger SS\nKeocannaneenet See\nRS een  TrrrcHen\nSSS 2.\neee cme\nIeacecatatatetere 1S)\nIeaeesestanat =\nRetetetetateteee =\noe fl\nSee gers\nSS Rio 9x86\"\nrT\nee V WL.\na ocorcon |_|\nSSS sam 3.2m\nRECEPTION\nronson be) Es\n155 Ko 10\" seo\n7\nQW\nBASEMENT GROUND FLOOR\nApproximate. internal area: Approximate. internal area\n11.70 sqm / 126 sq ft 54,50 sqm / 587 sq ft x\nTOTAL APPROX FLOOR AREA f\nApproximate. internal area : 66.20 sqm / 713 sq ft\nMeasurements for guidance only / Not to scale\n",
+    "image": "./extracted_images/60766513.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60766513/",
+    "listing_no": "60766513",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.467037,
+        "longitude": -0.047992
+    },
+    "first_published": "2022-02-15T14:42:05",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60766513",
+        "publishedOn": "2022-02-15T14:42:05",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Drakefell Road, Brockley, Se14",
+                "original": "https://lc.zoocdn.com/b992afe8a270ca1f272cb7ce65b56784c50b23c1.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Key Facts For Buyers",
+                "original": "https://sprift.com/dashboard/property-report/?access_key=49b1837f591d3cdc4307e2655eb9a174ff2c00022c29ed2fa44fb0a2daee41e1",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 17034,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(731395).png",
+            "branchName": "Wooster & Stock",
+            "brandName": "Wooster & Stock",
+            "chainFree": true,
+            "companyId": 8488,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Drakefell Road, Brockley SE14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5SL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60766513,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SE14",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "713",
+            "tenure": null,
+            "zindex": 674657
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/wooster-and-stock-london-17034/",
+            "branchId": "17034",
+            "branchResultsUri": "/for-sale/branch/wooster-and-stock-london-17034/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(731395).png",
+            "phone": "020 8115 9775",
+            "name": "Wooster & Stock",
+            "memberType": "agent",
+            "address": "17a Nunhead Green, London",
+            "postcode": "SE15 3QQ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hollydale Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Haberdashers' Aske's Hatcham Temple Grove Free School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Nunhead",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brockley",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "7bc4f8472e9a33cc628812a30474ace3ae3dabaa.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Handsome Two Bedroom Period Garden Flat with Storage Cellar - chain free.<br><br>Guide price \u00a3550,000 - \u00a3575,000<br><br>Sitting pretty on the ground floor of a substantial and attractive semi-detached period building, this fab two bedder offers a bright and well presented living environment. The property enjoys high ceilings, neutral decor and a wonderful, private, well-planted rear garden that gets plenty of sun. Accommodation comprises reception, two double bedrooms, separate kitchen, bathroom and a huge storage cellar with space and plumbing for the washing machine. This area leaves you close to so many amenities. You're within a pleasant stroll of Nunhead Station for swift services to Elephant and Castle and Blackfriars. Telegraph Hill Park is well known for its beautifully manicured green spaces and unparalleled views. Transport is a cinch - you're in between Nunhead and Brockley Stations for numerous swift services to Central London and beyond. Nunhead, New Cross, Brockley, East Dulwich and Peckham are all easily reached.<br><br>A shared entrance leads inward to a well presented communal hallway. Enter the flat directly into a bright and airy front-facing reception which enjoys a wide bay of newly fitted double glazed sash windows. There's plenty of space for dining and lounging. The first bedroom comes next and has new double glazed French doors opening to the garden - a real treat on a sunny day. Your second bedroom is further along the hall with another lovely bay window. The cellar is accessed off the hall. It will house all your beloved tatt and has plumbing for the washing machine. A fully tiled bathroom with modern white suite precedes your neat kitchen which boasts a four ring gas hob, oven and further access to the garden. Outside you'll enjoy a well stocked, leafy patio area - perfect for hosting bbq's and soaking in the summer sun. As the building is semi-detached you also benefit from side access - great for bikes, bins and mucky dogs.<br><br>Local transport links include Nunhead and Brockley stations (National Rail and London Overground) with superb connections to Canary Wharf, London Bridge and The City. Nunhead station enjoys the Bedford line which will whizz you to City Thameslink, Farringdon and beyond. The Hill Station cafe at the top of Telegraph Hill Park is a fantastic spot for breakfast, community events and cabaret. There is a real sense of rejuvenation happening in nearby Nunhead Village. The list of social attractions is ever increasing. We love Four Hundred Rabbits for pizza, The Old Nun's Head for a pint or pop-up kitchen experience and the modern European sharing boards at Babette's! Peckham Rye and East Dulwich are long established restaurant hubs, and now Queen's Road Peckham and Brockley are fast catching up with new spots such as the high-end South African, Kudu and the Orchard Bar and Kitchen.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Private Rear Garden",
+                "Storage Cellar",
+                "Separate Kitchen",
+                "Close to all Amenities",
+                "Potential to Extend",
+                "Share of Freehold",
+                "Virtual Tour Available on Request"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "01fd135587e092d7b6f7339fb948d70b5fd44b5e.jpg",
+                    "caption": "Drakefell Road"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "b4a06fa10d6cc212a23d0a9d5cf374e8f20b5a0d.jpg",
+                "caption": "3Y6A3029.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a7b50c42d90cc224742d0e7235309a7faa141ef7.jpg",
+                "caption": "3Y6A3085.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c0364812890ee2ac54d4ea134f228545d0085657.jpg",
+                "caption": "3Y6A3033.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4cf2ce68f5f0951b3a01895ac4b7a30c57519a84.jpg",
+                "caption": "3Y6A3090.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b11781686878ef6e18b40efb3ffc74510239b317.jpg",
+                "caption": "3Y6A3058.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "aa3aeb8f6a5878a3f47006bcdd7d1d85887d3711.jpg",
+                "caption": "3Y6A3075.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "151df859f3f0177d74689f3e1f9eebd4760d6b46.jpg",
+                "caption": "3Y6A3081.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1dbd1d1860243e4c916ded21a28c98ca59840203.jpg",
+                "caption": "3Y6A3072.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ec50d27cf05365b0c839bbbc8f717788a9398907.jpg",
+                "caption": "3Y6A3037.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d73d7cbc7ed0ea29ebf6b8aaee97bd866c9f72b7.jpg",
+                "caption": "3Y6A3046.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cb2ac33b2e675ad3f0a4658daaa5437b13eb5034.jpg",
+                "caption": "3Y6A3041.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 17034,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(731395).png",
+            "branchName": "Wooster & Stock",
+            "brandName": "Wooster & Stock",
+            "chainFree": true,
+            "companyId": 8488,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Drakefell Road, Brockley SE14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5SL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60766513,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SE14",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "713",
+            "tenure": null,
+            "zindex": 674657
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Drakefell Road, Brockley SE14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Drakefell Road, Brockley SE14, selling for \u00a3575,000 from Wooster & Stock. See property details on Zoopla or browse all our range of properties in Drakefell Road, Brockley SE14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60766513/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.467037,
+                "longitude": -0.047992
+            }
+        },
+        "displayAddress": "Drakefell Road, Brockley SE14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-15T14:42:05",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 151
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/01fd135587e092d7b6f7339fb948d70b5fd44b5e.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 713
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 806,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Wooster & Stock",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60766513,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "B8B81760-964C-11EC-AC73-91CD0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE14",
+            "areaNameUri": "london/se14/new-cross-new-cross-gate",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1796.1666666666665
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 322886,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 325109,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2223
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 326494,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -3608
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 341647,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -18761
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 310712,
+                    "pctChangeSince": 3.918,
+                    "date": "2017-02-26",
+                    "changeSince": 12174
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 203120,
+                    "pctChangeSince": 58.963,
+                    "date": "2012-02-26",
+                    "changeSince": 119766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 196277,
+                    "pctChangeSince": 64.505,
+                    "date": "2007-02-26",
+                    "changeSince": 126609
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 116463,
+                    "pctChangeSince": 177.243,
+                    "date": "2002-02-26",
+                    "changeSince": 206423
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 387443,
+                    "newBuilds": 0,
+                    "numSales": 77
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 391260,
+                    "newBuilds": 66,
+                    "numSales": 309
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 369634,
+                    "newBuilds": 105,
+                    "numSales": 564
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 354257,
+                    "newBuilds": 114,
+                    "numSales": 875
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-01T00:00:00Z",
+                    "price": 935000,
+                    "propertyId": 21049214,
+                    "streetAddress": "21 Drakefell Road",
+                    "uri": "21-drakefell-road/london/se14-5sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 835818,
+                    "propertyId": 21049177,
+                    "streetAddress": "52 Drakefell Road",
+                    "uri": "52-drakefell-road/london/se14-5sj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-16T00:00:00Z",
+                    "price": 950000,
+                    "propertyId": 21049267,
+                    "streetAddress": "98 Drakefell Road",
+                    "uri": "98-drakefell-road/london/se14-5sq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 930000,
+                    "propertyId": 21049212,
+                    "streetAddress": "17 Drakefell Road",
+                    "uri": "17-drakefell-road/london/se14-5sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-24T00:00:00Z",
+                    "price": 640000,
+                    "propertyId": 21049168,
+                    "streetAddress": "49a Drakefell Road",
+                    "uri": "49a-drakefell-road/london/se14-5sh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-24T00:00:00Z",
+                    "price": 1120000,
+                    "propertyId": 21053057,
+                    "streetAddress": "75a, 75 Lewisham Way",
+                    "uri": "75a/75-lewisham-way/london/se14-6qd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 335000,
+                    "propertyId": 27467230,
+                    "streetAddress": "Flat C, 125 Jerningham Road",
+                    "uri": "flat-c/125-jerningham-road/london/se14-5nj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 440000,
+                    "propertyId": 31200990,
+                    "streetAddress": "Flat A, 109 New Cross Road",
+                    "uri": "flat-a/109-new-cross-road/london/se14-5dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-01T00:00:00Z",
+                    "price": 935000,
+                    "propertyId": 21049214,
+                    "streetAddress": "21 Drakefell Road",
+                    "uri": "21-drakefell-road/london/se14-5sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 230000,
+                    "propertyId": 21048495,
+                    "streetAddress": "Flat 3, Carew Court, 3 Samuel Close",
+                    "uri": "flat-3/carew-court/3-samuel-close/london/se14-5rp"
+                }
+            ]
+        }
+    }
+}

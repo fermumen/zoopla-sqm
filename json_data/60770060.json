@@ -1,0 +1,536 @@
+{
+    "address": "Ridge Road, London N8",
+    "price": "\u00a3639,950",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 80.0,
+    "sqft": 2022.0,
+    "text": "Winkworth Ridge Road, N8& ROS : RE\n14/02/2022 78. 3,001,750 80.00 sqm / 861.11 sqft\nKITCHEN/ pane\nRECEPTION . GARDEN\n\u00aet asm 13.72m x 6.34m\n(227x113) + (45'0 x 20\u00b010)\nApprox\n(i || eg ee\nae Heke\nss\n= . BEDROOM 2\naos s 3.97m x 3.80m\n[| \\ (13\u00b00 x 12'6)\nBASEMENT\njoame 2am >\n(23'0 x 4'2) 3\n8.77 sqm / 94.40 sqft a\nIncluded in measurements.\nMAIN BEDROOM\n4.69m x 4.30m\n(15'S x 14\u00b0)\n( {\n= Lower Ground Floor = Ground Floor\n80.00 sqm / 861.11 saft E A 75.33 sqm / 810.85 sqft 0.00 sqm / 0.00 saft ; + 0,00 sqm / 0.00 sqft\nMspec\u2019 (kK RICS :\nVerified @ Ba Por\n",
+    "image": "./extracted_images/60770060.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60770060/",
+    "listing_no": "60770060",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.577383,
+        "longitude": -0.111254
+    },
+    "first_published": "2022-02-15T20:19:30",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60770060",
+        "publishedOn": "2022-02-15T20:19:30",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/CRO220026",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8145,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Crouch End",
+            "brandName": "Winkworth",
+            "chainFree": true,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Ridge Road, London N8",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9LH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60770060,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 639950,
+            "price": 639950,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1237491
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-crouch-end-crouch-end-8145/",
+            "branchId": "8145",
+            "branchResultsUri": "/for-sale/branch/winkworth-crouch-end-crouch-end-8145/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8115 4638",
+            "name": "Winkworth - Crouch End",
+            "memberType": "agent",
+            "address": "12 Broadway Parade, Tottenham Lane, Crouch End",
+            "postcode": "N8 9DE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Aidan's Voluntary Controlled Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Weston Park Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Harringay",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Crouch Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/620b94b1edd8c90a593dcf82?brochureEmbed"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "805c73029dcd10287bacfd0c3ebcfc8109438b92.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Set over 861 sq. Ft. / 80.0 sq. M. Of internal area the property comprises a large 15'5 x 14'1 main bedroom to the front, second 13'0 x 12'6 double bedroom with direct access out to the rear garden, three piece bathroom, 94 sq. Ft. Cellar and sizeable 22'7 x 11'3 kitchen / reception room to the rear with further access to the rear garden.<br><br>The property is offered for sale in fair decorative condition and is very well located for access to transport and local amenities. Ridge Road is a desirable tree-lined road offering easy access to both Crouch End and Stroud Green. Stationers Park is just 200 yards away.<br><br>Nearest Stations:<br>Harringay br Station 0.3 Miles<br>Crouch Hill Overground 0.7 Miles<br>Finsbury Park Underground Station 1.0 Mile",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Chain-Free",
+                "Ground Floor",
+                "Two Double Bedrooms",
+                "Private Rear Garden",
+                "Open Plan Kitchen / Reception Room",
+                "Three-Piece Bathroom",
+                "94 sq. Ft. Cellar",
+                "861 sq. Ft. / 80.0 sq. M. Internal Area",
+                "Tree-Lined Road",
+                "Well-Located for Transport"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "53f3588880d301c8b0d86630f553145b4a7b16be.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "6ce84ee59551e66921d66a35284c3410402f1d04.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c38d8c076319f61055cb63e95b2f3d3470877869.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f2a49e66cc4842fbe3ad6ce623e7f7f791e1dc95.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "05ebcb6b3404638035fa95934408dfd95f4a9569.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3fd849cbc51d889171df74977b5a442d9481bfc7.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bbea08cb8ec33a59f4861b2829d6f1d90ce8c64a.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e20af8d3c35131d9f743c88385ab21b3813a1e5d.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a101a08ca64fe8cf40f6a0ad13fde2440f8573cf.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "71735a34661b35289b36636d184745e30c5610ba.jpg",
+                "caption": "Picture No. 08"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8145,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Crouch End",
+            "brandName": "Winkworth",
+            "chainFree": true,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Ridge Road, London N8",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9LH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60770060,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 639950,
+            "price": 639950,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1237491
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Ridge Road, London N8 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Ridge Road, London N8, selling for \u00a3639,950 from Winkworth - Crouch End. See property details on Zoopla or browse all our range of properties in Ridge Road, London N8.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60770060/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.577383,
+                "longitude": -0.111254
+            }
+        },
+        "displayAddress": "Ridge Road, London N8",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-15T20:19:30",
+                "priceLabel": "\u00a3639,950"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 219
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/53f3588880d301c8b0d86630f553145b4a7b16be.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3639,950",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60770060,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "30F67F26-966D-11EC-8458-BF220E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N8",
+            "areaNameUri": "london/n8/hornsey-crouch-end",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1798.7047619047605
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 510150,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 518969,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8819
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 535223,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -25073
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 562194,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -52044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 520132,
+                    "pctChangeSince": -1.919,
+                    "date": "2017-02-26",
+                    "changeSince": -9982
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 340998,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 169152
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 319880,
+                    "pctChangeSince": 59.482,
+                    "date": "2007-02-26",
+                    "changeSince": 190270
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 192552,
+                    "pctChangeSince": 164.941,
+                    "date": "2002-02-26",
+                    "changeSince": 317598
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 525009,
+                    "newBuilds": 1,
+                    "numSales": 194
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 511616,
+                    "newBuilds": 59,
+                    "numSales": 570
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 500575,
+                    "newBuilds": 59,
+                    "numSales": 1181
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 496272,
+                    "newBuilds": 67,
+                    "numSales": 1729
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 995000,
+                    "propertyId": 15141382,
+                    "streetAddress": "51 Ridge Road",
+                    "uri": "51-ridge-road/london/n8-9lj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-20T00:00:00Z",
+                    "price": 1400000,
+                    "propertyId": 15141819,
+                    "streetAddress": "84 Ridge Road",
+                    "uri": "84-ridge-road/london/n8-9nr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 31750841,
+                    "streetAddress": "First Floor Flat, 16 Ridge Road",
+                    "uri": "first-floor-flat/16-ridge-road/london/n8-9lg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 27121150,
+                    "streetAddress": "65a Ridge Road",
+                    "uri": "65a-ridge-road/london/n8-9np"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 380000,
+                    "propertyId": 15132181,
+                    "streetAddress": "245 Wightman Road",
+                    "uri": "245-wightman-road/london/n8-0nb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 1090000,
+                    "propertyId": 15138632,
+                    "streetAddress": "107 Priory Road",
+                    "uri": "107-priory-road/london/n8-8ly"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 920000,
+                    "propertyId": 15142037,
+                    "streetAddress": "4 Harvey Road",
+                    "uri": "4-harvey-road/london/n8-9pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 496590,
+                    "propertyId": 15137282,
+                    "streetAddress": "Flat 6, 4 Crescent Road",
+                    "uri": "flat-6/4-crescent-road/london/n8-8at"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-23T00:00:00Z",
+                    "price": 780000,
+                    "propertyId": 15130784,
+                    "streetAddress": "54 Hewitt Road",
+                    "uri": "54-hewitt-road/london/n8-0bl"
+                }
+            ]
+        }
+    }
+}

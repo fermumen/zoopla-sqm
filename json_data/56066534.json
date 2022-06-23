@@ -1,0 +1,512 @@
+{
+    "address": "Lett Road, London SW9",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "| or eG\n",
+    "image": "./extracted_images/56066534.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/56066534/",
+    "listing_no": "56066534",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.476216,
+        "longitude": -0.117323
+    },
+    "first_published": "2022-01-06T22:43:25",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "56066534",
+        "publishedOn": "2022-01-06T22:43:25",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "http://www.ludlowthompson.com/particulars/details/print_particulars.pdf?id=1932370",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 31878,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(302206).png",
+            "branchName": "Ludlow Thompson - Kennington / Oval",
+            "brandName": "Ludlow Thompson",
+            "chainFree": false,
+            "companyId": 14699,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lett Road, London SW9",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0AF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 56066534,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW9",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 720889
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/ludlow-thompson-kennington-oval-london-31878/",
+            "branchId": "31878",
+            "branchResultsUri": "/for-sale/branch/ludlow-thompson-kennington-oval-london-31878/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(302206).png",
+            "phone": "020 3542 2198",
+            "name": "Ludlow Thompson - Kennington / Oval",
+            "memberType": "agent",
+            "address": "12 Clapham Road, London",
+            "postcode": "SW9 0JG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Van Gogh Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Reay Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stockwell",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Oval",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/BNOmQRDYkqg?rel=0"
+                }
+            ],
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/s/f7nw"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "87d4a67357ad57ae760177ca575ff18a2d07de1a.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Split level apartment with an Allocated Underground Parking Space, direct access onto the courtyard and an extremely long lease. The is spacious apartment measures nearly 800 sq feet and is in high decorative order throughout.<br><br>The ground floor comprises an entrance hall, WC, open plan living area with fully integrated kitchen and patio doors leading onto the communal courtyard and gardens.<br>The first floor comprises of a family bathroom, huge master bedroom and second bedroom. The flat also benefits from oak veneer flooring, fitted wardrobes in both bedrooms, video entryphone, and deluxe fittings throughout.<br><br>On site is also a popular coffee shop, Tesco and The Gym.<br>The location is a commuters dream - only 8 minutes walk to Stockwell Underground Station (Victoria &amp; Northern Line) and 10 minutes walk to Oval Underground Station (Northern Line) . The area is also well served with frequent bus services into Central London and beyond. There is lots to do in the area itself including the famous Oval test cricket ground, St Marks Farmers Market on Saturdays, and Brixton for shopping and entertainment.<br><br><strong>Approx 793 sq ft / 74 sq m</strong>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Duplex Apartment",
+                "Direct Access to Garden",
+                "8 Mins to Tube",
+                "On site Gym, Shop and Coffee Studio",
+                "986 Year Lease",
+                "Underground Parking Space"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "c4f5a4dab017e2bc3fd4923be3bf0179763e9fcb.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "2216f60a6b613bccd5d60750898c78aa68fbbdd8.jpg",
+                "caption": "Exclusive To Ludl..."
+            },
+            {
+                "__typename": "Media",
+                "filename": "42014776e8157e3c2c4ea9fe5ef9ccc0c9b7e4a8.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3cd8861a8f35bb384bfc3177800803a02f5a3531.jpg",
+                "caption": "Bedroom One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "414468687fcdf555018bee1e1fffe22ec2a59144.jpg",
+                "caption": "Bedroom One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "658b2b3dbc38c5f84ef67e1f2b9c3b7cc4a7e362.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "390029f1cd6847f4f2c2adce85a255c49a226adb.jpg",
+                "caption": "Kitchen/Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7fd903673f6e2d5f88b10624979341ae4f0e379b.jpg",
+                "caption": "Bedroom Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9fe23ac8d9c5edb2820663bbbbaea8a0c486ff79.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c2cd145f47309ad951370e9825ab4da6402b9f0f.jpg",
+                "caption": "Communal Garden"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 31878,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(302206).png",
+            "branchName": "Ludlow Thompson - Kennington / Oval",
+            "brandName": "Ludlow Thompson",
+            "chainFree": false,
+            "companyId": 14699,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lett Road, London SW9",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0AF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 56066534,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW9",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 720889
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Lett Road, London SW9 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Lett Road, London SW9, selling for \u00a3600,000 from Ludlow Thompson - Kennington / Oval. See property details on Zoopla or browse all our range of properties in Lett Road, London SW9.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/56066534/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.476216,
+                "longitude": -0.117323
+            }
+        },
+        "displayAddress": "Lett Road, London SW9",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-06T22:43:25",
+                "priceLabel": "\u00a3620,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3.2",
+                    "priceChangeDate": "2022-02-22T22:02:40",
+                    "priceChangeLabel": "\u00a320,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 122
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/c4f5a4dab017e2bc3fd4923be3bf0179763e9fcb.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Ludlow Thompson",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 56066534,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "417BA28E-9755-11EC-8204-D7F70D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW9",
+            "areaNameUri": "london/sw9/stockwell-brixton-north",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2148.840909090911
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 478668,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 481031,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2363
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 481337,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2669
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 501414,
+                    "pctChangeSince": -4.536,
+                    "date": "2021-02-26",
+                    "changeSince": -22746
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 485851,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -7183
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 334931,
+                    "pctChangeSince": 42.915,
+                    "date": "2012-02-26",
+                    "changeSince": 143737
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 305962,
+                    "pctChangeSince": 56.447,
+                    "date": "2007-02-26",
+                    "changeSince": 172706
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 186410,
+                    "pctChangeSince": 156.782,
+                    "date": "2002-02-26",
+                    "changeSince": 292258
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 476500,
+                    "newBuilds": 1,
+                    "numSales": 216
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 465414,
+                    "newBuilds": 26,
+                    "numSales": 559
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 458735,
+                    "newBuilds": 74,
+                    "numSales": 1085
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 464302,
+                    "newBuilds": 167,
+                    "numSales": 1840
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 23217134,
+                    "streetAddress": "27 Patmos Road",
+                    "uri": "27-patmos-road/london/sw9-6sq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 27220411,
+                    "streetAddress": "A, 128 Landor Road",
+                    "uri": "a/128-landor-road/london/sw9-9jb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 452500,
+                    "propertyId": 23212677,
+                    "streetAddress": "Flat B, 38 Crewdson Road",
+                    "uri": "flat-b/38-crewdson-road/london/sw9-0lj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 599750,
+                    "propertyId": 27163030,
+                    "streetAddress": "Flat C, 384 Clapham Road",
+                    "uri": "flat-c/384-clapham-road/london/sw9-9ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-23T00:00:00Z",
+                    "price": 640000,
+                    "propertyId": 23213466,
+                    "streetAddress": "44a Hackford Road",
+                    "uri": "44a-hackford-road/london/sw9-0rf"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,453 @@
+{
+    "address": "Kentish Town Road, Kentish Town NW5",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60527545/",
+    "listing_no": "60527545",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.548585,
+        "longitude": -0.141159
+    },
+    "first_published": "2022-01-14T09:58:36",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60527545",
+        "publishedOn": "2022-01-14T09:58:36",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 22522,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(465909).png",
+            "branchName": "Robert Lehrer Properties",
+            "brandName": "Robert Lehrer Properties",
+            "chainFree": false,
+            "companyId": 11502,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Kentish Town Road, Kentish Town NW5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": false,
+            "incode": "2JT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60527545,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "NW5",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 676927
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/robert-lehrer-properties-london-22522/",
+            "branchId": "22522",
+            "branchResultsUri": "/for-sale/branch/robert-lehrer-properties-london-22522/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(465909).png",
+            "phone": "020 3328 6545",
+            "name": "Robert Lehrer Properties",
+            "memberType": "agent",
+            "address": "365 Archway Road, Highgate, London",
+            "postcode": "N6 4EJ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Patrick's Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kentish Town Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kentish Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kentish Town",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "c71967c8bcdd348d387f1bf6106fa80978eb4c65.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Detailed Description</strong><br><br>This recently refurbished to a high standard throughout, this light-filled 2 double bedroom flat offers neutral d\u00e9cor, sleek &amp; smart interior. The property comprises a large reception room with a sociable open-plan kitchen, 2 double bedrooms and a fully tiled bathroom. The property is seconds away from Kentish Town Tube Station and to all the amenities Kentish Town has to offer.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "fdc621a22815189cebd6a427b40cac1a87efa29f.jpg",
+                "caption": "Photo 3"
+            },
+            {
+                "__typename": "Media",
+                "filename": "40d900d698355660c57709aa40840eaaba1893d7.jpg",
+                "caption": "Photo 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "751db3ccb9f4f3ecce234c0ff0865625d665cf7a.jpg",
+                "caption": "Photo 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b9abbcc2a6db8537677cf732916408f49a690687.jpg",
+                "caption": "Photo 4"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c8e2690cce36ef65ee5e72ca8cb338ccac3586ef.jpg",
+                "caption": "Photo 5"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 22522,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(465909).png",
+            "branchName": "Robert Lehrer Properties",
+            "brandName": "Robert Lehrer Properties",
+            "chainFree": false,
+            "companyId": 11502,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Kentish Town Road, Kentish Town NW5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": false,
+            "incode": "2JT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60527545,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 5,
+            "numRecepts": 1,
+            "outcode": "NW5",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 676927
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Kentish Town Road, Kentish Town NW5 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Kentish Town Road, Kentish Town NW5, selling for \u00a3550,000 from Robert Lehrer Properties. See property details on Zoopla or browse all our range of properties in Kentish Town Road, Kentish Town NW5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60527545/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.548585,
+                "longitude": -0.141159
+            }
+        },
+        "displayAddress": "Kentish Town Road, Kentish Town NW5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-14T09:58:36",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 99
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Robert Lehrer Properties",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60527545,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "22DFAC52-85AE-11EC-9A25-40130E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW5",
+            "areaNameUri": "london/nw5/kentish-town",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2695.333333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 617465,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 627994,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10529
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 647496,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -30031
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 676584,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -59119
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 638351,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -20886
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 440754,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 176711
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 393383,
+                    "pctChangeSince": 56.963,
+                    "date": "2007-02-26",
+                    "changeSince": 224082
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 232309,
+                    "pctChangeSince": 165.795,
+                    "date": "2002-02-26",
+                    "changeSince": 385156
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 654154,
+                    "newBuilds": 0,
+                    "numSales": 106
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 621456,
+                    "newBuilds": 3,
+                    "numSales": 300
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 619111,
+                    "newBuilds": 28,
+                    "numSales": 567
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 614410,
+                    "newBuilds": 49,
+                    "numSales": 901
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 830000,
+                    "propertyId": 17232753,
+                    "streetAddress": "Flat 3, 230 Kentish Town Road",
+                    "uri": "flat-3/230-kentish-town-road/london/nw5-2ab"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 747500,
+                    "propertyId": 17233531,
+                    "streetAddress": "31a Gaisford Street",
+                    "uri": "31a-gaisford-street/london/nw5-2eb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 1025000,
+                    "propertyId": 27354983,
+                    "streetAddress": "First And Second Floor Flat, 8 Burghley Road",
+                    "uri": "first-and-second-floor-flat/8-burghley-road/london/nw5-1ue"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-10T00:00:00Z",
+                    "price": 1150000,
+                    "propertyId": 17240579,
+                    "streetAddress": "50 Coity Road",
+                    "uri": "50-coity-road/london/nw5-4ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 27471767,
+                    "streetAddress": "90b Caversham Road",
+                    "uri": "90b-caversham-road/london/nw5-2dn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-01T00:00:00Z",
+                    "price": 1330000,
+                    "propertyId": 17235128,
+                    "streetAddress": "177 Leighton Road",
+                    "uri": "177-leighton-road/london/nw5-2rd"
+                }
+            ]
+        }
+    }
+}

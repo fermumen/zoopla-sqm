@@ -1,0 +1,472 @@
+{
+    "address": "Singer Mews, London SW4",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 61.3,
+    "sqft": 660.0,
+    "text": "Fourth Floor\nBalcony\n1.33m x 2.86m\n(4'4\" x 9'5\")\nBedroom Bedroom\n4.41m x 2.79m 3.56m x 2.36m\n(14'6\" x 9'2\") (11'8\" x 7'9\")\nReception\n6.15m x 4.86m\nr : (20'2\" x 15'11\")\n| s3) IGE\n{Ly o_o \\\nTotal area: approx. 61.3 sq. metres (660.2 sq. feet)\n",
+    "image": "./extracted_images/60477248.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60477248/",
+    "listing_no": "60477248",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.469037,
+        "longitude": -0.127183
+    },
+    "first_published": "2022-01-08T12:11:09",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60477248",
+        "publishedOn": "2022-01-08T12:11:09",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 60632,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "branchName": "Jacksons Estate Agents - Clapham",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": false,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Singer Mews, London SW4",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6AX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60477248,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW4",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 453794
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jacksons-estate-agents-clapham-clapham-60632/",
+            "branchId": "60632",
+            "branchResultsUri": "/for-sale/branch/jacksons-estate-agents-clapham-clapham-60632/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "phone": "020 8875 7995",
+            "name": "Jacksons Estate Agents - Clapham",
+            "memberType": "agent",
+            "address": "73 Abbeville Road, Clapham",
+            "postcode": "SW4 9JN"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lark Hall Primary School (Including Lark Hall Centre for Pupils with Autism)",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Andrew's Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stockwell",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham North",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "27b9be88c0323ede4dd92c63c4815183a70085a0.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "** Guide Price \u00a3550,000-\u00a3600,000 ** A tremendously light and spacious purpose built two double bedroom apartment in a high quality, securely gated modern development, with its own south facing balcony.<br><br>Singer Mews is a very well located property close to numerous transport facilities, shops, bars and restaurants, however due to its secluded position its one of the quietest spots you could find, despite its super convenient spot. Victorian Line tube trains can be found at Stockwell plus the Northern Line which is even closer by at Clapham North. Clapham High Street Overground trains are also close at hand.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedrooms",
+                "Large Open Plan Living Space",
+                "Modern Fitted Kitchen",
+                "Luxury Bathroom",
+                "South Facing Balcony",
+                "Valid EWS1 Certificate"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "5dfd3dfcde6c556dae2442d76deb36a7f56b966b.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "87db426f2b243fcbe15a9f7cacb2cca0d6ab5a9c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b1aef50ad968e16769f8d84bb243f7f1fa268442.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ad6a7cd105bbb2d9c2612aa3057c6dae4466db46.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f67e3ff29a4782c113129cbd21af78effad3011a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "84a48c8a54c40cff4697261b8d7ddd399fd0177c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fd7634661d47d03c1e90ddb837e2c488755d79e1.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 60632,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "branchName": "Jacksons Estate Agents - Clapham",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": false,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Singer Mews, London SW4",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6AX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60477248,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW4",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 453794
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Singer Mews, London SW4 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Singer Mews, London SW4, selling for \u00a3550,000 from Jacksons Estate Agents - Clapham. See property details on Zoopla or browse all our range of properties in Singer Mews, London SW4.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60477248/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.469037,
+                "longitude": -0.127183
+            }
+        },
+        "displayAddress": "Singer Mews, London SW4",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-08T12:11:09",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 130
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/5dfd3dfcde6c556dae2442d76deb36a7f56b966b.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Jacksons Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60477248,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "9B9544C4-7DD7-11EC-8BBC-BBE40D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW4",
+            "areaNameUri": "london/sw4/clapham",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2108.1666666666665
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 573300,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 576131,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2831
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 576497,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3197
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 600546,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -27246
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 581912,
+                    "pctChangeSince": -1.48,
+                    "date": "2017-02-26",
+                    "changeSince": -8612
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 401153,
+                    "pctChangeSince": 42.913,
+                    "date": "2012-02-26",
+                    "changeSince": 172147
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 366456,
+                    "pctChangeSince": 56.444,
+                    "date": "2007-02-26",
+                    "changeSince": 206844
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 223266,
+                    "pctChangeSince": 156.779,
+                    "date": "2002-02-26",
+                    "changeSince": 350034
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 587997,
+                    "newBuilds": 0,
+                    "numSales": 244
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 575053,
+                    "newBuilds": 6,
+                    "numSales": 647
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 575154,
+                    "newBuilds": 23,
+                    "numSales": 1209
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 567641,
+                    "newBuilds": 124,
+                    "numSales": 1986
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 23154437,
+                    "streetAddress": "35a Hambalt Road",
+                    "uri": "35a-hambalt-road/london/sw4-9ea"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 437000,
+                    "propertyId": 23145384,
+                    "streetAddress": "Flat 7, Grove Court, 99 Larkhall Rise",
+                    "uri": "flat-7/grove-court/99-larkhall-rise/london/sw4-6hr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1250000,
+                    "propertyId": 23155923,
+                    "streetAddress": "61 Briarwood Road",
+                    "uri": "61-briarwood-road/london/sw4-9pj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 535000,
+                    "propertyId": 23145482,
+                    "streetAddress": "1 Kelman Close",
+                    "uri": "1-kelman-close/london/sw4-6je"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 23148670,
+                    "streetAddress": "175 William Bonney Estate",
+                    "uri": "175-william-bonney-estate/london/sw4-7je"
+                }
+            ]
+        }
+    }
+}

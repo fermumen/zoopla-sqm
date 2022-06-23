@@ -1,0 +1,562 @@
+{
+    "address": "East Hill, London SW18",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 74.2,
+    "sqft": 798.0,
+    "text": "Bedroom 2\n4.66m x 3.23m\n(15\u00b03\"x:10' 7\")\nBathroom i\n) oe ei||\nlw) Ea Ei)\nPot yt Ty\nPot yt ft\n\u2014\u2014 FAA ES\nEa Bool , Kitchen\nrt : 3.58m x 2.90m\n=a (11\u00b0 9\" x 9'6\")\n(SE /\nBl ae == -\n= SS eS\n\u2014 a)\na rf{s6CU TCO\n| ||\n| @\n| Ensue\nbd oo\n=a =\nReception Room ||| Bedroom 1\n4.78m x 4.34m r | _\n(15' 8\" x 14\" 3\") To 4.57m x 3.71m\n7 (15' 0\" x 12' 2\")\nHy\nFirst Floor Second Floor Third Floor\nTotal floor area 74.2 sq.m. (798 sq.ft.) approx\nThis floor plan is for illustrative purposes only. It is not drawn to scale. Any measurements, floor areas (including any total floor area), openings and orientation are\napproximate. No details are guaranteed, they cannot be relied upon for any purpose and they do not form part of any agreement. No liability is taken for any error, omission\nor misstatement. A party must rely upon its own inspection(s). Plan produced for Purple Bricks. Powered by www.focalagent.com\n",
+    "image": "./extracted_images/60797768.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60797768/",
+    "listing_no": "60797768",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.457821,
+        "longitude": -0.184256
+    },
+    "first_published": "2022-02-18T18:47:52",
+    "last_sale_date": "2020-08-28",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60797768",
+        "publishedOn": "2022-02-18T18:47:52",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://www.purplebricks.co.uk/brochure/1308236",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": true,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "East Hill, London SW18",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2QE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60797768,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 476127
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/purplebricks-head-office-solihull-58933/",
+            "branchId": "58933",
+            "branchResultsUri": "/for-sale/branch/purplebricks-head-office-solihull-58933/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "phone": "024 7511 8874",
+            "name": "Purplebricks, Head Office",
+            "memberType": "agent",
+            "address": "Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull",
+            "postcode": "B90 4RZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Faith's CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Anne's CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Riverside Quarter Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=T3Vus4RDqty"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "caption": "epc",
+                    "original": "https://lc.zoocdn.com/878e14de2ddc76657d0b142629964dee238ebf48.pdf"
+                }
+            ]
+        },
+        "detailedDescription": "A bright and spacious split level apartment with unobstructed view from both sides. Located within easy reach of Wandsworth Town station and Clapham Junction station the property is ideally located.<br>The front door opens to stairs to a first floor landing. There is a large living room with storage to the front of the building and a well presented kitchen behind. To the rear on the first floor is a sizable bedroom and family bathroom.<br>On the second floor there is a further double bedroom with en-suite shower room and storage. There is also scope for a rear roof terrace to be created (STPP)<br>The property is presented in excellent order throughout, please book viewings via Purplebricks.<br><br><strong>Disclaimer For Virtual Viewings</strong><br><br>Some or all information pertaining to this property may have been provided solely by the vendor, and although we always make every effort to verify the information provided to us, we strongly advise you to make further enquiries before continuing.<br><br>If you book a viewing or make an offer on a property that has had its valuation conducted virtually, you are doing so under the knowledge that this information may have been provided solely by the vendor, and that we may not have been able to access the premises to confirm the information or test any equipment. We therefore strongly advise you to make further enquiries before completing your purchase of the property to ensure you are happy with all the information provided.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Period building",
+                "Close to station",
+                "No chain",
+                "Scope for roof terrace (stpp)",
+                "Two double bedrooms",
+                "Two bathrooms",
+                "Unobstructed view front and back."
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "d1037e6144ea103c8bd2b586f76574a9969faafd.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "3c3e3585cb528e8a8edb9257ba0e5dd569a57282.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "da41c4492dae55710fb1ba6058036f33e6c3c9c2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "891f48f9e415fea4c5465853e453a4858b7c973d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "add71bb0251c5f42c07061990789c3ee12edf099.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b409818b2c228084d2d3161c74cae8f66b96df3d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f2e153b6dbd02d90e0382b542f09144c69811d30.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8bb5f36d52319831cf2f67b3213c3115ff81d925.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0f0c637b72f7f6701828fbca9deb470bdefce0bb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7337569eff867cd033ed553c0a7a92a0b8208fa5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6f694519135689198c4d8049907c1cfb80fadcd4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c9131e2e0400a26d1b353394ae1891fde74e90d5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c908b6061bc1a4b82a17babbacdf9c5bfff7b603.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": true,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "East Hill, London SW18",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2QE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60797768,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 476127
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in East Hill, London SW18 - Zoopla",
+        "metaDescription": "2 bed flat for sale in East Hill, London SW18, selling for \u00a3600,000 from Purplebricks, Head Office. See property details on Zoopla or browse all our range of properties in East Hill, London SW18.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60797768/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.457821,
+                "longitude": -0.184256
+            }
+        },
+        "displayAddress": "East Hill, London SW18",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-18T18:47:52",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2020-08-28",
+                "newBuild": false,
+                "price": 517500,
+                "priceLabel": "\u00a3517,500",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 60
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/d1037e6144ea103c8bd2b586f76574a9969faafd.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Purplebricks",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60797768,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "083F7204-92F8-11EC-8EEA-C40D0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW18",
+            "areaNameUri": "london/sw18/wandsworth-earlsfield",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2440.1807909604536
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 545740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 548436,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -2696
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 548784,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 571676,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -25936
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 553935,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -8195
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 381867,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 163873
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 348838,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 196902
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 212532,
+                    "pctChangeSince": 156.78,
+                    "date": "2002-02-26",
+                    "changeSince": 333208
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 554541,
+                    "newBuilds": 19,
+                    "numSales": 470
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 543782,
+                    "newBuilds": 55,
+                    "numSales": 1296
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 547279,
+                    "newBuilds": 111,
+                    "numSales": 2421
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 550771,
+                    "newBuilds": 488,
+                    "numSales": 4197
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-10T00:00:00Z",
+                    "price": 465000,
+                    "propertyId": 23374558,
+                    "streetAddress": "148a East Hill",
+                    "uri": "148a-east-hill/london/sw18-2hf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 23374605,
+                    "streetAddress": "36a East Hill",
+                    "uri": "36a-east-hill/london/sw18-2hh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 1035000,
+                    "propertyId": 32062904,
+                    "streetAddress": "8, Ikon House, 3 East Hill",
+                    "uri": "8/ikon-house/3-east-hill/london/sw18-2ht"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 23374576,
+                    "streetAddress": "80a East Hill",
+                    "uri": "80a-east-hill/london/sw18-2hg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-23T00:00:00Z",
+                    "price": 332000,
+                    "propertyId": 30822527,
+                    "streetAddress": "Flat 5, 85 East Hill",
+                    "uri": "flat-5/85-east-hill/london/sw18-2qd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 23379218,
+                    "streetAddress": "13 Heathfield Square",
+                    "uri": "13-heathfield-square/london/sw18-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 23377537,
+                    "streetAddress": "6 Wells Place",
+                    "uri": "6-wells-place/london/sw18-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 696000,
+                    "propertyId": 23384628,
+                    "streetAddress": "16a Duntshill Road",
+                    "uri": "16a-duntshill-road/london/sw18-4ql"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 1325500,
+                    "propertyId": 23388776,
+                    "streetAddress": "94 Elsenham Street",
+                    "uri": "94-elsenham-street/london/sw18-5nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 511000,
+                    "propertyId": 23383425,
+                    "streetAddress": "31 Steerforth Street",
+                    "uri": "31-steerforth-street/london/sw18-4hf"
+                }
+            ]
+        }
+    }
+}

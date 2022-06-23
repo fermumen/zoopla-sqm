@@ -1,0 +1,545 @@
+{
+    "address": "Lake Close, London SW19",
+    "price": "\u00a3595,000",
+    "beds": "2 beds",
+    "area": "765 sq. ft",
+    "sqm": 71.1,
+    "sqft": 765.0,
+    "text": "Lake Close iy andrew scott\nApproximate Gross Internal Area = 765 sq ft/71.1. sqm & robertson\nN\n> Bedroom\ny 4.25 x3.02\nOy,\n> VY\nN8\nBedroom\nI sazxaae\nWant tt\ni ; gg\nReception\nRoom |\n542x350\nfrexits\n\u2014\nDiing Room\n4.02% 2.15 4\n432x741\n:\nKitchen\n= 254x208) |\n84x60 10\n= fie\n| i Escape\nIN\nGround Floor\nThis plan isnot to scale and must be used as layout guidance ony. All measurements and areas are approximate\nand should not be relied upon to provide accurate information This plan must ot be relled upon when making\nproperty valuations, design considerations or any oer such relevant decisions, We accept no responsibly ot\nFabiity (whether n contract, tort or otherwise) in relation to any loss whatsoever ar'sing from orn connection vith\nany use ofthis plan or the adequacy, accuracy or completeness of ior any information within\n",
+    "image": "./extracted_images/60843586.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60843586/",
+    "listing_no": "60843586",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.424541,
+        "longitude": -0.206985
+    },
+    "first_published": "2022-02-24T14:44:50",
+    "last_sale_date": "2011-10-18",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60843586",
+        "publishedOn": "2022-02-24T14:44:50",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Lake Close, Wimbledon",
+                "original": "https://lc.zoocdn.com/472f180d2cd76daeac48aae16c4de2edc8ae758e.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31308923",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10184,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(731308).png",
+            "branchName": "Andrew Scott Robertson",
+            "brandName": "Andrew Scott Robertson",
+            "chainFree": true,
+            "companyId": 3107,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lake Close, London SW19",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7EG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60843586,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SW19",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 595000,
+            "price": 595000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "765",
+            "tenure": null,
+            "zindex": 565891
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/andrew-scott-robertson-london-10184/",
+            "branchId": "10184",
+            "branchResultsUri": "/for-sale/branch/andrew-scott-robertson-london-10184/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(731308).png",
+            "phone": "020 3641 1486",
+            "name": "Andrew Scott Robertson",
+            "memberType": "agent",
+            "address": "24 High Street  Wimbledon Village, Wimbledon, London",
+            "postcode": "SW19 5DX"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Willington School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bishop Gilpin CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wimbledon",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wimbledon",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/681512529"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "2744c39b3892870409f94ea26913ed7bcc5aca84.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A delightful two double bedroom ground floor apartment in a high quality well maintained gated development with attractive communal lawned gardens. The bright reception room is split to incorporate a dining area and there is a modern kitchen and shower room. The property is offered with a share of the freehold and no onward chain. Lake Close is a highly regarded development, set in a peaceful area that is very close to Wimbledon Village and almost certainly, in the catchment area for Bishop Gilpin school.<br><br><strong>Reception</strong><br><br><strong>Bedroom</strong><br><br><strong>Bedroom</strong><br><br><strong>Kitchen</strong>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two double bedroom apartment",
+                "Ground floor",
+                "Highly regarded development",
+                "Bright living room with separate dining area",
+                "Modern kitchen",
+                "Modern shower room",
+                "Well maintained grounds",
+                "Close to Town centre",
+                "Share of Freehold",
+                "No onward chain"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "03c1bc2faac74147baca4b9b54c010f36fe529fb.jpg",
+                    "caption": "105363-105363 - Lake Close-P.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "f1e56e96bf1f7253b9613fcbdbee4e0ea070d2f2.jpg",
+                "caption": "Lake_Close_3.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3fd1d85fc3eb89e821050c1d99e8a3b617114bb1.jpg",
+                "caption": "_Lake_Close_10.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "151be522b8f5c225e11e81c4908c61681097448f.jpg",
+                "caption": "Lake_Close_12.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b67677c4992cf19f3d6d834cd5a046574a072660.jpg",
+                "caption": "Lake_Close_13.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fa22e2c74f67cfc219793dae1c83b7517565ffc1.jpg",
+                "caption": "_Lake_Close_11.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2a3d1969dc54dd83ada05d15687ff5231232692a.jpg",
+                "caption": "Lake_Close_9.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c8dec8f824f339e6c490ceb3902d3b5e3f90f787.jpg",
+                "caption": "Lake_Close_7.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "02574827ee9520421516e72248fa1d7fe7b36692.jpg",
+                "caption": "Lake_Close_6.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e1c40c75268d1ff17f6c84877b53923bf107aaee.jpg",
+                "caption": "Lake_Close_8.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "92031cc1323a73c39078a8c0a24d4b7ffcdf1b38.jpg",
+                "caption": "Lake_Close_4.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b78a53985ac57a170ccf3b872fb352b0f78a937c.jpg",
+                "caption": "Lake_Close_5.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3174af859358fc0eb973ba86998aeb5e8a5b8a41.jpg",
+                "caption": "Lake_Close_1.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4a6991e46d21c1333198a9fe13dde288088fd64a.jpg",
+                "caption": "Lake_Close_2.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10184,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(731308).png",
+            "branchName": "Andrew Scott Robertson",
+            "brandName": "Andrew Scott Robertson",
+            "chainFree": true,
+            "companyId": 3107,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lake Close, London SW19",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7EG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60843586,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SW19",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 595000,
+            "price": 595000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "765",
+            "tenure": null,
+            "zindex": 565891
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Lake Close, London SW19 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Lake Close, London SW19, selling for \u00a3595,000 from Andrew Scott Robertson. See property details on Zoopla or browse all our range of properties in Lake Close, London SW19.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60843586/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.424541,
+                "longitude": -0.206985
+            }
+        },
+        "displayAddress": "Lake Close, London SW19",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-24T14:44:50",
+                "priceLabel": "\u00a3595,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2011-10-18",
+                "newBuild": false,
+                "price": 372000,
+                "priceLabel": "\u00a3372,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 61
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/03c1bc2faac74147baca4b9b54c010f36fe529fb.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 765
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3595,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 778,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Andrew Scott Robertson",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60843586,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "D3386F06-961D-11EC-A963-2E0E0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW19",
+            "areaNameUri": "london/sw19/wimbledon-merton-colliers-wood",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2168.3999999999996
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 472819,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 475154,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2335
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 475455,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2636
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 495288,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -22469
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 479913,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -7094
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 330838,
+                    "pctChangeSince": 42.916,
+                    "date": "2012-02-26",
+                    "changeSince": 141981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 302223,
+                    "pctChangeSince": 56.447,
+                    "date": "2007-02-26",
+                    "changeSince": 170596
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 184132,
+                    "pctChangeSince": 156.783,
+                    "date": "2002-02-26",
+                    "changeSince": 288687
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 479862,
+                    "newBuilds": 0,
+                    "numSales": 312
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 467031,
+                    "newBuilds": 7,
+                    "numSales": 924
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 470205,
+                    "newBuilds": 35,
+                    "numSales": 1814
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 461099,
+                    "newBuilds": 93,
+                    "numSales": 2954
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 3829408,
+                    "propertyId": 23408155,
+                    "streetAddress": "1 Wilberforce Way",
+                    "uri": "1-wilberforce-way/london/sw19-4th"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 670000,
+                    "propertyId": 23422287,
+                    "streetAddress": "38 Milton Road",
+                    "uri": "38-milton-road/london/sw19-8se"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 300000,
+                    "propertyId": 31516547,
+                    "streetAddress": "159 Arthur Road",
+                    "uri": "159-arthur-road/london/sw19-8ad"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 920106,
+                    "propertyId": 23394163,
+                    "streetAddress": "117 Pelham Road",
+                    "uri": "117-pelham-road/london/sw19-1nz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1187500,
+                    "propertyId": 23418782,
+                    "streetAddress": "24 Stuart Road",
+                    "uri": "24-stuart-road/london/sw19-8dh"
+                }
+            ]
+        }
+    }
+}

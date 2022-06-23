@@ -1,0 +1,473 @@
+{
+    "address": "Lambert Mansions, Alexandra Palace Gardens, London N8",
+    "price": "\u00a3635,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "ALCON\u2019\n\nel\n\nUl\n\naq\n\nll\n\n=\n",
+    "image": "./extracted_images/60297796.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/60297796/",
+    "listing_no": "60297796",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.589969,
+        "longitude": -0.111555
+    },
+    "first_published": "2021-11-30T17:07:41",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60297796",
+        "publishedOn": "2021-11-30T17:07:41",
+        "section": "new-homes",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 83917,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(505166).png",
+            "branchName": "JOHNS&CO - West Hampstead",
+            "brandName": "Johns & Co",
+            "chainFree": true,
+            "companyId": 32248,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lambert Mansions, Alexandra Palace Gardens, London N8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0DJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60297796,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 635000,
+            "price": 635000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/johns-and-co-west-hampstead-london-83917/",
+            "branchId": "83917",
+            "branchResultsUri": "/for-sale/branch/johns-and-co-west-hampstead-london-83917/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(505166).png",
+            "phone": "020 8115 9843",
+            "name": "JOHNS&CO - West Hampstead",
+            "memberType": "agent",
+            "address": "Unit 7, Hardy Building, Heritage Lane, London",
+            "postcode": "NW6 2BR"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hornsey",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Greig City Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary's CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Turnpike Lane",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Located on the top floor of Lambert Mansions, part of the new Clarendon, N8 development by St William, this stylish two bedroom apartment with south easterly views and private balcony. Due to complete summer 2022, the property c.771 sq ft comprises an open plan living area, two double bedrooms with built in wardrobes, stylish main bathroom, ensuite to the master bedroom and private balcony, c.69 sq ft. A popular development, residents have access to 24hr concierge, gym &amp; pool, residents lounge and more.<br><br>Lambert Mansions is part of the Alexandra Palace Gardens phase of the Clarendon, N8 development by St William. The development is ideally located for access to National Rail services ( Hornsey &amp; Alexandra Palace Stations) as well as the Piccadilly Line, London Underground, from Turnpike Line. Alexandra Palace &amp; Park is just a short walk away as well as an abundance of local amenities.<br><br>CGIs for illustrative purposes only.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Top floor, two bedroom apartment",
+                "11th floor, c.771 sq ft",
+                "Private balcony, c.69 sq ft",
+                "Residents gym, 24hr concierge, creche and cafe",
+                "Close to numerous local amenities",
+                "Alexandra Palace and Park on your doorstep",
+                "Walking distance to National Rail &amp; Underground Stations",
+                "Completion due summer 2022"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": "2021-11-30T00:00:00"
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "1f31d730b3f56e537afaeaa90a51bcb2652275b9.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "f79a639b53765497ef814116e6f867db1f237878.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1f6f82f1ca49bfc70ee2fdb9b1c7b98f0300734e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7e16944cc37c21f813ba1799f83bb9f3589969cf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "dfe8d51a7f389584f2ca85736db13e7dbff92142.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "39149af2228c121ae5a02d9aea9e950a0af14d6a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a1836abea5c31bfa7efdc534cf4a5da9c8d687b3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "546cff8caa2950830cb693eacc0bd35b714edd08.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 83917,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(505166).png",
+            "branchName": "JOHNS&CO - West Hampstead",
+            "brandName": "Johns & Co",
+            "chainFree": true,
+            "companyId": 32248,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lambert Mansions, Alexandra Palace Gardens, London N8",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0DJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60297796,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "N8",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 635000,
+            "price": 635000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in Lambert Mansions, Alexandra Palace Gardens, London N8 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in Lambert Mansions, Alexandra Palace Gardens, London N8, selling for \u00a3635,000 from JOHNS&CO - West Hampstead. See property details on Zoopla or browse all our range of properties in Lambert Mansions, Alexandra Palace Gardens, London N8.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60297796/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.589969,
+                "longitude": -0.111555
+            }
+        },
+        "displayAddress": "Lambert Mansions, Alexandra Palace Gardens, London N8",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-30T17:07:41",
+                "priceLabel": "\u00a3635,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 40
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/1f31d730b3f56e537afaeaa90a51bcb2652275b9.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3635,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Johns & Co",
+            "category": "for-sale/resi/agent/new/gb",
+            "id": 60297796,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "730CE204-5F9C-11EC-A1B2-D52B0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N8",
+            "areaNameUri": "london/n8/hornsey-crouch-end",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1798.7047619047605
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 510150,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 518969,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8819
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 535223,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -25073
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 562194,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -52044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 520132,
+                    "pctChangeSince": -1.919,
+                    "date": "2017-02-26",
+                    "changeSince": -9982
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 340998,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 169152
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 319880,
+                    "pctChangeSince": 59.482,
+                    "date": "2007-02-26",
+                    "changeSince": 190270
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 192552,
+                    "pctChangeSince": 164.941,
+                    "date": "2002-02-26",
+                    "changeSince": 317598
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 525009,
+                    "newBuilds": 1,
+                    "numSales": 194
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 511616,
+                    "newBuilds": 59,
+                    "numSales": 570
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 500575,
+                    "newBuilds": 59,
+                    "numSales": 1181
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 496272,
+                    "newBuilds": 67,
+                    "numSales": 1729
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 380000,
+                    "propertyId": 15132181,
+                    "streetAddress": "245 Wightman Road",
+                    "uri": "245-wightman-road/london/n8-0nb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 1090000,
+                    "propertyId": 15138632,
+                    "streetAddress": "107 Priory Road",
+                    "uri": "107-priory-road/london/n8-8ly"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 920000,
+                    "propertyId": 15142037,
+                    "streetAddress": "4 Harvey Road",
+                    "uri": "4-harvey-road/london/n8-9pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 496590,
+                    "propertyId": 15137282,
+                    "streetAddress": "Flat 6, 4 Crescent Road",
+                    "uri": "flat-6/4-crescent-road/london/n8-8at"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-23T00:00:00Z",
+                    "price": 780000,
+                    "propertyId": 15130784,
+                    "streetAddress": "54 Hewitt Road",
+                    "uri": "54-hewitt-road/london/n8-0bl"
+                }
+            ]
+        }
+    }
+}

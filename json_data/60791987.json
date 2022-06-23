@@ -1,0 +1,515 @@
+{
+    "address": "357 Brockley Road, Lewisham, London SE4",
+    "price": "\u00a3640,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60791987/",
+    "listing_no": "60791987",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.455971,
+        "longitude": -0.035926
+    },
+    "first_published": "2022-02-18T10:54:56",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60791987",
+        "publishedOn": "2022-02-18T10:54:56",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Legal Documents",
+                "original": "https://legaldocuments.eigroup.co.uk/showbyid/1078377",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 54021,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(487640).png",
+            "branchName": "Auction House London",
+            "brandName": "Auction House",
+            "chainFree": false,
+            "companyId": 14359,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "357 Brockley Road, Lewisham, London SE4",
+            "furnishedState": "",
+            "groupId": 80,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "2AG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60791987,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": null,
+            "outcode": "SE4",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 640000,
+            "price": 640000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 416305
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/auction-house-london-london-54021/",
+            "branchId": "54021",
+            "branchResultsUri": "/for-sale/branch/auction-house-london-london-54021/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(487640).png",
+            "phone": "020 3641 1932",
+            "name": "Auction House London",
+            "memberType": "agent",
+            "address": "5 Hampstead Gate, 1a Frognal, Hampstead, London",
+            "postcode": "NW3 6AL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Beecroft Garden Primary",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Crofton Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary Magdalen's Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Honor Oak Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/jP1H8UW4OAY?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Guide Price =</strong> <strong>\u00a3640,000+<br><br>**For Sale By Public Auction 16th March 2022 09:45 am. To inspect the legal documents for this property go to our website to download the legal pack**<br><br>A Commercial and Residential Investment Producing \u00a328,380 Per Annum.<br><br></strong><strong>Tenure</strong><br>Freehold<br><br><strong>Location</strong><br>The property is situated on a mixed use road close to local shops and amenities. The open spaces of Crofton Park Railway Garden are within easy reach. Transport links are provided by Crofton Park rail station.<br><br><strong>Description</strong><br>The property comprises an end of terrace corner building comprising a ground floor shop with basement and a first and second floor two bedroom flat.<br><br><strong>For all enquiries, please contact Jordan at </strong>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "665eb16d2ba429ac8981287ad8d6493fcb3eda2b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "df503d4ee6bf9ebc8eda8b5d4ff2cc6c6d60b83c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c305facdfe10b3b0bd91f0f762b6027d04114932.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3054ec4f709720b44878f43b5cf53e977e4c407d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "75d24b3f109db6a2564f0220cd52728a4845c8fc.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ba979c177eaf4d57b77d5ea139ab68ea5216c404.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6a6f65bb9e0dbc62a869ada95f965eafdb794d56.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6cf0a9dd965292bb30a9c352b8a00e6910ebc305.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e0842e444030cf136e17f7c5dba41b0d0e47c37a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "72449035d40f890a5e81db2d882af101ea070963.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 36,
+            "acornType": 36,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 54021,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(487640).png",
+            "branchName": "Auction House London",
+            "brandName": "Auction House",
+            "chainFree": false,
+            "companyId": 14359,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "357 Brockley Road, Lewisham, London SE4",
+            "furnishedState": "",
+            "groupId": 80,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "2AG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60791987,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": null,
+            "outcode": "SE4",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 640000,
+            "price": 640000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 416305
+        },
+        "title": "2 bed end terrace house for sale",
+        "metaTitle": "2 bed end terrace house for sale in 357 Brockley Road, Lewisham, London SE4 - Zoopla",
+        "metaDescription": "2 bed end terrace house for sale in 357 Brockley Road, Lewisham, London SE4, selling for \u00a3640,000 from Auction House London. See property details on Zoopla or browse all our range of properties in 357 Brockley Road, Lewisham, London SE4.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60791987/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.455971,
+                "longitude": -0.035926
+            }
+        },
+        "displayAddress": "357 Brockley Road, Lewisham, London SE4",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-18T10:54:56",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "1.5",
+                    "priceChangeDate": "2022-02-21T12:01:37",
+                    "priceChangeLabel": "\u00a310,000",
+                    "priceLabel": "\u00a3640,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 118
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": null,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3640,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": true,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Auction House",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60791987,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "A361E15A-959F-11EC-AE9A-C6EB0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE4",
+            "areaNameUri": "london/se4/brockley-crofton-park-honor-oak-park",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1834.4444444444428
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 684039,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 691963,
+                    "pctChangeSince": -1.145,
+                    "date": "2021-11-26",
+                    "changeSince": -7924
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 714975,
+                    "pctChangeSince": -4.327,
+                    "date": "2021-08-26",
+                    "changeSince": -30936
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 723689,
+                    "pctChangeSince": -5.479,
+                    "date": "2021-02-26",
+                    "changeSince": -39650
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 652011,
+                    "pctChangeSince": 4.912,
+                    "date": "2017-02-26",
+                    "changeSince": 32028
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 412041,
+                    "pctChangeSince": 66.012,
+                    "date": "2012-02-26",
+                    "changeSince": 271998
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 383544,
+                    "pctChangeSince": 78.347,
+                    "date": "2007-02-26",
+                    "changeSince": 300495
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 235278,
+                    "pctChangeSince": 190.736,
+                    "date": "2002-02-26",
+                    "changeSince": 448761
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 752590,
+                    "newBuilds": 0,
+                    "numSales": 129
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 728187,
+                    "newBuilds": 0,
+                    "numSales": 335
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 703613,
+                    "newBuilds": 0,
+                    "numSales": 539
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 675745,
+                    "newBuilds": 1,
+                    "numSales": 789
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-11T00:00:00Z",
+                    "price": 310000,
+                    "propertyId": 20911389,
+                    "streetAddress": "Flat 5, 190 Brockley Road",
+                    "uri": "flat-5/190-brockley-road/london/se4-2rl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-19T00:00:00Z",
+                    "price": 251500,
+                    "propertyId": 20910821,
+                    "streetAddress": "Flat A, 381 Brockley Road",
+                    "uri": "flat-a/381-brockley-road/london/se4-2ph"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-03T00:00:00Z",
+                    "price": 390000,
+                    "propertyId": 20911836,
+                    "streetAddress": "Flat B, 202 Brockley Road",
+                    "uri": "flat-b/202-brockley-road/london/se4-2su"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 852000,
+                    "propertyId": 20911661,
+                    "streetAddress": "144 Foxberry Road",
+                    "uri": "144-foxberry-road/london/se4-2sh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 650000,
+                    "propertyId": 20908174,
+                    "streetAddress": "35 Eddystone Road",
+                    "uri": "35-eddystone-road/london/se4-2de"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 615000,
+                    "propertyId": 20906809,
+                    "streetAddress": "11a Tressillian Road",
+                    "uri": "11a-tressillian-road/london/se4-1yg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 20901054,
+                    "streetAddress": "Flat 18, Ladywell Heights, Crofton Park Road",
+                    "uri": "flat-18/ladywell-heights/crofton-park-road/london/se4-1au"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 20908670,
+                    "streetAddress": "177 St. Asaph Road",
+                    "uri": "177-st-asaph-road/london/se4-2dy"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,567 @@
+{
+    "address": "Abercorn Mansions, St John's Wood NW8",
+    "price": "\u00a3595,000",
+    "beds": "2 beds",
+    "area": "665 sq. ft",
+    "sqm": 61.78,
+    "sqft": null,
+    "text": "Abercorn Mansions,\nAbercorn Place, NW8 A\nyy\nKitchen = NE\nx wy, 8'7\" x68\" mo\nI | 2.62 x 2.03m\n/\nec. =|\ncee\n\\ Bedroom\n13'3\" x 8'2\"\n4.04 x 2.49m\n4\n\u00bb D Entrance i> \\\nHall }\nMaster\nBedroom\n16' x 10'1\"\n4.88 x 3.07m Reception\n1010\" x 191\"\n3.30 x 5.82m\nmn &\nLower Ground Floor\nApprox Gross Internal Area 665 SqFt - 61.78 SqM\nFor Illustration Purposes Only - Not To Scale\n",
+    "image": "./extracted_images/60197611.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60197611/",
+    "listing_no": "60197611",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.532646,
+        "longitude": -0.180837
+    },
+    "first_published": "2021-11-16T10:13:41",
+    "last_sale_date": "2021-02-19",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60197611",
+        "publishedOn": "2021-11-16T10:13:41",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "More Details From Chancellors",
+                "original": "https://www.chancellors.co.uk/properties/r/4297306?utm_source=Marketing&utm_medium=Web&utm_campaign=Sales",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 420,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(487497).png",
+            "branchName": "Chancellors - St John's Wood",
+            "brandName": "Chancellors",
+            "chainFree": false,
+            "companyId": 688,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Abercorn Mansions, St John's Wood NW8",
+            "furnishedState": "",
+            "groupId": 22,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9DY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60197611,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "NW8",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 595000,
+            "price": 595000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "665",
+            "tenure": "share_of_freehold",
+            "zindex": 720009
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/chancellors-st-john-s-wood-london-420/",
+            "branchId": "420",
+            "branchResultsUri": "/for-sale/branch/chancellors-st-john-s-wood-london-420/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(487497).png",
+            "phone": "020 3463 9321",
+            "name": "Chancellors - St John's Wood",
+            "memberType": "agent",
+            "address": "88 St John's Wood High Street, St John's Wood, London",
+            "postcode": "NW8 7SH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Abercorn School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Arnold House School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Maida Vale",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St. John's Wood",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "8e04a98f00fe4426e7be228c1cfbb618ed399162.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Property Description</strong><br><br>A rare opportunity to acquire a totally unmodernised two bedroom apartment situated with this attractive and highly sought after mansion block.<br>Property reference 4297306",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Share of Freehold Term 999 years from 10/10/1975",
+                "Entrance Hall",
+                "19ft Reception Room with bay window &amp; parquet flooring",
+                "Kitchen",
+                "Two Bedrooms",
+                "Bathroom",
+                "Communal Garden",
+                "Long Leasehold"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "4e54e324591d1ff0f8dc2aaed6f18c407dfde8d1.png",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "db41eba4c5d4a4a4545edc2c9a9525d3d9104001.jpg",
+                "caption": "Main Aspect"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c0c123c2c1a13a9b4f87b8e844102702463ed580.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "eb7bd863d15be2050dfc193f4e843851f294760c.jpg",
+                "caption": "Hall"
+            },
+            {
+                "__typename": "Media",
+                "filename": "08795a0b9b9a77afd169be908a37593468a56c9f.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c02593c18dda3d04ff3eb5e9955e19e41e9cc169.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7357be846d7f643b4ae41e5eaaf5d8a927df7eb8.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e535bb36d1360f7891d6383c1bcc0e99829b27f4.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "680fd900cb7a01a6c1af62b1b1ef6d4cc2c41b62.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "066d55de8b3c4c5229fad70837e2925308e44a5a.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a503ddc5c989b6f2790ffc4cc1155391a7528b22.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "45840c6f083f152041a33dd9c6b4b23082c4390d.jpg",
+                "caption": "Hall"
+            },
+            {
+                "__typename": "Media",
+                "filename": "69ce1a595d505982c7f6caa7a8e329d4c0b452e2.jpg",
+                "caption": "External View"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 420,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(487497).png",
+            "branchName": "Chancellors - St John's Wood",
+            "brandName": "Chancellors",
+            "chainFree": false,
+            "companyId": 688,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Abercorn Mansions, St John's Wood NW8",
+            "furnishedState": "",
+            "groupId": 22,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9DY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60197611,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "NW8",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 595000,
+            "price": 595000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "665",
+            "tenure": "share_of_freehold",
+            "zindex": 720009
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Abercorn Mansions, St John's Wood NW8 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Abercorn Mansions, St John's Wood NW8, selling for \u00a3595,000 from Chancellors - St John's Wood. See property details on Zoopla or browse all our range of properties in Abercorn Mansions, St John's Wood NW8.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60197611/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.532646,
+                "longitude": -0.180837
+            }
+        },
+        "displayAddress": "Abercorn Mansions, St John's Wood NW8",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-16T10:13:41",
+                "priceLabel": "\u00a3595,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2021-02-19",
+                "newBuild": false,
+                "price": 435000,
+                "priceLabel": "\u00a3435,000",
+                "recentlySold": true
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 128
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/4e54e324591d1ff0f8dc2aaed6f18c407dfde8d1.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 665
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3595,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 895,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Chancellors",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60197611,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "FFE48D0E-8FD9-11EC-8832-D8350E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW8",
+            "areaNameUri": "london/nw8/st-johns-wood",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 4832.589247311843
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 997391,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 1014398,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -17007
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 1045902,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -48511
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1092887,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -95496
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1031142,
+                    "pctChangeSince": -3.273,
+                    "date": "2017-02-26",
+                    "changeSince": -33751
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 711960,
+                    "pctChangeSince": 40.091,
+                    "date": "2012-02-26",
+                    "changeSince": 285431
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 635442,
+                    "pctChangeSince": 56.96,
+                    "date": "2007-02-26",
+                    "changeSince": 361949
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 375255,
+                    "pctChangeSince": 165.79,
+                    "date": "2002-02-26",
+                    "changeSince": 622136
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 930940,
+                    "newBuilds": 0,
+                    "numSales": 118
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1019883,
+                    "newBuilds": 0,
+                    "numSales": 342
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1044967,
+                    "newBuilds": 0,
+                    "numSales": 656
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1028650,
+                    "newBuilds": 0,
+                    "numSales": 1081
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-30T00:00:00Z",
+                    "price": 380000,
+                    "propertyId": 17283768,
+                    "streetAddress": "Flat 177, 29 Abercorn Place",
+                    "uri": "flat-177/29-abercorn-place/london/nw8-9du"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 238000,
+                    "propertyId": 17283743,
+                    "streetAddress": "Flat 148, 29 Abercorn Place",
+                    "uri": "flat-148/29-abercorn-place/london/nw8-9du"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-16T00:00:00Z",
+                    "price": 795000,
+                    "propertyId": 17283755,
+                    "streetAddress": "Flat 161, 29 Abercorn Place",
+                    "uri": "flat-161/29-abercorn-place/london/nw8-9du"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-16T00:00:00Z",
+                    "price": 4200000,
+                    "propertyId": 17286682,
+                    "streetAddress": "34 Abercorn Place",
+                    "uri": "34-abercorn-place/london/nw8-9xp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-31T00:00:00Z",
+                    "price": 745000,
+                    "propertyId": 17286686,
+                    "streetAddress": "18a Abercorn Place",
+                    "uri": "18a-abercorn-place/london/nw8-9xp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 340000,
+                    "propertyId": 17275624,
+                    "streetAddress": "17 Newcourt Street",
+                    "uri": "17-newcourt-street/london/nw8-7aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 480000,
+                    "propertyId": 17276595,
+                    "streetAddress": "Flat 79, Oslo Court, Prince Albert Road",
+                    "uri": "flat-79/oslo-court/prince-albert-road/london/nw8-7ew"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 17273354,
+                    "streetAddress": "72h Rowley Way",
+                    "uri": "72h-rowley-way/london/nw8-0sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 17280886,
+                    "streetAddress": "Flat 2, Templar Court, 43 St. Johns Wood Road",
+                    "uri": "flat-2/templar-court/43-st-johns-wood-road/london/nw8-8qj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 2800000,
+                    "propertyId": 17283066,
+                    "streetAddress": "47 Abbey Gardens",
+                    "uri": "47-abbey-gardens/london/nw8-9as"
+                }
+            ]
+        }
+    }
+}

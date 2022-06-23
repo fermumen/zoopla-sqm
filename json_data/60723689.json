@@ -1,0 +1,542 @@
+{
+    "address": "Prince Of Wales Road, Kentish Town, London NW5",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": "801 sq. ft",
+    "sqm": 74.5,
+    "sqft": 801.0,
+    "text": "APPROXIMATE FLOOR AREA = 801 SQ FT / 74.5 SQM \u2014~\nINCLUDING LIMITED USE AREA (27 SQ FT / 2.5 SQ M) QY)\n_ \u2014K\n| |= REDUCED HEAD HEIGHT BELOW 1.5M\nol \\ of IN> / /\n\\ BEDROOM 1 \\_/ =~ ~\n\u00bb 1a1x87 DN\n4.55m x 2.62m / \\ a\n\\ NB ICA es\n/ x I RECEPTION ROOM /\n; 4 STORE KITCHEN\nC Zn Se 24\u00b00 x 173\nPN \\ ro KR | | 7.32m x 5.26m\n+ BEDROOM 2 Nu [56]\n15'2 x 5'4 (Oe)\n7 4.62m x 1.63m\nLOWER GROUND FLOOR GROUND FLOOR\n360 SQ FT / 33.5 SQM 441 SQ FT/ 41.0 SQM\nINCLUDING LIMITED USE AREA INCLUDING LIMITED USE AREA\n(3 SQ FT / 0.3 SQ M) (24 SQ FT/ 2.2 SQM)\nSurveyed and drawn in accordance with the International Property Measurement Standards (IPMS 2: = Certified\nResidential) FOXTONS.CO.UK\n",
+    "image": "./extracted_images/60723689.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60723689/",
+    "listing_no": "60723689",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.545848,
+        "longitude": -0.147412
+    },
+    "first_published": "2022-02-09T19:03:54",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60723689",
+        "publishedOn": "2022-02-09T19:03:54",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/nw5/chpk4542312/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/nw5/chpk4542312",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/nw5/chpk4542312/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16915,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Camden",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Prince Of Wales Road, Kentish Town, London NW5",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3LT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60723689,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "NW5",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "801",
+            "tenure": null,
+            "zindex": 634578
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-camden-london-16915/",
+            "branchId": "16915",
+            "branchResultsUri": "/for-sale/branch/foxtons-camden-london-16915/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3463 6980",
+            "name": "Foxtons - Camden",
+            "memberType": "agent",
+            "address": "120 Parkway, London",
+            "postcode": "NW1 7AN"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Camden Centre for Learning (CCfL) Special School (SEN)",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Holy Trinity and Saint Silas CofE Primary School, NW1",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kentish Town West",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Chalk Farm",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/674895451"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "This stunning split-level apartment is located in a fabulous pub conversion and benefits from open-plan living space and contemporary interiors throughout.<br><br>Located the wonderful Talacre Gardens, popular with dog-walkers, and moments from Kentish Town West station, the property is also well-served by local bus links.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Impressive 2 bedroom flat",
+                "Contemporary and stylish interiors",
+                "Open-plan reception/kitchen with plenty of natural light",
+                "2 well-proportioned bedrooms",
+                "Well-designed shower room",
+                "Highly sought-after development",
+                "Superb Kentish Town location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "590c2562847cabf95d733140719bf87260968f89.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "8ec58fb8216cb3aadcce2274d739fe3f80126d07.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "46d3c66c450d47878c34a04b91e114764de6e6ea.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cf4decb8ad66d9233ef35f58775cceee6c78a47c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ce7a16b82c555815c96d808b56dfc73b7892d1a2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8ff6a5258fc5abd77cd5b763ca1f3a31ddbe69de.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a7a79337a33b7383a724df249980e6c2bf025f55.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d70ed57047586c8ba70c9662294ef72dbaaea4e7.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 16915,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Camden",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Prince Of Wales Road, Kentish Town, London NW5",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3LT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60723689,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "NW5",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "801",
+            "tenure": null,
+            "zindex": 634578
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Prince Of Wales Road, Kentish Town, London NW5 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Prince Of Wales Road, Kentish Town, London NW5, selling for \u00a3575,000 from Foxtons - Camden. See property details on Zoopla or browse all our range of properties in Prince Of Wales Road, Kentish Town, London NW5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60723689/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.545848,
+                "longitude": -0.147412
+            }
+        },
+        "displayAddress": "Prince Of Wales Road, Kentish Town, London NW5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-09T19:03:54",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 259
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/590c2562847cabf95d733140719bf87260968f89.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 801
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 718,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60723689,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "B65903C8-8D6C-11EC-B69B-3F220E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW5",
+            "areaNameUri": "london/nw5/kentish-town",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2695.333333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 617465,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 627994,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10529
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 647496,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -30031
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 676584,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -59119
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 638351,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -20886
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 440754,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 176711
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 393383,
+                    "pctChangeSince": 56.963,
+                    "date": "2007-02-26",
+                    "changeSince": 224082
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 232309,
+                    "pctChangeSince": 165.795,
+                    "date": "2002-02-26",
+                    "changeSince": 385156
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 654154,
+                    "newBuilds": 0,
+                    "numSales": 106
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 621456,
+                    "newBuilds": 3,
+                    "numSales": 300
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 619111,
+                    "newBuilds": 28,
+                    "numSales": 567
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 614410,
+                    "newBuilds": 49,
+                    "numSales": 901
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 456000,
+                    "propertyId": 17236940,
+                    "streetAddress": "Flat 39, Una House, Prince Of Wales Road",
+                    "uri": "flat-39/una-house/prince-of-wales-road/london/nw5-3la"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 17236941,
+                    "streetAddress": "Flat 4, Una House, Prince Of Wales Road",
+                    "uri": "flat-4/una-house/prince-of-wales-road/london/nw5-3la"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-23T00:00:00Z",
+                    "price": 625000,
+                    "propertyId": 17237116,
+                    "streetAddress": "93b Prince Of Wales Road",
+                    "uri": "93b-prince-of-wales-road/london/nw5-3na"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-21T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 17237248,
+                    "streetAddress": "195 Prince Of Wales Road",
+                    "uri": "195-prince-of-wales-road/london/nw5-3qb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 27124308,
+                    "streetAddress": "39c Prince Of Wales Road",
+                    "uri": "39c-prince-of-wales-road/london/nw5-3lj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 747500,
+                    "propertyId": 17233531,
+                    "streetAddress": "31a Gaisford Street",
+                    "uri": "31a-gaisford-street/london/nw5-2eb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 1025000,
+                    "propertyId": 27354983,
+                    "streetAddress": "First And Second Floor Flat, 8 Burghley Road",
+                    "uri": "first-and-second-floor-flat/8-burghley-road/london/nw5-1ue"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-10T00:00:00Z",
+                    "price": 1150000,
+                    "propertyId": 17240579,
+                    "streetAddress": "50 Coity Road",
+                    "uri": "50-coity-road/london/nw5-4ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 27471767,
+                    "streetAddress": "90b Caversham Road",
+                    "uri": "90b-caversham-road/london/nw5-2dn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-01T00:00:00Z",
+                    "price": 1330000,
+                    "propertyId": 17235128,
+                    "streetAddress": "177 Leighton Road",
+                    "uri": "177-leighton-road/london/nw5-2rd"
+                }
+            ]
+        }
+    }
+}

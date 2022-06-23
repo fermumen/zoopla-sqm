@@ -1,0 +1,558 @@
+{
+    "address": "Little London Court, Mill Street, London SE1",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 73.3,
+    "sqft": 789.0,
+    "text": "First Floor\nh h [ )\nBedroom - a\n3.24m x 5.01m o ae\n(10'8\" Xx 16'5\") = (( WW\nGis\nCa\n(0)\n/ | \\ -\nBedroom\n2.63m x 3.85m Entrance Ay\na8\" x 128\") - Hall / |\n% tility\nSS \u2014 Room\n1.21m x 2.12m\n(4' x 6'11\")\nReception | /\nRoom i\n3.94m x 5.01m .\n(12'11\" x 165\") Kitchen\n2.95m x 2.05m\n(9'8\" x 6'9\")\nTotal area: approx. 73.3 sq. metres (789.1 sq. feet)\n",
+    "image": "./extracted_images/60421660.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60421660/",
+    "listing_no": "60421660",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.500434,
+        "longitude": -0.07145
+    },
+    "first_published": "2021-12-24T09:22:13",
+    "last_sale_date": "2011-02-25",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60421660",
+        "publishedOn": "2021-12-24T09:22:13",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/de007cfe44e085babbe1b66dc5850bad1bdf526a.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 83268,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - London Bridge",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Little London Court, Mill Street, London SE1",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2BF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60421660,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SE1",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 709412
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-london-bridge-london-83268/",
+            "branchId": "83268",
+            "branchResultsUri": "/for-sale/branch/dexters-london-bridge-london-83268/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7650 5100",
+            "name": "Dexters - London Bridge",
+            "memberType": "agent",
+            "address": "54 Borough High Street, Southwark, London",
+            "postcode": "SE1 1XL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Joseph's Roman Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Michael's Catholic College",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bermondsey",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Katharine's Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "054efcf6821cb9ae89af32a4e8d4a23503b1388e.png",
+                    "url": null
+                },
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "1d007096579d6c7ce37731bcff584d6d1b87112f.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Situated within a beautiful warehouse conversion, this two double bedroom flat is immaculately presented throughout and boasts a large open plan kitchen living space, two bathrooms, ample storage and secure parking.<br><br>Little London Court is located only 0.3 miles to Bermondsey station and 0.5 miles from London Bridge station. A wide range of shops, caf\u00e9s, restaurants and artisan food markets are all within easy reach.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedrooms",
+                "Two Bathrooms",
+                "Secure Parking",
+                "Excellent Condition",
+                "Chain Free",
+                "Fantastic Location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "d55b25f9db7df2e7108b0c0d90ab344259e70bad.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "046a0b4faa8abdde65fd34eb55ca9c87f9e8e31d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "29fd22b5b5f4cc1705fb69597a977bcdcc0a784c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1fd9957b616f7d013c8177df5d8c41428a4a1808.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2888c442ad771084c6656e1216145862f30ef591.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "034826130dbdcc18b6294618c08947e736faa7a6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7bfeabe2059601b73559ad6e161cdb4ca99d9808.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1938f15295b897fa0d38fabc6aab1087e9efc4d1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3c9090119fefab87b400190f3f58aaa06614b5b3.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 83268,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - London Bridge",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Little London Court, Mill Street, London SE1",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2BF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60421660,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SE1",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 709412
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Little London Court, Mill Street, London SE1 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Little London Court, Mill Street, London SE1, selling for \u00a3650,000 from Dexters - London Bridge. See property details on Zoopla or browse all our range of properties in Little London Court, Mill Street, London SE1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60421660/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.500434,
+                "longitude": -0.07145
+            }
+        },
+        "displayAddress": "Little London Court, Mill Street, London SE1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-24T09:22:13",
+                "priceLabel": "\u00a3725,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2011-02-25",
+                "newBuild": false,
+                "price": 433550,
+                "priceLabel": "\u00a3433,550",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3.4",
+                    "priceChangeDate": "2022-01-18T13:27:52",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3700,000"
+                },
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3.6",
+                    "priceChangeDate": "2022-02-08T10:56:49",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3675,000"
+                },
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3.7",
+                    "priceChangeDate": "2022-02-15T16:28:13",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3650,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 93
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/d55b25f9db7df2e7108b0c0d90ab344259e70bad.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60421660,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "CC26EB88-962D-11EC-8417-083A0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE1",
+            "areaNameUri": "london/se1/waterloo-bermondsey-south-bank-the-borough-north-lambeth",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3689.3737373737354
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 737858,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 742939,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -5081
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 746105,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -8247
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 780738,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -42880
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 710078,
+                    "pctChangeSince": 3.912,
+                    "date": "2017-02-26",
+                    "changeSince": 27780
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 464196,
+                    "pctChangeSince": 58.954,
+                    "date": "2012-02-26",
+                    "changeSince": 273662
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 448557,
+                    "pctChangeSince": 64.496,
+                    "date": "2007-02-26",
+                    "changeSince": 289301
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 266156,
+                    "pctChangeSince": 177.228,
+                    "date": "2002-02-26",
+                    "changeSince": 471702
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 672517,
+                    "newBuilds": 7,
+                    "numSales": 342
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 732618,
+                    "newBuilds": 146,
+                    "numSales": 1094
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 734821,
+                    "newBuilds": 469,
+                    "numSales": 2563
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 739640,
+                    "newBuilds": 1154,
+                    "numSales": 4560
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 730000,
+                    "propertyId": 20848354,
+                    "streetAddress": "72 New Concordia Wharf, Mill Street",
+                    "uri": "72-new-concordia-wharf/mill-street/london/se1-2bb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-09T00:00:00Z",
+                    "price": 750000,
+                    "propertyId": 20848479,
+                    "streetAddress": "34 Little London Court, Mill Street",
+                    "uri": "34-little-london-court/mill-street/london/se1-2bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-01T00:00:00Z",
+                    "price": 143750,
+                    "propertyId": 31981425,
+                    "streetAddress": "Flat 3, Lumiere Court, 52 Little London Court, Mill Street",
+                    "uri": "flat-3/lumiere-court/52-little-london-court/mill-street/london/se1-0ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 20861951,
+                    "streetAddress": "171 St. James's Road",
+                    "uri": "171-st-james-s-road/london/se1-5bp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 20865933,
+                    "streetAddress": "22 Marcia Road",
+                    "uri": "22-marcia-road/london/se1-5xf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 826000,
+                    "propertyId": 20866398,
+                    "streetAddress": "Flat 1, 19 Harper Road",
+                    "uri": "flat-1/19-harper-road/london/se1-6aw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 726000,
+                    "propertyId": 20866401,
+                    "streetAddress": "Flat 4, 19 Harper Road",
+                    "uri": "flat-4/19-harper-road/london/se1-6aw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1202000,
+                    "propertyId": 20866402,
+                    "streetAddress": "Flat 5, 19 Harper Road",
+                    "uri": "flat-5/19-harper-road/london/se1-6aw"
+                }
+            ]
+        }
+    }
+}

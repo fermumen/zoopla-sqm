@@ -1,0 +1,557 @@
+{
+    "address": "Portman Place, Bethnal Green, London E2",
+    "price": "\u00a3635,000",
+    "beds": "2 beds",
+    "area": "830 sq. ft",
+    "sqm": 77.1,
+    "sqft": 830.0,
+    "text": "N\nAPPROXIMATE FLOOR AREA = 830 SQ FT/ 77.1 SQM LAY\n2\n|\n| PATIO\n|\n|\n_ WALK IN OO\nMAINBEDROom \\, WARDROBE a\n12'7 x 10'S - _\u2014\u2014\n3.84m x 3.17m 1 5 |\n~ fo Ol \u2014\n\\ in\nGi / RECEPTION ROOM /\n\\ | wy 7 KITCHEN\nyur Te A 2411 x 14'0\nIN WY 7\n[| \u2014t 7.34m x 4.27m\n/ ; |\n/\n\u2014 BEDROOM 2 *\n1944 x 11'7 DN\n5.82m x 3.53m \u2014\nh \\ ZA Tf el\nAK IN\nWA\nPATIO 2 \u2014\nLOWER GROUND FLOOR GROUND FLOOR\n492 SQFT / 45.7 SQM 338 SQ FT /31.4SQM\nSurveyed and drawn in accordance with the International Property Measurement Standards (IPMS 2: = Certified\nResidential) FOXTONS.CO.UK\neasurer\n",
+    "image": "./extracted_images/60314467.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60314467/",
+    "listing_no": "60314467",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.525773,
+        "longitude": -0.050213
+    },
+    "first_published": "2021-12-02T19:14:11",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60314467",
+        "publishedOn": "2021-12-02T19:14:11",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/e2/chpk4931876/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/e2/chpk4931876",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/e2/chpk4931876/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2875,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Shoreditch",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Portman Place, Bethnal Green, London E2",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0LG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60314467,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 2,
+            "outcode": "E2",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 635000,
+            "price": 635000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "830",
+            "tenure": null,
+            "zindex": 462607
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-shoreditch-london-2875/",
+            "branchId": "2875",
+            "branchResultsUri": "/for-sale/branch/foxtons-shoreditch-london-2875/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 8115 5269",
+            "name": "Foxtons - Shoreditch",
+            "memberType": "agent",
+            "address": "86-90 Curtain Road, London",
+            "postcode": "EC2A 3AA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bangabandhu Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Morpeth School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bethnal Green",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stepney Green",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/651658290"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "The property is ideally located over 2 floors with a separate entrance boasting stunning interiors including a large open-plan reception room, a modern kitchen and 2 delightful private patios.<br><br>The property is ideally located on the doorstep to the delightful Roman Road boasting a range of wonderful amenities while Bethnal Green Underground is also nearby.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Stylish 2 bedroom maisonette",
+                "Arranged over 2 floors with a separate entrance",
+                "Wonderful open-plan reception room",
+                "Contemporary kitchen with space to dine",
+                "2 good-sized double bedrooms",
+                "2 sleek en suites and patios",
+                "Main bedroom with walk in wardrobe"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "f9b44410916582ca0df830ef90fe9bc26af12c34.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "803bf238db7a18d19d82a0377f5d13daa941e427.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2f05d81efb96357165e0ab4db48f2e07233ab08d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cc9ade5c4109ac33bd49f307c81dc1c7a2c2bb69.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "85ad4bd380c42164f66b508631f7a4cb0cf8191d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d9b05b24d2753e7136a832aa0db5b103ef144d28.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7987b18d782b1d0e6a27f77365ff94af31a63458.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0850ab68040a32f5437beb02993a75854ee62555.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8f003a8ba017d1e067b92770e5abce1c61fce8be.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "df7c9e9814ef74968406d4aa2df0bb3729d02193.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bb265cc5d3b93226f580e6927ef376d6c6f0c113.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c60708977f236c9af3110fb8af2dfadf171a4bbc.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "20cb12bcf44f072c3d263fc4028de428d972dcb8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "46991c45e1fc18fecfd6b93386ade33f22d82075.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6cd8b9527ff4f5d6f3135606ab2826593be81c59.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0c65b095bac05c941195a693b1d3c91f9b07e376.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8ab8c1b60b197ffe05ede5ca044499f9511a7eeb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5914b64104e67472209baadd5595ae602efaca47.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "175890533f94533bf9b32ef722bd1263d8dc67ab.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2875,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Shoreditch",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Portman Place, Bethnal Green, London E2",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0LG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60314467,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 2,
+            "outcode": "E2",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 635000,
+            "price": 635000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "sizeSqFeet": "830",
+            "tenure": null,
+            "zindex": 462607
+        },
+        "title": "2 bed maisonette for sale",
+        "metaTitle": "2 bed maisonette for sale in Portman Place, Bethnal Green, London E2 - Zoopla",
+        "metaDescription": "2 bed maisonette for sale in Portman Place, Bethnal Green, London E2, selling for \u00a3635,000 from Foxtons - Shoreditch. See property details on Zoopla or browse all our range of properties in Portman Place, Bethnal Green, London E2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60314467/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.525773,
+                "longitude": -0.050213
+            }
+        },
+        "displayAddress": "Portman Place, Bethnal Green, London E2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-02T19:14:11",
+                "priceLabel": "\u00a3635,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 55
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/f9b44410916582ca0df830ef90fe9bc26af12c34.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 2
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 830
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3635,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 765,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60314467,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "28D24706-95BB-11EC-9EBC-CCEB0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E2",
+            "areaNameUri": "london/e2/bethnal-green-shoreditch",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2483.597701149426
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 485899,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 494820,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -8921
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 511252,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -25353
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 539271,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -53372
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 480435,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5464
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 307074,
+                    "pctChangeSince": 58.235,
+                    "date": "2012-02-26",
+                    "changeSince": 178825
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 307692,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 178207
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 178657,
+                    "pctChangeSince": 171.973,
+                    "date": "2002-02-26",
+                    "changeSince": 307242
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 491233,
+                    "newBuilds": 1,
+                    "numSales": 200
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 483028,
+                    "newBuilds": 12,
+                    "numSales": 534
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 485470,
+                    "newBuilds": 32,
+                    "numSales": 1112
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 486117,
+                    "newBuilds": 121,
+                    "numSales": 1942
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 381500,
+                    "propertyId": 7642518,
+                    "streetAddress": "Flat 8, St. James Court, 331 Bethnal Green Road",
+                    "uri": "flat-8/st-james-court/331-bethnal-green-road/london/e2-6lj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 32607685,
+                    "streetAddress": "Flat 401, City View House, 463 Bethnal Green Road",
+                    "uri": "flat-401/city-view-house/463-bethnal-green-road/london/e2-9qy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 1070519,
+                    "propertyId": 7643232,
+                    "streetAddress": "62 Canrobert Street",
+                    "uri": "62-canrobert-street/london/e2-6px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 490000,
+                    "propertyId": 7636537,
+                    "streetAddress": "Flat 15, John Fielden House, Canrobert Street",
+                    "uri": "flat-15/john-fielden-house/canrobert-street/london/e2-0bj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 7642749,
+                    "streetAddress": "49 Pollard Street",
+                    "uri": "49-pollard-street/london/e2-6ly"
+                }
+            ]
+        }
+    }
+}

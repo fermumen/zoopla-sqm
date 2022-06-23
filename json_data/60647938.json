@@ -1,0 +1,631 @@
+{
+    "address": "Crofton Road, London SE5",
+    "price": "\u00a3650,000",
+    "beds": "3 beds",
+    "area": "1,076 sq. ft",
+    "sqm": 107.96,
+    "sqft": 586.0,
+    "text": "Crofton Road, SE5\nx HB Approximate Gross Internal Area\n\u00b0 , 98.85 sqm / 1,064 sq ft\nyy Eaves Storage\n: 9.11sqm / 98 sqft\nTotal Areas Including Eaves\n107.96 sqm / 1,162 sq ft\n(Including restricted height\nunder 1.5m ===> =2=72)\n(CH = Ceiling Heights )\n\u2014\u2014 _\u2014\u2014J\nBedroom\n4.57 x 3.15m\nKitchen 15'0 x 10'4\n4.51 x 3.08m\n14110 x 101\nIs\n[oxe)\nD |\n\\_ S\na a\na\n= a\n= \u2014\u2014\n\u2014N |-\u2014 Bedroom he +4\n== I] 3.75 x 3.22m \u2014 Bedroom\nFt 12'4 x 10'7 a 5.31 x 4.60m\n_ a 17'5 x 151\nReception Room\n5.04 x 3.73m\n16'6 x 12'3 Eaves\nlaa 5.06 x 1.80m >|\n16'7 x 5'11\n_\u2014\u2014\u2014\u2014 SS as\nFirst Floor Second Floor\nApproximate Gross Internal Area Approximate Gross Internal Area\n54.48 sqm / 586 sq ft 44.37 sqm / 478 sq ft\nILLUSTRATION FOR IDENTIFICATION PURPOSES ONLY\nALL MEASUREMENTS ARE MAXIMUM, AND INCLUDE WINDOW BAYS AND WARDROBES WHERE APPLICABLE\nTHIS PLAN MUST NOT BE REPRODUCED BY ANY OTHER PERSON WITHOUT PERMISSION\n",
+    "image": "./extracted_images/60647938.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60647938/",
+    "listing_no": "60647938",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.471599,
+        "longitude": -0.080643
+    },
+    "first_published": "2022-01-31T15:04:02",
+    "last_sale_date": "2009-12-04",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60647938",
+        "publishedOn": "2022-01-31T15:04:02",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "2 Page Landscape Brochure",
+                "original": "https://lc.zoocdn.com/f55978648b3d127fbda517c42b9da18f5f739be7.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "A3 Window Card",
+                "original": "https://lc.zoocdn.com/21fb75e4df5a3c738b6a7b28d307c5f56b014fb7.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 35760,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(726295).png",
+            "branchName": "Gareth James - Peckham Rye, London",
+            "brandName": "Gareth James Property",
+            "chainFree": false,
+            "companyId": 16738,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Crofton Road, London SE5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8LY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60647938,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 21,
+            "numRecepts": 1,
+            "outcode": "SE5",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "1076",
+            "tenure": null,
+            "zindex": 646773
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/gareth-james-peckham-rye-london-35760/",
+            "branchId": "35760",
+            "branchResultsUri": "/for-sale/branch/gareth-james-peckham-rye-london-35760/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(726295).png",
+            "phone": "020 3641 5131",
+            "name": "Gareth James - Peckham Rye, London",
+            "memberType": "agent",
+            "address": "129 Bellenden Road",
+            "postcode": "SE15 4QY"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Oliver Goldsmith Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Villa",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Denmark Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Peckham Rye",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "2fe6c906140fb2cd3fe677b3754c9e0446c2cf70.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This extremely spacious three double bedroom, split level apartment is situated over three levels on the very popular, tree lined Crofton Road with access to a private roof terrace.<br><br>On entering the flat you take the stairs to the first floor where you will find the kitchen/diner. This light filled room has lots of well fitted storage and surface units with room for a table and also benefits from access to a private roof terrace, where you can enjoy the long summer days ahead of us. Along the landing to the front of the house is the charismatic reception room with all the benefits of a period conversion including a feature fireplace, three sash windows and high ceilings throughout. Next door is the first of the three double bedrooms, none of which have adjoining walls for ultimate privacy, this first bedroom has a large window to the rear. Up another flight of stairs is another bedroom and the modern family bathroom. Up one more floor and you're into the loft space where the vendor has created a wonderful large 3rd bedroom.<br><br>One of the most sought after streets in SE5, Crofton Road is central to everything. For weekend activities and dining vibrant Rye Lane with all its shops, bars and restaurants is a short walk away - Taco Queen, Voodoo Rays and John The Unicorn to name a few favourites - plus cutting edge cultural hubs the Bussey Building, Peckham Levels and South London Gallery.<br><br>After you've finished shopping, head out on a leisurely stroll over to the beautiful green spaces of Peckham Rye Park and Common which is only a 10 minute walk from the property or if you're looking a little closer to home Warwick Gardens is moments away.<br><br>For transport links Crofton Road is perfectly located practically equidistant from both Denmark Hill and Peckham Rye station with several bus links also nearby.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three double bedrooms",
+                "Desirable location",
+                "Split level",
+                "Private roof terrace"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "7b1afe337d5f1a1d948031065acfc989d5c253e7.png",
+                    "caption": null
+                },
+                {
+                    "__typename": "Media",
+                    "filename": "40c43e4bfc4114a249b2222c2ac4b319a152a785.png",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "f83fc967f29e8d22acea2479e42a95bd37ab5520.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4f090e3661de2958d080ac480351023a76cce95a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f5e64e24665773b86f286a660ca1083031440921.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9b79329de7a2a6d38ffa42edf7404566d3f2964b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "36d320165b9942b9b733aa6baee2854e2bfd978d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d624017e0811394b181f8a7268333b77900ba1fe.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "024c3b32c02099e9b3e778d44ec167f795710638.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8ee9875fd654880d6c39f922408e6518cd43624e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "635aaf1665cee2ff01530266eccda1b7f0c7fc2f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d8f655b352616a463a61a793aae44dc03c8245ef.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4cab3700888468bfe6851a7df90188e6bec4c45f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "59aac13e0ccb792a6966d51fa12b37d061d26560.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "83ee62198ccef3b7c00becbdd2a2bd3b74cc7be3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e4e07b6883dcfe870e95518adc71fbb6bfdca467.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e3dfe2f58d7f9319fe4d7e898d88c14beea05bb9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4c06548ae17e383d74b93706a65241f4f7e3c83f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "913fb300e947ff702b4d293eebec4e3a6c355a27.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c029d346e0d58a7f49f61a0e83fc90cbbc9bbc7e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "17440586814b998cfd71119bdf76f4d90ae9cb60.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "daa473e1fd25b9cf6b555b6bf9b1413a33800109.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f207600b43096a583b9099b95afe142976d6fed1.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 35760,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(726295).png",
+            "branchName": "Gareth James - Peckham Rye, London",
+            "brandName": "Gareth James Property",
+            "chainFree": false,
+            "companyId": 16738,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Crofton Road, London SE5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8LY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60647938,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 21,
+            "numRecepts": 1,
+            "outcode": "SE5",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "1076",
+            "tenure": null,
+            "zindex": 646773
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Crofton Road, London SE5 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Crofton Road, London SE5, selling for \u00a3650,000 from Gareth James - Peckham Rye, London. See property details on Zoopla or browse all our range of properties in Crofton Road, London SE5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60647938/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.471599,
+                "longitude": -0.080643
+            }
+        },
+        "displayAddress": "Crofton Road, London SE5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-31T15:04:02",
+                "priceLabel": "\u00a3675,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2009-12-04",
+                "newBuild": false,
+                "price": 245000,
+                "priceLabel": "\u00a3245,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3.7",
+                    "priceChangeDate": "2022-02-22T15:27:37",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3650,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 293
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/7b1afe337d5f1a1d948031065acfc989d5c253e7.png"
+                },
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/40c43e4bfc4114a249b2222c2ac4b319a152a785.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 1076
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 604,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Gareth James Property",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60647938,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "47D529C0-93F4-11EC-A3DF-9DCF0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE5",
+            "areaNameUri": "london/se5/camberwell",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2132.7222222222235
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 388661,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 391337,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2676
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 393004,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -4343
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 411244,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -22583
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 374012,
+                    "pctChangeSince": 3.917,
+                    "date": "2017-02-26",
+                    "changeSince": 14649
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 244501,
+                    "pctChangeSince": 58.961,
+                    "date": "2012-02-26",
+                    "changeSince": 144160
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 236264,
+                    "pctChangeSince": 64.503,
+                    "date": "2007-02-26",
+                    "changeSince": 152397
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 140190,
+                    "pctChangeSince": 177.239,
+                    "date": "2002-02-26",
+                    "changeSince": 248471
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 447197,
+                    "newBuilds": 0,
+                    "numSales": 228
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 444569,
+                    "newBuilds": 45,
+                    "numSales": 632
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 440466,
+                    "newBuilds": 205,
+                    "numSales": 1334
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 429188,
+                    "newBuilds": 277,
+                    "numSales": 2053
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-16T00:00:00Z",
+                    "price": 750000,
+                    "propertyId": 20923485,
+                    "streetAddress": "2c Crofton Road",
+                    "uri": "2c-crofton-road/london/se5-8nb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 27448140,
+                    "streetAddress": "The Lower Maisonette At, 112 Crofton Road",
+                    "uri": "the-lower-maisonette-at/112-crofton-road/london/se5-8na"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-23T00:00:00Z",
+                    "price": 1160000,
+                    "propertyId": 20923427,
+                    "streetAddress": "24 Crofton Road",
+                    "uri": "24-crofton-road/london/se5-8nb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-17T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 20923378,
+                    "streetAddress": "Ground Floor Flat, 90 Crofton Road",
+                    "uri": "ground-floor-flat/90-crofton-road/london/se5-8na"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-28T00:00:00Z",
+                    "price": 1216050,
+                    "propertyId": 20923386,
+                    "streetAddress": "110 Crofton Road",
+                    "uri": "110-crofton-road/london/se5-8na"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 791440,
+                    "propertyId": 20920131,
+                    "streetAddress": "125 Coleman Road",
+                    "uri": "125-coleman-road/london/se5-7tf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 925000,
+                    "propertyId": 20928968,
+                    "streetAddress": "17 Southwell Road",
+                    "uri": "17-southwell-road/london/se5-9pf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 1760000,
+                    "propertyId": 28910636,
+                    "streetAddress": "71 Grove Park",
+                    "uri": "71-grove-park/london/se5-8lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 20919638,
+                    "streetAddress": "26 Sedgmoor Place",
+                    "uri": "26-sedgmoor-place/london/se5-7se"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 589000,
+                    "propertyId": 20920319,
+                    "streetAddress": "7 Tilson Close, Coleman Road",
+                    "uri": "7-tilson-close/coleman-road/london/se5-7tz"
+                }
+            ]
+        }
+    }
+}

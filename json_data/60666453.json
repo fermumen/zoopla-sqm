@@ -1,0 +1,565 @@
+{
+    "address": "Telegraph Avenue, London SE10",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 72.2,
+    "sqft": 777.0,
+    "text": "DISTEL APARTMENTS\nAPPROXIMATE GROSS INTERNAL FLOOR AREA 777 SQ.FT (72.2 SQ.M)\nKA\nBALCONY 2\n1.3mX5.2m\n4.3 ft X 17.1 ft\n\nFF\n\nEe ry | a \u201c\n\nPoco \u2014\u2014\u2014\na | Oo | ee,\nPeet PCC\nReet PRC\nPoet | BEDROOM 1 FCCC eee\nERE KITCHEN | fies | FREE\n\n| ees H 5.7mX2.7m JBSSSSSeeeee\nPy 28mX26m | lies < i] SSSSSSGERee\nPoe a 18.7 TX 8.8 ft Saeceeseeeeeee! |\neee 92X85 ft PRE\npec CON\nFey COR\nooo EEC\n(See fl ial > | F=S08) 000000008 |\nPoco v v PSS ey\nPoo a, PEPE\nCoorg = Seeseeeeuenmen!\nFeo PCE\nPoy SSS\nAcer y PPP\nPoco RECEPTION | COC\nPee \u2014\u2014 Sune ZeeSESEEEE!\nPree 5.0m X 5.2m BEDROOM 2 pee\neee 16.4 ftX 17.1 ft 27mxX44m > PRE\nfea ceoy aenxisan \u00a7\u2014f PPEErY\n/Saeeeesaaae He Paxson Ht\nff] ~ IPE 1.8m X5.2m\nfh\u201d v Ay 5.9 ft X 17.41\nPC\nt SESESEESEESEEDL!/\nENTRANCE\nTHIRD FLOOR\nThis floor plan has been defined by the RICS Code of Measurement. This floor plan and all others are for approximate representative\npurposes only and upon usage is agreed to as such by the client.\nWWW: hdvirtualart.com | TEL: 0203.974.1567 | EMAIL: info@hdvirtualart.com\n",
+    "image": "./extracted_images/60666453.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60666453/",
+    "listing_no": "60666453",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.490432,
+        "longitude": 0.003228
+    },
+    "first_published": "2022-02-02T12:26:30",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60666453",
+        "publishedOn": "2022-02-02T12:26:30",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 60565,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "branchName": "JLL - Greenwich",
+            "brandName": "JLL",
+            "chainFree": false,
+            "companyId": 6050,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Telegraph Avenue, London SE10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0TG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60666453,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 23,
+            "numRecepts": 1,
+            "outcode": "SE10",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jll-greenwich-london-60565/",
+            "branchId": "60565",
+            "branchResultsUri": "/for-sale/branch/jll-greenwich-london-60565/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "phone": "020 8115 3660",
+            "name": "JLL - Greenwich",
+            "memberType": "agent",
+            "address": "22 College Approach, London",
+            "postcode": "SE10 9HY"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Christ Church Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Joseph's Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Maze Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Island Gardens",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://hdvirtualart.com/tours/jll/2289"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Graphs",
+                    "filename": "f2baf3cb4078c9266a39baa1e3a3c668feba8d6a.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "EWS1 Compliant - A beautifully presented two bedroom, two bathroom apartment on the 3rd floor of this amazing Enderby Wharf development offering two private balconies and EWS1 compliant.<br><br>The accommodation comprises two double bedrooms, master with en-suite shower room and both bedrooms have access to a private balcony with far reaching views over the River Thames. Large open-plan reception room and fully fitted kitchen with access to another private balcony with views over the courtyard.<br><br>The apartment is very well connected being situated along the Thames path, allowing easy links (via the river path) to Greenwich town Centre where a range of local amenities can be found along with Greenwich Park, Cutty Sark DLR and Greenwich Mainline Station. North Greenwich Station is also within easy reach being approximately 10 minute by bus and Maze Hill Station even closer, being 0.5 miles from the property.<br><br>The development also benefits from an on-site concierge and gym.<br><br>Early viewings are highly recommended.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "- 2 Bedrooms",
+                "- 2 Bathrooms",
+                "- 2 Balconies",
+                "- Third floor modern apartment",
+                "- On-site concierge and gym",
+                "- Close to Greenwich Village",
+                "- Approx. 777 sq ft (72.2 sq m)",
+                "- Close to transport links",
+                "- EPC: B"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": "2022-01-21T12:00:00"
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "6de3a67050a17d5a446fb6fdfffcc73e347b5401.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "99fb6b49110d725dee758396f6ef6db1020344f5.jpg",
+                "caption": "Dsc_0672_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3ede102128fd344dc1d6c04c812decd8a276940e.jpg",
+                "caption": "Dsc_0657_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "348eaac7b1bfbeb597af0deadd7c803fd1a5653a.jpg",
+                "caption": "Dsc_0651_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c25b4589a4e844a403a14c829c1189033da9e63d.jpg",
+                "caption": "Dsc_0613_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "73c28b9f515a5a8ff17d648129fe078220181788.jpg",
+                "caption": "Dsc_0564_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "71e983529c6d089174883a4a1573978ad4d760ed.jpg",
+                "caption": "Dsc_0582_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b23c1c268c3b378b7df2b50d50807141ef35784e.jpg",
+                "caption": "Dsc_0590_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "70e543bfcf0e53aca51a08fbddf4e37cebee0917.jpg",
+                "caption": "Dsc_0598_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5362ec9a6f75ba8eb07406fec728b86e0a734e18.jpg",
+                "caption": "Dsc_0605_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a831f3857907bbc6f237bdc525487de598700338.jpg",
+                "caption": "Dsc_0645_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "89bad813052c3278fc6aa2c6ac2155d5c7060c55.jpg",
+                "caption": "Dsc_0620_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3434ed5b9524c56eaa6a43fec9eeeb0ca94c8259.jpg",
+                "caption": "Dsc_0637_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f8c70aa4537a2406236e0b51867c51610c74d0be.jpg",
+                "caption": "Dsc_0630_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5751161e98eb3353bd8edebc43a6c2511e918739.jpg",
+                "caption": "Dsc_0572_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "74fc884b5df353093bd6d7b2dff790eb852a9220.jpg",
+                "caption": "Dsc_0665_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6c0b61e8b358619abf24fb5a34f62ba8b9ef2c70.jpg",
+                "caption": "Dsc_0679_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "207b7ef9c46da01b616bb6e2dcdbe696c5e811fb.jpg",
+                "caption": "Dsc_0686_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "04ba602068f813c387c240aa41d39377a5e8a0c4.jpg",
+                "caption": "Dsc_0693_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "dc7908f613dc50ef5a0bab6691b2b3671f588633.jpg",
+                "caption": "Dsc_0700_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8bf71680670b95b61313882c6a9ed3f748c3b4d5.jpg",
+                "caption": "Dsc_0705_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "70c0947ee21ce439436bf67b13d46b507f35aa10.jpg",
+                "caption": "Dsc_0709_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ecf25e7e9bbdf2ff440d115349efcf1a116ce4a0.jpg",
+                "caption": "Dsc_0713_Web"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e72a973af1c33c94291773602118b2d921d76df1.jpg",
+                "caption": "Dsc_0723_A_Web"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 60565,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "branchName": "JLL - Greenwich",
+            "brandName": "JLL",
+            "chainFree": false,
+            "companyId": 6050,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Telegraph Avenue, London SE10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0TG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60666453,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 23,
+            "numRecepts": 1,
+            "outcode": "SE10",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Telegraph Avenue, London SE10 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Telegraph Avenue, London SE10, selling for \u00a3625,000 from JLL - Greenwich. See property details on Zoopla or browse all our range of properties in Telegraph Avenue, London SE10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60666453/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.490432,
+                "longitude": 0.003228
+            }
+        },
+        "displayAddress": "Telegraph Avenue, London SE10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-02T12:26:30",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 59
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/6de3a67050a17d5a446fb6fdfffcc73e347b5401.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "JLL",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60666453,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "5A0D448C-8423-11EC-ADE8-6CDC0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE10",
+            "areaNameUri": "london/se10/greenwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2236
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 487489,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 490846,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3357
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 492937,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5448
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 515817,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -28328
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 469124,
+                    "pctChangeSince": 3.915,
+                    "date": "2017-02-26",
+                    "changeSince": 18365
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 306678,
+                    "pctChangeSince": 58.958,
+                    "date": "2012-02-26",
+                    "changeSince": 180811
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 296346,
+                    "pctChangeSince": 64.5,
+                    "date": "2007-02-26",
+                    "changeSince": 191143
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 175840,
+                    "pctChangeSince": 177.234,
+                    "date": "2002-02-26",
+                    "changeSince": 311649
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 509351,
+                    "newBuilds": 26,
+                    "numSales": 175
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 501732,
+                    "newBuilds": 177,
+                    "numSales": 615
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 476740,
+                    "newBuilds": 511,
+                    "numSales": 1538
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 469105,
+                    "newBuilds": 1370,
+                    "numSales": 3123
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1030000,
+                    "propertyId": 21004877,
+                    "streetAddress": "10 Feathers Place",
+                    "uri": "10-feathers-place/london/se10-9ne"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 1320000,
+                    "propertyId": 21002409,
+                    "streetAddress": "57 Ashburnham Grove",
+                    "uri": "57-ashburnham-grove/london/se10-8uj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 386000,
+                    "propertyId": 32075205,
+                    "streetAddress": "Flat 21, Poldo House, 24 Cable Walk",
+                    "uri": "flat-21/poldo-house/24-cable-walk/london/se10-0tq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 845000,
+                    "propertyId": 20999024,
+                    "streetAddress": "27 Dartmouth Hill",
+                    "uri": "27-dartmouth-hill/london/se10-8aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 552500,
+                    "propertyId": 21003732,
+                    "streetAddress": "78 Colomb Street",
+                    "uri": "78-colomb-street/london/se10-9ez"
+                }
+            ]
+        }
+    }
+}

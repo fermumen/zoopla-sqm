@@ -1,0 +1,523 @@
+{
+    "address": "Huron Road, Balham SW17",
+    "price": "\u00a3630,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 62.4,
+    "sqft": 672.0,
+    "text": "62.4 sq.m. (672 sq.ft.) approx.\na \u2019\n- TO\n\nWARDROBE WARDROBE\nBATHROOM\n1.61m |k 2.50m.\n5'3\" |x 8'2\"\nRECEPTION ROOM\n4.98m x 3.80m\n16'4\" x 12'6\"\nBEDROOM _\n4.29m x 3.59m \u2014\n14'1\" x 11'9\"\n|\nq\nHALLWA\\ NP\n| | KITCHEN\n3.05m x 2.74m iil\nBEDROOM Hong ow\n3.25m x 2.57m\n10'S\" x 8'5\" \u2014\neas,\n[ARDROB\nTOTAL FLOOR AREA: 62.4 sq.m. (672 sq.ft.) approx.\nWhilst every attempt has been made to ensure the accuracy of the floorplan contained here, measurements\nof doors, windows, rooms and any other items are approximate and no responsibility is taken for any error,\nomission or mis-statement. This plan is for illustrative purposes only and should be used as such by any\nprospective purchaser. The services, systems and appliances shown have not been tested and no guarantee\nas to their operability or efficiency can be given.\nMade with Metropix \u00a92021\n",
+    "image": "./extracted_images/60425500.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60425500/",
+    "listing_no": "60425500",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.437243,
+        "longitude": -0.154709
+    },
+    "first_published": "2021-12-26T00:09:36",
+    "last_sale_date": "2018-05-11",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60425500",
+        "publishedOn": "2021-12-26T00:09:36",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://www.purplebricks.co.uk/brochure/1288822",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": false,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Huron Road, Balham SW17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8RB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60425500,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SW17",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 630000,
+            "price": 630000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1425063
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/purplebricks-head-office-solihull-58933/",
+            "branchId": "58933",
+            "branchResultsUri": "/for-sale/branch/purplebricks-head-office-solihull-58933/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "phone": "024 7511 8874",
+            "name": "Purplebricks, Head Office",
+            "memberType": "agent",
+            "address": "Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull",
+            "postcode": "B90 4RZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Anselm's Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Eveline Day School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tooting Bec",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Balham",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "caption": "epc",
+                    "original": "https://lc.zoocdn.com/0227d7ac380b256a2dfa20bb28a66f8fa1e198a4.pdf"
+                }
+            ]
+        },
+        "detailedDescription": "This stunning two bedroom first floor Victorian conversion comprising a spacious living / dinning area and a recently fitted separate kitchen.<br><br>This flat also boasts two double bedrooms with built-in wardrobes, a modern bathroom with ample storage and high ceilings throughout.<br><br>Located within the prestigious Heaver Estate in Balham, this property is well situated for easy access to Balham station, which offers excellent transport links into the Central London by way of the Northern line as well as mainline services. Tooting Bec station is also within close proximity.<br><br>The shops, bars and restaurants of Balham are close by as are a parade of thriving independent shops and restaurants along Ritherdon Road.<br><br>The green open spaces of Tooting Bec Common are just a stones throw away at the end of Huron Road.<br><br><strong>Disclaimer For Virtual Viewings</strong><br><br>Some or all information pertaining to this property may have been provided solely by the vendor, and although we always make every effort to verify the information provided to us, we strongly advise you to make further enquiries before continuing.<br><br>If you book a viewing or make an offer on a property that has had its valuation conducted virtually, you are doing so under the knowledge that this information may have been provided solely by the vendor, and that we may not have been able to access the premises to confirm the information or test any equipment. We therefore strongly advise you to make further enquiries before completing your purchase of the property to ensure you are happy with all the information provided.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two bedroom first floor flat",
+                "Spacious reception room with dining area",
+                "Located within the heaver estate",
+                "157 years remaining on the lease",
+                "Close to balham train &amp; tube station",
+                "Short walk to tooting bec common",
+                "Excellent choice of both private and state schools"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "6dca424fc877f2eddf168ae7bc2a231bcf27bd3e.png",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "f04dd82cf6ba50af6e10f4f859147f874022bf3f.jpg",
+                "caption": "Outside"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f03e293b4cf37b35fd4a7bcf86e91d2e8871b7af.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "168d12112576cc59b305265e78fbab421d0d8bcd.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f9edef1d009cf30e1afb75b69977d4e401533491.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "473c375c3d21b100f5415da94fc6fea8db3b3671.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a5fcc47e0100bae95aa68dc35b6ad7949099e460.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d861520a2c9ecaba87da7c4179264538e2e8f740.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d1b6216ef06488f342dff8aa0c8a9e72e286ec0e.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "aed35b0f269db48a98168b4875a436ff1fd86093.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8e6d28a9c981fdf1a5ae47b92e8ea6957d75caec.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": false,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Huron Road, Balham SW17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8RB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60425500,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SW17",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 630000,
+            "price": 630000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 1425063
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Huron Road, Balham SW17 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Huron Road, Balham SW17, selling for \u00a3630,000 from Purplebricks, Head Office. See property details on Zoopla or browse all our range of properties in Huron Road, Balham SW17.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60425500/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.437243,
+                "longitude": -0.154709
+            }
+        },
+        "displayAddress": "Huron Road, Balham SW17",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-26T00:09:36",
+                "priceLabel": "\u00a3630,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2018-05-11",
+                "newBuild": false,
+                "price": 555000,
+                "priceLabel": "\u00a3555,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 98
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/6dca424fc877f2eddf168ae7bc2a231bcf27bd3e.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3630,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Purplebricks",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60425500,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "0DA6107C-9393-11EC-9CAD-E42B0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW17",
+            "areaNameUri": "london/sw17/tooting",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1775.0000000000014
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 463081,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 465368,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2287
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 465663,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2582
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 485088,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -22007
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 470025,
+                    "pctChangeSince": -1.477,
+                    "date": "2017-02-26",
+                    "changeSince": -6944
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 324021,
+                    "pctChangeSince": 42.917,
+                    "date": "2012-02-26",
+                    "changeSince": 139060
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 295995,
+                    "pctChangeSince": 56.449,
+                    "date": "2007-02-26",
+                    "changeSince": 167086
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 180337,
+                    "pctChangeSince": 156.786,
+                    "date": "2002-02-26",
+                    "changeSince": 282744
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 488804,
+                    "newBuilds": 0,
+                    "numSales": 293
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492441,
+                    "newBuilds": 18,
+                    "numSales": 857
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 480456,
+                    "newBuilds": 27,
+                    "numSales": 1562
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 470966,
+                    "newBuilds": 131,
+                    "numSales": 2513
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 2520000,
+                    "propertyId": 23361173,
+                    "streetAddress": "60 Huron Road",
+                    "uri": "60-huron-road/london/sw17-8rd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 1760000,
+                    "propertyId": 23361210,
+                    "streetAddress": "9 Huron Road",
+                    "uri": "9-huron-road/london/sw17-8re"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 625000,
+                    "propertyId": 23364076,
+                    "streetAddress": "19 Frinton Road",
+                    "uri": "19-frinton-road/london/sw17-9eh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 872500,
+                    "propertyId": 23367035,
+                    "streetAddress": "187 Seely Road",
+                    "uri": "187-seely-road/london/sw17-9qx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 486850,
+                    "propertyId": 23367498,
+                    "streetAddress": "73 Sellincourt Road",
+                    "uri": "73-sellincourt-road/london/sw17-9rz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 1140000,
+                    "propertyId": 23361420,
+                    "streetAddress": "96 Drakefield Road",
+                    "uri": "96-drakefield-road/london/sw17-8rr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 920000,
+                    "propertyId": 23357308,
+                    "streetAddress": "40 Moring Road",
+                    "uri": "40-moring-road/london/sw17-8dl"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,534 @@
+{
+    "address": "Stratheden Road, Blackheath, London SE3",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 87.81,
+    "sqft": 2022.0,
+    "text": "Winkworth Bardon Lodge, SE3\n23/02/2022 173791 87.81 sqm / 945.18 saft\nNN\nMAIN BEDROOM .\n4.52m x 3.29m Y\n(14\u00b010 x 10'10)\n, \\\n/\nE\nBEDROOM 2 Le ] ~ :\n5.00m x 2.98m Ue 7 \\ <\n(16'S x 9'9) a\n/\n1\nv\n\\ popes =?!\n\\ ay =\nYow KITCHEN\n4.42m x 1.97m\nRECEPTION (14\u00b06 x 6'6)\n6.03m x 4.36m 7\n| (19'9 x 144)\n= Second Floor\n87.81 sqm / 945.18 sqft 79.17 sqm / 852.18 sqft 0.00 sqm / 0.00 saft 0.00 sqm / 0.00 saft\nMspec\u2019\nVerified \u00a9\n",
+    "image": "./extracted_images/60856039.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60856039/",
+    "listing_no": "60856039",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.475014,
+        "longitude": 0.017644
+    },
+    "first_published": "2022-02-25T20:05:17",
+    "last_sale_date": "2017-12-19",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60856039",
+        "publishedOn": "2022-02-25T20:05:17",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/BLA220035",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=BLA220035",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8151,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Blackheath",
+            "brandName": "Winkworth",
+            "chainFree": true,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Stratheden Road, Blackheath, London SE3",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7TE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60856039,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE3",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 768246
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-blackheath-blackheath-8151/",
+            "branchId": "8151",
+            "branchResultsUri": "/for-sale/branch/winkworth-blackheath-blackheath-8151/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8033 4599",
+            "name": "Winkworth - Blackheath",
+            "memberType": "agent",
+            "address": "5 Blackheath Village, Blackheath,",
+            "postcode": "SE3 9LA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Pointer School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Blackheath High School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Westcombe Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Blackheath",
+                "type": "national_rail_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/621735f1bddc6e0a4e76012c?brochureEmbed"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "92cf5357ef50a1bfb1a4bdcc042479b08f6b378d.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Spanning 881 sq.ft and found on the top floor of this impressive Victorian conversion, is this superb two double bedroom, two bathroom, apartment located just moments from the heath, Greenwich Park and Blackheath Standard.<br><br>The property is in excellent decorative order with features including; wood flooring, sash windows and gas fired central heating.<br><br>Found on the second floor, the accommodation comprises: A large central entrance hall, a huge 26'3 x 14'5 reception room with an attractive modern open plan kitchen and granite worktops. There is a large 14'9 x 10'8 master bedroom with ensuite shower room, a second double bedroom and large modern bathroom. To the rear is an outstanding and vast communal garden. There is an allocated parking space to the front and the property is sold chain free and with a share of the freehold.<br><br>This is a wonderful apartment and immediate viewing is essential. Video tour can be seen at <br><br>The property is very convenient for transport links with Blackheath train station (0.73 miles) and Westcombe Park station (0.58 miles) nearby and buses stopping for North Greenwich tube station (1.8 miles). Blackheath Common, (125 yards), and Royal Greenwich Park (500 metres) are both just a short walk. Blackheath Village with its array of boutiques, restaurants, bars, and farmers market is just a few minutes' walk and the daily conveniences of Blackheath Standard including M&amp;S food hall only 200 yards away.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two bedrooms",
+                "Two bathrooms",
+                "Share of freehold",
+                "Off street parking",
+                "Chain free",
+                "945 sq ft.",
+                "Close to Blackheath Village &amp; Station",
+                "Moments from Greenwich Park &amp; Blackheath Standard"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "f74e59c39495c9ce4a9d008c6f950925da070444.png",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "66aa7f2d4274eb0eddbfa4688b84bed788bfd7f0.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d1aa6f40a0f2e05462f809d648ccf322ad6e648f.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "97e55df6a5702ffe6f80272374843fc26e0a5235.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ff56fd043d3fe4e9fc752eb824d3645efc8e992e.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e83dd055deea7ada3a1632d27a3e3694ce59c918.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ad30d6750e928ebedb1b0e1cd3fcf92581000db7.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9fd6ce75e742cd0a92bab9145fe68542f68893e5.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "57622a1a13b4f0132ad847de6d8fd4b94c60510b.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "df8526e0429b6b87e0692274030b51bc73074409.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b74f2dcd8fb4599989f1d0ab5f3a2c3fb62ebdeb.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "914cca990dbfd4dec6b88252a660f75a00de9f5a.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "48a4ba3c82e7d6ecc26f1d65864e3a7d00e95e5b.jpg",
+                "caption": "Picture No. 08"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8151,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Blackheath",
+            "brandName": "Winkworth",
+            "chainFree": true,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Stratheden Road, Blackheath, London SE3",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7TE",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60856039,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE3",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 768246
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Stratheden Road, Blackheath, London SE3 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Stratheden Road, Blackheath, London SE3, selling for \u00a3550,000 from Winkworth - Blackheath. See property details on Zoopla or browse all our range of properties in Stratheden Road, Blackheath, London SE3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60856039/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.475014,
+                "longitude": 0.017644
+            }
+        },
+        "displayAddress": "Stratheden Road, Blackheath, London SE3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-25T20:05:17",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2017-12-19",
+                "newBuild": false,
+                "price": 320000,
+                "priceLabel": "\u00a3320,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 14
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/f74e59c39495c9ce4a9d008c6f950925da070444.png"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60856039,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "417126CC-9676-11EC-A255-11E10D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE3",
+            "areaNameUri": "london/se3/blackheath-kidbrooke-westcombe-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2022.6666666666674
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 462884,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 466070,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3186
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 468055,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5171
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 489778,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -26894
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 445442,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 17442
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 291197,
+                    "pctChangeSince": 58.959,
+                    "date": "2012-02-26",
+                    "changeSince": 171687
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 281386,
+                    "pctChangeSince": 64.501,
+                    "date": "2007-02-26",
+                    "changeSince": 181498
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 166963,
+                    "pctChangeSince": 177.237,
+                    "date": "2002-02-26",
+                    "changeSince": 295921
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 474299,
+                    "newBuilds": 0,
+                    "numSales": 153
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 474566,
+                    "newBuilds": 44,
+                    "numSales": 433
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 462955,
+                    "newBuilds": 48,
+                    "numSales": 777
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 451023,
+                    "newBuilds": 278,
+                    "numSales": 1398
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 880000,
+                    "propertyId": 20887408,
+                    "streetAddress": "9 Wricklemarsh Road",
+                    "uri": "9-wricklemarsh-road/london/se3-0nf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 548000,
+                    "propertyId": 20889727,
+                    "streetAddress": "47 Invicta Road",
+                    "uri": "47-invicta-road/london/se3-7hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 775000,
+                    "propertyId": 20894911,
+                    "streetAddress": "19 Woolacombe Road",
+                    "uri": "19-woolacombe-road/london/se3-8qj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 463000,
+                    "propertyId": 20891921,
+                    "streetAddress": "25d St. Johns Park",
+                    "uri": "25d-st-johns-park/london/se3-7td"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 875000,
+                    "propertyId": 20886342,
+                    "streetAddress": "8 The Plantation",
+                    "uri": "8-the-plantation/london/se3-0ab"
+                }
+            ]
+        }
+    }
+}

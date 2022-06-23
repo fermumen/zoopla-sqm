@@ -1,0 +1,465 @@
+{
+    "address": "St. Marks Road, London W10",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 67.7,
+    "sqft": null,
+    "text": "\\\nSt. Marks Road, W10 TARY\nme a\nAPPROX. GROSS INTERNAL FLOOR AREA 729 SQFT / 67.7 SQM rh,\nA\nBedroom\nQn\n15'9\" (4.80) es\n7'6\" (2.28) |\ni y\n/ : \\ Cy\n== l Dn TS =\nom A X A\\ A | |\nit Soot |X ofl\n+ \\ 4 S| ay\n|\n(lf elt |_| (NY\n| Bedroom [| %| pW\n=a 12!2\" (3.71) fice .\n| =I Kitchen\nI'M\" (3.62\n(abel 12'\" (3.68) | |\nUp = 1'8\" (3.55) 7\nSy : far ]\nGROUND FLOOR FIRST FLOOR\nThe floor plan is not to scale and measurements and\nareas shown are approximate and therefore should be used for illustrative purposes only.\nThe plan has been prepared in accordance with the RICS code of measuring Practice\nand whilst we have confidence in the information produced, it must not be relied on.\nIf there is any aspect of particular importance, you should carry out or\ncommission your own inspection of the property.\n",
+    "image": "./extracted_images/60844407.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60844407/",
+    "listing_no": "60844407",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.522536,
+        "longitude": -0.219652
+    },
+    "first_published": null,
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60844407",
+        "publishedOn": "2022-02-24T15:49:35",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 14222,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "branchName": "Marsh & Parsons - North Kensington",
+            "brandName": "Marsh & Parsons",
+            "chainFree": false,
+            "companyId": 7059,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "St. Marks Road, London W10",
+            "furnishedState": "",
+            "groupId": 10,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6DA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60844407,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "W10",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 488319
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/marsh-and-parsons-north-kensington-london-14222/",
+            "branchId": "14222",
+            "branchResultsUri": "/for-sale/branch/marsh-and-parsons-north-kensington-london-14222/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "phone": "020 3463 2715",
+            "name": "Marsh & Parsons - North Kensington",
+            "memberType": "agent",
+            "address": "136 Lancaster Road, London",
+            "postcode": "W11 1QU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barlby Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "La Petite Ecole Francaise",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ladbroke Grove",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kensal Green",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "291a80fcdf4cf29f9c6ade33c6bf67bd2a4ad0f2.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This stunning first floor maisonette that has been kept in great condition. The flat comprises two double bedrooms with built in cupboards, a large reception room, and modern separate fitted kitchen. Downstairs and to the rear is a well maintained private garden.<br><br>The property is within walking distance of Latimer Road and Ladbroke Grove Underground stations and close to the shops and delis of St Helens Gardens.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "88e360b2a014253c2535664cff467e2f9a590d17.jpg",
+                    "caption": "Picture No. 03"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "30782e21a28c58af4105e51fd7b557b91d1a56ea.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0840cb7accd4c0633981cc46749c73e42245faa0.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0b440ed22f334a9043298022447ab200711010fb.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c5673b40680ccc8974bb7bb0a0b49ccc66eb958a.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cd4abd87f43f58bd5de0dfdcf599ca1de30c8420.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6d1709372fa2ba4b2994e0155d65f776a62c0f9e.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "858553f5d73a8046263a8e633f0fed11da17667c.jpg",
+                "caption": "Picture No. 10"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 14222,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(295280).png",
+            "branchName": "Marsh & Parsons - North Kensington",
+            "brandName": "Marsh & Parsons",
+            "chainFree": false,
+            "companyId": 7059,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "St. Marks Road, London W10",
+            "furnishedState": "",
+            "groupId": 10,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6DA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60844407,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "W10",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 488319
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in St. Marks Road, London W10 - Zoopla",
+        "metaDescription": "2 bed flat for sale in St. Marks Road, London W10, selling for \u00a3625,000 from Marsh & Parsons - North Kensington. See property details on Zoopla or browse all our range of properties in St. Marks Road, London W10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60844407/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.522536,
+                "longitude": -0.219652
+            }
+        },
+        "displayAddress": "St. Marks Road, London W10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": null,
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 44
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/88e360b2a014253c2535664cff467e2f9a590d17.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Marsh & Parsons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60844407,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "5E1603BC-9589-11EC-BE6D-C1020E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W10",
+            "areaNameUri": "london/w10/north-kensington-ladbroke-grove",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3402.3232323232314
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 587111,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 596640,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -9529
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 614282,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -27171
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 647518,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -60407
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 642442,
+                    "pctChangeSince": -8.613,
+                    "date": "2017-02-26",
+                    "changeSince": -55331
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 427933,
+                    "pctChangeSince": 37.197,
+                    "date": "2012-02-26",
+                    "changeSince": 159178
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 381623,
+                    "pctChangeSince": 53.846,
+                    "date": "2007-02-26",
+                    "changeSince": 205488
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 226175,
+                    "pctChangeSince": 159.583,
+                    "date": "2002-02-26",
+                    "changeSince": 360936
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 643648,
+                    "newBuilds": 1,
+                    "numSales": 79
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 663556,
+                    "newBuilds": 10,
+                    "numSales": 203
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 665037,
+                    "newBuilds": 14,
+                    "numSales": 374
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 649877,
+                    "newBuilds": 80,
+                    "numSales": 723
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 855000,
+                    "propertyId": 25132688,
+                    "streetAddress": "34 Kelfield Gardens",
+                    "uri": "34-kelfield-gardens/london/w10-6nb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 330000,
+                    "propertyId": 25122296,
+                    "streetAddress": "Flat 18, Noko 3-6, Banister Road",
+                    "uri": "flat-18/noko-3-6/banister-road/london/w10-4ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 820000,
+                    "propertyId": 25123668,
+                    "streetAddress": "29 Nutbourne Street",
+                    "uri": "29-nutbourne-street/london/w10-4hw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 1525000,
+                    "propertyId": 25130758,
+                    "streetAddress": "36 Bracewell Road",
+                    "uri": "36-bracewell-road/london/w10-6af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 565000,
+                    "propertyId": 25128269,
+                    "streetAddress": "194 Ladbroke Grove",
+                    "uri": "194-ladbroke-grove/london/w10-5lz"
+                }
+            ]
+        }
+    }
+}

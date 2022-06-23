@@ -1,0 +1,533 @@
+{
+    "address": "The Woodlands, Hither Green, London SE13",
+    "price": "\u00a3625,000",
+    "beds": "3 beds",
+    "area": "1,041 sq. ft",
+    "sqm": 96.7,
+    "sqft": null,
+    "text": "= Bathr\nO s2]0\nq ZA) Toilet\nKitchen [\n4.00mx2.77m\n(13\u00b0 1\"x 91\")\nOO}\nDining Room\n3.60m x 3.20m \\Y Bedroom 2\n(11' 10\" x 10' 6\") L \\Y 3.70m x 3.40m\nma (12\u00b0 2\" x 11' 2\")\n| | |\nnm\n| | |\n| |\nnm\nnm\n> | | |\nrans = /|\n| | | | ||\n= _\u2014 \\|\n==\n=a Living. Room Seige)\n4.40m x 3.60m\n| (145\" x 41\u00b0 10\") 4.40mx3.40m | Shed\nFall Bedroom 3 St) 4.80m x 3.00m\nMm\u2122 2.60m x 2.00m [| (15' 9\" x 9' 10\")\n\u2014 S (8'6\"x6'7\")\nll Porch \\|\nGround Floor First Floor Outbuilding\nTotal floor area 96.7 sq.m. (1,041 sq.ft.) approx\nThis floor plan is for illustrative purposes only. It is not drawn to scale. Any measurements, floor areas (including any total floor area), openings and orientation are approximate. No\ndetails are guaranteed, they cannot be relied upon for any purpose and they do not form part of any agreement. No liability is taken for any error, omission or misstatement. A party\nmust rely upon its own inspection(s). Plan produced for Leaders. Powered by www.focalagent.com\n",
+    "image": "./extracted_images/60859403.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60859403/",
+    "listing_no": "60859403",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.445919,
+        "longitude": -0.003631
+    },
+    "first_published": "2022-02-26T13:07:04",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60859403",
+        "publishedOn": "2022-02-26T13:07:04",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 32317,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(251946).png",
+            "branchName": "Leaders - Forest Hill",
+            "brandName": "Leaders",
+            "chainFree": true,
+            "companyId": 8112,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Woodlands, Hither Green, London SE13",
+            "furnishedState": "",
+            "groupId": 155,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6TY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60859403,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SE13",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "1041",
+            "tenure": "freehold",
+            "zindex": 497886
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/leaders-forest-hill-forest-hill-32317/",
+            "branchId": "32317",
+            "branchResultsUri": "/for-sale/branch/leaders-forest-hill-forest-hill-32317/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(251946).png",
+            "phone": "020 8166 1783",
+            "name": "Leaders - Forest Hill",
+            "memberType": "agent",
+            "address": "9-13 The Facade, Forest Hill",
+            "postcode": "SE23 3HA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Sandhurst Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brindishe Green School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hither Green",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lee (London)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://vid.audioagent.com/wv/jZaz"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": [
+                {
+                    "__typename": "Media",
+                    "url": "https://sv.ht/SIP5VGt"
+                }
+            ]
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A spacious 1930s three-bedroom terrace family home situated on the quiet residential road and room to extend.<br><br>The accommodation comprises a glazed entrance porch, spacious hallway large living room recently fitted kitchen. Upstairs there are three bedrooms, two of which are doubles and an attractive modern bathroom. To the rear, there is a spacious garden with paving and lawn, a separate garage. The property also benefits from double glazing, gas central heating and is sold chain free.<br><br>Located in a popular location close to Hither Green mainline train station, local shops, schools, and green spaces.<br><br>Agent Notes- Successful buyers will be required to complete online identity checks provided by Lifetime Legal. The cost of these checks is \u00a360 inc. VAT per purchase which is paid in advance, directly to Lifetime Legal. This charge verifies your identity in line with our obligations as agreed with hmrc and includes mover protection insurance to protect against the cost of an abortive purchase.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three Bedroom Family Home",
+                "Garage to Rear",
+                "Room to Extend (STPP)",
+                "0.7 miles from Hither Green Station",
+                "Through Lounge",
+                "1041 sqft",
+                "Close to Mountsfield Park",
+                "Chain Free",
+                "Rear Garden",
+                "Gas central heating"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "371b87bc5d4ef4ffcabf29436d7a770523b2b1af.jpg",
+                    "caption": "Floor-Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "2ff76fcba9e223b8452a0b8650ef9b46b69cf397.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4c55c72f2fa435b59a46181c54bb56d9617f0ca1.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d1b917a9f9ec76cdac4e46cdd31a0ac6f01ca72c.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "876a6b4bdee7f7c14f4388027f5d2c4c03a162a4.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0836e51a5abc491dcc6c18a5f749401361dccccd.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0f0449f19a8c78861f19845fc4f93706bf0aa170.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c4b4b763bf5ba97e30940c02d99f61f53749a9ba.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "810791d667c568fb86dec9a3ce0f7badf6188a1d.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e3709722a95065295515d8da4d8e3537be64650f.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7df0844eafb8612ab87170aa2029d12aab2947f4.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "66e725097c398c58e874575e043c2909f529989e.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "428e03d1c3d7acd522316577b59e30057f92d9a3.jpg",
+                "caption": "Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1251b939d41b7e01a5f4bac60018d0c4f2cf155f.jpg",
+                "caption": "Photography"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 32317,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(251946).png",
+            "branchName": "Leaders - Forest Hill",
+            "brandName": "Leaders",
+            "chainFree": true,
+            "companyId": 8112,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Woodlands, Hither Green, London SE13",
+            "furnishedState": "",
+            "groupId": 155,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6TY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60859403,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SE13",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "1041",
+            "tenure": "freehold",
+            "zindex": 497886
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in The Woodlands, Hither Green, London SE13 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in The Woodlands, Hither Green, London SE13, selling for \u00a3625,000 from Leaders - Forest Hill. See property details on Zoopla or browse all our range of properties in The Woodlands, Hither Green, London SE13.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60859403/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.445919,
+                "longitude": -0.003631
+            }
+        },
+        "displayAddress": "The Woodlands, Hither Green, London SE13",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-26T13:07:04",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 0
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/371b87bc5d4ef4ffcabf29436d7a770523b2b1af.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 1041
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 600,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Leaders",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60859403,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "FF219060-9704-11EC-B0DC-D9C70D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE13",
+            "areaNameUri": "london/se13/lewisham-hither-green",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1850.3333333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 594151,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 601033,
+                    "pctChangeSince": -1.145,
+                    "date": "2021-11-26",
+                    "changeSince": -6882
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 621020,
+                    "pctChangeSince": -4.327,
+                    "date": "2021-08-26",
+                    "changeSince": -26869
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 628588,
+                    "pctChangeSince": -5.478,
+                    "date": "2021-02-26",
+                    "changeSince": -34437
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 566326,
+                    "pctChangeSince": 4.913,
+                    "date": "2017-02-26",
+                    "changeSince": 27825
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 357892,
+                    "pctChangeSince": 66.014,
+                    "date": "2012-02-26",
+                    "changeSince": 236259
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 333140,
+                    "pctChangeSince": 78.349,
+                    "date": "2007-02-26",
+                    "changeSince": 261011
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 204358,
+                    "pctChangeSince": 190.74,
+                    "date": "2002-02-26",
+                    "changeSince": 389793
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 712356,
+                    "newBuilds": 0,
+                    "numSales": 142
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 681280,
+                    "newBuilds": 7,
+                    "numSales": 385
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 655887,
+                    "newBuilds": 7,
+                    "numSales": 660
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 627636,
+                    "newBuilds": 9,
+                    "numSales": 1005
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-12T00:00:00Z",
+                    "price": 588500,
+                    "propertyId": 21037383,
+                    "streetAddress": "27 The Woodlands",
+                    "uri": "27-the-woodlands/london/se13-6tz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-21T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 21030447,
+                    "streetAddress": "56 Fernbrook Road",
+                    "uri": "56-fernbrook-road/london/se13-5nf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 21030489,
+                    "streetAddress": "74 Fernbrook Road",
+                    "uri": "74-fernbrook-road/london/se13-5nh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 525000,
+                    "propertyId": 21037496,
+                    "streetAddress": "14 Hospital Way",
+                    "uri": "14-hospital-way/london/se13-6uf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 655000,
+                    "propertyId": 21030356,
+                    "streetAddress": "53 Longhurst Road",
+                    "uri": "53-longhurst-road/london/se13-5na"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 920000,
+                    "propertyId": 21036077,
+                    "streetAddress": "10 St. Swithuns Road",
+                    "uri": "10-st-swithuns-road/london/se13-6rw"
+                }
+            ]
+        }
+    }
+}

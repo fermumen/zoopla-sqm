@@ -1,0 +1,507 @@
+{
+    "address": "2 Lanercost Road, London SW2",
+    "price": "\u00a3600,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60637358/",
+    "listing_no": "60637358",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.439601,
+        "longitude": -0.1108
+    },
+    "first_published": "2022-01-28T18:53:10",
+    "last_sale_date": "2020-08-28",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60637358",
+        "publishedOn": "2022-01-28T18:53:10",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 35875,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592083).png",
+            "branchName": "Allsop LLP",
+            "brandName": "Allsop LLP",
+            "chainFree": false,
+            "companyId": 16819,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "2 Lanercost Road, London SW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "3DN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60637358,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 973891
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/allsop-llp-london-35875/",
+            "branchId": "35875",
+            "branchResultsUri": "/for-sale/branch/allsop-llp-london-35875/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592083).png",
+            "phone": "020 3641 1750",
+            "name": "Allsop LLP",
+            "memberType": "agent",
+            "address": "33 Wigmore Street, West End, London",
+            "postcode": "W1U 1BZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "City Heights E-ACT Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Fenstanton Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tulse Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Norwood",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Key Features<ul><li>Lot 124 for sale</li><li><em>To view the property or see a virtual tour please refer to the full sales particulars on the auctioneers website</em></li><li>Providing Two self contained Flats and One self contained Maisonette</li><li>Vacant Ground and First Floor Maisonette providing Reception Room, Three Bedrooms, Kitchen, Bathroom/WC, Storage Room</li><li>Two Flats each subject to a Lease with approximately 121 years remaining</li><li>Gia of the Maisonette approximately 83.1 sq m (894 sq ft)</li><li>Tulse Hill rail station is approximately 0.2 miles to the east</li><li>Brockwell Park is to the north </li><li>Virtual Tour and Floorplan of Maisonette available below</li></ul><br>Key Locations<ul><li>Located on the south side of Lanercost Road, at its junction with Probyn Road</li><li>The shops and amenities of West Norwood are to the south east</li><li>Tulse Hill rail station is approximately 0.2 miles to the east</li><li>Probyn Road leads onto the A205 (South Circular)</li><li>Brockwell Park is to the north </li></ul><br>Additional Information<ul><li>The Vendor will not accept offers prior to auction</li></ul><br>Viewings<ul><li>The property will be open for viewing every Thursday and Saturday before the auction between 2:15 - 2:45 p.m. These are open viewing times with no need to register. Please note the first viewings for the catalogue will commence 1st February.<br><br>It is strongly encouraged that all viewers have appropriate ppe (mask and gloves) when viewing the property. If you are showing any Coronavirus symptoms then you will not be allowed to view the property.<br><br>If you cannot attend the viewing you are advised to view the images and any available virtual tour on our website before bidding.</li></ul>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "bd42834e63085ed26c969ef745d4b8c778d4f149.jpg",
+                "caption": "Img_4304.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e02974ea8e9c7f9d508f9b2ab5c4fa662d6f8248.jpg",
+                "caption": "8489675.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b926f991ef8aed575d0861a01dae56af78817d85.jpg",
+                "caption": "060 For Jc.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bf6160639ae90ee7c37c1fc1df9efa0e9966bb90.jpg",
+                "caption": "Img_4298.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "528bc42701ab7e23042d3a4aa3838fbbe2bfd3b0.jpg",
+                "caption": "Img_4300.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "35fd9b23db882f18b645dda4499ce92073053fe7.jpg",
+                "caption": "Img_4299.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6df8d5b5771c8e90061ab818de098f082837acdb.jpg",
+                "caption": "Img_4296.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c4c88995a2d6f855338dfb7ce0e2d2b3f4bdeec5.jpg",
+                "caption": "Img_4295.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "04d96b26405412643bf73a1858ad08be9e13efe1.jpg",
+                "caption": "Img_4294.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "728751e0c08e5cdeea6a706e521f2cc002d456bc.jpg",
+                "caption": "Img_4292.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0d5b74f813afe146ae8c98410368980d56a5183a.jpg",
+                "caption": "Img_4301.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e40f34d47c1372708bf1935201c2c0d9679cc927.jpg",
+                "caption": "Img_4306.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 35875,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592083).png",
+            "branchName": "Allsop LLP",
+            "brandName": "Allsop LLP",
+            "chainFree": false,
+            "companyId": 16819,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "2 Lanercost Road, London SW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "3DN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60637358,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 973891
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in 2 Lanercost Road, London SW2 - Zoopla",
+        "metaDescription": "3 bed flat for sale in 2 Lanercost Road, London SW2, selling for \u00a3600,000 from Allsop LLP. See property details on Zoopla or browse all our range of properties in 2 Lanercost Road, London SW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60637358/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.439601,
+                "longitude": -0.1108
+            }
+        },
+        "displayAddress": "2 Lanercost Road, London SW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-28T18:53:10",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2020-08-28",
+                "newBuild": false,
+                "price": 372500,
+                "priceLabel": "\u00a3372,500",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": false,
+                    "isPriceIncrease": true,
+                    "percentageChangeLabel": "9.1",
+                    "priceChangeDate": "2022-02-11T14:47:28",
+                    "priceChangeLabel": "\u00a350,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 177
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": true,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Allsop LLP",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60637358,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "C363970A-8FCD-11EC-98CB-E5E40D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW2",
+            "areaNameUri": "london/sw2/brixton-centralsouth-streatham-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2356.4047619047606
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 416692,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 418750,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2058
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 419016,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -2324
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 436495,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -19803
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 422941,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -6249
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 291563,
+                    "pctChangeSince": 42.917,
+                    "date": "2012-02-26",
+                    "changeSince": 125129
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 266345,
+                    "pctChangeSince": 56.448,
+                    "date": "2007-02-26",
+                    "changeSince": 150347
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 162273,
+                    "pctChangeSince": 156.785,
+                    "date": "2002-02-26",
+                    "changeSince": 254419
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 468018,
+                    "newBuilds": 0,
+                    "numSales": 325
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 469309,
+                    "newBuilds": 15,
+                    "numSales": 865
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 464625,
+                    "newBuilds": 94,
+                    "numSales": 1643
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 453303,
+                    "newBuilds": 116,
+                    "numSales": 2581
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-11T00:00:00Z",
+                    "price": 1825000,
+                    "propertyId": 23117418,
+                    "streetAddress": "57 Lanercost Road",
+                    "uri": "57-lanercost-road/london/sw2-3dr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-19T00:00:00Z",
+                    "price": 1260000,
+                    "propertyId": 23117344,
+                    "streetAddress": "4 Lanercost Road",
+                    "uri": "4-lanercost-road/london/sw2-3dn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 1230000,
+                    "propertyId": 23120724,
+                    "streetAddress": "90 Downton Avenue",
+                    "uri": "90-downton-avenue/london/sw2-3ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 216000,
+                    "propertyId": 23120868,
+                    "streetAddress": "Flat 11, Christchurch House, Christchurch Road",
+                    "uri": "flat-11/christchurch-house/christchurch-road/london/sw2-3ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 32297780,
+                    "streetAddress": "Flat 2, Burney House, 4 Ardwell Road",
+                    "uri": "flat-2/burney-house/4-ardwell-road/london/sw2-4bt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 480000,
+                    "propertyId": 23117947,
+                    "streetAddress": "43 Cricklade Avenue",
+                    "uri": "43-cricklade-avenue/london/sw2-3hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 23125193,
+                    "streetAddress": "5a Sudbourne Road",
+                    "uri": "5a-sudbourne-road/london/sw2-5ae"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,595 @@
+{
+    "address": "Boardwalk Place, London E14",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 70.4,
+    "sqft": 758.0,
+    "text": "Balcony\n5.79m x 1.52m\n(19' 0\" x 5' 0\")\n\u2014\u2014, \u2014-\u2014, \u2014,_\u2014\u2014\nSSS \u201c4\nBedroom 2\n3.50m x 2.64m\n116: x 8.87 .\nBedroom 1 ( ) Reception Room\n5.30m x 2.81m 5.02m x 3.86m\n(17! 5\" x 973\") (16' 6\" x 12' 8\")\n| Hall ei\n| En-suite \u2018 Kitchen\n2,05m x 2.04m See fee 3.60m x 2.28m\n| (6'9\"x6'8\") \u2018oeuse, (17' 10\u00b0 x 7' 6\")\nO)\na =\nas ee | OO\nTotal floor area 70.4 sq.m. (758 sq.ft.) approx\nThis floor plan is for illustrative purposes only. It is not drawn to scale. Any measurements, floor areas (including any total floor area), openings and orientation are\napproximate. No details are guaranteed, they cannot be relied upon for any purpose and they do not form part of any agreement. No liability is taken for any error, omission\nor misstatement. A party must rely upon its own inspection(s). Plan produced for Purple Bricks. Powered by www.focalagent.com\n",
+    "image": "./extracted_images/60288152.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60288152/",
+    "listing_no": "60288152",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.504967,
+        "longitude": -0.009608
+    },
+    "first_published": "2021-11-29T13:55:59",
+    "last_sale_date": "2016-11-24",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60288152",
+        "publishedOn": "2021-11-29T13:55:59",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://www.purplebricks.co.uk/brochure/1221850",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": false,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Boardwalk Place, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5SG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60288152,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 17,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 696585
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/purplebricks-head-office-solihull-58933/",
+            "branchId": "58933",
+            "branchResultsUri": "/for-sale/branch/purplebricks-head-office-solihull-58933/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "phone": "024 7511 8874",
+            "name": "Purplebricks, Head Office",
+            "memberType": "agent",
+            "address": "Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull",
+            "postcode": "B90 4RZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Blackwall",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East India Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Woolmore Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "River House Montessori School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=5eJGfW5wE5h"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "caption": "epc",
+                    "original": "https://lc.zoocdn.com/f0810af845048c923028ea30be06124e3e4135ee.pdf"
+                }
+            ]
+        },
+        "detailedDescription": "Book your viewing 24/7 online at <br><br>An immaculately presented two bedroom two bathroom apartment set on the 2nd floor of this sought after waterside development, finished to a high specification with stunning views over Poplar dock Marina. Secure underground parking included.<br><br>This impressive two bedroom apartment has undergone a program of updating and refurbishment and is in excellent order throughout. The flat has a stylish, contemporary feel and is bathed in natural light from its full height windows and accommodation includes two good sized double bedrooms, two beautifully appointed bathrooms (one of which is en-suite to the master bedroom) underfloor heating throughout, a fully integrated kitchen which is semi open plan to the living space, which is perfect for entertaining and has direct access to a large private balcony with stunning views over the marina.<br>The flat also has ample storage throughout and a secure underground car parking space. The building has the benefit of an on site 24 hour concierge and super fast (Hyperoptic) broadband.<br><br>For easy access into the City and Canary Wharf with its vast array of bars, restaurants and shopping, the flat is just a few minutes walk from Canary Wharf station (Jubilee Line) and Poplar DLR.<br><br><strong>Disclaimer For Virtual Viewings</strong><br><br>Some or all information pertaining to this property may have been provided solely by the vendor, and although we always make every effort to verify the information provided to us, we strongly advise you to make further enquiries before continuing.<br><br>If you book a viewing or make an offer on a property that has had its valuation conducted virtually, you are doing so under the knowledge that this information may have been provided solely by the vendor, and that we may not have been able to access the premises to confirm the information or test any equipment. We therefore strongly advise you to make further enquiries before completing your purchase of the property to ensure you are happy with all the information provided.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Immaculate condition throughout",
+                "Two bedrooms, two bathrooms",
+                "Fully refurbished with underfloor heating",
+                "Secure underground parking",
+                "Large balcony with marina views",
+                "750 sqft approx. Internally",
+                "24 hour concierge",
+                "Super fast (hyperoptic) broadband",
+                "0.4 miles to canary wharf station",
+                "0.2 miles to blackwall dlr"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "f314667c63f18e6f473d4603751bff26c838f989.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "ebac4d632adc91e1a4a60bbb8ac0bfb7beef9e83.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "791187525b3912845f9c9edb291420c1d25c9bbf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "67480034744bb63432381c204634de444a236e15.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bd71e3c9e7d3540eb261addc5baa384906a01b83.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "af76c8d5eb8f1868075c19166d09f23ba19c6309.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ae9acf1ac0b7bb61e955756839dc9e7e83f498d9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9f5b792e60b8871a6b2dea60ad15288c814c2ee7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c2f5eee60b0c3a674c48d88709a4c91a350703b1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b0ea1b17ceff1c630b1a267ee794cf2be99ba392.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f6a0125f29c8dadf6bff927cef2bf87b54270ab6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6366a039319e27496f8716990a7f14ce48cfe012.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "00e3c9ffe5c81708e02c2f891ce8e54e91168b71.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "149c115ad9a59e889c7ee211cddff040008453ee.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "205adfe0a9f18fbcb68030099e6a40fd16124220.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0169a9551c7865247d640a5003eaacc96f1ed580.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "07bc6b351591027367a20e5893dccb89f1380827.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "905f9c69aa50a33a544f240e3bbef0087e394ae1.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": false,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Boardwalk Place, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5SG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60288152,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 17,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 696585
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Boardwalk Place, London E14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Boardwalk Place, London E14, selling for \u00a3625,000 from Purplebricks, Head Office. See property details on Zoopla or browse all our range of properties in Boardwalk Place, London E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60288152/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.504967,
+                "longitude": -0.009608
+            }
+        },
+        "displayAddress": "Boardwalk Place, London E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-29T13:55:59",
+                "priceLabel": "\u00a3660,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2016-11-24",
+                "newBuild": false,
+                "price": 555000,
+                "priceLabel": "\u00a3555,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.5",
+                    "priceChangeDate": "2022-01-12T20:37:27",
+                    "priceChangeLabel": "\u00a330,000",
+                    "priceLabel": "\u00a3630,000"
+                },
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "0.8",
+                    "priceChangeDate": "2022-01-13T05:55:27",
+                    "priceChangeLabel": "\u00a35,000",
+                    "priceLabel": "\u00a3625,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 85
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/f314667c63f18e6f473d4603751bff26c838f989.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Purplebricks",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60288152,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "E044538E-9327-11EC-BC8B-120E0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3199.821151716501
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 560000,
+                    "propertyId": 7855437,
+                    "streetAddress": "55 Boardwalk Place",
+                    "uri": "55-boardwalk-place/london/e14-5se"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 620000,
+                    "propertyId": 7855477,
+                    "streetAddress": "Flat 344, 80 Boardwalk Place",
+                    "uri": "flat-344/80-boardwalk-place/london/e14-5sf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-09T00:00:00Z",
+                    "price": 830000,
+                    "propertyId": 7855599,
+                    "streetAddress": "298 Boardwalk Place",
+                    "uri": "298-boardwalk-place/london/e14-5sh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,574 @@
+{
+    "address": "Greenwich Millennium Village, The Village Square, West Parkside, Greenwich SE10",
+    "price": "\u00a3644,995",
+    "beds": "2 beds",
+    "area": "1,120 sq. ft",
+    "sqm": null,
+    "sqft": null,
+    "text": "'\n\nJia\n\n|\n\n2\n\ni\n\n=\n\nee\n\n=\n\n\u2014=\u00a2\n\n} =\n\na\n",
+    "image": "./extracted_images/60387489.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/60387489/",
+    "listing_no": "60387489",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.492453,
+        "longitude": 0.015552
+    },
+    "first_published": "2021-12-16T19:03:46",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60387489",
+        "publishedOn": "2021-12-16T19:03:46",
+        "section": "new-homes",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://lc.zoocdn.com/9de5cb34bc9e50228ccff3fad68d91b3eec31d65.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 57513,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(583835).png",
+            "branchName": "Countryside - Greenwich Millennium Village",
+            "brandName": "Countryside Properties",
+            "chainFree": true,
+            "companyId": 50906,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Greenwich Millennium Village, The Village Square, West Parkside, Greenwich SE10",
+            "furnishedState": "",
+            "groupId": 55,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0BD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60387489,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "developer",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": null,
+            "outcode": "SE10",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 644995,
+            "price": 644995,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Available Now|Stamp Duty Paid",
+            "propertyType": "maisonette",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "1120",
+            "tenure": "leasehold",
+            "zindex": 486004
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/new-homes/developers/branch/countryside-greenwich-millennium-village-london-57513/",
+            "branchId": "57513",
+            "branchResultsUri": "/new-homes/branch/countryside-greenwich-millennium-village-london-57513/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(583835).png",
+            "phone": "020 3641 5504",
+            "name": "Countryside - Greenwich Millennium Village",
+            "memberType": "developer",
+            "address": "The Village Square, West Parkside, Greenwich, London",
+            "postcode": "SE10 0BD"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Millennium Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Christ Church Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Westcombe Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "North Greenwich Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/484463086"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Greenwich Millennium Village<br><br>Described as one of the most exciting new residential neighbourhoods in Europe, Greenwich Millennium Village is a contemporary development that offers a different quality of life. Situated on Greenwich Peninsula, a short distance from the historic charm of Old Greenwich, it is just one stop on the Jubilee line from Canary Wharf and four stops from London Bridge.<br><br>Greenwich Millennium Village offers 21st Century living in a peaceful green setting, just a short walk from the O2 and North Greenwich station. Swathes of open space include the established Ecology Park, a large central park and podium gardens, linked by green corridors and tree lined avenues. The layout of the village gives priority to people over cars, with lively and intimate streets and a Village Square forming a focal point. The master plan also includes the amenities that every thriving community requires, with shops and facilities within a short distance of every home, and an architecturally stunning primary school and health centre at the heart of the village.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Terrace",
+                "Exclusive resident only features for 67 Park Central residents",
+                "1 stop from Canary Wharf",
+                "Acres of on-site open space to enjoy",
+                "Easy access to the O2",
+                "Open plan kitchen/living/dining area",
+                "Impressive principal bedroom with en suite",
+                "Access to superfast fibre broadband",
+                "Views of Southern Park"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Available Now"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": "*Stamp duty paid as an allowance on completion on selected plots only and not available on additional properties. Subject to terms and conditions. Please speak to our Sales Consultant for further information.",
+                    "label": "Stamp Duty Paid"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "c78e8a2dcc0288e3275afd02bbca56dc691c8526.png",
+                    "caption": null
+                },
+                {
+                    "__typename": "Media",
+                    "filename": "e04d2f2a16b687f04c11a2d16c1d66e656c86ebd.png",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "99b57e3faafd0a514b31a39eb893e923f18a958d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "726ff945a57b55b29d95a703fa291d7a39b27384.jpg",
+                "caption": "The Vista Apartments"
+            },
+            {
+                "__typename": "Media",
+                "filename": "554c61848f7619d8ca2724bb9e8bd3bdb873bfff.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fd91f417f714ffe47e974c47bb0bed6b24867d01.jpg",
+                "caption": "Dedicated Day Porters And Reception Area"
+            },
+            {
+                "__typename": "Media",
+                "filename": "abfae0a897198192dc13ee98056546067b62e30a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2cd512e5d57b3677906a508b41d7ac1ccab3aa0f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "42baa05472b35d65fd1f8c428d93eaf388f870e3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1afd7f5f3a38231542bf93ef5072b364cd1cbf92.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "68395832c77faa2c5c030deedcad05c9d1764beb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "90daa595be78e2403f645498054c4534e21ee95d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cc2789a04751a54550c463efc8c0dec803ff14e5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "502a8cf1db2ac416090e6a8d07338d6c84719fdd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0782e2cb458231247bb5e00c99e09add77c1bf09.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "81bee8ab0f6ba6ed0f2c7c841484101ac10b03f0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "61fe59f96ea633e2f5d5b4a6d5d58523640f7a7b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4594aa4af171c0904972de845383c2826c66746f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1f33e6ee094741dd7feac2e5df692d818d8fd76f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f6bca75e3d4d103a367d84b9fc30eaaf32715364.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 57513,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(583835).png",
+            "branchName": "Countryside - Greenwich Millennium Village",
+            "brandName": "Countryside Properties",
+            "chainFree": true,
+            "companyId": 50906,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Greenwich Millennium Village, The Village Square, West Parkside, Greenwich SE10",
+            "furnishedState": "",
+            "groupId": 55,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0BD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60387489,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "developer",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": null,
+            "outcode": "SE10",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 644995,
+            "price": 644995,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Available Now|Stamp Duty Paid",
+            "propertyType": "maisonette",
+            "sizeSqFeet": "1120",
+            "tenure": "leasehold",
+            "zindex": 486004
+        },
+        "title": "2 bed maisonette for sale",
+        "metaTitle": "New home, 2 bed maisonette for sale in Greenwich Millennium Village, The Village Square, West Parkside, Greenwich SE10 - Zoopla",
+        "metaDescription": "A new 2 bed maisonette for sale in Greenwich Millennium Village, The Village Square, West Parkside, Greenwich SE10, selling for \u00a3644,995 from Countryside - Greenwich Millennium Village. See property details on Zoopla or browse all our range of properties in Greenwich Millennium Village, The Village Square, West Parkside, Greenwich SE10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60387489/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.492453,
+                "longitude": 0.015552
+            }
+        },
+        "displayAddress": "Greenwich Millennium Village, The Village Square, West Parkside, Greenwich SE10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-16T19:03:46",
+                "priceLabel": "\u00a3644,995"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 93
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/c78e8a2dcc0288e3275afd02bbca56dc691c8526.png"
+                },
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/e04d2f2a16b687f04c11a2d16c1d66e656c86ebd.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": null
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 1120
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3644,995",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 576,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Countryside Properties",
+            "category": "for-sale/resi/developer/new/gb",
+            "id": 60387489,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "F32D5C6E-5F67-11EC-BB21-731A0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE10",
+            "areaNameUri": "london/se10/greenwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2236
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 487489,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 490846,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3357
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 492937,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5448
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 515817,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -28328
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 469124,
+                    "pctChangeSince": 3.915,
+                    "date": "2017-02-26",
+                    "changeSince": 18365
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 306678,
+                    "pctChangeSince": 58.958,
+                    "date": "2012-02-26",
+                    "changeSince": 180811
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 296346,
+                    "pctChangeSince": 64.5,
+                    "date": "2007-02-26",
+                    "changeSince": 191143
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 175840,
+                    "pctChangeSince": 177.234,
+                    "date": "2002-02-26",
+                    "changeSince": 311649
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 509351,
+                    "newBuilds": 26,
+                    "numSales": 175
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 501732,
+                    "newBuilds": 177,
+                    "numSales": 615
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 476740,
+                    "newBuilds": 511,
+                    "numSales": 1538
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 469105,
+                    "newBuilds": 1370,
+                    "numSales": 3123
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1030000,
+                    "propertyId": 21004877,
+                    "streetAddress": "10 Feathers Place",
+                    "uri": "10-feathers-place/london/se10-9ne"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 1320000,
+                    "propertyId": 21002409,
+                    "streetAddress": "57 Ashburnham Grove",
+                    "uri": "57-ashburnham-grove/london/se10-8uj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 386000,
+                    "propertyId": 32075205,
+                    "streetAddress": "Flat 21, Poldo House, 24 Cable Walk",
+                    "uri": "flat-21/poldo-house/24-cable-walk/london/se10-0tq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 845000,
+                    "propertyId": 20999024,
+                    "streetAddress": "27 Dartmouth Hill",
+                    "uri": "27-dartmouth-hill/london/se10-8aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 552500,
+                    "propertyId": 21003732,
+                    "streetAddress": "78 Colomb Street",
+                    "uri": "78-colomb-street/london/se10-9ez"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,551 @@
+{
+    "address": "Crondall Street, Hoxton N1",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 77.76,
+    "sqft": 837.0,
+    "text": "The Residence,\nPitfield Street, N1\nApproximate Gross Internal Area = 837 sq ft/ 77.76 sqm\n1\nal \\\nBalcony\ny ~\n| =\nT\nBedroom 4\nBedroom 2 4.696 x 31500\n3.836 x 2.144 15'5\" x 11'6\"\n12'7\" x 640\"\n\nKitchen/\n\nLiving/\n\nDining Store|\n\nRoom,\n\n7.244 x 2.990 IN\n23'9\" x 9'10\" 3\ng\n5\n8\nt\nMeasured in accordance with RICS guidelines.\nThis floor plan is for illustrative purposes only and is not to scale.\nDotted lines indicate restricted head height unless marked otherwise.\n",
+    "image": "./extracted_images/60724982.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60724982/",
+    "listing_no": "60724982",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.531093,
+        "longitude": -0.083018
+    },
+    "first_published": "2022-02-09T23:07:43",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60724982",
+        "publishedOn": "2022-02-09T23:07:43",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Crondall Street, Hoxton, N1",
+                "original": "https://lc.zoocdn.com/e72d7d9d342c2b5a5d7c47d42d5b0890f3fcb1f2.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31274028",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 122149,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(710692).png",
+            "branchName": "Home Malone",
+            "brandName": "Home Malone",
+            "chainFree": false,
+            "companyId": 96462,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Crondall Street, Hoxton N1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6JR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60724982,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/home-malone-london-122149/",
+            "branchId": "122149",
+            "branchResultsUri": "/for-sale/branch/home-malone-london-122149/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(710692).png",
+            "phone": "020 8115 4908",
+            "name": "Home Malone",
+            "memberType": "agent",
+            "address": "Sterling House, Fulbourne Road, London",
+            "postcode": "E17 4EE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St John the Baptist Voluntary Aided Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Monica's Roman Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hoxton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Old Street",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Stunning two bedroom apartment located in a fantastic residential development in Hoxton, N1.<br>This spacious two bedroom apartment benefits from floor to ceiling windows, high ceilings and modern specifications throughout and is made of a good sized open plan reception room with fully fitted white gloss kitchen, hard wooden floors, a large master bedroom, a second double bedroom, a stylish modern bathroom suite, a further en-suite shower room and a private balcony.<br><br>The development further benefits from video entry phone, communal satellite TV access and bike storage.<br><br>The property is also a short walk into the City or Angel Islington with the closest station being Old Street.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedrooms",
+                "Two Bathrooms",
+                "Private Balcony",
+                "Communal Satellite TV",
+                "Video Entry",
+                "Bike Storage",
+                "Floor to Ceiling Windows",
+                "Fully Fitted Kitchen",
+                "Great Location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "11848263a63402e1360dd1712d57c26cdf9dfe95.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "4f03f6a7c1b0dae42887da62542a4a47eafc62b3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b0b695dd4de5334f81c4d83e764a1eecb8f2b09c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6311b5ec08096618c6c08aa8b030a8326a7b960e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "56f915c1af9657d14e1a846cf884d10d91e7a000.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "57da5ef044e836b55a5ec546a8bc8262ef001a89.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "affc286990bd0e53cda1fcd7f320e53f18e2b846.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d7af07e086cd0f4369bc82dedd19716fe7f6dde2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "baf1e4736d777539a34d29e1a0ba21d20016efbb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "440b08ccb002578a07534427133df1ee3fd4da09.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ca3233c78aa9707b26791545771b52af8b193577.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "293b30975f0d942e97058ceb5773e5fa1baeb730.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fb214967a35ec82a3994ddeaaf7ecae1b046f7e0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "34c203bcd23359b397f25522d31e041c27b90bd0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "725b4910e2cf01a16f82d29e927ab6dc6d8f13e6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ae6a62b9cb958f251a7453a03523a0c782d84ad2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "65911d172ba73ed6f258ded39fc039feee328fb6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "14052c1149ca3326171a010abdb4b45d0d5cae87.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4e80e43686c6efb90d782ea5f7f007679d3672f0.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 122149,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(710692).png",
+            "branchName": "Home Malone",
+            "brandName": "Home Malone",
+            "chainFree": false,
+            "companyId": 96462,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Crondall Street, Hoxton N1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6JR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60724982,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Crondall Street, Hoxton N1 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Crondall Street, Hoxton N1, selling for \u00a3650,000 from Home Malone. See property details on Zoopla or browse all our range of properties in Crondall Street, Hoxton N1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60724982/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.531093,
+                "longitude": -0.083018
+            }
+        },
+        "displayAddress": "Crondall Street, Hoxton N1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-09T23:07:43",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 178
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/11848263a63402e1360dd1712d57c26cdf9dfe95.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Home Malone",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60724982,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "09772E5A-8A01-11EC-B703-B3C90D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N1",
+            "areaNameUri": "london/n1/islington-barnsbury-canonbury",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2906.287878787878
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 602354,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 612767,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -10413
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 631961,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -29607
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 663806,
+                    "pctChangeSince": -9.258,
+                    "date": "2021-02-26",
+                    "changeSince": -61452
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 614141,
+                    "pctChangeSince": -1.919,
+                    "date": "2017-02-26",
+                    "changeSince": -11787
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 402630,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 199724
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 377696,
+                    "pctChangeSince": 59.481,
+                    "date": "2007-02-26",
+                    "changeSince": 224658
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 227355,
+                    "pctChangeSince": 164.94,
+                    "date": "2002-02-26",
+                    "changeSince": 374999
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 622356,
+                    "newBuilds": 1,
+                    "numSales": 395
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 661296,
+                    "newBuilds": 71,
+                    "numSales": 1075
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 646936,
+                    "newBuilds": 170,
+                    "numSales": 2109
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 637559,
+                    "newBuilds": 448,
+                    "numSales": 3526
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 15048632,
+                    "streetAddress": "Flat 63, Royal Oak Court, Pitfield Street",
+                    "uri": "flat-63/royal-oak-court/pitfield-street/london/n1-6en"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 710000,
+                    "propertyId": 15056656,
+                    "streetAddress": "2 Elliotts Place",
+                    "uri": "2-elliotts-place/london/n1-8hx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760001,
+                    "propertyId": 15027781,
+                    "streetAddress": "Flat 3, 80 Copenhagen Street",
+                    "uri": "flat-3/80-copenhagen-street/london/n1-0jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 1350000,
+                    "propertyId": 27513282,
+                    "streetAddress": "Ground First And Second Floor Fl, 7 Brooksby Street",
+                    "uri": "ground-first-and-second-floor-fl/7-brooksby-street/london/n1-1ex"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 15035647,
+                    "streetAddress": "Flat D, 13 Compton Road",
+                    "uri": "flat-d/13-compton-road/london/n1-2pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 15035975,
+                    "streetAddress": "1 Walney Walk",
+                    "uri": "1-walney-walk/london/n1-2pu"
+                }
+            ]
+        }
+    }
+}

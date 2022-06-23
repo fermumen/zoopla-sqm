@@ -1,0 +1,502 @@
+{
+    "address": "Edgware Road, Edgware Road, London W2",
+    "price": "\u00a3640,000",
+    "beds": "3 beds",
+    "area": "849 sq. ft",
+    "sqm": 78.9,
+    "sqft": 849.0,
+    "text": "AS\na\nN\n[\nRECEPTION ROOM\n151 x 11'8\n4.60m x 3.56m\n=ah\nBEDROOM 2 \\ eI\n12'3 x 10'9 \\ oO\n3.73mx3.28m KITCHEN\n116 x 9'5\n3.51m x 2.87m\nBEDROOM 3 \u2014 oe\n122x644 ~ /\n3.71mx1.93m \u2014 \\ {IN\n. 7 |\nJ. i \\ | Pa So\nY\nMASTER BEDROOM ~ -\n123 x9'5 1 CAOTO @&\n3.73m x 2.87m / WY\n<..| 0\n\\. [ }\nSEVENTH FLOOR\n849 SQ FT / 78.9 SQM\nThis plan has been drawn for illustrative\nand identification purposes only.\n",
+    "image": "./extracted_images/60495717.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60495717/",
+    "listing_no": "60495717",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.523361,
+        "longitude": -0.175779
+    },
+    "first_published": "2022-01-11T19:43:17",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60495717",
+        "publishedOn": "2022-01-11T19:43:17",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 55,
+            "acornType": 55,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 120109,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(706174).png",
+            "branchName": "Appartel",
+            "brandName": "Appartel",
+            "chainFree": false,
+            "companyId": 93144,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Edgware Road, Edgware Road, London W2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1NF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60495717,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "W2",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 640000,
+            "price": 640000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "849",
+            "tenure": "leasehold",
+            "zindex": 381389
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/appartel-ealing-london-120109/",
+            "branchId": "120109",
+            "branchResultsUri": "/for-sale/branch/appartel-ealing-london-120109/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(706174).png",
+            "phone": "020 3641 4828",
+            "name": "Appartel",
+            "memberType": "agent",
+            "address": "Westgate House, West Gate, Ealing, London",
+            "postcode": "W5 1YY"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ark Paddington Green Primary Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "L'Ecole Bilingue Elementaire",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Edgware Road Bakerloo",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Warwick Avenue",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/zKj4DQZeR2A?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Appartel is pleased to present this apartment, situated on the 7th floor of the well known Hall Place, W2, London.<br><br>This apartment is a three bedroom with great living space. Two toilets and a spacious kitchen.<br><br>Recently refurbished to a high standard, offered vacant.<br><br>Contact us for more details",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Central heating",
+                "Double glazing",
+                "Porter/security",
+                "Wood floors",
+                "Newly Refurbished",
+                "Views"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "2f92c8fc7610a3066a1881b8e566e39392ee3e91.png",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "5d51bab9bf2abaeb6923728900df2e316ad5bfd9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8f0f2e447fbbbe65b5ae8c4f7784c97c759e990e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2f8a9cecc38c4db5a6362d0c7b8a7857b0cd68bd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1aa37ef6e6f68b73cf6549bb5f3c377f15271f63.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a21ebd3562542ce7d014fdd6d39262cf2efc7f96.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2f92c8fc7610a3066a1881b8e566e39392ee3e91.png",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 55,
+            "acornType": 55,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 120109,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(706174).png",
+            "branchName": "Appartel",
+            "brandName": "Appartel",
+            "chainFree": false,
+            "companyId": 93144,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Edgware Road, Edgware Road, London W2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1NF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60495717,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "W2",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 640000,
+            "price": 640000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "849",
+            "tenure": "leasehold",
+            "zindex": 381389
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Edgware Road, Edgware Road, London W2 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Edgware Road, Edgware Road, London W2, selling for \u00a3640,000 from Appartel. See property details on Zoopla or browse all our range of properties in Edgware Road, Edgware Road, London W2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60495717/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.523361,
+                "longitude": -0.175779
+            }
+        },
+        "displayAddress": "Edgware Road, Edgware Road, London W2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-11T19:43:17",
+                "priceLabel": "\u00a3640,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 78
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/2f92c8fc7610a3066a1881b8e566e39392ee3e91.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 849
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3640,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 754,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Appartel",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60495717,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "5C56876C-731B-11EC-81A2-AAD10D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W2",
+            "areaNameUri": "london/w2/paddington-bayswater-hyde-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 7190.901776384516
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 933627,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 948781,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -15154
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 976837,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -43210
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1029693,
+                    "pctChangeSince": -9.33,
+                    "date": "2021-02-26",
+                    "changeSince": -96066
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1021633,
+                    "pctChangeSince": -8.614,
+                    "date": "2017-02-26",
+                    "changeSince": -88006
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 680514,
+                    "pctChangeSince": 37.194,
+                    "date": "2012-02-26",
+                    "changeSince": 253113
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 606870,
+                    "pctChangeSince": 53.843,
+                    "date": "2007-02-26",
+                    "changeSince": 326757
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 359671,
+                    "pctChangeSince": 159.578,
+                    "date": "2002-02-26",
+                    "changeSince": 573956
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 964420,
+                    "newBuilds": 0,
+                    "numSales": 256
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1058602,
+                    "newBuilds": 2,
+                    "numSales": 701
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1088039,
+                    "newBuilds": 16,
+                    "numSales": 1289
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1053600,
+                    "newBuilds": 26,
+                    "numSales": 2104
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 499999,
+                    "propertyId": 24999584,
+                    "streetAddress": "Flat 103, Parsons House, 124 Hall Place",
+                    "uri": "flat-103/parsons-house/124-hall-place/london/w2-1nf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 24999644,
+                    "streetAddress": "Flat 106, Heywood House, Hall Place",
+                    "uri": "flat-106/heywood-house/hall-place/london/w2-1ng"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-26T00:00:00Z",
+                    "price": 475000,
+                    "propertyId": 24999451,
+                    "streetAddress": "Flat 25, Crompton House, Hall Place",
+                    "uri": "flat-25/crompton-house/hall-place/london/w2-1lx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 685000,
+                    "propertyId": 25004333,
+                    "streetAddress": "13 Sussex Square",
+                    "uri": "13-sussex-square/london/w2-2sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 900000,
+                    "propertyId": 25008980,
+                    "streetAddress": "Flat B, 41 Linden Gardens",
+                    "uri": "flat-b/41-linden-gardens/london/w2-4hq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 3600000,
+                    "propertyId": 25008982,
+                    "streetAddress": "Flat D, 41 Linden Gardens",
+                    "uri": "flat-d/41-linden-gardens/london/w2-4hq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 3250000,
+                    "propertyId": 25001234,
+                    "streetAddress": "22 Portsea Place",
+                    "uri": "22-portsea-place/london/w2-2bl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 3000000,
+                    "propertyId": 25005331,
+                    "streetAddress": "Flat 15, 22 Brook Mews North",
+                    "uri": "flat-15/22-brook-mews-north/london/w2-3bw"
+                }
+            ]
+        }
+    }
+}

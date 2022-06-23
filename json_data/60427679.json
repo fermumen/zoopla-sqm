@@ -1,0 +1,548 @@
+{
+    "address": "Dunraven Road, London W12",
+    "price": "\u00a3575,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 78.8,
+    "sqft": 849.0,
+    "text": "Dunraven Road, London, W12\nApproximate Area = 849 sq ft / 78.8 sqm\n> For identification only - Not to scale\n|\nKitchen /\nReception /\nDining Room\n21'3 x 122\n(6.48) x (3.71)\nDown\nBedroom\n116 x 114\n! (3.51) x (3.45)\ni]\nt\nBedroom\nStudy 13\u00b011 x 11'8\n8'3 x 66 (4.24) x (3.56)\n(2.51) x (1.98)\nUp\n-\u2014\u2014J\nGROUND FIRST FLOOR\nFLOOR -\u2014+\u2014\u2014}\n. fi Fie I; duced di ith RICS Pr Me int Standards i ti\nCOM Gertie | hrtematonal Propery Measurement Standards (PMS2 Residentaly Onichecom 2021, @O@ @\ni ieg| Measurer Produced for Barnard Marcus. REF: 790054 barnard marcus\n",
+    "image": "./extracted_images/60427679.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60427679/",
+    "listing_no": "60427679",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.509674,
+        "longitude": -0.23626
+    },
+    "first_published": "2021-12-26T06:09:02",
+    "last_sale_date": "2005-12-16",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60427679",
+        "publishedOn": "2021-12-26T06:09:02",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "PDF Property Particulars",
+                "original": "https://lc.zoocdn.com/06bcbed178eef12009852ed9c2534258aa2c3457.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.barnardmarcus.co.uk/property/WKT103476",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 860,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - West Kensington",
+            "brandName": "Barnard Marcus",
+            "chainFree": true,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Dunraven Road, London W12",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7QY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60427679,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "W12",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Garden|Available Now",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 554472
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/barnard-marcus-west-kensington-west-kensington-860/",
+            "branchId": "860",
+            "branchResultsUri": "/for-sale/branch/barnard-marcus-west-kensington-west-kensington-860/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "phone": "020 3463 0174",
+            "name": "Barnard Marcus - West Kensington",
+            "memberType": "agent",
+            "address": "66-68 Shepherds Bush Road, West Kensington",
+            "postcode": "W6 7PH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Cambridge School (SEN)",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St John XXIII Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shepherd's Bush Hammersmith & City",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "White City",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=inqyuMNKtt4"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "698fcfec4d47e603a67e396a5ce6b2a424aa6dc7.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Summary</strong><br>This well presented three bedroom first floor maisonette is offered for sale chain free and with a share of the freehold. Located in \"The Groves\" area of Shepherds Bush close to many local amenities.<br><br><strong>Description</strong><br>A nicely presented three bedroom first floor purpose built Edwardian maisonette situated in a popular location close to Wormholt Park known as \"The Groves\" area of Shepherds Bush.<br>The property is being offered to the market with no onward chain and immediate vacant possession is available.<br>The property has its own ground floor entrance with stairs leading to a split level landing off which are three bedrooms, a bathroom/wc and a large open plan reception room/kitchen. The property is also offered for sale with a share of the freehold.<br>Located at the far end of Dunraven Road close to the junction of Galloway Road. Local shops and transport facilities are all close by. Westfield Shopping Centre and Wormholt Park are also close by.<br><br>We currently hold lease details as displayed above, should you require further information please contact the branch. Please note additional fees could be incurred for items such as leasehold packs.<br><br>1. Money laundering regulations: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale. <br>2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property. <br>3. The measurements indicated are supplied for guidance only and as such must be considered incorrect. <br>4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase. <br>5. These particulars are issued in good faith but do not constitute representations of fact or form part of any offer or contract. The matters referred to in these particulars should be independently verified by prospective buyers or tenants. Neither sequence (UK) limited nor any of its employees or agents has any authority to make or give any representation or warranty whatever in relation to this property.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "First Floor Edwardian Maisonette",
+                "Three Bedrooms &amp; Bathroom &amp; Open Plan Reception/Kitchen",
+                "Own Entrance",
+                "Chain Free &amp; Immediate Vacant Possession",
+                "Located in \"The Groves\" area of Shepherds Bush",
+                "Excellent &amp; Premium Location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Garden"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Available Now"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "415f99d1692d59c997a4cefa14d8f8fee0d0b524.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "6b19080baf3b4468ec9c2fc3bbea3ffe78bd7c8e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "af396c2628543a3a5840a4d0b0cf4a6d944d91f4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4960a8adf23c505e9f30501064dada7adc4b10c1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bdfa0a0f5794854e503910735b8cdfde1e503123.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a62232b5bd3d2f0d54dd44f9b9279c74bd0c5696.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "339ca0e80bd512a35d7ef7610fe973ac4ee803c6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "97b015022c287c4e68ab4c68a6df25d4ccf4fa14.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1aa42a8f77883ceafcf40f899c269169374499ac.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5a439088d6303d1fd52b8cfb84dc9ffb2dffba2b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9564d56a996fa3a147b535752927aae41f8ac127.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c70b93ef0c1883ffaac05cc7885aea854c4cb811.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4e0cc801c5f9be871a69528c165e02bb3d3a24cc.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 860,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - West Kensington",
+            "brandName": "Barnard Marcus",
+            "chainFree": true,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Dunraven Road, London W12",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7QY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60427679,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "W12",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Garden|Available Now",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 554472
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Dunraven Road, London W12 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Dunraven Road, London W12, selling for \u00a3575,000 from Barnard Marcus - West Kensington. See property details on Zoopla or browse all our range of properties in Dunraven Road, London W12.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60427679/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.509674,
+                "longitude": -0.23626
+            }
+        },
+        "displayAddress": "Dunraven Road, London W12",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-26T06:09:02",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2005-12-16",
+                "newBuild": false,
+                "price": 295000,
+                "priceLabel": "\u00a3295,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 152
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/415f99d1692d59c997a4cefa14d8f8fee0d0b524.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Barnard Marcus",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60427679,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "6F764904-8FF4-11EC-B57D-09020E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W12",
+            "areaNameUri": "london/w12/shepherds-bush",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3049.2222222222235
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 460711,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 468189,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -7478
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 482033,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -21322
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 508114,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -47403
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 504126,
+                    "pctChangeSince": -8.612,
+                    "date": "2017-02-26",
+                    "changeSince": -43415
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 335800,
+                    "pctChangeSince": 37.198,
+                    "date": "2012-02-26",
+                    "changeSince": 124911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 299460,
+                    "pctChangeSince": 53.847,
+                    "date": "2007-02-26",
+                    "changeSince": 161251
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 177479,
+                    "pctChangeSince": 159.586,
+                    "date": "2002-02-26",
+                    "changeSince": 283232
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 530598,
+                    "newBuilds": 0,
+                    "numSales": 119
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 516565,
+                    "newBuilds": 9,
+                    "numSales": 378
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 568738,
+                    "newBuilds": 87,
+                    "numSales": 796
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 555965,
+                    "newBuilds": 159,
+                    "numSales": 1300
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-23T00:00:00Z",
+                    "price": 705000,
+                    "propertyId": 25156198,
+                    "streetAddress": "14 Dunraven Road",
+                    "uri": "14-dunraven-road/london/w12-7qy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 1090000,
+                    "propertyId": 25163420,
+                    "streetAddress": "107 Percy Road",
+                    "uri": "107-percy-road/london/w12-9qh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 271000,
+                    "propertyId": 25164402,
+                    "streetAddress": "Flat 16, Abbey Court, Emlyn Gardens",
+                    "uri": "flat-16/abbey-court/emlyn-gardens/london/w12-9ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 900000,
+                    "propertyId": 31866429,
+                    "streetAddress": "Flat 1p, Woodstock Studios, 36 Woodstock Grove",
+                    "uri": "flat-1p/woodstock-studios/36-woodstock-grove/london/w12-8le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 25162244,
+                    "streetAddress": "37 Lefroy Road",
+                    "uri": "37-lefroy-road/london/w12-9lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 25164157,
+                    "streetAddress": "35a Ashchurch Park Villas",
+                    "uri": "35a-ashchurch-park-villas/london/w12-9sp"
+                }
+            ]
+        }
+    }
+}

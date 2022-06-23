@@ -1,0 +1,535 @@
+{
+    "address": "Falcon Road, London SW11",
+    "price": "\u00a3585,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 60.6,
+    "sqft": 6652.0,
+    "text": "Maison ae \u201cae!\n\n5 ad\n\nSEES,\n\n| Balcony K ie\nKitchen/Reception Room \u2014 | Bedroom\n22110\" x 164\" 111\" x 9'9\"\n(6.95m x 4.99m) . (3.38m x 2.98m)\nBedroom\n96\" x 8'5\"\n(2.90m x 2.56m) ee\n\u2018 : =\n_ i <~ Bathroom |\nZe :\nBle Z| e : ae i)\nSecond Floor\nApproximate Floor Area\n652 sq. ft\n(60.60 sq. m)\nApprox. Gross Internal Floor Area 6652 sq. ft / 60.60 sq.m\nIllustration for identification purposes only, measurements are approximate, not to scale.\n",
+    "image": "./extracted_images/60666449.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60666449/",
+    "listing_no": "60666449",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.468628,
+        "longitude": -0.171455
+    },
+    "first_published": "2022-02-02T12:26:22",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60666449",
+        "publishedOn": "2022-02-02T12:26:22",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 117050,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(715709).png",
+            "branchName": "Maison",
+            "brandName": "Maison Partners",
+            "chainFree": false,
+            "companyId": 87903,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Falcon Road, London SW11",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2LR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60666449,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SW11",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 585000,
+            "price": 585000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 420227
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/maison-godalming-117050/",
+            "branchId": "117050",
+            "branchResultsUri": "/for-sale/branch/maison-godalming-117050/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(715709).png",
+            "phone": "01483 865399",
+            "name": "Maison",
+            "memberType": "agent",
+            "address": "Peperharow Road, Godalming",
+            "postcode": "GU7 2PH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Falconbrook Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Thames Christian College",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham Junction",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Chelsea Harbour Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "original": "https://lc.zoocdn.com/4ca7dd8569e630fb23b50ffdaa5b6028e7764512.pdf"
+                }
+            ]
+        },
+        "detailedDescription": "A spacious two double bedroom apartment situated on the second floor of a well designed new development. The property benefits from having a large open plan kitchen/dining/reception room which leads to the private balcony. The kitchen is fully integrated with double oven and large fridge/freezer. The two double bedrooms are a good size with floor to ceiling windows, the master is larger with built in wardrobes. The family bathroom has a full size bath.<br><br>Ideally located within walking distance of Clapham Junction and all the local shops bars and restaurants. Northcote Road, Battersea Park and the river are slightly further but would make a lovely walk on a crisp spring day.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two double bedroom with floor to ceiling windows",
+                "Large open plan kitchen/living area",
+                "Fully integrated modern kitchen",
+                "Private balcony and additional communal roof terrace",
+                "Within walking distance of the transport links, shops bars and restaurants of Clapham Junction",
+                "Secure bike storage",
+                "Long Lease"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "599dda7ab88f5e62a8564c2ab32e5ef2f91802ec.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "4bf5c6f655b4f60462ebda520b3d8f9e9a697921.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3cecfae4745a7371bccabc712e40a6ae3cdf58b2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bf0ab575a9c5fc10fd3ad046acee5e23e5463a40.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "231f85bf5fad13b78db9c4e39bd796286f5b2798.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6fac0804b800a6768d674777ebac649a4884bf31.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1b073e4679839a318609fc9c4cf22aacdaa2e4cd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f7f714cd30296679b3b931e7ca668914590b873d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "42ab2b0288fd7980f1e82e8e2290bd0edc5dcdf0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fecac9f517cf13eb0c84753e68fab5c36b5a7be2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "16cc8e0dd7a11c3d09edfa72eafa78a6c028f69c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c2ce5e72c48f978414701a1a725f5592c43064f3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "24686cbe3c96a129cb84b924121366188e11ba2c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8d9e11caccd731e70b7c0fd4b8d1a6a7ab93aca3.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 117050,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(715709).png",
+            "branchName": "Maison",
+            "brandName": "Maison Partners",
+            "chainFree": false,
+            "companyId": 87903,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Falcon Road, London SW11",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "2LR",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60666449,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "SW11",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 585000,
+            "price": 585000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 420227
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Falcon Road, London SW11 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Falcon Road, London SW11, selling for \u00a3585,000 from Maison. See property details on Zoopla or browse all our range of properties in Falcon Road, London SW11.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60666449/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.468628,
+                "longitude": -0.171455
+            }
+        },
+        "displayAddress": "Falcon Road, London SW11",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-02T12:26:22",
+                "priceLabel": "\u00a3585,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 161
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/599dda7ab88f5e62a8564c2ab32e5ef2f91802ec.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3585,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Maison Partners",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60666449,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "A98DDA34-9310-11EC-A3BC-78C20D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW11",
+            "areaNameUri": "london/sw11/battersea-clapham-junction",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3456.430188679247
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 605712,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 608703,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2991
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 609090,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3378
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 634498,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -28786
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 614807,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -9095
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 423830,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 181882
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 387172,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 218540
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 235888,
+                    "pctChangeSince": 156.779,
+                    "date": "2002-02-26",
+                    "changeSince": 369824
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 643914,
+                    "newBuilds": 10,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 705554,
+                    "newBuilds": 107,
+                    "numSales": 1293
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 717890,
+                    "newBuilds": 556,
+                    "numSales": 2803
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 702089,
+                    "newBuilds": 925,
+                    "numSales": 4447
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 23242660,
+                    "streetAddress": "12 Falcon Road",
+                    "uri": "12-falcon-road/london/sw11-2ls"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-29T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 23243451,
+                    "streetAddress": "31a Falcon Road",
+                    "uri": "31a-falcon-road/london/sw11-2ph"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-30T00:00:00Z",
+                    "price": 475000,
+                    "propertyId": 23243470,
+                    "streetAddress": "Flat 24, Hertford Court, 45 Falcon Road",
+                    "uri": "flat-24/hertford-court/45-falcon-road/london/sw11-2ph"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-01T00:00:00Z",
+                    "price": 390000,
+                    "propertyId": 23243429,
+                    "streetAddress": "61 Falcon Road",
+                    "uri": "61-falcon-road/london/sw11-2pg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 635000,
+                    "propertyId": 23256020,
+                    "streetAddress": "Flat 2, 4 Knowsley Road",
+                    "uri": "flat-2/4-knowsley-road/london/sw11-5bl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 680000,
+                    "propertyId": 27160591,
+                    "streetAddress": "Ground Floor Flat, 10 Glycena Road",
+                    "uri": "ground-floor-flat/10-glycena-road/london/sw11-5tr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 23247548,
+                    "streetAddress": "Flat 54, Lindsay Court, Battersea High Street",
+                    "uri": "flat-54/lindsay-court/battersea-high-street/london/sw11-3hz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 338000,
+                    "propertyId": 23257501,
+                    "streetAddress": "Flat 16, Rawson Court, Rawson Street",
+                    "uri": "flat-16/rawson-court/rawson-street/london/sw11-5hj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 985000,
+                    "propertyId": 23258681,
+                    "streetAddress": "15 Kingsley Street",
+                    "uri": "15-kingsley-street/london/sw11-5ld"
+                }
+            ]
+        }
+    }
+}

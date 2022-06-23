@@ -1,0 +1,537 @@
+{
+    "address": "Green Lanes, Islington, London N16",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 76.1,
+    "sqft": 819.0,
+    "text": "Green Lanes, N16\nApprox. Gross Internal Floor Area 819 sq. ft / 76.10 sq. m\nEN SUITE S\nBATHROOM Vy Fi\n6'6 x 5'6 . (|\n(1.97m x 1.68m) -)\nlA el]\nBEDROOM 2\n14'4 x 113\n(4.36m x 3.42m)\nBALCONY.\nGROUND FLOOR\nCOURTYARD\nBALCONY\noe\nMASTER BEDROOM\n14'5 x 8'7 > : :\n(4.37m x 2.61m) a\n5) SHOWER ROOM\n7 7'11 x 2'6\nOm\nC7 \\ (2.39m x 0.77m)\nRECEPTION ROOM /\nDINING ROOM /\nKITCHEN\n18'2 x 181\n(5.51m x 5.48m)\nx ~;\nv\nUP z=\nIN\nGROUND FLOOR FIRST FLOOR\nGROSS INTERNAL GROSS INTERNAL\nFLOOR AREA 44 SQ FT FLOOR AREA 775 SQ FT\nAll measurements of walls, doors, windows, fittings and appliances,\nee et Se ON snc ee\nconst 5\nCP Creative. ny imsodlng purchaser mmistedisfy himself By inspection or Winkworth\notherwise as to the correctness of the information contained in these plans.\nThis plan is for illustrative purposes only and should be used as such by\nany prospective purchasers.\n",
+    "image": "./extracted_images/60599201.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60599201/",
+    "listing_no": "60599201",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.554166,
+        "longitude": -0.088545
+    },
+    "first_published": "2022-01-24T20:43:21",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60599201",
+        "publishedOn": "2022-01-24T20:43:21",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/HIH220009",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=HIH220009",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 41949,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Highbury",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Green Lanes, Islington, London N16",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9AH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60599201,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 2,
+            "outcode": "N16",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 376242
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-highbury-highbury-41949/",
+            "branchId": "41949",
+            "branchResultsUri": "/for-sale/branch/winkworth-highbury-highbury-41949/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8115 2927",
+            "name": "Winkworth - Highbury",
+            "memberType": "agent",
+            "address": "106 Highbury Park, Highbury",
+            "postcode": "N5 2XE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Highbury Quadrant Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Grasmere Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Canonbury",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Dalston Kingsland",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "093f27f208a82c1326abb02080963a0fb46f8975.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This truly stunning two double bedroom flat has been finished to a high standard and boasts well-proportioned rooms throughout.<br>Situated to the rear of the building, the property offers a wonderfully light and social open plan living room and kitchen which provides a perfect space to entertain.<br>The kitchen offers stone worktops and inbuilt appliances and wooden floors feature throughout.<br>Both double bedrooms are of even proportions with master benefitting from ensuite bathroom whilst a further shower room is located off the hallway.<br>Situated on Green Lanes, this property is conveniently located for an extensive range of local amenities. Newington Green offers a wide array of cafes and restaurants and is well known for its selection of local shops and village atmosphere, as is Stoke Newington's Church Street with its vast selection of shops, delis and eateries. The open green spaces of Clissold Park are just a short distance away and transport across London is made easy from Canonbury overground station as well as numerous bus routes providing easy access to the City, Shoreditch, Angel and West End.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "f8f8f5fa6853e6a998fa2a9cd377abaa7e97c134.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "297e301dd99788597e3a570c78990a74393e8cf4.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "14633d7ee2c87c5309b287ec7e033c94384c566e.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1d94964ccc084a9974b599e57ec4018e42c987ef.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5edcd455a2d7e6836eb29a179060a39b3ada07e6.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6a019f5c7e83293261a0267c01e26b8a13b0ed57.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c6fc94aade6915a0cd796d1394b0d20b3be9c580.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4482938f32a211ec284fa13145f7cbb44275465a.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2e60615b5570235fa6d0659a1b075e22a8ddb3e3.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9d5b95fd74152a29a8c0d493996835c5383453c4.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "42b065c7393aa05de180e6121d5fa6fb2fcdd9cf.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4fd5e9ea54e7710bc0d4484f8d00b592f9704da1.jpg",
+                "caption": "Picture No. 13"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 41949,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Highbury",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Green Lanes, Islington, London N16",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9AH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60599201,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 2,
+            "outcode": "N16",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 376242
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Green Lanes, Islington, London N16 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Green Lanes, Islington, London N16, selling for \u00a3600,000 from Winkworth - Highbury. See property details on Zoopla or browse all our range of properties in Green Lanes, Islington, London N16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60599201/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.554166,
+                "longitude": -0.088545
+            }
+        },
+        "displayAddress": "Green Lanes, Islington, London N16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-24T20:43:21",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 225
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/f8f8f5fa6853e6a998fa2a9cd377abaa7e97c134.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 2
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60599201,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "76CBC810-7D56-11EC-A244-89C20D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N16",
+            "areaNameUri": "london/n16/stoke-newington-stamford-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2184.942028985508
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 489352,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 497812,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8460
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 513405,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -24053
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 539276,
+                    "pctChangeSince": -9.258,
+                    "date": "2021-02-26",
+                    "changeSince": -49924
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 498929,
+                    "pctChangeSince": -1.92,
+                    "date": "2017-02-26",
+                    "changeSince": -9577
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 327097,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 162255
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 306840,
+                    "pctChangeSince": 59.481,
+                    "date": "2007-02-26",
+                    "changeSince": 182512
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 184703,
+                    "pctChangeSince": 164.94,
+                    "date": "2002-02-26",
+                    "changeSince": 304649
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 523326,
+                    "newBuilds": 0,
+                    "numSales": 230
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 501637,
+                    "newBuilds": 1,
+                    "numSales": 584
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 501736,
+                    "newBuilds": 51,
+                    "numSales": 1105
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 494034,
+                    "newBuilds": 138,
+                    "numSales": 1834
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-17T00:00:00Z",
+                    "price": 730000,
+                    "propertyId": 31522974,
+                    "streetAddress": "Flat 17, 132 Green Lanes",
+                    "uri": "flat-17/132-green-lanes/london/n16-9bn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-24T00:00:00Z",
+                    "price": 377500,
+                    "propertyId": 28286544,
+                    "streetAddress": "Flat 3, 84 Green Lanes",
+                    "uri": "flat-3/84-green-lanes/london/n16-9ah"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-01T00:00:00Z",
+                    "price": 421500,
+                    "propertyId": 31522983,
+                    "streetAddress": "Flat 25, 132 Green Lanes",
+                    "uri": "flat-25/132-green-lanes/london/n16-9bn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-15T00:00:00Z",
+                    "price": 595000,
+                    "propertyId": 15250382,
+                    "streetAddress": "129a Green Lanes",
+                    "uri": "129a-green-lanes/london/n16-9da"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 931000,
+                    "propertyId": 15247283,
+                    "streetAddress": "11 St. Jude Street",
+                    "uri": "11-st-jude-street/london/n16-8ju"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1450000,
+                    "propertyId": 15239636,
+                    "streetAddress": "110a Osbaldeston Road",
+                    "uri": "110a-osbaldeston-road/london/n16-6nl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 470000,
+                    "propertyId": 15235016,
+                    "streetAddress": "Flat 1, Hamblyn Court, 5 Amhurst Park",
+                    "uri": "flat-1/hamblyn-court/5-amhurst-park/london/n16-5lu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 407000,
+                    "propertyId": 15243972,
+                    "streetAddress": "Flat 2, Elm House, Brooke Road",
+                    "uri": "flat-2/elm-house/brooke-road/london/n16-7rh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-24T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 15247583,
+                    "streetAddress": "Flat 11, Patmore House, Mayville Estate",
+                    "uri": "flat-11/patmore-house/mayville-estate/london/n16-8lq"
+                }
+            ]
+        }
+    }
+}

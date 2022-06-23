@@ -1,0 +1,554 @@
+{
+    "address": "Finchley Road, Hampstead NW3,",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": "765 sq. ft",
+    "sqm": 71.1,
+    "sqft": 765.0,
+    "text": "Approximate Area = 765 sq ft / 71.1sqm\nFor identification only - Not to scale\nQ\na\nWa Bedroom 2\n14'11 (4.55) x 8'11 (2.72)\nBedroom 1\n14'8 (4.47)\nx 13' (3.96) ;\nv\nReception Room\n16'2 (4.93)\nx 13' (3.96)\nKitchen\n(Wut 10'3 (3.12)\n(\"} x 9' (2.74)\nO60 CG) ()\nxe) ee See\n\u2014\u2014 -\u2014\n-\u2014\u2014\u2014\u2014\u2014 -\u2014I\nFirst floor\nPN | Certified Floor plan produced in accordance with RICS Property Measurement Standards incorporating\n(OWN) Property International Property Measurement Standards (IPMS2 Residential). \u00a9nichecom 2021\nLoS 8| Measurer Produced for Chancellors Estate Agents. REF: 792949\n",
+    "image": "./extracted_images/60552880.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60552880/",
+    "listing_no": "60552880",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.558,
+        "longitude": -0.195
+    },
+    "first_published": "2022-01-18T13:58:44",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60552880",
+        "publishedOn": "2022-01-18T13:58:44",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "More Details From Chancellors",
+                "original": "https://www.chancellors.co.uk/properties/r/4319772?utm_source=Marketing&utm_medium=Web&utm_campaign=Sales",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 419,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(487497).png",
+            "branchName": "Chancellors - Hampstead",
+            "brandName": "Chancellors",
+            "chainFree": false,
+            "companyId": 688,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Finchley Road, Hampstead NW3,",
+            "furnishedState": "",
+            "groupId": 22,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7BS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60552880,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "NW3",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "765",
+            "tenure": "share_of_freehold",
+            "zindex": 1343827
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/chancellors-hampstead-london-419/",
+            "branchId": "419",
+            "branchResultsUri": "/for-sale/branch/chancellors-hampstead-london-419/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(487497).png",
+            "phone": "020 3478 2899",
+            "name": "Chancellors - Hampstead",
+            "memberType": "agent",
+            "address": "55 Heath Street, Hampstead, London",
+            "postcode": "NW3 6UG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Luke's Church of England Primary",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Margaret's School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Hampstead Thameslink",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hampstead",
+                "type": "london_underground_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://nichecom.s3.eu-west-1.amazonaws.com/2021/12/24/61c5ba6810629-792949%20teaser%20%20vid.mp4"
+                },
+                {
+                    "__typename": "Media",
+                    "url": "https://property-teaser-video.s3.eu-west-1.amazonaws.com/7bbe5521-f6a1-416c-b7b7-a92b5530663a.mp4"
+                }
+            ],
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=NYi8JwMHFBv"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "f4d7431cd5d65916b45c45c33d6742eed3198ace.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Property Description</strong><br><br>A first floor conversion with a modern contemporary feel extending to 765sqft/71.1sqm situated within a period house.<br><br><strong>Property Details</strong><br><br><strong>Video Viewings:</strong><br>If proceeding without a physical viewing please note that you must make all necessary additional investigations to satisfy yourself that all requirements you have of the property will be met. Video content and other marketing materials shown are believed to fairly represent the property at the time they were created.<br>Property reference 4319772",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Share of Freehold Term 125 years from 01/01/1996",
+                "Two Double Bedrooms",
+                "Living Room",
+                "Separate Kitchen",
+                "Bathroom",
+                "Separate W/C",
+                "Double Glazing",
+                "Share of Freehold"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "7208cbc0f32d104aef015a6a4a25657ba7b77292.png",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "5d1eb6757727d1f0e9768bf2e08344ba213e08a0.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "79f8a30a035a696b17c08c4d8c9d7ad13dd40b3f.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "af1aea276e94ba8960fbe9cebfaf11a4ea3c9edf.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "98c6670ed027e7668f14a40c72ddd53a725b1ae4.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "39ab9bf4c7543f9fe2284e5f6186e24b6c3fa861.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "63283ee54f6c7ed4210e3259cea12d128242d05d.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ddfa1c06955909a2e1d79dd2720497fe15996ba2.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "16af5cf384a10ced40c6df85ef3559b5f32200dd.jpg",
+                "caption": "External View"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 419,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(487497).png",
+            "branchName": "Chancellors - Hampstead",
+            "brandName": "Chancellors",
+            "chainFree": false,
+            "companyId": 688,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Finchley Road, Hampstead NW3,",
+            "furnishedState": "",
+            "groupId": 22,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7BS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60552880,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "NW3",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "765",
+            "tenure": "share_of_freehold",
+            "zindex": 1343827
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Finchley Road, Hampstead NW3, - Zoopla",
+        "metaDescription": "2 bed flat for sale in Finchley Road, Hampstead NW3,, selling for \u00a3625,000 from Chancellors - Hampstead. See property details on Zoopla or browse all our range of properties in Finchley Road, Hampstead NW3,.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60552880/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.558,
+                "longitude": -0.195
+            }
+        },
+        "displayAddress": "Finchley Road, Hampstead NW3,",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-18T13:58:44",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 86
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/7208cbc0f32d104aef015a6a4a25657ba7b77292.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 765
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 817,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Chancellors",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60552880,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "3021A2BA-828B-11EC-8493-1E000E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW3",
+            "areaNameUri": "london/nw3/hampstead-belsize-park-swiss-cottage",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3590.2343749999995
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 1009467,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 1026681,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -17214
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 1058566,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -49099
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1106121,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -96654
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1043627,
+                    "pctChangeSince": -3.273,
+                    "date": "2017-02-26",
+                    "changeSince": -34160
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 720580,
+                    "pctChangeSince": 40.091,
+                    "date": "2012-02-26",
+                    "changeSince": 288887
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 643135,
+                    "pctChangeSince": 56.96,
+                    "date": "2007-02-26",
+                    "changeSince": 366332
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 379798,
+                    "pctChangeSince": 165.79,
+                    "date": "2002-02-26",
+                    "changeSince": 629669
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 1063042,
+                    "newBuilds": 0,
+                    "numSales": 312
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1050118,
+                    "newBuilds": 12,
+                    "numSales": 752
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1030646,
+                    "newBuilds": 64,
+                    "numSales": 1363
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1027216,
+                    "newBuilds": 85,
+                    "numSales": 2182
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-26T00:00:00Z",
+                    "price": 475000,
+                    "propertyId": 17214324,
+                    "streetAddress": "Flat 21, Hillside Court, 409 Finchley Road",
+                    "uri": "flat-21/hillside-court/409-finchley-road/london/nw3-6hg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-06T00:00:00Z",
+                    "price": 377000,
+                    "propertyId": 17215902,
+                    "streetAddress": "Flat 4, 352 Finchley Road",
+                    "uri": "flat-4/352-finchley-road/london/nw3-7aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-02T00:00:00Z",
+                    "price": 258750,
+                    "propertyId": 32606243,
+                    "streetAddress": "Flat 11, 330 Finchley Road",
+                    "uri": "flat-11/330-finchley-road/london/nw3-7aw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 17215958,
+                    "streetAddress": "525 Finchley Road",
+                    "uri": "525-finchley-road/london/nw3-7bb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 467000,
+                    "propertyId": 17215809,
+                    "streetAddress": "304 Finchley Road",
+                    "uri": "304-finchley-road/london/nw3-7ag"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 805000,
+                    "propertyId": 27184415,
+                    "streetAddress": "Flat 8, 13 South Hill Park Gardens",
+                    "uri": "flat-8/13-south-hill-park-gardens/london/nw3-2td"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 31526691,
+                    "streetAddress": "Flat 3, 13 Belsize Grove",
+                    "uri": "flat-3/13-belsize-grove/london/nw3-4ux"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 2500000,
+                    "propertyId": 17202532,
+                    "streetAddress": "4 Shirlock Road",
+                    "uri": "4-shirlock-road/london/nw3-2hs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 975000,
+                    "propertyId": 17208098,
+                    "streetAddress": "97 King Henrys Road",
+                    "uri": "97-king-henrys-road/london/nw3-3qx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1850000,
+                    "propertyId": 17216240,
+                    "streetAddress": "26 Bracknell Gardens",
+                    "uri": "26-bracknell-gardens/london/nw3-7ed"
+                }
+            ]
+        }
+    }
+}

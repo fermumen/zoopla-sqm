@@ -1,0 +1,466 @@
+{
+    "address": "Abbot Road, Aberfeldy Village, East India Dock, London E14",
+    "price": "\u00a3556,000",
+    "beds": "2 beds",
+    "area": "858 sq. ft",
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//new-homes/details/60610023/",
+    "listing_no": "60610023",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.513245,
+        "longitude": -0.000384
+    },
+    "first_published": "2022-01-25T22:36:06",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60610023",
+        "publishedOn": "2022-01-25T22:36:06",
+        "section": "new-homes",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 60057,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(458035).png",
+            "branchName": "Pioneer Property Group",
+            "brandName": "Pioneer Property Group",
+            "chainFree": true,
+            "companyId": 32047,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Abbot Road, Aberfeldy Village, East India Dock, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "0ND",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60610023,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 4,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 556000,
+            "price": 556000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "858",
+            "tenure": "leasehold",
+            "zindex": 343633
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/pioneer-property-group-london-60057/",
+            "branchId": "60057",
+            "branchResultsUri": "/for-sale/branch/pioneer-property-group-london-60057/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(458035).png",
+            "phone": "020 8033 2427",
+            "name": "Pioneer Property Group",
+            "memberType": "agent",
+            "address": "Flat 402, 100 Kingsway, London",
+            "postcode": "N12 0EQ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Culloden Primary - A Paradigm Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East India",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Woolmore Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Canning Town",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "We are delighted to present this Spacious Bedroom apartment in the heart of East India Dock E14 with 860 sq ft of Living Space<br><br>Set on the 1st floor of this development with beautiful views of the City<br><br>Size: 858 sq ft<br><br>Help to Buy Scheme - 5% Deposit<br><br>Finished to a very high standard throughout, with a contemporary luxury feel.<br><br>This property benefits from the following features:<br><br>Entry Phone System<br>En-Suite to Master Bedroom<br>Engineer Wooden Flooring<br>Underfloor Heating<br>Double Glazing<br>Fire Doors<br>Storage<br>Ventilation<br>Open Plan Living<br>Integrated Kitchen/Appliances<br>Induction Hob<br>Extractor<br>Communal Gardens<br>Private Balcony<br>Lounge Room<br>On-site Gym<br><br>Local Amenities and vibrant variety of shops, bars and restaurants are on your doorstep.<br>Community Feel<br><br>Transport:<br><br>5 Minutes Walk from East India DLR Station<br>11 Minutes Walk from Canning Town Station<br><br>Viewings are highly recommended. Please get in touch for more information about other apartments in this development.<br><br>***Pictures are for illustrative purposes as development is still under construction.<br>*Floor Plan Available upon Request",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Balcony",
+                "Off street parking",
+                "Central heating",
+                "Disabled features",
+                "Double glazing",
+                "Wood floors",
+                "Help to Buy - 5% Deposit Scheme"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "817eafb008589bbab2f2bf299ea654604b4a8c4d.png",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0fec575a4befccd477cfc3614d4e6d7d501c3e47.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "35b279daa40316700e6801db94df248d64590544.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5117df6e54b2145284600c87a2294a7d6a0a8d93.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 60057,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(458035).png",
+            "branchName": "Pioneer Property Group",
+            "brandName": "Pioneer Property Group",
+            "chainFree": true,
+            "companyId": 32047,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Abbot Road, Aberfeldy Village, East India Dock, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "0ND",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60610023,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 4,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 556000,
+            "price": 556000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "858",
+            "tenure": "leasehold",
+            "zindex": 343633
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in Abbot Road, Aberfeldy Village, East India Dock, London E14 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in Abbot Road, Aberfeldy Village, East India Dock, London E14, selling for \u00a3556,000 from Pioneer Property Group. See property details on Zoopla or browse all our range of properties in Abbot Road, Aberfeldy Village, East India Dock, London E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60610023/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.513245,
+                "longitude": -0.000384
+            }
+        },
+        "displayAddress": "Abbot Road, Aberfeldy Village, East India Dock, London E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-25T22:36:06",
+                "priceLabel": "\u00a3556,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 66
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 858
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3556,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 648,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Pioneer Property Group",
+            "category": "for-sale/resi/agent/new/gb",
+            "id": 60610023,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "5F79ED98-7E2F-11EC-BFE8-36E20D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3199.821151716501
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 390000,
+                    "propertyId": 31432967,
+                    "streetAddress": "Flat 408, Lighterman Point, 3 New Village Avenue",
+                    "uri": "flat-408/lighterman-point/3-new-village-avenue/london/e14-0nd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

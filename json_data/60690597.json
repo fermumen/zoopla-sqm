@@ -1,0 +1,540 @@
+{
+    "address": "Peartree Way, Greenwich, London SE10",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": "908 sq. ft",
+    "sqm": 84.4,
+    "sqft": 908.0,
+    "text": "atatatatats stetstatatstetatee een eee\nOs Se\nREERRSNS _IBIO XS ReRnasees\neeseceanetaectatetats Resesesesesesy\npsesososeeacecosasces 5. 14m x 1.54 Kxseescececs\niteletetatetetets stet SOK Retatatetota 5\n} } RECEPTION ROOM\n14'\u00b02 x 12'7\n4.32m x 3.84m\nMAIN BEDROOM\n11'7 x 9'2 BEDROOM 2\n3.53m x 2.80m 15'3 x 9'2\n4.64m x 2.80m\noe > | 7 i | KITCHEN / |\na oN iy \\ INING ROOM |\nU 175x135\nZL / | 30m x 4.08m |\n\u2014_ ~ 1 Fe |\nIN\u2014> \\ \\ -\\ |\n\\ \\ \\ Na) |\n\\ \\ Nee C > Y/Y \\ |\nAPPROXIMATE GROSS INTERNAL AREA\n908 SQ FT / 84.4SQM\nThis plan has been drawn for illustrative and identification purposes only.\n",
+    "image": "./extracted_images/60690597.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60690597/",
+    "listing_no": "60690597",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.491793,
+        "longitude": 0.018886
+    },
+    "first_published": "2022-02-04T19:08:44",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60690597",
+        "publishedOn": "2022-02-04T19:08:44",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/se10/chpk4553098/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/se10/chpk4553098",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/se10/chpk4553098/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 62677,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Greenwich",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Peartree Way, Greenwich, London SE10",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0GX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60690597,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SE10",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "908",
+            "tenure": null,
+            "zindex": 511249
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-greenwich-greenwich-62677/",
+            "branchId": "62677",
+            "branchResultsUri": "/for-sale/branch/foxtons-greenwich-greenwich-62677/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 8128 2418",
+            "name": "Foxtons - Greenwich",
+            "memberType": "agent",
+            "address": "326-328 Creek Road, Greenwich",
+            "postcode": "SE10 9SW"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Millennium Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Halstow Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Westcombe Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Charlton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Set on the 7th floor and offering far reaching views of Canary Wharf, this fantastic 2 bedroom apartment has been beautifully maintained and benefits from a spacious interior and a private balcony.<br><br>Located on Peartree Way only moments away from the river, Bayliss Heights benefits from a close proximity to North Greenwich Station and the O2 arena for excellent transport links and a wealth of amenities.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Sought after development in North Greenwich",
+                "7th floor apartment in excellent condition",
+                "Open plan reception room and kitchen extending 31'",
+                "2 well proportioned bedrooms with access onto the balcony",
+                "En suite shower room and a family bathroom",
+                "Private balcony with great views"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "a05e749cfbd4fbf8c73d5dde3c73d1770b7e93ab.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d7e9200bff454f7199ab6cefa8b7fa838fa50299.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6356d5411e99ba9346cf2c5e69fb96a627d2115a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5aef81eabf1e226e609bc663120228081fed54b7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "012de20cf76be7d2777e9dff85006d2ee539e184.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ef58821f049224a98e151e290c243f6d3575595a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ce7dfcc3d32dfe1207f20fa1d166443d22fe5dc4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "26f5f34e74980aa7d57cdf9d8771c9db534286a2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "87d35bbeb665376524ba432ceb8467b1f13ce916.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bc798a70a66813dd290338e0927932fd631aca9d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "689ca03d5bfb265161a1b928d723f89a6e649d2e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9154c7646095ce4f3f8ede674edf8ff012fd5eac.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 62677,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Greenwich",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Peartree Way, Greenwich, London SE10",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0GX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60690597,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SE10",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "908",
+            "tenure": null,
+            "zindex": 511249
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Peartree Way, Greenwich, London SE10 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Peartree Way, Greenwich, London SE10, selling for \u00a3575,000 from Foxtons - Greenwich. See property details on Zoopla or browse all our range of properties in Peartree Way, Greenwich, London SE10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60690597/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.491793,
+                "longitude": 0.018886
+            }
+        },
+        "displayAddress": "Peartree Way, Greenwich, London SE10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-04T19:08:44",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 133
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/a05e749cfbd4fbf8c73d5dde3c73d1770b7e93ab.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 908
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 633,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60690597,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "70FC7128-964C-11EC-8623-77150E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE10",
+            "areaNameUri": "london/se10/greenwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2236
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 487489,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 490846,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3357
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 492937,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5448
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 515817,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -28328
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 469124,
+                    "pctChangeSince": 3.915,
+                    "date": "2017-02-26",
+                    "changeSince": 18365
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 306678,
+                    "pctChangeSince": 58.958,
+                    "date": "2012-02-26",
+                    "changeSince": 180811
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 296346,
+                    "pctChangeSince": 64.5,
+                    "date": "2007-02-26",
+                    "changeSince": 191143
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 175840,
+                    "pctChangeSince": 177.234,
+                    "date": "2002-02-26",
+                    "changeSince": 311649
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 509351,
+                    "newBuilds": 26,
+                    "numSales": 175
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 501732,
+                    "newBuilds": 177,
+                    "numSales": 615
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 476740,
+                    "newBuilds": 511,
+                    "numSales": 1538
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 469105,
+                    "newBuilds": 1370,
+                    "numSales": 3123
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 399000,
+                    "propertyId": 32654026,
+                    "streetAddress": "Flat 9, Juett Lodge, 12 Peartree Way",
+                    "uri": "flat-9/juett-lodge/12-peartree-way/london/se10-0js"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 380000,
+                    "propertyId": 32654021,
+                    "streetAddress": "Flat 4, Juett Lodge, 12 Peartree Way",
+                    "uri": "flat-4/juett-lodge/12-peartree-way/london/se10-0js"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-01T00:00:00Z",
+                    "price": 393000,
+                    "propertyId": 33110926,
+                    "streetAddress": "Flat 44, Barquentine Heights, 4 Peartree Way",
+                    "uri": "flat-44/barquentine-heights/4-peartree-way/london/se10-0gu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1030000,
+                    "propertyId": 21004877,
+                    "streetAddress": "10 Feathers Place",
+                    "uri": "10-feathers-place/london/se10-9ne"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 1320000,
+                    "propertyId": 21002409,
+                    "streetAddress": "57 Ashburnham Grove",
+                    "uri": "57-ashburnham-grove/london/se10-8uj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 386000,
+                    "propertyId": 32075205,
+                    "streetAddress": "Flat 21, Poldo House, 24 Cable Walk",
+                    "uri": "flat-21/poldo-house/24-cable-walk/london/se10-0tq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 845000,
+                    "propertyId": 20999024,
+                    "streetAddress": "27 Dartmouth Hill",
+                    "uri": "27-dartmouth-hill/london/se10-8aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 552500,
+                    "propertyId": 21003732,
+                    "streetAddress": "78 Colomb Street",
+                    "uri": "78-colomb-street/london/se10-9ez"
+                }
+            ]
+        }
+    }
+}

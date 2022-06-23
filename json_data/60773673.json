@@ -1,0 +1,565 @@
+{
+    "address": "Friern Road, East Dulwich, London SE22",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 79.4,
+    "sqft": 855.0,
+    "text": "Friern Road SE22\nApproximate Gross Internal Area\nCellar = 9.3 sq m/ 100 sq ft\nGround Floor = 70.1 sq m/ 755 sq ft\nTotal = 79.4 sq m/ 855 sq ft\n\\\n\u2014\n/ Bedroom\n, 3.76 x 2.90\nIN 7  124x 96\nYY // \\ {\nan |\n|\nBedroom\n3.20 x 2.82\n| 10'6 x 93\n\u2014\\ |\n] ol\n\u2014 a );\nES)\n. | \u00bb\\ |___Kitchen\nIN / 551x3.81\nDn gp \u201418'1x 126\nUp\n=~ Cellar J -\n6.73x 1.73 Reception Room\n9011 x 58 5.11 x 3.66\n16'9 x 12'0\n1\n\\\\ Jf\nY\\ ff\nCellar yy\nGround Floor\nCopyright www.pedderproperty.com \u00a9 2022\nThese plans are for representation purposes only as defined by RICS - Code of Measuring Practice.\nNot drawn to Scale. Windows and door openings are approximate. Please check all dimensions,\nshapes and compass bearings before making any decisions reliant upon them.\n",
+    "image": "./extracted_images/60773673.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60773673/",
+    "listing_no": "60773673",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.452255,
+        "longitude": -0.068394
+    },
+    "first_published": "2022-02-16T11:17:26",
+    "last_sale_date": "2014-05-02",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60773673",
+        "publishedOn": "2022-02-16T11:17:26",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/8478b1acc268ac9c604287a89d3431a06e307798.pdf",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 7841,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(466901).png",
+            "branchName": "Pedder - East Dulwich",
+            "brandName": "Pedder",
+            "chainFree": true,
+            "companyId": 29514,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Friern Road, East Dulwich, London SE22",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0AZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60773673,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SE22",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 892516
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/pedder-east-dulwich-east-dulwich-7841/",
+            "branchId": "7841",
+            "branchResultsUri": "/for-sale/branch/pedder-east-dulwich-east-dulwich-7841/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(466901).png",
+            "phone": "020 3641 5009",
+            "name": "Pedder - East Dulwich",
+            "memberType": "agent",
+            "address": "23 Lordship Lane, East Dulwich",
+            "postcode": "SE22 8EW"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Goodrich Community Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Heber Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Dulwich",
+                "type": "national_rail_station",
+                "distanceMiles": 0.8
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "North Dulwich",
+                "type": "national_rail_station",
+                "distanceMiles": 0.9
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/32sDuDxNIBY?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "80a4b3de710547d7d060c23fddd9bfb0ae88e1b4.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Charming, large, two-double bedroom period conversion with direct access onto a stunning, established and larger-than-usual shared garden (Flat B) on this desirable residential road in the heart of East Dulwich.<br><br>The ground floor property boasts 855 Sq Ft of internal space including a large, newly-renovated eat-in kitchen, 16'9 x 12' bay-fronted reception room, a family bathroom, two comfortable bedrooms, private storage cellar, paved decking, garden shed, shared front garden storage room (Flat B) and lockable safe bicycle shed.<br><br>Friern Road is enviably located for the excellent green spaces and parks nearby including Peckham Rye Park, Dulwich Park and Goose Green, as well as the shops, services, bars, restaurants and amenities of Lordship Lane.<br><br>There are strong transport links into The City and West End from nearby East Dulwich station (1.1 miles), Peckham Rye station (1.5 miles) and Honor Oak Park (1.3 miles) as well as bus connections through the neighbouring Camberwell, Forest Hill and Dulwich Village.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two double bedrooms",
+                "Direct access to garden",
+                "Cellar for storage",
+                "Desirable, residential road",
+                "Excellent local parks and amenities",
+                "Chain free",
+                "EPC Rating: D"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "168a85815b3026929b1e243aa7ecd8d611bf2660.gif",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d9b1c69289f56fa5a2079712a352e368e64b291f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e57691fc15e684b3a93d887830e59f44b2c2bd7f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a99022d51ef017e4b49593a63acae1f948ab760b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4ec5f64f2099dd9deba1bc1033e8962a35499a9e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4698d903d482c992bcb9f70078f26f87b13c4743.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "acf539cdf73f865c0fb8a079083accadcec9d395.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a1c4e094826e1dd10a08cd32f2071a4f8c3dbcc2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "629b1ae143d101dac79870387c546d0a0b76a9d5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2770dc86036d42d1645811cdf582d14860271da2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bb83caec2324e6ed553217a8c977e6c465b64dab.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7ebdc83fee9cdc563edf7d6a6a07538363a9f3cf.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 7841,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(466901).png",
+            "branchName": "Pedder - East Dulwich",
+            "brandName": "Pedder",
+            "chainFree": true,
+            "companyId": 29514,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Friern Road, East Dulwich, London SE22",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0AZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60773673,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "SE22",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 892516
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Friern Road, East Dulwich, London SE22 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Friern Road, East Dulwich, London SE22, selling for \u00a3600,000 from Pedder - East Dulwich. See property details on Zoopla or browse all our range of properties in Friern Road, East Dulwich, London SE22.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60773673/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.452255,
+                "longitude": -0.068394
+            }
+        },
+        "displayAddress": "Friern Road, East Dulwich, London SE22",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-16T11:17:26",
+                "priceLabel": "\u00a3630,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2014-05-02",
+                "newBuild": false,
+                "price": 537000,
+                "priceLabel": "\u00a3537,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.8",
+                    "priceChangeDate": "2022-02-21T14:38:01",
+                    "priceChangeLabel": "\u00a330,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 108
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/168a85815b3026929b1e243aa7ecd8d611bf2660.gif"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Pedder",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60773673,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "BD01317A-948B-11EC-960D-D2030E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE22",
+            "areaNameUri": "london/se22/east-dulwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1906.9374999999998
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 456902,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 460048,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3146
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 462008,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5106
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 483451,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -26549
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 439686,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 17216
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 287434,
+                    "pctChangeSince": 58.959,
+                    "date": "2012-02-26",
+                    "changeSince": 169468
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 277750,
+                    "pctChangeSince": 64.501,
+                    "date": "2007-02-26",
+                    "changeSince": 179152
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 164806,
+                    "pctChangeSince": 177.236,
+                    "date": "2002-02-26",
+                    "changeSince": 292096
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 488265,
+                    "newBuilds": 0,
+                    "numSales": 148
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 483479,
+                    "newBuilds": 1,
+                    "numSales": 372
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 478928,
+                    "newBuilds": 5,
+                    "numSales": 733
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 467029,
+                    "newBuilds": 7,
+                    "numSales": 1166
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-23T00:00:00Z",
+                    "price": 1300000,
+                    "propertyId": 21171223,
+                    "streetAddress": "24 Friern Road",
+                    "uri": "24-friern-road/london/se22-0at"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 642000,
+                    "propertyId": 21171334,
+                    "streetAddress": "134a Friern Road",
+                    "uri": "134a-friern-road/london/se22-0ay"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 645000,
+                    "propertyId": 21171461,
+                    "streetAddress": "218 Friern Road",
+                    "uri": "218-friern-road/london/se22-0bb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 1290000,
+                    "propertyId": 21171243,
+                    "streetAddress": "31 Friern Road",
+                    "uri": "31-friern-road/london/se22-0au"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 1240000,
+                    "propertyId": 21171249,
+                    "streetAddress": "45 Friern Road",
+                    "uri": "45-friern-road/london/se22-0au"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 21172468,
+                    "streetAddress": "19 Crebor Street",
+                    "uri": "19-crebor-street/london/se22-0hf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 884000,
+                    "propertyId": 21173603,
+                    "streetAddress": "47 Mundania Road",
+                    "uri": "47-mundania-road/london/se22-0nw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 910000,
+                    "propertyId": 21182224,
+                    "streetAddress": "21 Rodwell Road",
+                    "uri": "21-rodwell-road/london/se22-9lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 21176816,
+                    "streetAddress": "Flat B, 18 Lordship Lane",
+                    "uri": "flat-b/18-lordship-lane/london/se22-8hn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 638500,
+                    "propertyId": 21180897,
+                    "streetAddress": "148a Crystal Palace Road",
+                    "uri": "148a-crystal-palace-road/london/se22-9ep"
+                }
+            ]
+        }
+    }
+}

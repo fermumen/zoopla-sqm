@@ -1,0 +1,540 @@
+{
+    "address": "Salter Street, London E14",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60792659/",
+    "listing_no": "60792659",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.509792,
+        "longitude": -0.027074
+    },
+    "first_published": "2022-02-18T11:50:46",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60792659",
+        "publishedOn": "2022-02-18T11:50:46",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "9 Salter Street, London",
+                "original": "https://lc.zoocdn.com/a5149c4d43c9216eda8a5f6a39bbf969083bb671.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31295397",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 132201,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(730108).png",
+            "branchName": "Pathways Residential",
+            "brandName": "Pathways Residential",
+            "chainFree": true,
+            "companyId": 103553,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Salter Street, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "8NW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60792659,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 517485
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/pathways-residential-london-132201/",
+            "branchId": "132201",
+            "branchResultsUri": "/for-sale/branch/pathways-residential-london-132201/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(730108).png",
+            "phone": "020 4537 6000",
+            "name": "Pathways Residential",
+            "memberType": "agent",
+            "address": "Unit 5i-5j Nobel Road, London",
+            "postcode": "N18"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Cyril Jackson Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Westferry",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Mayflower Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Canary Wharf Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Pathways Residential are pleased to announce this luxurious two bedroom apartment in a prime location in E14. Benefiting from a great Docklands Location, the apartment has two spacious bedrooms, as well as a state of the art kitchen diner, with all integrated appliances, two good size bathrooms (One En-Suite), and a cozy balcony with views of Canary Wharf. The Flat boasts 850 square feet.<br><br>Located on Salter Street, the complex is literally on the doorstep of Westferry Station and within 0.4 Miles of both Canary Wharf and Poplar Stations. The property has great local amenities, with a shopping centre next to Canary Wharf Station, as well as Restaurants, Bars, Cinemas and much much more.<br><br>Please contact Pathways Residential as soon as possible to arrange a viewing.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 Bedroom Apartment",
+                "Views of Canary Wharf",
+                "Docklands Location",
+                "1 Miles to Westferry Station",
+                "4 Miles to both Canary Wharf Station and Poplar Station",
+                "Open Plan Kitchen Diner",
+                "Fully Integrated State Of The Art Kitchen Appliances",
+                "Private Balcony",
+                "Great Location",
+                "Chain Free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/084c11cffca57b456388e7544150ebd77a4b4525.pdf",
+                    "caption": "Flat 9, Cayman Court.pdf"
+                }
+            ]
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "3d7ebda15e19b761bd6bac156c7ac1e5ac645de5.jpg",
+                "caption": "High_Res_006.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0ba54530a75839d2b06f1a73e984f8897ca6c296.jpg",
+                "caption": "High_Res_001.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ffe44094cb873e28581e9577963513ffdbe872e7.jpg",
+                "caption": "High_Res_004.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "87e072997f840b5f6d09a66e58278f0325d09a19.jpg",
+                "caption": "High_Res_005.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "86e21fcb246e0233ae5566de2e8d1653abdc6037.jpg",
+                "caption": "High_Res_014.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bbfaf56a6fb5e0f4c9820e3770b9f1fd2d35f5d1.jpg",
+                "caption": "High_Res_011.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8ef2c0289558d8da1343bb8d207d4d15b17a4c47.jpg",
+                "caption": "High_Res_010.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8f34ccfa6dc4a2b0333a1b5eb506f8ed1eeda09a.jpg",
+                "caption": "High_Res_012.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8d1d9f4ab6b28d64d57e11ee9bdef46cab43bfeb.jpg",
+                "caption": "High_Res_013.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "410bfd980613d072d0c40e8e92ebccc911404f27.jpg",
+                "caption": "High_Res_015.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "87881528263298b4729cd3482a609509c2c4e946.jpg",
+                "caption": "High_Res_016.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "484b3f71720496567d998cc706ddec53058c1c0e.jpg",
+                "caption": "High_Res_017.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2ad3364ee9ca017f7b5a398fb43f9719702a9b18.jpg",
+                "caption": "High_Res_007.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "10acbddb3eeac88cf20a2697bf21ac774ce561a7.jpg",
+                "caption": "High_Res_008.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "834d29dd7f82d4f1ecab51a717c8d5ce53063de1.jpg",
+                "caption": "High_Res_009.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e2c351bea0fcb2bfe212f9372ed01f905217c926.jpg",
+                "caption": "High_Res_002.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "edc800c14d2739b58de976396cc1d3311303a387.jpg",
+                "caption": "High_Res_003.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4ecc58c613a2d441b2cb929ff4eaaafe68522fde.jpg",
+                "caption": "High_Res_018.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 132201,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(730108).png",
+            "branchName": "Pathways Residential",
+            "brandName": "Pathways Residential",
+            "chainFree": true,
+            "companyId": 103553,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Salter Street, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "8NW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60792659,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 517485
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Salter Street, London E14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Salter Street, London E14, selling for \u00a3575,000 from Pathways Residential. See property details on Zoopla or browse all our range of properties in Salter Street, London E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60792659/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.509792,
+                "longitude": -0.027074
+            }
+        },
+        "displayAddress": "Salter Street, London E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-18T11:50:46",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 49
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/084c11cffca57b456388e7544150ebd77a4b4525.pdf"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Pathways Residential",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60792659,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "A5AC2FC8-9177-11EC-98B2-A6E00D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3199.821151716501
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,554 @@
+{
+    "address": "1A Prestage Way, Blackwall, 9Qe, London E14",
+    "price": "\u00a3555,000",
+    "beds": "2 beds",
+    "area": "775 sq. ft",
+    "sqm": null,
+    "sqft": null,
+    "text": "BALCONY\n\nAl\n\nMASTER BEDROOM\n\nco\u2014\n\nKITCHEN / DINING / LIVING\n\nuc\n\nBATHROOM ie]\n\n\u2018olf WM\n\nOo\n\noO\n\nST\n\nBEDROOM 2\n\n>|\n\nHALL\n",
+    "image": "./extracted_images/60743873.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/60743873/",
+    "listing_no": "60743873",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.50951,
+        "longitude": -0.008826
+    },
+    "first_published": "2022-02-11T20:10:52",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60743873",
+        "publishedOn": "2022-02-11T20:10:52",
+        "section": "new-homes",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Gosnold House Brochure",
+                "original": "https://lc.zoocdn.com/1be2b35fa14adb497fbbc5d8962f767ce863042f.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 83560,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(419057).png",
+            "branchName": "NU living - Blackwall Reach",
+            "brandName": "NU Living",
+            "chainFree": true,
+            "companyId": 28785,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "1A Prestage Way, Blackwall, 9Qe, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9QE",
+            "isRetirementHome": false,
+            "isSharedOwnership": true,
+            "listingCondition": "new",
+            "listingId": 60743873,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "developer",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 555000,
+            "price": 555000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Coming Soon|Shared Ownership",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "775",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/new-homes/developers/branch/nu-living-blackwall-reach-london-83560/",
+            "branchId": "83560",
+            "branchResultsUri": "/new-homes/branch/nu-living-blackwall-reach-london-83560/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(419057).png",
+            "phone": "020 3641 3328",
+            "name": "NU living - Blackwall Reach",
+            "memberType": "developer",
+            "address": "Prestage Way, London",
+            "postcode": "E14 9QE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Woolmore Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Blackwall",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "All Saints",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Culloden Primary - A Paradigm Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/t2D7cOhMc_I?rel=0"
+                },
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/sKppOuLCeX8?rel=0"
+                }
+            ],
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=vAPEi7epvcr"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "<i>Available for \u00a3166,500 which is indicative of a 30% minimum share of \u00a3555,000 full market value.</i><br><br><strong>Shared Ownership Launching Saturday 26th February 2022 - Register your interest today!</strong><br><br><strong><i>Buying a new home at Parkside West is now even easier with Shared Ownership. Two bedroom apartments available from 30% minimum share.</i></strong><br><br><i>Shared Ownership gives first time buyers and those that do not currently own a home the opportunity to purchase a share in a new home. You will pay a mortgage on the share you own, and pay rent on the remaining share.<br><br>Free expert advice will be available on the day - an Independent Financial Advisor will be on hand to guide you through the process and answer all your questions.<br><br>You will have the opportunity to view our stunning show apartments that give the perfect glimpse into the Parkside living lifestyle.<br><br>Make sure you don\u2019t miss out and rsvp for your place now. Limited spaces available.</i><br><br><strong>Welcome to Parkside West at Blackwall Reach</strong><br><br><i>A new landmark regeneration, in the heart of Blackwall. A bold statement, breathing fresh life into an area steeped in history and transforming its future.</i><br><br>Experience sophisticated London living from your chic contemporary styled apartment at Parkside West. Every apartment is designed with a contemporary monochrome theme and offers either our Jet or Aerial colour palette for the kitchen and bathrooms to complement your style.<br><br>Gosnold House at Parkside West boasts its own specially designed communal entrance ensuring safety and security with a CCTV and video entry system. Underground bike storage is provided for residents as is a concierge service that caters for the whole development.<br><br><strong>The future of London urban living</strong><br><br>Parkside West is the latest phase at Blackwall Reach, a bold new regeneration offering 1,2 and 3 bedroom apartments, duplexes and penthouses, set around the Millennium Green, an exceptional urban park. This unexpected oasis gives Blackwall Reach a unique sense of space, providing a beautiful secluded sanctuary to exercise, energise and relax.<br><br>Just minutes from Canary Wharf and The City, this super-connected development is a focal point in this most dynamic and fast-moving of capitals. Unrivalled transport links and extensive local amenities complete the picture of the future of urban living.<br><br><strong>Iconic City Views</strong><br><br>Select apartments at Parkside West boast spectacular views over Canary Wharf and some of London's most iconic Landmarks. The choice of apartments provide styles and layouts to perfectly suit your needs, as well as stunning city views from the winter gardens, many apartments offer beautiful balcony views over the Millennium Park that sits at the heart of the development.<br><br><strong>Travel Times</strong><br><br>Just a short walk from Blackwall Reach, Blackwall DLR Station offers quick and easy access not only to East London destinations, but also to Central London and beyond.<br><br><li>Canary Wharf \u2013 8 minutes</li><li>Westfield Stratford City \u2013 10 minutes</li><li>The O2 Arena \u2013 11 minutes</li><li>Bank \u2013 12 minutes</li><li>Olympic Park \u2013 14 minutes</li><li>London Bridge \u2013 15 minutes</li><li>The City \u2013 17 minutes</li><li>Shoreditch \u2013 29 minutes</li><li>Dalston \u2013 32 minutes</li><li>Soho \u2013 32 minutes</li><br><i>Times represent the fastest road or rail times from Blackwall Reach</i><br><br>Crossrail, the new high-speed way to travel across the capital, is set to begin operations in 2022. Canary Wharf, East London\u2019s flagship Crossrail Station, is just 8 minutes from Parkside West at Blackwall Reach.<br><br><li>Whitechapel - 3 minutes</li><li>Liverpool Street - 6 minutes</li><li>Stratford - 8 minutes</li><li>Tottenham Court Road - 11 minutes</li><li>Bond Street - 13 minutes</li><li>Paddington - 16 minutes</li><br><i>Anticipated journey times from Canary Wharf Crossrail Station.</i><br><br><strong>Get in touch today to book your viewing to find out why Parkside West is East London's newest, green addition. The Sales and Marketing Suite is open Tuesday to Saturday, 10am - 5pm.</strong><br><br><i>Help to Buy is available on selected apartments only up to the value of \u00a3600,000, subject to qualifying criteria. Please speak to a Sales Executive for further information.</i>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "<b>Shared Ownership Launching Saturday 26th February</b>",
+                "<b>Buy with just a 5% deposit*</b>",
+                "Magnificent parkside location",
+                "Millennium Green on your doorstep - an exceptional urban park",
+                "Adjacent to Blackwall DLR providing fantastic transport links",
+                "Contemporary monochrome themes to kitchens and bathrooms",
+                "Bespoke Nolte Kitchens with Silestone worktops",
+                "A selection of local amenities on the finished development at Station Square",
+                "10 year NHBC Warranty and 2 year nu living warranty"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Coming Soon"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Shared Ownership"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "794229d027c7a56e400dc57391145f6b6bb1171f.png",
+                    "caption": "The Polaris - Plot 158"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "a14aba95649903d88f7c68d316b93ae460881c96.jpg",
+                "caption": "Show Apartment Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f2953bd55fa4284e5f7b4bd501258da1dc78d838.jpg",
+                "caption": "CGI View"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2aca398a507b57cf10189a89c85cc00991bd8505.jpg",
+                "caption": "Show Apartment Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3e88bd29afb599b9795485f1c6f8b25979499965.jpg",
+                "caption": "CGI Millennium Green"
+            },
+            {
+                "__typename": "Media",
+                "filename": "74b2d3be905a904023ffa085ea2a5cb96105e5b8.jpg",
+                "caption": "Show Apartment Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c47ca41c76a64688cf0ddc7894fc547c9fe7fdd4.jpg",
+                "caption": "Show Apartment Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a68483e1f2fed136caadb7b6b630bb90515f821d.jpg",
+                "caption": "Show Apartment Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0a778224d23fb5772696354a9ac179175bf66c5d.jpg",
+                "caption": "Show Apartment Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4fbf3773365d81d7ce8e30c8213d082a22740506.jpg",
+                "caption": "Show Apartment Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ebce4c0da9012c7af1baa7c451803abc47006063.jpg",
+                "caption": "Show Apartment Photography"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0e533c93e6d4653ef4d9d8fa71b0a536f30694a2.jpg",
+                "caption": "CGI Gosnold House"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 83560,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(419057).png",
+            "branchName": "NU living - Blackwall Reach",
+            "brandName": "NU Living",
+            "chainFree": true,
+            "companyId": 28785,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "1A Prestage Way, Blackwall, 9Qe, London E14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9QE",
+            "isRetirementHome": false,
+            "isSharedOwnership": true,
+            "listingCondition": "new",
+            "listingId": 60743873,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "developer",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 11,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 555000,
+            "price": 555000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "Coming Soon|Shared Ownership",
+            "propertyType": "flat",
+            "sizeSqFeet": "775",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in 1A Prestage Way, Blackwall, 9Qe, London E14 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in 1A Prestage Way, Blackwall, 9Qe, London E14, selling for \u00a3555,000 from NU living - Blackwall Reach. See property details on Zoopla or browse all our range of properties in 1A Prestage Way, Blackwall, 9Qe, London E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60743873/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.50951,
+                "longitude": -0.008826
+            }
+        },
+        "displayAddress": "1A Prestage Way, Blackwall, 9Qe, London E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-11T20:10:52",
+                "priceLabel": "\u00a3599,995"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "7.5",
+                    "priceChangeDate": "2022-02-18T15:54:09",
+                    "priceChangeLabel": "\u00a344,995",
+                    "priceLabel": "\u00a3555,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 44
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/794229d027c7a56e400dc57391145f6b6bb1171f.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            },
+            {
+                "__typename": "ListingTag",
+                "label": "Shared ownership"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 775
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3555,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 716,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "NU Living",
+            "category": "for-sale/resi/developer/new/gb",
+            "id": 60743873,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "5D5D3EC4-90FA-11EC-B8EA-3EC70D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3199.821151716501
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 532137,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 541907,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -9770
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 559903,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -27766
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 590588,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -58451
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 526156,
+                    "pctChangeSince": 1.137,
+                    "date": "2017-02-26",
+                    "changeSince": 5981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 336297,
+                    "pctChangeSince": 58.234,
+                    "date": "2012-02-26",
+                    "changeSince": 195840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 336973,
+                    "pctChangeSince": 57.917,
+                    "date": "2007-02-26",
+                    "changeSince": 195164
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 195659,
+                    "pctChangeSince": 171.972,
+                    "date": "2002-02-26",
+                    "changeSince": 336478
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 516053,
+                    "newBuilds": 59,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 492796,
+                    "newBuilds": 192,
+                    "numSales": 1366
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 493572,
+                    "newBuilds": 424,
+                    "numSales": 3117
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 479859,
+                    "newBuilds": 1242,
+                    "numSales": 6317
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 7865911,
+                    "streetAddress": "Flat 11, Old Sun Wharf, 40 Narrow Street",
+                    "uri": "flat-11/old-sun-wharf/40-narrow-street/london/e14-8dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 29452535,
+                    "streetAddress": "Flat 50, Trinity Tower, 28 Quadrant Walk",
+                    "uri": "flat-50/trinity-tower/28-quadrant-walk/london/e14-9jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 405000,
+                    "propertyId": 32799788,
+                    "streetAddress": "Apartment 605, 1 Baltimore Wharf",
+                    "uri": "apartment-605/1-baltimore-wharf/london/e14-9fs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 290000,
+                    "propertyId": 7871885,
+                    "streetAddress": "Flat 14, Concordia Wharf, 21 Cold Harbour",
+                    "uri": "flat-14/concordia-wharf/21-cold-harbour/london/e14-9nu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 240000,
+                    "propertyId": 7859299,
+                    "streetAddress": "Flat 33, St. Michael's Court, St. Leonards Road",
+                    "uri": "flat-33/st-michael-s-court/st-leonards-road/london/e14-6ps"
+                }
+            ]
+        }
+    }
+}

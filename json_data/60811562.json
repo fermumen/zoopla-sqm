@@ -1,0 +1,503 @@
+{
+    "address": "Trelawn Road, London SW2",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 62.1,
+    "sqft": 668.0,
+    "text": "Trelawn Road SW2\nApproximate Gross Internal Area\nCellar = 6.4 sq m/ 68 sq ft\nGround Floor = 43.9 sq m/ 473 sq ft\nFirst Floor = 11.8 sq m/ 127 sq ft\nTotal = 62.1 sq m/ 668 sq ft\nANDY\nz =<\n\\\ney Eee eee eee\ni Garden \u2014r=\u2014s=\u2014C=C\u201c=\u201cEC\n| 4.82x 1.15) \u2014 =\n11510 x 3'9 | | A |. .\n_ ~/ \\\nTCU Bedroom _\na. 15'0 x 611\nal il Kitchen Hy\nCL EN) 453x208} =a\nbees = a\nVoie |\nDn I\n| First Floor \u2014\u2014\nBedroom ca ]\n3.42 x 3.08 itt\n11'3 x 101 ellareR\n\\ 7.28 x 1.57\n\\ a 23'11 x 5'2\n/ {\n/ SIN\nReception\nRoom\n4.33 x 3.61\n14'2x 11110\n\\ \\ /\nVey Cellar\nGround Floor\nCopyright www.pedderproperty.com \u00a9 2022\nThese plans are for representation purposes only as defined by RICS - Code\nof Measuring Practice. Not drawn to Scale. Windows and door openings are\napproximate. Please check all dimensions, shapes and compass bearings\nbefore making any decisions reliant upon them.\n",
+    "image": "./extracted_images/60811562.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60811562/",
+    "listing_no": "60811562",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.456652,
+        "longitude": -0.1125
+    },
+    "first_published": "2022-02-21T15:46:33",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60811562",
+        "publishedOn": "2022-02-21T15:46:33",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/e57e11f10c5b95c8b479afc2228de4ea8a9036a7.pdf",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 26587,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(466904).png",
+            "branchName": "Pedder - Herne Hill",
+            "brandName": "Pedder",
+            "chainFree": false,
+            "companyId": 29514,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Trelawn Road, London SW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1DH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60811562,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 696050
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/pedder-herne-hill-herne-hill-26587/",
+            "branchId": "26587",
+            "branchResultsUri": "/for-sale/branch/pedder-herne-hill-herne-hill-26587/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(466904).png",
+            "phone": "020 3641 5124",
+            "name": "Pedder - Herne Hill",
+            "memberType": "agent",
+            "address": "24 Half Moon Lane, Herne Hill",
+            "postcode": "SE24 9HU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Jubilee Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Trinity Academy",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brixton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Brixton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "ff3e9f8188b9451ffb7c58384a3bf631b5cbba42.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A beautiful two double bedroom property available to purchase on a residential road in Brixton.<br><br>Split over two levels, this light and airy property consists of a large first bedroom with fitted wardrobes, a second smaller bedroom with fitted storage is also included, a spacious reception room, a kitchen which leads out on to a small patio to the rear, a well-appointed shower room.<br><br>Situated between Herne Hill and Brixton, great transport links are within walking distance from both Herne Hill Station (Victoria and City Thameslink) and Brixton Underground Station (Victoria line) stations, as well as fantastic local amenities that Brixton centre has to offer, as well as the delights of Brockwell Park. Early viewing highly recommended.<br><br>EPC: D | Call Pedder on",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two double bedrooms",
+                "Well presented",
+                "Light and airy",
+                "Desirable location",
+                "Split level"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "a57824351d4704f1a0595a4ee718e7ba32e0403c.gif",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "31a54106fc045fa49ee13fc8bc88015cf314941b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b78d9e62e620244c3938587c20297a846c9629c3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9f0d3c21196ed63e5900dff80f4fa7bb75d7f4e3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2eee87c8f98bc4c328b100fbaadc75c942251166.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "17443f3f89805eadbefc9920ca58478f24d4e51d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ebceee476c7c1577aa91cb88771b71f1672ee8cd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4329519bcd6a2597572af90935a7522a727990b4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "402b96e68989b1e8fbedd9f327c87515d2de06b1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8f5afd1dbce74dafd5cb11d635330326ce477ebd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7e585c2ea7f365f4338f5e8ced95a733069438db.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 26587,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(466904).png",
+            "branchName": "Pedder - Herne Hill",
+            "brandName": "Pedder",
+            "chainFree": false,
+            "companyId": 29514,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Trelawn Road, London SW2",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1DH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60811562,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SW2",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 696050
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Trelawn Road, London SW2 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Trelawn Road, London SW2, selling for \u00a3575,000 from Pedder - Herne Hill. See property details on Zoopla or browse all our range of properties in Trelawn Road, London SW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60811562/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.456652,
+                "longitude": -0.1125
+            }
+        },
+        "displayAddress": "Trelawn Road, London SW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-21T15:46:33",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 58
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/a57824351d4704f1a0595a4ee718e7ba32e0403c.gif"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Pedder",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60811562,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "72732550-932D-11EC-A375-90D40D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW2",
+            "areaNameUri": "london/sw2/brixton-centralsouth-streatham-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1908.7634408602153
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 416692,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 418750,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2058
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 419016,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -2324
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 436495,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -19803
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 422941,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -6249
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 291563,
+                    "pctChangeSince": 42.917,
+                    "date": "2012-02-26",
+                    "changeSince": 125129
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 266345,
+                    "pctChangeSince": 56.448,
+                    "date": "2007-02-26",
+                    "changeSince": 150347
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 162273,
+                    "pctChangeSince": 156.785,
+                    "date": "2002-02-26",
+                    "changeSince": 254419
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 468018,
+                    "newBuilds": 0,
+                    "numSales": 325
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 469309,
+                    "newBuilds": 15,
+                    "numSales": 865
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 464625,
+                    "newBuilds": 94,
+                    "numSales": 1643
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 453303,
+                    "newBuilds": 116,
+                    "numSales": 2581
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 950000,
+                    "propertyId": 23109756,
+                    "streetAddress": "29 Trelawn Road",
+                    "uri": "29-trelawn-road/london/sw2-1dh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 1230000,
+                    "propertyId": 23120724,
+                    "streetAddress": "90 Downton Avenue",
+                    "uri": "90-downton-avenue/london/sw2-3ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 216000,
+                    "propertyId": 23120868,
+                    "streetAddress": "Flat 11, Christchurch House, Christchurch Road",
+                    "uri": "flat-11/christchurch-house/christchurch-road/london/sw2-3ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 32297780,
+                    "streetAddress": "Flat 2, Burney House, 4 Ardwell Road",
+                    "uri": "flat-2/burney-house/4-ardwell-road/london/sw2-4bt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 480000,
+                    "propertyId": 23117947,
+                    "streetAddress": "43 Cricklade Avenue",
+                    "uri": "43-cricklade-avenue/london/sw2-3hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 23125193,
+                    "streetAddress": "5a Sudbourne Road",
+                    "uri": "5a-sudbourne-road/london/sw2-5ae"
+                }
+            ]
+        }
+    }
+}

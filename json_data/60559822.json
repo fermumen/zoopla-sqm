@@ -1,0 +1,508 @@
+{
+    "address": "Caxton Road, London W12",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 78.65,
+    "sqft": 847.0,
+    "text": "I\nCaxton Road, Shepherd's Bush, W12\nAPPROXIMATE GROSS INTERNAL (LIVING) AREA\n78.65 SQ.M/ 847 SQ.FT\ngo) | \u00a5 |\nco | oe\n2am |KO)\nexer |V9\nceing2250]( 9.\nJS Os\nii @m\nLP \u00bb)\ntk \u00bb) ;\n/\nxk oA BEDROOM\n= Ho moon = Deitine\n== i u fe _ [2oeina? 31m\nt et cane im Va\niH t | | OD Cy\n: ax N\n/ - ree\n\\ Ll ek)\n\\ q ST rarbwen\nENTRANCE TO FIRST FLOOR 4351245 ren!\n28 SQFT /2.62 SQ.M P . deang 2100 (|\nBEDROOM | i\nDS estes res rh\nr Celing 269m oe\nSS >| 15'-3\" x 4'-3\"\np q\nFIRST FLOOR SECOND FLOOR\n524 SQ.FT / 48.72 SQ.M 294 SQ.FT / 27.32 SQ.M\nN wz\nDisclaimer:\nNot to scale, for guidance only and must not be relied upon as a statement of fact. All measurements and areas are approximate only and\nhave been prepared for Douglas & Gordon in accordance with the current edition of the RICS Code of Measuring Practice.\n",
+    "image": "./extracted_images/60559822.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60559822/",
+    "listing_no": "60559822",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.504905,
+        "longitude": -0.221505
+    },
+    "first_published": "2022-01-19T09:50:11",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60559822",
+        "publishedOn": "2022-01-19T09:50:11",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "More Details",
+                "original": "https://www.douglasandgordon.com/buy/property-details/73755/caxton-road-w12/",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10862,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(712105).png",
+            "branchName": "Douglas & Gordon - Hammersmith & Shepherds Bush",
+            "brandName": "Douglas & Gordon",
+            "chainFree": false,
+            "companyId": 5555,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Caxton Road, London W12",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8AJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60559822,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": null,
+            "outcode": "W12",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 591887
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/douglas-and-gordon-hammersmith-and-shepherds-bush-london-10862/",
+            "branchId": "10862",
+            "branchResultsUri": "/for-sale/branch/douglas-and-gordon-hammersmith-and-shepherds-bush-london-10862/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(712105).png",
+            "phone": "020 8115 3283",
+            "name": "Douglas & Gordon - Hammersmith & Shepherds Bush",
+            "memberType": "agent",
+            "address": "118-120 Glenthorne Road, Hammersmith, London",
+            "postcode": "W6 0LP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Young Dancers Academy",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shepherd's Bush Central",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shepherd's Bush",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Stephen's CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "efb1cfa75121d3b875cff8237d2a7f2229007f28.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A spacious two bedroom split level flat providing 850 sq ft of space arranged over the top two floors of a period property. This is a fantastic and well maintained flat with excellent living space as well as good size bedrooms. The property consists of two double bedrooms, two bathrooms, kitchen space, separate living room and a private balcony on the top floor.<br>Caxton Road is located just a stone\u2019s throw from Westfield Shopping Centre and the fantastic transport links found close by.<br><br>The information contained in these particulars is for general information purposes only. Douglas &amp; Gordon does not provide information or give any warranty with regards to train, tube, tram lines or flight paths. Prospective purchasers or tenants are advised to carry out their own research if they have any concern about train, tube, tram lines or flight paths.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 bedrooms",
+                "2 bathrooms",
+                "Balcony"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "91056eda82ba60cc6320d4e8110ed09eb8a5e7b8.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "15255929169650cbf01798f0a1a0c73cb6406799.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c44e87986f34f662bea2c5979b410868ac17d164.jpg",
+                "caption": "Master Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "52150570bcd9493fffbea5d7117ff762f4202bf5.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "23d03dc680a47cae5e8dbbd8de81104e859dc785.jpg",
+                "caption": "Second Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "352b4c2c05722954c1d8ac8b9dc1421f216a74bc.jpg",
+                "caption": "Other"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6644d6317ec6de83c7be806bd496e170a182672e.jpg",
+                "caption": "Sitting Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e1eff982e16a2e68a2f2db7735821d80e83b9f6d.jpg",
+                "caption": "Master Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "64c368decb7f84d8f7718cc7151eb496e6b181d0.jpg",
+                "caption": "Other"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3d321f8101e702d966bde9d9cec47062aeaa8f83.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b333c6a66141695db985dc8fd0f1969788e78094.jpg",
+                "caption": "Bathroom"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 10862,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(712105).png",
+            "branchName": "Douglas & Gordon - Hammersmith & Shepherds Bush",
+            "brandName": "Douglas & Gordon",
+            "chainFree": false,
+            "companyId": 5555,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Caxton Road, London W12",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8AJ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60559822,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": null,
+            "outcode": "W12",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 591887
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Caxton Road, London W12 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Caxton Road, London W12, selling for \u00a3600,000 from Douglas & Gordon - Hammersmith & Shepherds Bush. See property details on Zoopla or browse all our range of properties in Caxton Road, London W12.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60559822/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.504905,
+                "longitude": -0.221505
+            }
+        },
+        "displayAddress": "Caxton Road, London W12",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-19T09:50:11",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "7.7",
+                    "priceChangeDate": "2022-02-18T10:00:49",
+                    "priceChangeLabel": "\u00a350,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 78
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/91056eda82ba60cc6320d4e8110ed09eb8a5e7b8.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Douglas & Gordon",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60559822,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "51B2954C-961D-11EC-8ED8-2F0E0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W12",
+            "areaNameUri": "london/w12/shepherds-bush",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2709.32638888889
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 460711,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 468189,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -7478
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 482033,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -21322
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 508114,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -47403
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 504126,
+                    "pctChangeSince": -8.612,
+                    "date": "2017-02-26",
+                    "changeSince": -43415
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 335800,
+                    "pctChangeSince": 37.198,
+                    "date": "2012-02-26",
+                    "changeSince": 124911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 299460,
+                    "pctChangeSince": 53.847,
+                    "date": "2007-02-26",
+                    "changeSince": 161251
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 177479,
+                    "pctChangeSince": 159.586,
+                    "date": "2002-02-26",
+                    "changeSince": 283232
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 530598,
+                    "newBuilds": 0,
+                    "numSales": 119
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 516565,
+                    "newBuilds": 9,
+                    "numSales": 378
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 568738,
+                    "newBuilds": 87,
+                    "numSales": 796
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 555965,
+                    "newBuilds": 159,
+                    "numSales": 1300
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 1090000,
+                    "propertyId": 25163420,
+                    "streetAddress": "107 Percy Road",
+                    "uri": "107-percy-road/london/w12-9qh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 271000,
+                    "propertyId": 25164402,
+                    "streetAddress": "Flat 16, Abbey Court, Emlyn Gardens",
+                    "uri": "flat-16/abbey-court/emlyn-gardens/london/w12-9ua"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 900000,
+                    "propertyId": 31866429,
+                    "streetAddress": "Flat 1p, Woodstock Studios, 36 Woodstock Grove",
+                    "uri": "flat-1p/woodstock-studios/36-woodstock-grove/london/w12-8le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 690000,
+                    "propertyId": 25162244,
+                    "streetAddress": "37 Lefroy Road",
+                    "uri": "37-lefroy-road/london/w12-9lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 25164157,
+                    "streetAddress": "35a Ashchurch Park Villas",
+                    "uri": "35a-ashchurch-park-villas/london/w12-9sp"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,559 @@
+{
+    "address": "Fletcher Street, Tower Hill E1",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": "850 sq. ft",
+    "sqm": null,
+    "sqft": null,
+    "text": "ors eu Hose,\n\neto\n\nree\n\na\n\n4%\n\ncod\n\n=\n\ni\n\nops erat en\n\none\n\nfoser nas\n\nhare acep tain\n",
+    "image": "./extracted_images/60849380.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60849380/",
+    "listing_no": "60849380",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.510612,
+        "longitude": -0.06646
+    },
+    "first_published": "2022-02-25T09:37:27",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60849380",
+        "publishedOn": "2022-02-25T09:37:27",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 12715,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(357523).png",
+            "branchName": "London Property Zone",
+            "brandName": "London Property Zone",
+            "chainFree": true,
+            "companyId": 6067,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Fletcher Street, Tower Hill E1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "8HW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60849380,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 21,
+            "numRecepts": null,
+            "outcode": "E1",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "850",
+            "tenure": "share_of_freehold",
+            "zindex": 388104
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/london-property-zone-london-12715/",
+            "branchId": "12715",
+            "branchResultsUri": "/for-sale/branch/london-property-zone-london-12715/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(357523).png",
+            "phone": "020 3478 3495",
+            "name": "London Property Zone",
+            "memberType": "agent",
+            "address": "Britannia House, 1-11 Glenthorne Road, London",
+            "postcode": "W6 0LH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Paul's Whitechapel Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shapla Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tower Gateway",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shadwell",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/R0QZ3Uak4n8?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Spacious two bedroom, two bathroom 850 sq ft apartment on the raised ground floor of this popular brick-built block which benefits from facilities such as day-time Concierge desk and residents' swimming pool and steam room.<br>The property is larger than average, spanning 850 square ft, and benefits from a south-facing balcony off the reception, as well as a parking space in the private gated car park.<br>Ideally located by Tower Hill Tube and Tower Gateway DLR for easy access to the City and Canary Wharf as well as a short walk to a number of local amenities including, the picturesque St. Katharine's Dock Marina and Wapping to the south as well as Brick Lane and Shoreditch to the north.<br><br>Lease details:<br>Service charge and Ground rent combined around \u00a32,600pa.<br>Tenure / Term: 999 years (share of freehold)",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Terrace",
+                "Underground parking",
+                "Double glazing",
+                "Porter/security",
+                "Swimming pool",
+                "Wood floors",
+                "Ideal btl investment apartment near the city of London",
+                "No Chain * Share of Freehold",
+                "Swimming pool * porter * near DLR station"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "0e2e83a06430f3fe2187fbd70e2896093c6e1b1c.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "1e2350a73132ff646eb460972b8d249ba3d893fc.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "73a996f12272a672977035208611bde21e10b9cd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4dc20dcbf276f80c23a1d3c83aa58a5cae0c7044.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ea51cf4051fde81d1fc1dd613ab49b4a10c9b708.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2dd1fabbd30da37fd000d104a1dfcc1bda6ebb68.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6e22510aa0c945a7f48e0fa9a2e92c01d65ccdfe.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e12246343bddf2d08884c8e4aeba45796b92fafe.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b4516916c207c60bb3a08c6a347af3c8f8fd365e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "42a3cc97cd51ec25481d5448fa193753107bc201.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e523dd6beb6850b0acb51ac1549273bc1c02108b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "92dfa339e26109b37fa95aff290dfbb28b9db75c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5a326091d5fe45959512ed77b1685eb2059ca353.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a8531d74d12724011086bd30200649732612dc33.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e41cc2d74162e678a8fc4359dfc2bd00aa393641.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2b29563fb76d568b12200b8a0010abd82f949c10.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "64216c91dde1f235ab7bcdcd8f538de93b43077e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "780fa797cf1b5830eeaefd33772ca9865504df52.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7854fd47318d516a2be25a10c168e815f4bed8a9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bb5e2a0a7803d21d02985b94cac02d55f6e07744.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "22f95f6705decd0e9c0432c6f99438dc5303b663.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "944e0bdb63d5a8ba2ebe2f7d8aae54ce62107cb8.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 12715,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(357523).png",
+            "branchName": "London Property Zone",
+            "brandName": "London Property Zone",
+            "chainFree": true,
+            "companyId": 6067,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Fletcher Street, Tower Hill E1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "8HW",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60849380,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 21,
+            "numRecepts": null,
+            "outcode": "E1",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "850",
+            "tenure": "share_of_freehold",
+            "zindex": 388104
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Fletcher Street, Tower Hill E1 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Fletcher Street, Tower Hill E1, selling for \u00a3600,000 from London Property Zone. See property details on Zoopla or browse all our range of properties in Fletcher Street, Tower Hill E1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60849380/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.510612,
+                "longitude": -0.06646
+            }
+        },
+        "displayAddress": "Fletcher Street, Tower Hill E1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-25T09:37:27",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 15
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/0e2e83a06430f3fe2187fbd70e2896093c6e1b1c.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": null
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 850
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 706,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "London Property Zone",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60849380,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "210C2870-96E7-11EC-8A40-823A0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E1",
+            "areaNameUri": "london/e1/aldgate-stepney-mile-end-whitechapel",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2870.015214384509
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 558247,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 568496,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -10249
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 587375,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -29128
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 619566,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -61319
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 551975,
+                    "pctChangeSince": 1.136,
+                    "date": "2017-02-26",
+                    "changeSince": 6272
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 352800,
+                    "pctChangeSince": 58.233,
+                    "date": "2012-02-26",
+                    "changeSince": 205447
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 353510,
+                    "pctChangeSince": 57.915,
+                    "date": "2007-02-26",
+                    "changeSince": 204737
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 205261,
+                    "pctChangeSince": 171.969,
+                    "date": "2002-02-26",
+                    "changeSince": 352986
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 550168,
+                    "newBuilds": 3,
+                    "numSales": 309
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 550854,
+                    "newBuilds": 66,
+                    "numSales": 935
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 553065,
+                    "newBuilds": 87,
+                    "numSales": 1743
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 566126,
+                    "newBuilds": 271,
+                    "numSales": 3216
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1250000,
+                    "propertyId": 7609296,
+                    "streetAddress": "22 Parfett Street",
+                    "uri": "22-parfett-street/london/e1-1jr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 296000,
+                    "propertyId": 7611312,
+                    "streetAddress": "17a Sidney Street",
+                    "uri": "17a-sidney-street/london/e1-2hh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 127500,
+                    "propertyId": 28756974,
+                    "streetAddress": "Flat 39, Coalstore Court, 5 Candle Street",
+                    "uri": "flat-39/coalstore-court/5-candle-street/london/e1-4rs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 7604719,
+                    "streetAddress": "Flat 9, Donovan House, Cable Street",
+                    "uri": "flat-9/donovan-house/cable-street/london/e1-0aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 7629709,
+                    "streetAddress": "Flat 22, Swan Court, Star Place",
+                    "uri": "flat-22/swan-court/star-place/london/e1w-1af"
+                }
+            ]
+        }
+    }
+}

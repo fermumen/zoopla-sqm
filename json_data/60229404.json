@@ -1,0 +1,593 @@
+{
+    "address": "Guild House, Bermondsey Works SE16",
+    "price": "\u00a3600,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 93.12,
+    "sqft": null,
+    "text": "APPROXIMATE GROSS INTERNAL FLOOR AREA: 1002 SQFT - 93.12SQM ae\n\u2014\u2014\u2014\u20144 \u2014I \u2014\ni \u2014\n\\\nBALCONY\n105\u00b0x91\" NG aoa BEDROOM\nSM KITCHEN 136\"x99\"\n\\ | (APPROXIMATE) aye\" x203\" 417x297\u2122M\n\\ | \\ 661x6.17M\neae\nI\nA wai |\noO ie)\n_ QO BEDROOM O\nA 136\"x59\"\n4.15 478M\nt\nSECOND FLOOR \u2014\not\nBEDROOM\n210'xoe\n756x284M\ntO\nTHIRD FLOOR\nFOR ILLUSTRATION PURPOSES ONLY\n\u2018RIS F.00R PN SHOALO BE LSED AS A GENERAL OUTINE FoR GUDANDE ONLY AD DOESNOT CENSTTUTE MOLE ORV PART A OFFEROR CONTRACT.\naur Puntesen Ox Leste S00 SHS THEIRELYESBY NGPECTION SEARCHES ENQUMIES NO FULL SUEY AS TO ME CORRECTNESS OF EAC STATEMENT\nNY AREAS MEASUREMENTS OR DSTINGESQUOTEO AE PPRORMATE AD SHOMD NOT USED TOLLE APROPERTY CRE THESASSOF ANY ALE ONLET\n",
+    "image": "./extracted_images/60229404.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60229404/",
+    "listing_no": "60229404",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.485489,
+        "longitude": -0.064494
+    },
+    "first_published": "2021-11-19T12:11:30",
+    "last_sale_date": "2017-08-14",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60229404",
+        "publishedOn": "2021-11-19T12:11:30",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/cbr/live/pdf.php?p=CAR210222&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 88842,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(503333).png",
+            "branchName": "CBRE",
+            "brandName": "CBRE Limited",
+            "chainFree": false,
+            "companyId": 60680,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Guild House, Bermondsey Works SE16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3FN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60229404,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "SE16",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 454400
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/cbre-london-88842/",
+            "branchId": "88842",
+            "branchResultsUri": "/for-sale/branch/cbre-london-88842/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(503333).png",
+            "phone": "020 8115 5164",
+            "name": "CBRE",
+            "memberType": "agent",
+            "address": "Millennium Harbour, 22 Westferry Road, London",
+            "postcode": "E14 8LW"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "John Keats Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Phoenix Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "South Bermondsey",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Queens Road (Peckham)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.8
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://view.ricohtours.com/65885673-e33e-4515-acc0-880ff4c00441"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "aa029831fc6ab686fb77b2909fcaa6d248e09cac.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "EWS1 form compliant - Three bedroom duplex apartment located in the stylish Bermondsey Works development boasting views of The Shard and City of London skyline.<br><br>Measuring 1002 sq.ft (92.12 sq.m) this well-designed apartment is spread across the 2nd and 3rd floor, the property comprises c three double bedrooms, two bathrooms, a WC, open plan kitchen living area and south facing private balcony. Neutral and modern decor throughout.<br><br>Residents of Bermondsey Works benefit from 24 hour concierge, gymnasium and communal roof gardens.<br><br>The location has great transport links being a short walk to South Bermondsey for National Rail and Bermondsey Underground Station for the Jubilee Line. Surrey Quays is also close by which boasts many shops, restaurants and leisure facilities.<br><br>CBRE Limited on its behalf and for the Vendors or Lessors of this property whose Agents they are, give notice that:&lt;br&gt;&lt;br&gt;1. These particulars are set out as a general outline only for guidance to intending Purchasers or Lessees, and do not constitute any part of an offer or contract.<br>2.Whilst CBRE Limited uses reasonable endeavours to ensure that the information in these particulars is materially correct, some of the information is derived from third parties and has not been verified by us. Any intending Purchasers, Lessees or Third Parties should not rely on this information as a statement or representation of fact, but must satisfy themselves by their own inspection, searches, enquiries, surveys or otherwise as to the accuracy and completeness.<br>3. To the maximum extent permitted by law CBRE Limited accepts no liability or responsibility for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss of profits resulting from direct or indirect actions based upon the content of these particulars. No person in the employment of CBRE Limited has any authority to make any representation or warranty whatsoever in relation to this property.<br>4. Unless otherwise stated, all purchase prices and rents are correct at the date of publication and, unless otherwise stated, are quoted exclusive of VAT. Lease details and service ground rent (where applicable) are given as a guide only and should be checked and confirmed by your solicitor prior to exchange of contracts.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 Bathrooms",
+                "3 Bedrooms",
+                "1 Reception Room",
+                "Flat/Apartment",
+                "Upper Floor With Lift",
+                "Balcony",
+                "Leasehold with approximately 994 year(s) remaining"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "cf9d206fd9e66cd84cc41102c3e16d7e2f5d7c91.jpg",
+                    "caption": "Picture No. 36"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "acb004f33fa4e71c23c6378bb0ebe9fea64a6165.jpg",
+                "caption": "Picture No. 28"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0c643eb68e41b0794ea885236cf1fd61f43d30ed.jpg",
+                "caption": "Picture No. 26"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ad8cb41caa1e23ddef3dbd960f5c17acad65a5b8.jpg",
+                "caption": "Picture No. 24"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a9e5be68ffc9cb9901c9fe13ca880b77355995be.jpg",
+                "caption": "Picture No. 25"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7dd1f0b4739d739381f8fef198992c8f78db9f58.jpg",
+                "caption": "Picture No. 34"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f0a1f64c7e11f5292187de7f0a2f0f936b0729ea.jpg",
+                "caption": "Picture No. 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8bc2c7b3acf06fda133017fd4f0bc3fd930dee9a.jpg",
+                "caption": "Picture No. 17"
+            },
+            {
+                "__typename": "Media",
+                "filename": "780b1958d71886cafeebc691c963ad7150c13a8c.jpg",
+                "caption": "Picture No. 20"
+            },
+            {
+                "__typename": "Media",
+                "filename": "950264f4208c12e8edf7ed8b24ec2e0e0dcacd59.jpg",
+                "caption": "Picture No. 21"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5ba02b52dcb0b9c8c6ce05ab53a056b445bf7ce3.jpg",
+                "caption": "Picture No. 22"
+            },
+            {
+                "__typename": "Media",
+                "filename": "af5d03e7c88be81f3c577ef56412e08026174233.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "690a32cbac688ac2348ba000c612fa17cef35b5a.jpg",
+                "caption": "Picture No. 23"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ba1d732b7d3de9b3be426256ee7a9eb07f30b6bd.jpg",
+                "caption": "Picture No. 27"
+            },
+            {
+                "__typename": "Media",
+                "filename": "da8a89ea8843bede38dfe427b1fda1bb92ca36f6.jpg",
+                "caption": "Picture No. 29"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d874d80f4a2bfc2ff140a6353c3761f98cd75ea1.jpg",
+                "caption": "Picture No. 31"
+            },
+            {
+                "__typename": "Media",
+                "filename": "726979fb5846cc6e4cc2ca064af07cd74b8cb51c.jpg",
+                "caption": "Picture No. 32"
+            },
+            {
+                "__typename": "Media",
+                "filename": "45aaeb2f70f743cdca17ee407570c659655d9200.jpg",
+                "caption": "Picture No. 33"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2faa245de7522b2c7a635fc1c1813ab3f4a90e54.jpg",
+                "caption": "Picture No. 35"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 88842,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(503333).png",
+            "branchName": "CBRE",
+            "brandName": "CBRE Limited",
+            "chainFree": false,
+            "companyId": 60680,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Guild House, Bermondsey Works SE16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3FN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60229404,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "SE16",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 454400
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Guild House, Bermondsey Works SE16 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Guild House, Bermondsey Works SE16, selling for \u00a3600,000 from CBRE. See property details on Zoopla or browse all our range of properties in Guild House, Bermondsey Works SE16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60229404/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.485489,
+                "longitude": -0.064494
+            }
+        },
+        "displayAddress": "Guild House, Bermondsey Works SE16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-19T12:11:30",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2017-08-14",
+                "newBuild": false,
+                "price": 510625,
+                "priceLabel": "\u00a3510,625",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 56
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/cf9d206fd9e66cd84cc41102c3e16d7e2f5d7c91.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "CBRE Limited",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60229404,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "8007DAA0-5FC3-11EC-9669-412E0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE16",
+            "areaNameUri": "london/se16/rotherhithe-south-bermonsey-surrey-docks",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2942.333333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 471740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 474988,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3248
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 477012,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5272
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 499153,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -27413
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 453967,
+                    "pctChangeSince": 3.915,
+                    "date": "2017-02-26",
+                    "changeSince": 17773
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 296770,
+                    "pctChangeSince": 58.958,
+                    "date": "2012-02-26",
+                    "changeSince": 174970
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 286772,
+                    "pctChangeSince": 64.5,
+                    "date": "2007-02-26",
+                    "changeSince": 184968
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 170159,
+                    "pctChangeSince": 177.235,
+                    "date": "2002-02-26",
+                    "changeSince": 301581
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 450307,
+                    "newBuilds": 0,
+                    "numSales": 232
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 436769,
+                    "newBuilds": 65,
+                    "numSales": 678
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 452137,
+                    "newBuilds": 183,
+                    "numSales": 1544
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 446815,
+                    "newBuilds": 355,
+                    "numSales": 2646
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-18T00:00:00Z",
+                    "price": 257000,
+                    "propertyId": 21079541,
+                    "streetAddress": "Flat 111, Westlake, Rotherhithe New Road",
+                    "uri": "flat-111/westlake/rotherhithe-new-road/london/se16-2dt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-09T00:00:00Z",
+                    "price": 267500,
+                    "propertyId": 21081460,
+                    "streetAddress": "Flat 64, Addy House, Rotherhithe New Road",
+                    "uri": "flat-64/addy-house/rotherhithe-new-road/london/se16-2pd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-01T00:00:00Z",
+                    "price": 617000,
+                    "propertyId": 21078892,
+                    "streetAddress": "194 Rotherhithe New Road",
+                    "uri": "194-rotherhithe-new-road/london/se16-2ap"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-01T00:00:00Z",
+                    "price": 578000,
+                    "propertyId": 33108753,
+                    "streetAddress": "20, Bloomhouse, 389 Rotherhithe New Road",
+                    "uri": "20/bloomhouse/389-rotherhithe-new-road/london/se16-3fn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-05T00:00:00Z",
+                    "price": 520000,
+                    "propertyId": 33108750,
+                    "streetAddress": "17, Bloomhouse, 389 Rotherhithe New Road",
+                    "uri": "17/bloomhouse/389-rotherhithe-new-road/london/se16-3fn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 268000,
+                    "propertyId": 21086900,
+                    "streetAddress": "62 Amina Way",
+                    "uri": "62-amina-way/london/se16-3uj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 835000,
+                    "propertyId": 21097466,
+                    "streetAddress": "42 Rope Street",
+                    "uri": "42-rope-street/london/se16-7te"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 21090848,
+                    "streetAddress": "Flat 1, Old Fire Station Court, 241 Rotherhithe Street",
+                    "uri": "flat-1/old-fire-station-court/241-rotherhithe-street/london/se16-5el"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 347500,
+                    "propertyId": 21098418,
+                    "streetAddress": "Flat 6, Mast Court, 1 Boat Lifter Way",
+                    "uri": "flat-6/mast-court/1-boat-lifter-way/london/se16-7wh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 21096228,
+                    "streetAddress": "Flat 8, Gabriel House, 10 Odessa Street",
+                    "uri": "flat-8/gabriel-house/10-odessa-street/london/se16-7hq"
+                }
+            ]
+        }
+    }
+}

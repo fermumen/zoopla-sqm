@@ -1,0 +1,501 @@
+{
+    "address": "Forbes Apartments, Royal Arsenal Riverside, London SE18",
+    "price": "\u00a3640,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "WAROROBE\n\nensure\n\nexriRoou\n\nBEDROOM 1\n\nuving\n\nCon.\n\nry\n\nHawa\n\nTERRACE\n\nowns\n\nKITCHEN\n\nSHOWER\n\n\u2018ROOM\n\n\u2018BEOROOM2\n",
+    "image": "./extracted_images/60142676.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/60142676/",
+    "listing_no": "60142676",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.493993,
+        "longitude": 0.065738
+    },
+    "first_published": "2021-11-08T16:09:14",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60142676",
+        "publishedOn": "2021-11-08T16:09:14",
+        "section": "new-homes",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 69405,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(596804).png",
+            "branchName": "Vanquish Real Estate",
+            "brandName": "Vanquish Real Estate",
+            "chainFree": true,
+            "companyId": 36944,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Forbes Apartments, Royal Arsenal Riverside, London SE18",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6NZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60142676,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE18",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 640000,
+            "price": 640000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/vanquish-real-estate-royal-arsenal-riverside-69405/",
+            "branchId": "69405",
+            "branchResultsUri": "/for-sale/branch/vanquish-real-estate-royal-arsenal-riverside-69405/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(596804).png",
+            "phone": "020 8022 5356",
+            "name": "Vanquish Real Estate",
+            "memberType": "agent",
+            "address": "Unit 3, Warehouse Court, 18 Duke of Wellington Avenue, Royal Arsenal Riverside",
+            "postcode": "SE18 6SW"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Right Choice Independent Special School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Pulse and Water College",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Woolwich Ferry South Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Woolwich Arsenal Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "<em>Help to buy</em>- Vanquish is thrilled to offer this 2 bedroom, 1 bathroom flat is located in the beautiful Navigator Wharf, part of Berkeley Homes - Royal Arsenal Riverside<br><br><strong>It benefits from :</strong><br><br><ul><li>2 bedroom</li><li>1 bathroom</li><li>1 terrace</li><li>A short walk from a range of onsite facilities</li><li>Forthcoming onsite Crossrail station</li></ul><br><br><strong>Royal Arsenal Riverside</strong> is one of South East London's most exciting riverside addresses, sitting at the heart of Woolwich, which is rapidly emerging as one of London's bright spots; occupying a prime location along the River Thames and offering a buzzing retail hub.<br><br><strong>Features</strong><br><br><ul><li>24/7 Concierge Service</li><li>Private Gym</li><li>Private Swimming pool</li><li>Private Cinema</li></ul><br><br>With a forthcoming on-site Crossrail station, an on-site Thames Clipper Pier, plus the National Rail and DLR stations only 300m away, Royal Arsenal Riverside is one of the best-connected developments in South East London.<br><br><strong>Transportation:</strong><br><br><ul><li>Woolwich Arsenal DLR station</li><li>Thamelinks train station</li><li>Forthcoming Elizabeth line Underground station</li></ul><br><br><strong>Completion:</strong> Completed and ready to move in<br><br><strong>Disclaimer:</strong> Photos are CGI's for marketing purposes only",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Cinema",
+                "Terrace",
+                "En-suite",
+                "Sun Deck Terrace",
+                "Concierge services",
+                "Floor Area: 865",
+                "Years Remaining (Leasehold): 999"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "8fb68a1d2986ecd60793b281d3d08eaa3fd5c3a2.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "f8030ad5d824936ba889c650796e26b3706f4b9b.jpg",
+                "caption": "2 Bedroom Flat For Sale"
+            },
+            {
+                "__typename": "Media",
+                "filename": "364ff0fa791e2cbfcdc2db3468282b235e443ca6.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e96294c1124511f2d4a1bc4a6a80c6ef7e22475c.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4c249ad7919596c823ceb7483f70549df76a13ee.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b403f319903450f34bc979c8589b61b4cc566d0f.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a5a66448d6a0b21bde85a4ad0a5f8599dca519cc.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "86c64d1ac4f9d72f8385a40a1a208a3287f93494.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8753d8c760b60c9d306566531a386a6a28f0faeb.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1d73fcb721ad5d9348a695031b8b17df84e64682.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8bedf0caa0accac5ec27a3d4e227ca51d5883e5d.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b2ed404368946e9ee1ba4567267c51be21461586.jpg",
+                "caption": "Gallery"
+            },
+            {
+                "__typename": "Media",
+                "filename": "893974cec3a1193e9698bd3354c8dc020d51c3da.jpg",
+                "caption": "Gallery"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 69405,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(596804).png",
+            "branchName": "Vanquish Real Estate",
+            "brandName": "Vanquish Real Estate",
+            "chainFree": true,
+            "companyId": 36944,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Forbes Apartments, Royal Arsenal Riverside, London SE18",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6NZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 60142676,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE18",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 640000,
+            "price": 640000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in Forbes Apartments, Royal Arsenal Riverside, London SE18 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in Forbes Apartments, Royal Arsenal Riverside, London SE18, selling for \u00a3640,000 from Vanquish Real Estate. See property details on Zoopla or browse all our range of properties in Forbes Apartments, Royal Arsenal Riverside, London SE18.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/60142676/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.493993,
+                "longitude": 0.065738
+            }
+        },
+        "displayAddress": "Forbes Apartments, Royal Arsenal Riverside, London SE18",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-08T16:09:14",
+                "priceLabel": "\u00a3640,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 3
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/8fb68a1d2986ecd60793b281d3d08eaa3fd5c3a2.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3640,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Vanquish Real Estate",
+            "category": "for-sale/resi/agent/new/gb",
+            "id": 60142676,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "E08CC626-5FD5-11EC-B1F3-5CC10D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE18",
+            "areaNameUri": "london/se18/woolwich-plumstead",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1794.604651162791
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 347244,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 349634,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2390
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 351123,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -3879
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 367418,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -20174
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 334152,
+                    "pctChangeSince": 3.918,
+                    "date": "2017-02-26",
+                    "changeSince": 13092
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 218444,
+                    "pctChangeSince": 58.962,
+                    "date": "2012-02-26",
+                    "changeSince": 128800
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 211084,
+                    "pctChangeSince": 64.505,
+                    "date": "2007-02-26",
+                    "changeSince": 136160
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 125249,
+                    "pctChangeSince": 177.243,
+                    "date": "2002-02-26",
+                    "changeSince": 221995
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 337021,
+                    "newBuilds": 24,
+                    "numSales": 209
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 341936,
+                    "newBuilds": 119,
+                    "numSales": 580
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 382429,
+                    "newBuilds": 473,
+                    "numSales": 1592
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 350150,
+                    "newBuilds": 714,
+                    "numSales": 2651
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 387000,
+                    "propertyId": 21121803,
+                    "streetAddress": "46 Alabama Street",
+                    "uri": "46-alabama-street/london/se18-2sl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 210000,
+                    "propertyId": 21125656,
+                    "streetAddress": "134 Barnfield Gardens, Plumstead Common Road",
+                    "uri": "134-barnfield-gardens/plumstead-common-road/london/se18-3qz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 21114573,
+                    "streetAddress": "124 Marmadon Road",
+                    "uri": "124-marmadon-road/london/se18-1ef"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 428500,
+                    "propertyId": 21118059,
+                    "streetAddress": "8 Leghorn Road",
+                    "uri": "8-leghorn-road/london/se18-1sz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 385000,
+                    "propertyId": 21122147,
+                    "streetAddress": "71 Palmerston Crescent",
+                    "uri": "71-palmerston-crescent/london/se18-2tt"
+                }
+            ]
+        }
+    }
+}

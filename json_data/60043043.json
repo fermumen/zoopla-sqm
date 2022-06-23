@@ -1,0 +1,596 @@
+{
+    "address": "Gwynne Road, Battersea, London SW11",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": "811 sq. ft",
+    "sqm": 75.4,
+    "sqft": 811.0,
+    "text": "KXKKKXKKKKKKKY\noS an 858505\nsecon\nRECEPTION ROOM/KITCHEN\ni\u2018 ; ;\nSECOND FLOOR\n811 SQ FT/75.40 SQM\n",
+    "image": "./extracted_images/60043043.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60043043/",
+    "listing_no": "60043043",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.471364,
+        "longitude": -0.175194
+    },
+    "first_published": "2021-10-25T18:02:55",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60043043",
+        "publishedOn": "2021-10-25T18:02:55",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw11/chpk3672636/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw11/chpk3672636",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw11/chpk3672636/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8702,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Battersea",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Gwynne Road, Battersea, London SW11",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3GL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60043043,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 25,
+            "numRecepts": 1,
+            "outcode": "SW11",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "811",
+            "tenure": null,
+            "zindex": 461605
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-battersea-london-8702/",
+            "branchId": "8702",
+            "branchResultsUri": "/for-sale/branch/foxtons-battersea-london-8702/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3478 2909",
+            "name": "Foxtons - Battersea",
+            "memberType": "agent",
+            "address": "168 Lavender Hill, London",
+            "postcode": "SW11 5TG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "L'Ecole de Battersea",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Thomas's Battersea",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Chelsea Harbour Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Imperial Wharf",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Set within a smart new development in the heart of Battersea, this wonderfully spacious 2 bedroom apartment offers stylish living space with a private balcony.<br><br>The shops, bars, cafes and restaurants of vibrant Battersea Square are moments away, the comprehensive amenities of Clapham Junction are within easy reach.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Set within a secure Residential development",
+                "Moments from the River Thames",
+                "Located on the 2nd floor with lift access",
+                "Generous reception room with door to Balcony",
+                "Sleek open-plan kitchen with integrated appliances",
+                "Main bedroom with en suite shower room",
+                "2nd bedroom and main bathroom",
+                "Private decked Balcony"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "f0664c3be5d36620874f209ce415366235e2dc0d.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "e88646430696130d3967a7f2c07662714871bb0c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0aaf0e52867250b984826ad4520535aa040da315.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c24700f72b1c6b1e2544dcacf62b35e363927178.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cbe0d39ab970e64cc47cb868aa9554e55b6a3918.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bb8d8575ba7af1164a311a180c37ab182113fe55.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ce9a99ff9202185b1bd9f6f4f7c557f59b438870.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "03428de2dc750c0de8971ac2b3b19ec138397f7e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5d2b6afee812c02df1261711e5651d35480aabf8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cef653e5a1be9786edfdc86f8e8ecc50824fb2e0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9a0e570b2376fb68e5577d65639a380c7e587f9b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a3bbfc9b98b7ec18f8c5c9be24ea998bae5a6532.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3274e3b61095d400825186856716bbd5902b377b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "90a0eb564adfa0f5bfa9c378c2db7865324f76c7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "65db22624f95fe0341a059fa4f7eeb48a946a6de.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b507af9aa27110a33b984d3945973f46251c2327.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d8bfaab3543d602cb608f3bbe17f0ea7b424efdd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "487ea1e04e107a1950b679ca8ee2a987ec2e0cce.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0793582b2e8d53ecd32b179a8852ded821ad2c07.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "06f70700b248fdd619f70248f716a65aac425aec.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4420b7e38549186dec570770890bd01490b1036c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "089e6d0d9511356c7bb3e7a2db66602e93c42f6b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5706bf71fef1140cf014fd79b9c1b56b8ada6673.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c43b64677db7c87f0ed63e14be72efe77f9c9828.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b5fc28a282bfb94eaee4248358d8e52d3c1ad188.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "70a8286d1d030782c8651e0d003090c4d97a9ff0.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8702,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Battersea",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Gwynne Road, Battersea, London SW11",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3GL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60043043,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 25,
+            "numRecepts": 1,
+            "outcode": "SW11",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "811",
+            "tenure": null,
+            "zindex": 461605
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Gwynne Road, Battersea, London SW11 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Gwynne Road, Battersea, London SW11, selling for \u00a3625,000 from Foxtons - Battersea. See property details on Zoopla or browse all our range of properties in Gwynne Road, Battersea, London SW11.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60043043/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.471364,
+                "longitude": -0.175194
+            }
+        },
+        "displayAddress": "Gwynne Road, Battersea, London SW11",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-10-25T18:02:55",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 33
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/f0664c3be5d36620874f209ce415366235e2dc0d.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 811
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 771,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60043043,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "824FC40A-5FCB-11EC-8B8C-452E0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW11",
+            "areaNameUri": "london/sw11/battersea-clapham-junction",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3456.430188679247
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 605712,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 608703,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2991
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 609090,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3378
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 634498,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -28786
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 614807,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -9095
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 423830,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 181882
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 387172,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 218540
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 235888,
+                    "pctChangeSince": 156.779,
+                    "date": "2002-02-26",
+                    "changeSince": 369824
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 643914,
+                    "newBuilds": 10,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 705554,
+                    "newBuilds": 107,
+                    "numSales": 1293
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 717890,
+                    "newBuilds": 556,
+                    "numSales": 2803
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 702089,
+                    "newBuilds": 925,
+                    "numSales": 4447
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-06T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 30640917,
+                    "streetAddress": "Apartment 22, 8 Gwynne Road",
+                    "uri": "apartment-22/8-gwynne-road/london/sw11-3gj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 635000,
+                    "propertyId": 23256020,
+                    "streetAddress": "Flat 2, 4 Knowsley Road",
+                    "uri": "flat-2/4-knowsley-road/london/sw11-5bl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 680000,
+                    "propertyId": 27160591,
+                    "streetAddress": "Ground Floor Flat, 10 Glycena Road",
+                    "uri": "ground-floor-flat/10-glycena-road/london/sw11-5tr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 23247548,
+                    "streetAddress": "Flat 54, Lindsay Court, Battersea High Street",
+                    "uri": "flat-54/lindsay-court/battersea-high-street/london/sw11-3hz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 338000,
+                    "propertyId": 23257501,
+                    "streetAddress": "Flat 16, Rawson Court, Rawson Street",
+                    "uri": "flat-16/rawson-court/rawson-street/london/sw11-5hj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 985000,
+                    "propertyId": 23258681,
+                    "streetAddress": "15 Kingsley Street",
+                    "uri": "15-kingsley-street/london/sw11-5ld"
+                }
+            ]
+        }
+    }
+}

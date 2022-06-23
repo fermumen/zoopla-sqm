@@ -1,0 +1,568 @@
+{
+    "address": "Lordship Lane, East Dulwich, London SE22",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 65.4,
+    "sqft": 704.0,
+    "text": "Lordship Lane, East Dulwich, SE22\n( le\nApproximate Gross Internal Area = 65.4 sq m/ 704 sq ft < | N )\n7\nRear Garden\n5.99 x 6.78\ny 19'8 x 22'3 7\n(Approx)\n1\nNf Ir \u2018 = Reduced headroom below 1.5m /5'0\n\"4 WW\n\u2014 _/, | Reception Room\n<x 5.30x 3.36 =\nOa Ng 17'5 x 11'0\nVa NS 1\n1\nfoo}\"\nKitchen \u2014\u2014\u2014\n- 5.40 x 2.72 4\n179 x8'l oD\n= \\ U\n7 oO \\ 1 |\ni st ;\nhe (IN\nay Ls Shared Garden\nNI NJ 13.25 x 6.78\n43'6 x 22'3\nBedroom = A a\nBedroom  -- 3.29 x 2.03 (Approx)\n4.30 x 3.13 10'l0x 68 | |)\n14'I x 103 _\nny\n\\, ._{f]\n\u00ab y\nFront Garden\n7.10 x 4.28\n23'4 x 14'1\nr (Approx) 7\n|\nL 1\nGround Floor\nFLOORPLANZ \u00a9 2016 0845 6344080 Ref: 173254\nThis plan is for layout guidance only. Drawn in accordance with RICS guidelines. Not drawn to scale unless stated. Windows & door openings are approximate.\nWhilst every care is taken in the preparation of this plan, please check all dimensions, shapes & compass bearings before making any decisions reliant upon them,\n",
+    "image": "./extracted_images/43661689.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/43661689/",
+    "listing_no": "43661689",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.451202,
+        "longitude": -0.075995
+    },
+    "first_published": "2022-02-24T20:23:35",
+    "last_sale_date": "2017-09-14",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "43661689",
+        "publishedOn": "2022-02-24T20:23:35",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/DUL160692",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=DUL160692",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8169,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Dulwich",
+            "brandName": "Winkworth",
+            "chainFree": true,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lordship Lane, East Dulwich, London SE22",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8JH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 43661689,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE22",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 498609
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-dulwich-east-dulwich-8169/",
+            "branchId": "8169",
+            "branchResultsUri": "/for-sale/branch/winkworth-dulwich-east-dulwich-8169/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8115 8427",
+            "name": "Winkworth - Dulwich",
+            "memberType": "agent",
+            "address": "97 Lordship Lane, East Dulwich",
+            "postcode": "SE22 8HU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Heber Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Anthony's Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "North Dulwich",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Dulwich",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "a94c3a688b4d681ddf3e96e1c2b175a041788aaa.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A gorgeous two-bedroom ground floor maisonette situated in a fantastic location in East Dulwich. This lovely two-bedroom, ground floor, garden maisonette is offered to the market in exceptional condition. The property comprises two well-proportioned bedrooms situated to the front of the property, the master boasting built in wardrobes and tasteful d\u00e9cor. There is a large family bathroom, finished to a lovely standard. The rear of the property is all open plan, however, cleverly designed to make every area feel like its own space. There is a fully fitted kitchen with ample storage, a large living area with lovely views towards the garden and a well-proportioned dining area. The garden is fully private and boasts a large patio area and lawn, there is an additional communal garden behind the private area. It is ideally situated to benefit from easy access to all the amenities Lordship Lane has to offer. Transport links are provided via East Dulwich station to London Bridge or extensive bus links to central London. No onward chain",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedrooms",
+                "Ground Floor Maisonette",
+                "Open Plan Kitchen / Reception",
+                "Modern Kitchen",
+                "Modern Bathroom",
+                "Private Garden",
+                "Communal Garden"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "4fce51e7bcf7e35739b1e8c169073e27eac33c75.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "b6621a0dc5c3dddb8571ad158c6ff00e4f213387.jpg",
+                "caption": "Kitchen Part Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7d934dfb4a3430f7c5bca5b7566f79ac276863a5.jpg",
+                "caption": "Reception-Diner"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0535b2a4a83aba0d434283db6606f3ec162ef49e.jpg",
+                "caption": "Kitchen Part One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a300e39ff9dc8f33fd7d573023e4d90106498508.jpg",
+                "caption": "External"
+            },
+            {
+                "__typename": "Media",
+                "filename": "06dfdcd62338479b2fb47c569376dcb9cf1da6b5.jpg",
+                "caption": "Reception Area"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e18a9f85215d1916454f34156ef5b55b30dbc240.jpg",
+                "caption": "Hallway"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bb4066b95d7aeef4fe470db3624574bfd41eebeb.jpg",
+                "caption": "Bedroom One Part One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ece7a730711599f34b273fcb83da6a245e63c5f0.jpg",
+                "caption": "Bedroom One Part Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a22628d08e1c79d111663ab443bc7d34d55136aa.jpg",
+                "caption": "Bedroom Two"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5e4e60b99a72a1b1b217fb9d5aa0d97f62c1b5f7.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0cd0dbbdf9c2aa06f5986f25baf0847b02b0cfac.jpg",
+                "caption": "Garden Part One"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bd13478d19c3a1dacbd463e3932a51a6fd30e79a.jpg",
+                "caption": "Garden Part Two"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 8169,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Dulwich",
+            "brandName": "Winkworth",
+            "chainFree": true,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lordship Lane, East Dulwich, London SE22",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8JH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 43661689,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE22",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 498609
+        },
+        "title": "2 bed maisonette for sale",
+        "metaTitle": "2 bed maisonette for sale in Lordship Lane, East Dulwich, London SE22 - Zoopla",
+        "metaDescription": "2 bed maisonette for sale in Lordship Lane, East Dulwich, London SE22, selling for \u00a3625,000 from Winkworth - Dulwich. See property details on Zoopla or browse all our range of properties in Lordship Lane, East Dulwich, London SE22.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/43661689/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.451202,
+                "longitude": -0.075995
+            }
+        },
+        "displayAddress": "Lordship Lane, East Dulwich, London SE22",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-24T20:23:35",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2017-09-14",
+                "newBuild": false,
+                "price": 380000,
+                "priceLabel": "\u00a3380,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 52
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/4fce51e7bcf7e35739b1e8c169073e27eac33c75.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 43661689,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "A55BF792-95AF-11EC-8E3E-FA140E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE22",
+            "areaNameUri": "london/se22/east-dulwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1870.8444444444428
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 456902,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 460048,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3146
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 462008,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5106
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 483451,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -26549
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 439686,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 17216
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 287434,
+                    "pctChangeSince": 58.959,
+                    "date": "2012-02-26",
+                    "changeSince": 169468
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 277750,
+                    "pctChangeSince": 64.501,
+                    "date": "2007-02-26",
+                    "changeSince": 179152
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 164806,
+                    "pctChangeSince": 177.236,
+                    "date": "2002-02-26",
+                    "changeSince": 292096
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 488265,
+                    "newBuilds": 0,
+                    "numSales": 148
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 483479,
+                    "newBuilds": 1,
+                    "numSales": 372
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 478928,
+                    "newBuilds": 5,
+                    "numSales": 733
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 467029,
+                    "newBuilds": 7,
+                    "numSales": 1166
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 21176816,
+                    "streetAddress": "Flat B, 18 Lordship Lane",
+                    "uri": "flat-b/18-lordship-lane/london/se22-8hn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 1100000,
+                    "propertyId": 21176988,
+                    "streetAddress": "339 Lordship Lane",
+                    "uri": "339-lordship-lane/london/se22-8jh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-22T00:00:00Z",
+                    "price": 415000,
+                    "propertyId": 31674822,
+                    "streetAddress": "Flat D, 311 Lordship Lane",
+                    "uri": "flat-d/311-lordship-lane/london/se22-8jh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-09T00:00:00Z",
+                    "price": 850000,
+                    "propertyId": 21177384,
+                    "streetAddress": "396 Lordship Lane",
+                    "uri": "396-lordship-lane/london/se22-8nd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-28T00:00:00Z",
+                    "price": 393000,
+                    "propertyId": 21176669,
+                    "streetAddress": "32 Gloucester Court, 516 Lordship Lane",
+                    "uri": "32-gloucester-court/516-lordship-lane/london/se22-8gb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 21172468,
+                    "streetAddress": "19 Crebor Street",
+                    "uri": "19-crebor-street/london/se22-0hf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 884000,
+                    "propertyId": 21173603,
+                    "streetAddress": "47 Mundania Road",
+                    "uri": "47-mundania-road/london/se22-0nw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 910000,
+                    "propertyId": 21182224,
+                    "streetAddress": "21 Rodwell Road",
+                    "uri": "21-rodwell-road/london/se22-9lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 21176816,
+                    "streetAddress": "Flat B, 18 Lordship Lane",
+                    "uri": "flat-b/18-lordship-lane/london/se22-8hn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 638500,
+                    "propertyId": 21180897,
+                    "streetAddress": "148a Crystal Palace Road",
+                    "uri": "148a-crystal-palace-road/london/se22-9ep"
+                }
+            ]
+        }
+    }
+}

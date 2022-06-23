@@ -1,0 +1,562 @@
+{
+    "address": "The Oxygen, 18 Western Gateway, Royal Victoria Docks, London E16",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 89.65,
+    "sqft": 965.0,
+    "text": "The Oxygen,\nate 18 Western Gateway,\nten London, E1\n\u2018x ondon, E16 Balcony\n101\" x 4'1\"\n: 3.07 x 1.24m\n~e i Iepprnai)\naa\nC \\\nReception a \\\nRoom/ f \\\nKitchen te\nmS 224\" 244\" \\ \\\nfm) __ | 6.73x6.43m \\\\\nCC\n| I\ns |\n? a\na ]\ntt\nLe O Bedroom \\\\\n\u2014 12'11\" x 11'10\" \\\\\\\n3.94 x 3.61m\nme a\nA gt N \\\nLL / \u201c\\ \\\na -\naf i\n\u2014 173\"x 117 > \\\nia) | 5.26 x 3.53m (_\\\n/ wt 1 T\n/ O OQ \\\\\nSS) \\a\nThird Floor\nApprox Gross Internal Area 965 Sq Ft - 89.65 Sq M\nFloor Plan Supplied For Identification Purposes Only And May Not Be Accurate\nFloor Plan by www.elegantmediasolution.com\n",
+    "image": "./extracted_images/60682779.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60682779/",
+    "listing_no": "60682779",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.508446,
+        "longitude": 0.019408
+    },
+    "first_published": "2022-01-29T16:53:50",
+    "last_sale_date": "2013-08-27",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60682779",
+        "publishedOn": "2022-01-29T16:53:50",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 26578,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(42976).jpeg",
+            "branchName": "Hastings International - Rotherhithe",
+            "brandName": "Hastings International",
+            "chainFree": false,
+            "companyId": 10539,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Oxygen, 18 Western Gateway, Royal Victoria Docks, London E16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1BL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60682779,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "E16",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 482859
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/hastings-international-rotherhithe-london-26578/",
+            "branchId": "26578",
+            "branchResultsUri": "/for-sale/branch/hastings-international-rotherhithe-london-26578/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(42976).jpeg",
+            "phone": "020 3542 2193",
+            "name": "Hastings International - Rotherhithe",
+            "memberType": "agent",
+            "address": "167b Rotherhithe Street, London",
+            "postcode": "SE16 5QW"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Royal Victoria",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Canary Wharf",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hallsville Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Luke's Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "3ff622aaf50139447b873ff80658e8bfb59078f2.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "If your looking an apartment with amazing views look no further! This fantastic third floor apartment is situated in an exclusive dock-side development that is moments away from brilliant transport links including<br>the Royal Victoria DLR Station and London City Airport only a short distance away. For the motorist, the property's location provides quick and easy access to the A1020, A12, A13 and Blackwall Tunnel.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Apartment",
+                "Third Floor",
+                "Two Double Bedrooms",
+                "Balcony",
+                "965 Sq Ft",
+                "Dock-Side Panoramic Views",
+                "Secure Parking",
+                "Concierge",
+                "EWS1 Form Compliant"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "859ca1ca1edf25cb085fc3aee1335afe718493a1.jpg",
+                    "caption": "Image_15"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "8af24535e892a89151fddd713c726fc4ae6a9e5b.jpg",
+                "caption": "Image_01"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8f7db7d8a7a19959b2746b40c921452d5df4d237.jpg",
+                "caption": "Image_02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "619c378fc78cbb87ceaeaf862172d59c91b25dd3.jpg",
+                "caption": "Image_03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fd1dd6badae42d253d9529f0b8c85bb28d745157.jpg",
+                "caption": "Image_04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "db4344a9a892e8c5c8779dddcb42110270798c43.jpg",
+                "caption": "Image_05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "dcef3923439282d38cae16a43b80081d2b4e2cd7.jpg",
+                "caption": "Image_06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d8aa45916ddcf41d2ce22fcd027c5ec3f2d65ae4.jpg",
+                "caption": "Image_07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1f91abad5d2330a0c71f8edf28e44a6fb841a8e3.jpg",
+                "caption": "Image_08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8599f33c7aef956bad35793d5145cec7aaacaa64.jpg",
+                "caption": "Image_09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2524c4a650fbe61acf591c1a21b05004fb23d917.jpg",
+                "caption": "Image_10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6f993703c526dddc8fd38fb68417c08502554588.jpg",
+                "caption": "Image_11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2c4f1f8a3399ecc2d343ceb2611679603a32ddcf.jpg",
+                "caption": "Image_12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a680d6863eb3efda342b4739ed57701102dabc8d.jpg",
+                "caption": "Image_13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0c17c8eccac285382136b724e81f03019ee04e7d.jpg",
+                "caption": "Image_14"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 26578,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(42976).jpeg",
+            "branchName": "Hastings International - Rotherhithe",
+            "brandName": "Hastings International",
+            "chainFree": false,
+            "companyId": 10539,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Oxygen, 18 Western Gateway, Royal Victoria Docks, London E16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1BL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60682779,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "E16",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 482859
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in The Oxygen, 18 Western Gateway, Royal Victoria Docks, London E16 - Zoopla",
+        "metaDescription": "2 bed flat for sale in The Oxygen, 18 Western Gateway, Royal Victoria Docks, London E16, selling for \u00a3575,000 from Hastings International - Rotherhithe. See property details on Zoopla or browse all our range of properties in The Oxygen, 18 Western Gateway, Royal Victoria Docks, London E16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60682779/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.508446,
+                "longitude": 0.019408
+            }
+        },
+        "displayAddress": "The Oxygen, 18 Western Gateway, Royal Victoria Docks, London E16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-29T16:53:50",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2013-08-27",
+                "newBuild": false,
+                "price": 405000,
+                "priceLabel": "\u00a3405,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 30
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/859ca1ca1edf25cb085fc3aee1335afe718493a1.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Hastings International",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60682779,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "2F942E08-8B37-11EC-A20C-65030E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E16",
+            "areaNameUri": "london/e16/victoria-docks-canning-town-north-woolwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1998.782828282829
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 409946,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 417472,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -7526
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 431336,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -21390
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 454974,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -45028
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 405330,
+                    "pctChangeSince": 1.139,
+                    "date": "2017-02-26",
+                    "changeSince": 4616
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 259070,
+                    "pctChangeSince": 58.238,
+                    "date": "2012-02-26",
+                    "changeSince": 150876
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 259591,
+                    "pctChangeSince": 57.92,
+                    "date": "2007-02-26",
+                    "changeSince": 150355
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 150728,
+                    "pctChangeSince": 171.977,
+                    "date": "2002-02-26",
+                    "changeSince": 259218
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 403820,
+                    "newBuilds": 0,
+                    "numSales": 143
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 389007,
+                    "newBuilds": 17,
+                    "numSales": 407
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 404670,
+                    "newBuilds": 392,
+                    "numSales": 1497
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 392390,
+                    "newBuilds": 881,
+                    "numSales": 2703
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 30844682,
+                    "streetAddress": "Flat 17, The Oxygen, 18 Western Gateway",
+                    "uri": "flat-17/the-oxygen/18-western-gateway/london/e16-1bl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-25T00:00:00Z",
+                    "price": 412000,
+                    "propertyId": 7893938,
+                    "streetAddress": "Flat 24, Warehouse W, 3 Western Gateway",
+                    "uri": "flat-24/warehouse-w/3-western-gateway/london/e16-1bd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 605000,
+                    "propertyId": 7893599,
+                    "streetAddress": "Flat 18, Aegean Apartments, 19 Western Gateway",
+                    "uri": "flat-18/aegean-apartments/19-western-gateway/london/e16-1ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 317000,
+                    "propertyId": 7893853,
+                    "streetAddress": "Flat 22, The Grainstore, 4 Western Gateway",
+                    "uri": "flat-22/the-grainstore/4-western-gateway/london/e16-1ba"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 396000,
+                    "propertyId": 28503594,
+                    "streetAddress": "Apartment 142, Westgate Apartments, 14 Western Gateway",
+                    "uri": "apartment-142/westgate-apartments/14-western-gateway/london/e16-1bn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 535000,
+                    "propertyId": 31407586,
+                    "streetAddress": "40 Ladysmith Road",
+                    "uri": "40-ladysmith-road/london/e16-4nr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 430000,
+                    "propertyId": 7910391,
+                    "streetAddress": "79 Star Lane",
+                    "uri": "79-star-lane/london/e16-4rf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 32999424,
+                    "streetAddress": "9, Windlass House, 21 Schooner Road",
+                    "uri": "9/windlass-house/21-schooner-road/london/e16-2pw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 30844682,
+                    "streetAddress": "Flat 17, The Oxygen, 18 Western Gateway",
+                    "uri": "flat-17/the-oxygen/18-western-gateway/london/e16-1bl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 275000,
+                    "propertyId": 7901501,
+                    "streetAddress": "283 Fishguard Way",
+                    "uri": "283-fishguard-way/london/e16-2ry"
+                }
+            ]
+        }
+    }
+}

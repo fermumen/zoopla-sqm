@@ -1,0 +1,538 @@
+{
+    "address": "Lucorn Close, London SE12",
+    "price": "\u00a3550,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 101.1,
+    "sqft": null,
+    "text": "Ground Floor First Floor\n= TT : \u2014\n\\\\ Kitchen H:) Bedroom\n21 2,98m x 3.16m iS _ 3.29m x 3.24m\nI Pee) 55 S 7 | (10'10\" x 10'8\")\n/ OO if t\nL al 3 | I C\n_ a | ra) \u00a9\nial) _ | t-34-|\n\u2014 Js Fey} le\n1 At \\ yy \u2014an\n| ; > ie i\nReception ~ Fal 2\n| Room\n5.39m x 3.16m\n(17'8\" x 10'4\") eee Bedroom\n(11'1\" x 7'5\") 5 oe\nHf t = : fi 1\n|\n| i\n= [3\nBedroom\n4.75m x 2.25m\n(15'7\" x 7'5\")\nTotal area: approx. 101.1 sq. metres (1088.7 sq. feet)\n",
+    "image": "./extracted_images/60832701.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60832701/",
+    "listing_no": "60832701",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.448678,
+        "longitude": 0.01274
+    },
+    "first_published": "2022-02-23T13:33:49",
+    "last_sale_date": "2010-01-29",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60832701",
+        "publishedOn": "2022-02-23T13:33:49",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Property Details",
+                "original": "http://www.peterjamesestates.co.uk/property/P21024",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 9782,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(723835).png",
+            "branchName": "Peter James",
+            "brandName": "Peter James",
+            "chainFree": true,
+            "companyId": 2951,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lucorn Close, London SE12",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0SX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60832701,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 3,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE12",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 390341
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/peter-james-london-9782/",
+            "branchId": "9782",
+            "branchResultsUri": "/for-sale/branch/peter-james-london-9782/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(723835).png",
+            "phone": "020 8318 2555",
+            "name": "Peter James",
+            "memberType": "agent",
+            "address": "430-432 Lee High Road, Lee, London",
+            "postcode": "SE12 8RW"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lee (London)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Winifred's RC Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Baring Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hither Green",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Graphs",
+                    "filename": "92e448ac643f03ec099f9078e782aef8fd5419ab.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Four bedroom, four bathroom terraced house which is located 0.1 mile from Lee Station, 0.7 miles from Hither Green Station and 1 mile from Blackheath Village. The property offers spacious living accommodation and comprises entrance hall, lounge, kitchen, shower room, bedroom 4 with en-suite, master bedroom with en-suite, two further bedroom and family bathroom. This property has the potential to used as a HMO subject to the correct licences. Further benefits to note include double glazing, gas central heating, rear garden and is offered chain free.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "4 Bedroom",
+                "4 bathroom",
+                "Potential for HMO (subject to licence)",
+                "Chain free",
+                "0.1 miles from Lee Station",
+                "0.7 miles from Hither Green station",
+                "1 mile from Blackheath Village",
+                "EPC rating: C"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": "2022-02-15T12:00:00"
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "6ca9a59c85c4c4c203abfb5baa8b21d41280fd3e.jpg",
+                    "caption": "32 Lucorn Close, Lee"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "c28242e8c1ebc765dbdb689fc157508a576a4cb4.jpg",
+                "caption": "External"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4ab0e95a103c25d80ff9fc0e6555bcd099292c9f.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7c7094912d0d7994c31010906c1dd8ced6520158.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "95ef17a6c04be53ead4978c96add2f36ec8cd385.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a0b1381a22c51012c4025cecc9ee3eb2b6f8d281.jpg",
+                "caption": "Shower Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8517df91262011e110608806f3ff4329f833ea0a.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c1008295946a1a4647918a5f7ba11c438924b135.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9ed365b20e767f2a55526fe3d2deef43ba9fb1aa.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2e7ca343616296b601008c6c4b5062d66feaf35e.jpg",
+                "caption": "Garden"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6af5efb9a7369c80f9aae529b1adca51a78fbb5e.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7026e6b25b7a01d727e87dba7f6e436b0860cb2d.jpg",
+                "caption": "Img_8800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e96d41104178c1e75160f3dad97d222b5540aaa4.jpg",
+                "caption": "Img_8809"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 9782,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(723835).png",
+            "branchName": "Peter James",
+            "brandName": "Peter James",
+            "chainFree": true,
+            "companyId": 2951,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lucorn Close, London SE12",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0SX",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60832701,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 3,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "SE12",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 390341
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Lucorn Close, London SE12 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Lucorn Close, London SE12, selling for \u00a3550,000 from Peter James. See property details on Zoopla or browse all our range of properties in Lucorn Close, London SE12.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60832701/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.448678,
+                "longitude": 0.01274
+            }
+        },
+        "displayAddress": "Lucorn Close, London SE12",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-23T13:33:49",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2010-01-29",
+                "newBuild": false,
+                "price": 215000,
+                "priceLabel": "\u00a3215,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 69
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/6ca9a59c85c4c4c203abfb5baa8b21d41280fd3e.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 3,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Peter James",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60832701,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "3C7452EA-94AD-11EC-861D-92320E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE12",
+            "areaNameUri": "london/se12/lee-grove-park",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1789.6666666666665
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 460843,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 466181,
+                    "pctChangeSince": -1.145,
+                    "date": "2021-11-26",
+                    "changeSince": -5338
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 481683,
+                    "pctChangeSince": -4.326,
+                    "date": "2021-08-26",
+                    "changeSince": -20840
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 487553,
+                    "pctChangeSince": -5.478,
+                    "date": "2021-02-26",
+                    "changeSince": -26710
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 439258,
+                    "pctChangeSince": 4.914,
+                    "date": "2017-02-26",
+                    "changeSince": 21585
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 277591,
+                    "pctChangeSince": 66.015,
+                    "date": "2012-02-26",
+                    "changeSince": 183252
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 258393,
+                    "pctChangeSince": 78.35,
+                    "date": "2007-02-26",
+                    "changeSince": 202450
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 158506,
+                    "pctChangeSince": 190.742,
+                    "date": "2002-02-26",
+                    "changeSince": 302337
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 530080,
+                    "newBuilds": 0,
+                    "numSales": 91
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 510384,
+                    "newBuilds": 1,
+                    "numSales": 273
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 496876,
+                    "newBuilds": 1,
+                    "numSales": 476
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 480749,
+                    "newBuilds": 1,
+                    "numSales": 730
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-23T00:00:00Z",
+                    "price": 445000,
+                    "propertyId": 21018953,
+                    "streetAddress": "17 Lucorn Close",
+                    "uri": "17-lucorn-close/london/se12-0sx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-08T00:00:00Z",
+                    "price": 410000,
+                    "propertyId": 21018952,
+                    "streetAddress": "16 Lucorn Close",
+                    "uri": "16-lucorn-close/london/se12-0sx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-16T00:00:00Z",
+                    "price": 244950,
+                    "propertyId": 21017085,
+                    "streetAddress": "Flat 1, Syon Lodge, 132 Burnt Ash Hill",
+                    "uri": "flat-1/syon-lodge/132-burnt-ash-hill/london/se12-0hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 715000,
+                    "propertyId": 21024695,
+                    "streetAddress": "57 Winn Road",
+                    "uri": "57-winn-road/london/se12-9ey"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 21025318,
+                    "streetAddress": "16 Kingshurst Road",
+                    "uri": "16-kingshurst-road/london/se12-9lb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 210000,
+                    "propertyId": 21023984,
+                    "streetAddress": "151 Gavestone Road",
+                    "uri": "151-gavestone-road/london/se12-9bj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 230000,
+                    "propertyId": 21023943,
+                    "streetAddress": "30 Simnel Road",
+                    "uri": "30-simnel-road/london/se12-9bg"
+                }
+            ]
+        }
+    }
+}

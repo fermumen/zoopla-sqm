@@ -1,0 +1,537 @@
+{
+    "address": "Mason Street, Walworth, London SE17",
+    "price": "\u00a3575,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 95.4,
+    "sqft": 1027.0,
+    "text": "MASON STREET SE17\n3 BEDROOM FLAT\nApproximate gross floor area\n1027 SQ.FT. / 95.4 SQ.M.\n7 7\nRECEPTION /\nKITCHEN\n16'x11'8\" BEDROOM\n490x3.55mM |_| 16x 11'8\"\n4.90 x3.55M\n\u2014\u2014__~\u2014 | y\n\u2018| Ba \\\n=e} poo\n[\n+ aeORORI BEDROOM\n\u00a5 12'x 102\"\nN 12'x 102\" BN\nr 3.65 x3.10M ee S85 45:10\nE<|\n: SECOND FLOOR 387 SQ.FT.\nAg\n5 a) Hf\nToh = Aj\nPP \u2014 fo\nJ Nee\nGROUND FLOOR\nENTRANCE 54 SQ.FT. RB\niS\nGARDEN \u2014\u2014\u2014\n1312\" x17\" |\n4.00 x 5.20M\nLEB\n| \u201c% LE\n2 t\nFIRST FLOOR 586 SQ.FT.\nCopyright: These plans should not be reproduced by any other person, without permission.\nFloorplan produced for Winkworth by Floorplanners 07801 228850\n",
+    "image": "./extracted_images/56091238.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/56091238/",
+    "listing_no": "56091238",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.493089,
+        "longitude": -0.085857
+    },
+    "first_published": "2022-01-28T14:43:43",
+    "last_sale_date": "2013-09-20",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "56091238",
+        "publishedOn": "2022-01-28T14:43:43",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.winkworth.co.uk/sale/property/KEN190444",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/wnk/live/pdf.php?p=KEN190444",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 101641,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Kennington Sales",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Mason Street, Walworth, London SE17",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1HF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 56091238,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SE17",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 442325
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/winkworth-kennington-sales-kennington-101641/",
+            "branchId": "101641",
+            "branchResultsUri": "/for-sale/branch/winkworth-kennington-sales-kennington-101641/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "phone": "020 8033 3699",
+            "name": "Winkworth - Kennington Sales",
+            "memberType": "agent",
+            "address": "299 Kennington Road, Kennington",
+            "postcode": "SE11 4QE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Townsend Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Saviour's and St Olave's Church of England School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Elephant & Castle",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Borough",
+                "type": "london_underground_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/454707275"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "d4e52622da96a739cb770ece9de94a49f9b48cb8.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Enter the property through the front garden and a private front door. The hallway is spacious and offers ample storage space, with an under stairs cupboard useful for shoes and jackets. Continue upstairs and off the landing you find the bathroom, which is a tiled suite comprised of a bath with overhead shower, separate walk-in rainforest shower, stone sink with mixer tap and drawer storage below and a heated towel rail. There is a separate W.C., which is also home to the washer dryer.<br><br>At the end of the corridor you will find the kitchen living room with two large sash windows overlooking the front of the property and filling the room with natural light. The kitchen itself runs along the back wall with white gloss units above and below the worktop; there is an integrated fan over with a four ring induction hob and extractor above, as well as space for an undercounter dishwasher and a free standing fridge freezer. There is also a breakfast bar adjoining the wall and providing enough space to seat four people. The room also has ample space for a large sofa and coffee table to relax at.<br><br>The master bedroom spans the full width of the property with two sash windows and ample space for a king size bed, bedside tables, a desk and chest of drawers; there is also fitted storage either side of the chimney breast. Bedrooms two and three are almost identical, with fitted wardrobes and space for double beds and bedside tables.<br><br>The garden is a good space and can easily accommodate a large table and chairs; ideal for al-fresco dining.<br><br>Relatively recently all the windows have been double glazed, the roof re-covered and the property has also been rewired. In addition, there is off-street parking available via Southwark Council.<br><br>Location:<br>Mason Street runs between New Kent Road and Barlow Street, just off the Bricklayers Arms roundabout, providing excellent bus connections into Waterloo and the City. You are just a few minutes' walk from the buzz of Bermondsey Street, offering fantastic eateries and a vast array of boutique shops and bars.<br><br>Directions:<br>Elephant &amp; Castle Overground and Underground Stations (National Rail, Bakerloo &amp; Northern Line) are approximately 0.7 miles away. The area is also well served by bus services into Central London and the West End.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "c95df4069e2330ffe09af1acffaa9661faffea3b.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "aaa3a59604ffbe883c4c6d3e23aabdd7e74dc011.jpg",
+                "caption": "Picture No. 22"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6e9d6a9248088eecf3d1e78835a1c4b4fa2df6ea.jpg",
+                "caption": "Picture No. 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a3af6a8ae3c589cca2a847505a6afe403ee57a61.jpg",
+                "caption": "Picture No. 18"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d62655d0ff7434532c0852c87c43876110f7f822.jpg",
+                "caption": "Picture No. 25"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5d8302778d550ca6dc49bc69b41f9fdd138fd5dc.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "963c6fed6da8bf305aa3cc9214d2c9ff15d30d51.jpg",
+                "caption": "Picture No. 20"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5dd883dd9c6d912721925cb8a6bb2cc88cc331f4.jpg",
+                "caption": "Picture No. 23"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b52dbd4f2f0ccaa53c1283372b3902098b2ad0b0.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "108c1d1094311b05cd189f36de075976ef6a8127.jpg",
+                "caption": "Picture No. 17"
+            },
+            {
+                "__typename": "Media",
+                "filename": "39513c0afa2171a2c909467598de55e7b5fd392c.jpg",
+                "caption": "Picture No. 21"
+            },
+            {
+                "__typename": "Media",
+                "filename": "90e860da64a3ed14d6d4879b5ab8f74f245b9b08.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6e45b671a66028c8d0cc79e5047e53e3bb314d58.jpg",
+                "caption": "Picture No. 19"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3fbf14161b03e8c45ac65dbe3c72911c44b76a80.jpg",
+                "caption": "Picture No. 24"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b60126a1a480ea108f357b81073fef62d60bcffc.jpg",
+                "caption": "Picture No. 27"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f86b482c677be4076a0cc977b07bad826bb53c11.jpg",
+                "caption": "Picture No. 26"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 101641,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(249290).png",
+            "branchName": "Winkworth - Kennington Sales",
+            "brandName": "Winkworth",
+            "chainFree": false,
+            "companyId": 4040,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Mason Street, Walworth, London SE17",
+            "furnishedState": "",
+            "groupId": 44,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1HF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 56091238,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SE17",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 442325
+        },
+        "title": "3 bed maisonette for sale",
+        "metaTitle": "3 bed maisonette for sale in Mason Street, Walworth, London SE17 - Zoopla",
+        "metaDescription": "3 bed maisonette for sale in Mason Street, Walworth, London SE17, selling for \u00a3575,000 from Winkworth - Kennington Sales. See property details on Zoopla or browse all our range of properties in Mason Street, Walworth, London SE17.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/56091238/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.493089,
+                "longitude": -0.085857
+            }
+        },
+        "displayAddress": "Mason Street, Walworth, London SE17",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-28T14:43:43",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2013-09-20",
+                "newBuild": false,
+                "price": 310000,
+                "priceLabel": "\u00a3310,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 198
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/c95df4069e2330ffe09af1acffaa9661faffea3b.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Winkworth",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 56091238,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "F70C9704-9744-11EC-9067-A0290E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE17",
+            "areaNameUri": "london/se17/walworth-elephant-and-castle",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2641.1666666666665
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 404295,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 407079,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2784
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 408813,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -4518
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 427787,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -23492
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 389060,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 15235
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 254338,
+                    "pctChangeSince": 58.96,
+                    "date": "2012-02-26",
+                    "changeSince": 149957
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 245769,
+                    "pctChangeSince": 64.502,
+                    "date": "2007-02-26",
+                    "changeSince": 158526
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 145830,
+                    "pctChangeSince": 177.237,
+                    "date": "2002-02-26",
+                    "changeSince": 258465
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 439483,
+                    "newBuilds": 3,
+                    "numSales": 92
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 471873,
+                    "newBuilds": 82,
+                    "numSales": 327
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 486844,
+                    "newBuilds": 188,
+                    "numSales": 736
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 465612,
+                    "newBuilds": 355,
+                    "numSales": 1232
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 600000,
+                    "propertyId": 31946584,
+                    "streetAddress": "Flat 5, 115 Brandon Street",
+                    "uri": "flat-5/115-brandon-street/london/se17-1al"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 315000,
+                    "propertyId": 21110127,
+                    "streetAddress": "37 Slade Walk",
+                    "uri": "37-slade-walk/london/se17-3hw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-27T00:00:00Z",
+                    "price": 380000,
+                    "propertyId": 21110583,
+                    "streetAddress": "28, Pullens Buildings, Peacock Street",
+                    "uri": "28/pullens-buildings/peacock-street/london/se17-3lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-15T00:00:00Z",
+                    "price": 426000,
+                    "propertyId": 21113119,
+                    "streetAddress": "29 Langdale Close",
+                    "uri": "29-langdale-close/london/se17-3uf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-01T00:00:00Z",
+                    "price": 475000,
+                    "propertyId": 21104351,
+                    "streetAddress": "66 Wooler Street",
+                    "uri": "66-wooler-street/london/se17-2ef"
+                }
+            ]
+        }
+    }
+}

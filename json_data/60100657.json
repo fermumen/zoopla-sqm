@@ -1,0 +1,546 @@
+{
+    "address": "Lillie Road, London SW6",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 67.3,
+    "sqft": 725.0,
+    "text": "| KITCHEN/RECEPTION ROOM\n16'7 x 15'9\n5.06m x 4.80m\n=\n183\nBEDROOM\n11'7 x 8'8 e\n3.53m x 2.63m \\_/\n| BEDROOM\n14'10 x 11'2\n4.51m x 3.41m\nSo\n\u00a9& Coq\nTOTAL APPROX. FLOOR AREA 725 SQ.FT. (67.3 SQ.M.)\n",
+    "image": "./extracted_images/60100657.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60100657/",
+    "listing_no": "60100657",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.485521,
+        "longitude": -0.202152
+    },
+    "first_published": "2021-11-02T16:31:15",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60100657",
+        "publishedOn": "2021-11-02T16:31:15",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/3e2469b257d9512e24c72ee21f21bd376c9d35eb.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 41946,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Fulham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lillie Road, London SW6",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1UD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60100657,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 635556
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-fulham-fulham-41946/",
+            "branchId": "41946",
+            "branchResultsUri": "/for-sale/branch/dexters-fulham-fulham-41946/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7386 5386",
+            "name": "Dexters - Fulham",
+            "memberType": "agent",
+            "address": "569 Fulham Road, Fulham",
+            "postcode": "SW6 1ES"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Normand Croft Community School for Early Years and Primary Education",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Fulham Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Brompton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Brompton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "6bfe3efd0bb9b494394ecbc3314987d93edc70d6.png",
+                    "url": null
+                },
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "ae04f29ff034f87519b48c31612f6b112ef5f0a5.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A contemporary two double bedroom lateral flat located in the Ariana Apartments. The two double bedrooms are complimented by an open-plan kitchen living room and two bathrooms.<br><br>Ariana apartments is enviably located close to Fulham Broadway station and West Brompton tube, as well as the overground station.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedrooms",
+                "High Specification",
+                "Video Phone Entry System",
+                "Underfloor Heating",
+                "West Brompton Station"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "021fe48f9f9f022fdda1555cd080c238e7bcf28d.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "11cb801d7cd9baec5207fbdadeffa6303ed87204.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6a9ab3fc394c0b449a542ec48d68bca998a6a1eb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "afd1c06667edec47d3b659bc80179a5ef895a991.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "64f09de3ce7524e919121b4164efa9f437417745.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "200c88f934efac233d7cd5c060382c5c503e1749.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3799e24f90a4c3369dbe8bb8ae85370c031b4908.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 41946,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Fulham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lillie Road, London SW6",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1UD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60100657,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 635556
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Lillie Road, London SW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Lillie Road, London SW6, selling for \u00a3600,000 from Dexters - Fulham. See property details on Zoopla or browse all our range of properties in Lillie Road, London SW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60100657/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.485521,
+                "longitude": -0.202152
+            }
+        },
+        "displayAddress": "Lillie Road, London SW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-02T16:31:15",
+                "priceLabel": "\u00a3699,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "7",
+                    "priceChangeDate": "2021-11-23T17:56:25",
+                    "priceChangeLabel": "\u00a349,000",
+                    "priceLabel": "\u00a3650,000"
+                },
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "7.7",
+                    "priceChangeDate": "2022-01-19T15:00:47",
+                    "priceChangeLabel": "\u00a350,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 58
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/021fe48f9f9f022fdda1555cd080c238e7bcf28d.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60100657,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "C98C7EFE-7938-11EC-9684-34DC0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW6",
+            "areaNameUri": "london/sw6/fulham-parsons-green",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3102.639751552796
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 741749,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 745413,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -3664
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 745886,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -4137
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 777001,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -35252
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 752893,
+                    "pctChangeSince": -1.48,
+                    "date": "2017-02-26",
+                    "changeSince": -11144
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 519022,
+                    "pctChangeSince": 42.913,
+                    "date": "2012-02-26",
+                    "changeSince": 222727
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 474130,
+                    "pctChangeSince": 56.444,
+                    "date": "2007-02-26",
+                    "changeSince": 267619
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 288868,
+                    "pctChangeSince": 156.778,
+                    "date": "2002-02-26",
+                    "changeSince": 452881
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 712416,
+                    "newBuilds": 0,
+                    "numSales": 315
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 692544,
+                    "newBuilds": 3,
+                    "numSales": 929
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 701679,
+                    "newBuilds": 50,
+                    "numSales": 1653
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 747775,
+                    "newBuilds": 285,
+                    "numSales": 2791
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-29T00:00:00Z",
+                    "price": 485000,
+                    "propertyId": 23186124,
+                    "streetAddress": "Flat 2, Dorset Mansions, Lillie Road",
+                    "uri": "flat-2/dorset-mansions/lillie-road/london/sw6-7pf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 1450000,
+                    "propertyId": 23186211,
+                    "streetAddress": "256 Lillie Road",
+                    "uri": "256-lillie-road/london/sw6-7px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-27T00:00:00Z",
+                    "price": 876400,
+                    "propertyId": 23185657,
+                    "streetAddress": "223 Lillie Road",
+                    "uri": "223-lillie-road/london/sw6-7lw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-18T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 23165140,
+                    "streetAddress": "52 Lillie Road",
+                    "uri": "52-lillie-road/london/sw6-1tn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-10T00:00:00Z",
+                    "price": 499950,
+                    "propertyId": 23186121,
+                    "streetAddress": "Flat 17, Dorset Mansions, Lillie Road",
+                    "uri": "flat-17/dorset-mansions/lillie-road/london/sw6-7pf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-21T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 23174037,
+                    "streetAddress": "Flat 14, Alex Gossip House, Basuto Road",
+                    "uri": "flat-14/alex-gossip-house/basuto-road/london/sw6-4ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 1275000,
+                    "propertyId": 23186386,
+                    "streetAddress": "27 Rosaline Road",
+                    "uri": "27-rosaline-road/london/sw6-7qs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 1750000,
+                    "propertyId": 29512493,
+                    "streetAddress": "5 Parsons Gate Mews",
+                    "uri": "5-parsons-gate-mews/london/sw6-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1140000,
+                    "propertyId": 23181929,
+                    "streetAddress": "Flat 17, Elm Lodge, 75 Stevenage Road",
+                    "uri": "flat-17/elm-lodge/75-stevenage-road/london/sw6-6nz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 23185397,
+                    "streetAddress": "42 Orbain Road",
+                    "uri": "42-orbain-road/london/sw6-7jy"
+                }
+            ]
+        }
+    }
+}

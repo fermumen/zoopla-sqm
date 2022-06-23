@@ -1,0 +1,520 @@
+{
+    "address": "Queensdale Crescent, Holland Park, London W11",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 80.93,
+    "sqft": 871.0,
+    "text": "S ~~\n\u2014\n\u2018~\n%\nPATIO\n617x886 m\n20-3\" x 29.1\na\niii\n/\ni |\nKITCHEN/RECEPTION\n5.47 x9.65m\n47-41\" x 318\nCeiling 2.34m\ncr.\nfee\n1\n(Se)\n[EB |\naS Wr 7\nlol UY]\n/ \\\n/ N ~ f\na 3 \\ =\naesxszemn 7\n88\" x 10-8\" Fan \\\nir\u2018 aN\nWoe LAI\n7 \u2014\nLAI 2eexaaom\n94\" x 14.6\"\n: Celing 2.3m\nPATIO\n7.18 x 10.55 m\n23-6\" x 347\nGround Floor\n871 ft?\nQueensdale Crescent, W11\nApproximate Gross Internal Area\n80.93 SQ.M/ 871 SQ.FT\nIllustration for identification purposes only. Not to scale.\nFloor Plan Drawn According To RICS Guidelines.\n",
+    "image": "./extracted_images/60366650.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60366650/",
+    "listing_no": "60366650",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.508251,
+        "longitude": -0.21591
+    },
+    "first_published": "2021-12-13T16:04:28",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60366650",
+        "publishedOn": "2021-12-13T16:04:28",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "https://www.chestertons.com/properties/property-NHL210264/",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://chips.chestertons.com/chips/brochures/NHL210264.PDF",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 59357,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Notting Hill",
+            "brandName": "Chestertons",
+            "chainFree": false,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Queensdale Crescent, Holland Park, London W11",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4JY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60366650,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "W11",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 644437
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/chestertons-notting-hill-notting-hill-59357/",
+            "branchId": "59357",
+            "branchResultsUri": "/for-sale/branch/chestertons-notting-hill-notting-hill-59357/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "phone": "020 8115 2452",
+            "name": "Chestertons - Notting Hill",
+            "memberType": "agent",
+            "address": "30 Ledbury Road, Notting Hill",
+            "postcode": "W11 2AB"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tabernacle School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Avondale Park Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shepherd's Bush",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shepherd's Bush Central",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "2bc7335adf3e9d96c82f58fba7532723d21c38ac.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A two bedroom two bathroom ground floor flat with patio &amp; parking space in a modern development in Holland Park.<br><br>The property measures 871 square feet and has a long lease. It consists of a large kitchen/reception room with space for sofas &amp; a dining table, two double bedrooms, two en-suite bathrooms, two patios, and an allocated off-street parking space.<br><br>Boundary House, Queensdale Crescent, is well located for the many shops &amp; restaurants of Holland Park Avenue and Westfield shopping centre. Holland Park underground station (Central line) is 0.6 miles away and Shepherd\u2019s Bush station (Overground and Central line) is 0.4 miles away.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Ground floor flat with two patios.",
+                "Two double bedrooms with en-suite bathrooms.",
+                "Large kitchen/reception room.",
+                "Off-street parking space.",
+                "Close to Holland Park &amp; Westfield."
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "b53491a5af96e9e7f366afa1804837743350cb45.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "65aaa112e823defed2288cd79341ec952d07db97.jpg",
+                "caption": "Picture No. 32"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9b95e50a784b9442bb4666cc7bebe10b284c2807.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b42df7832dc841b3558baebfde515a9870ce5c07.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a37d1e944957ac6cac6f65c3b5aed84dd12905a3.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3c1299058e6c937501326c9e187f03364d3d759c.jpg",
+                "caption": "External"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ba5995ce3a57a27dea2fa176bd9ede9161f9f976.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "972bf4b9de8073ea7d883200fea5e6a5405d8764.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "da88ec96a5cfbd5a1f17c1a3f48de4f881c671df.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f793972e22416dbf9c15fbb63ad267379118412a.jpg",
+                "caption": "External"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 59357,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Notting Hill",
+            "brandName": "Chestertons",
+            "chainFree": false,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Queensdale Crescent, Holland Park, London W11",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4JY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60366650,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "W11",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 644437
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Queensdale Crescent, Holland Park, London W11 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Queensdale Crescent, Holland Park, London W11, selling for \u00a3650,000 from Chestertons - Notting Hill. See property details on Zoopla or browse all our range of properties in Queensdale Crescent, Holland Park, London W11.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60366650/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.508251,
+                "longitude": -0.21591
+            }
+        },
+        "displayAddress": "Queensdale Crescent, Holland Park, London W11",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-13T16:04:28",
+                "priceLabel": "\u00a3700,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "7.1",
+                    "priceChangeDate": "2022-02-09T14:44:56",
+                    "priceChangeLabel": "\u00a350,000",
+                    "priceLabel": "\u00a3650,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 87
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/b53491a5af96e9e7f366afa1804837743350cb45.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Chestertons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60366650,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "82456CA0-90F2-11EC-85DB-44C70D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W11",
+            "areaNameUri": "london/w11/notting-hill-holland-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 4051.7426900584787
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 1015897,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 1032386,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -16489
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 1062914,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -47017
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1120428,
+                    "pctChangeSince": -9.33,
+                    "date": "2021-02-26",
+                    "changeSince": -104531
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 1111659,
+                    "pctChangeSince": -8.614,
+                    "date": "2017-02-26",
+                    "changeSince": -95762
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 740481,
+                    "pctChangeSince": 37.194,
+                    "date": "2012-02-26",
+                    "changeSince": 275416
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 660348,
+                    "pctChangeSince": 53.843,
+                    "date": "2007-02-26",
+                    "changeSince": 355549
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 391366,
+                    "pctChangeSince": 159.577,
+                    "date": "2002-02-26",
+                    "changeSince": 624531
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 1218647,
+                    "newBuilds": 0,
+                    "numSales": 110
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1165935,
+                    "newBuilds": 0,
+                    "numSales": 306
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1204697,
+                    "newBuilds": 0,
+                    "numSales": 553
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1173368,
+                    "newBuilds": 12,
+                    "numSales": 903
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 310000,
+                    "propertyId": 25146407,
+                    "streetAddress": "143, Poynter House, Queensdale Crescent",
+                    "uri": "143/poynter-house/queensdale-crescent/london/w11-4td"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 1875000,
+                    "propertyId": 27156919,
+                    "streetAddress": "Flat 1, 3 Pembridge Crescent",
+                    "uri": "flat-1/3-pembridge-crescent/london/w11-3dt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 7700000,
+                    "propertyId": 25145746,
+                    "streetAddress": "45 Addison Avenue",
+                    "uri": "45-addison-avenue/london/w11-4qu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-01T00:00:00Z",
+                    "price": 395000,
+                    "propertyId": 25137962,
+                    "streetAddress": "313 Hurstway Walk",
+                    "uri": "313-hurstway-walk/london/w11-1wd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 993000,
+                    "propertyId": 27472539,
+                    "streetAddress": "Ground Floor Flat, 108 Lansdowne Road",
+                    "uri": "ground-floor-flat/108-lansdowne-road/london/w11-2ls"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-23T00:00:00Z",
+                    "price": 1600000,
+                    "propertyId": 25136376,
+                    "streetAddress": "17 Dunworth Mews",
+                    "uri": "17-dunworth-mews/london/w11-1le"
+                }
+            ]
+        }
+    }
+}

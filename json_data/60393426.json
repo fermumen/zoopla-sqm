@@ -1,0 +1,549 @@
+{
+    "address": "The Highway, London E1W",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 79.6,
+    "sqft": 856.0,
+    "text": "Second Floor\nBedroom\n3.18m x 5.11m\n(10'5\" x 16'9\")\nBedroom | re) Reception\n3.54mx3.57m  _ KI | Room /\n| (11'7\" x 11'9\") 7 Kitchen\n( 5.36m (17'7\") max\nx 6.48m (21'3\") max Balcony\n[ae] \u2014 }\n(|__| ex SU\nTotal area: approx. 79.6 sq. metres (856.4 sq. feet)\n",
+    "image": "./extracted_images/60393426.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60393426/",
+    "listing_no": "60393426",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.509862,
+        "longitude": -0.053218
+    },
+    "first_published": "2021-12-17T18:29:41",
+    "last_sale_date": "2015-03-31",
+    "last_sale_new": true,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60393426",
+        "publishedOn": "2021-12-17T18:29:41",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/89ae409e6cf14133de724c0d6c50895a1196ff17.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31169239",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 19471,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Wapping",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Highway, London E1W",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3BB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60393426,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "E1W",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 498703
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-wapping-london-19471/",
+            "branchId": "19471",
+            "branchResultsUri": "/for-sale/branch/dexters-wapping-london-19471/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7650 5350",
+            "name": "Dexters - Wapping",
+            "memberType": "agent",
+            "address": "123 Wapping High Street, London",
+            "postcode": "E1W 3NX"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Blue Gate Fields Infants' School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Blue Gate Fields Junior School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shadwell",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shadwell",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "dfb4178eaf4405acbc06a6f07a5c0f820eaddec9.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Offered to the market in immaculate condition is this two bedroom home offering 856.4 Sq.ft of ample living space. Features to include double width private balcony, underfloor heating, open plan reception with floor to ceiling windows, bike storage and residents roof terrace.<br><br>Ginger Lime Building is under a quarter of a mile from Wapping Overground and Shadwell DLR Station which both offer good links to Canary Wharf and The City.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "856.4 sq.ft",
+                "Private Balcony",
+                "Two double Bedrooms",
+                "Two Bathrooms",
+                "Offers in excess of \u00a3650,000",
+                "Residents Roof Terrace"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "f68fd6ecd3c4906a18bf0e4e279fb04b266fc837.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "776dda34d75037d8d7ecae957e39dd6a552bf094.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "78a38cb687d187bec8e2733c6f79593ef85b47cf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "50746f15fe04472ae50210cfb76b56a06ad21751.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2b19042c733625d94992330933812d120264a169.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bdf656a9644d237712602bd1da554ef2f1e158e6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f015cdebf0e13e834e16326739754dce108f0213.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "102d427d6bed8f4dbb16159dae5a6c3a95731da4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ffebf8404b21a153f0ab33b79f62b7129815afe1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4fb6642da98342e79f5fdddd5232700966506602.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 19471,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Wapping",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "The Highway, London E1W",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3BB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60393426,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "E1W",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 498703
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in The Highway, London E1W - Zoopla",
+        "metaDescription": "2 bed flat for sale in The Highway, London E1W, selling for \u00a3650,000 from Dexters - Wapping. See property details on Zoopla or browse all our range of properties in The Highway, London E1W.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60393426/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.509862,
+                "longitude": -0.053218
+            }
+        },
+        "displayAddress": "The Highway, London E1W",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-17T18:29:41",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2015-03-31",
+                "newBuild": true,
+                "price": 40000,
+                "priceLabel": "\u00a340,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 9
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/f68fd6ecd3c4906a18bf0e4e279fb04b266fc837.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60393426,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "B6092960-8B29-11EC-8D70-DE110E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E1W",
+            "areaNameUri": "e1w",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2915.7230046948334
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 558247,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 568496,
+                    "pctChangeSince": -1.803,
+                    "date": "2021-11-26",
+                    "changeSince": -10249
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 587375,
+                    "pctChangeSince": -4.959,
+                    "date": "2021-08-26",
+                    "changeSince": -29128
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 619566,
+                    "pctChangeSince": -9.897,
+                    "date": "2021-02-26",
+                    "changeSince": -61319
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 551975,
+                    "pctChangeSince": 1.136,
+                    "date": "2017-02-26",
+                    "changeSince": 6272
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 352800,
+                    "pctChangeSince": 58.233,
+                    "date": "2012-02-26",
+                    "changeSince": 205447
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 353510,
+                    "pctChangeSince": 57.915,
+                    "date": "2007-02-26",
+                    "changeSince": 204737
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 205261,
+                    "pctChangeSince": 171.969,
+                    "date": "2002-02-26",
+                    "changeSince": 352986
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": null,
+                    "newBuilds": null,
+                    "numSales": null
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-17T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 7634125,
+                    "streetAddress": "Flat 77, Free Trade Wharf, 340 The Highway",
+                    "uri": "flat-77/free-trade-wharf/340-the-highway/london/e1w-3et"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-16T00:00:00Z",
+                    "price": 851000,
+                    "propertyId": 7631175,
+                    "streetAddress": "Flat 34, Breezers Court, 20 The Highway",
+                    "uri": "flat-34/breezers-court/20-the-highway/london/e1w-2be"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-09T00:00:00Z",
+                    "price": 925000,
+                    "propertyId": 7634308,
+                    "streetAddress": "Flat 206, 350 The Highway",
+                    "uri": "flat-206/350-the-highway/london/e1w-3hu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-24T00:00:00Z",
+                    "price": 393500,
+                    "propertyId": 7633462,
+                    "streetAddress": "296 The Highway",
+                    "uri": "296-the-highway/london/e1w-3dh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-24T00:00:00Z",
+                    "price": 359000,
+                    "propertyId": 7633479,
+                    "streetAddress": "Flat 4, 292 The Highway",
+                    "uri": "flat-4/292-the-highway/london/e1w-3dh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 7629709,
+                    "streetAddress": "Flat 22, Swan Court, Star Place",
+                    "uri": "flat-22/swan-court/star-place/london/e1w-1af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-16T00:00:00Z",
+                    "price": 650000,
+                    "propertyId": 7633308,
+                    "streetAddress": "7 Douthwaite Square",
+                    "uri": "7-douthwaite-square/london/e1w-2uz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-15T00:00:00Z",
+                    "price": 326355,
+                    "propertyId": 7634851,
+                    "streetAddress": "27 Rum Close",
+                    "uri": "27-rum-close/london/e1w-3qx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 412500,
+                    "propertyId": 7636141,
+                    "streetAddress": "Flat 25, Unicorn Building, 2 Jardine Road",
+                    "uri": "flat-25/unicorn-building/2-jardine-road/london/e1w-3wf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-02T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 7632684,
+                    "streetAddress": "Flat 65, Reardon House, Reardon Street",
+                    "uri": "flat-65/reardon-house/reardon-street/london/e1w-2qj"
+                }
+            ]
+        }
+    }
+}

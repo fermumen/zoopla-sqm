@@ -1,0 +1,358 @@
+{
+    "address": "Minford Gardens, London W14",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 81.8,
+    "sqft": 880.0,
+    "text": "Minford Gardens, W14\nApprox. Gross Internal Area = 76.9 sq m/ 827 sq ft\nEaves Storage = 4.9 sq m/53 sq ft\nTotal = 81.8 sq m/ 880 sq ft\npont = Reduced headroom\nLee! below 1.5m/5'0 4A\n\u2014 ~\nIO y s\n| a Ground Floor\nNetrypel Eo\nDn Bedroom <i\n-\u2014t...|\u2014+ 3.34 x 2.59\nlm 10'11x 8'6\noe\nReception Room /\nKitchen\n=| 5.53 x 4.95\n= =\nBedroom WWW AS\n5.24 x 3.64 po\n2x11\nEaves Storage i\n4 \u2014 niaee)\n77 Goldhawk Road\nFirst Floor Second Floor See,\nWhilst every attempt has been made to ensure the accuracy of the floor plan, measurements are approximate and not to scale. =o\nNo guarantee is given on the total square footage of the property quoted on the plan. Figures given are for guidance. doen\nPlan is for illustration purposes only, not to be used for valuations. PON Tera 2 Sore\n",
+    "image": "./extracted_images/60631395.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60631395/",
+    "listing_no": "60631395",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.502305,
+        "longitude": -0.221958
+    },
+    "first_published": "2022-01-28T10:32:27",
+    "last_sale_date": "2020-12-11",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60631395",
+        "publishedOn": "2022-01-28T10:32:27",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "PDF Brochure",
+                "original": "https://lc.zoocdn.com/d2c43fdc659ef60e43e0fd67b8d5a044ff30bfca.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "PDF 2",
+                "original": "https://lc.zoocdn.com/03b4694c26799f77a372dda0d5ad6ab6c6814d09.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://www2.housescape.org.uk/cgi-bin/full.pl?&kac1&&KAC1002757",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 19939,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(410226).png",
+            "branchName": "Kerr and Co",
+            "brandName": "Kerr & Co Residential",
+            "chainFree": false,
+            "companyId": 13347,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Minford Gardens, London W14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0AP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60631395,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 873483
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/kerr-and-co-london-19939/",
+            "branchId": "19939",
+            "branchResultsUri": "/for-sale/branch/kerr-and-co-london-19939/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(410226).png",
+            "phone": "020 3478 3490",
+            "name": "Kerr and Co",
+            "memberType": "agent",
+            "address": "77 Goldhawk Road, Shepherd's Bush, London",
+            "postcode": "W12 8EH"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Addison Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Young Dancers Academy",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Goldhawk Road",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Shepherd's Bush Central",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://mls.ricohtours.com/6aa8b550-9234-4c7c-bd85-c37c7e18aa24"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Minford Gardens, London W14<br><br>A well presented large two double bedroom, two bathroom split level flat set over the top two floors of this Victorian converted building.<br><br>The flat offers circa 880 sq ft of accommodation comprising of family bathroom, open plan kitchen/reception room and two double bedrooms with the master being en suite. There is full planning permission for a roof terrace ref number: 2021/03381/ful. It is within easy reach of the diverse shopping /leisure facilities and transport links at Shepherd\u2019s Bush Common and Westfield Complex, with numerous restaurants, caf\u00e9\u2019s and shops on the door step with excellent routes out of London along A4/M4 and A40/M40.<br><br>Offers in excess of: \u00a3600,000 Share of freehold<br><br>Minford Gardens, W14 0AP<br>Two double bedrooms, with master being en suite.<br>Two bathrooms.<br>Split level flat offering circa 880 Sq Ft of accommodation.<br>Entered in on floor beneath.<br>Full planning permission for a roof terrace planning ref 2021/03381/ful (plans attached)<br>Popular quiet residential street set off Shepherd\u2019s Bush Road in this sought after Brook Green area close to transport and shopping facilities at Shepherd\u2019s Bush Green and Westfield West London complex.<br><br>Minford Gardens, W14 0AP<br>Two double bedroom split level flat<br>Approximate gross internal floor area: 827 Sq. Ft (76.9 Sq. M.)<br>Eaves: 53 Sq.Ft (4.9 Sq.M.)<br>Total: 880 Sq.Ft (81.8 Sq.M.)<br><br>Offers in excess of: \u00a3600,000 \u2013Share of freehold<br><br>EPC Rating:E54<br>Parking: Residents parking permit<br>Council Tax: Band D",
+        "features": {
+            "__typename": "Features",
+            "bullets": [],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "2b52f133df39422706fb69b485decaa29bf6303d.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "f8e1c139dbd5acce40c8aaa204f34562a921cd0e.jpg",
+                "caption": "Main Picture"
+            },
+            {
+                "__typename": "Media",
+                "filename": "aa707d55900dacb99bfd9fcac9dfc4e84fc4fc85.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f37802822cac470095885f0bfd59c83f02c4228d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "76e6eaaf9d0af744e71fda423bccff90278b9915.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9babd4ac2f4de828721c9da761be07d4ea13017c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b3ff71a9ee97c3dffa3057a654d6c9470e52e644.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7524b2f6a4934133668c395363a253689101ba1e.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 19939,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(410226).png",
+            "branchName": "Kerr and Co",
+            "brandName": "Kerr & Co Residential",
+            "chainFree": false,
+            "companyId": 13347,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Minford Gardens, London W14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "0AP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60631395,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 7,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 873483
+        },
+        "title": "2 bed property for sale",
+        "metaTitle": "2 bed property for sale in Minford Gardens, London W14 - Zoopla",
+        "metaDescription": "2 bed property for sale in Minford Gardens, London W14, selling for \u00a3600,000 from Kerr and Co. See property details on Zoopla or browse all our range of properties in Minford Gardens, London W14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60631395/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.502305,
+                "longitude": -0.221958
+            }
+        },
+        "displayAddress": "Minford Gardens, London W14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-28T10:32:27",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2020-12-11",
+                "newBuild": false,
+                "price": 515000,
+                "priceLabel": "\u00a3515,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4",
+                    "priceChangeDate": "2022-02-24T16:15:03",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3600,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 437
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/2b52f133df39422706fb69b485decaa29bf6303d.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Kerr & Co Residential",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60631395,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "23912E7A-958D-11EC-B5F9-BB020E674736",
+        "marketStats": null
+    }
+}

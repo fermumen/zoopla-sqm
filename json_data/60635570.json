@@ -1,0 +1,541 @@
+{
+    "address": "Cinnamon Apartments, 104 Hamilton Road, Wimbledon SW19",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 66.9,
+    "sqft": 720.0,
+    "text": "Cinnamon Apartments, SW19\nne\nApproximate Gross Internal Area = 66.9 sq m/ 720 sq ft\nT\nGarden\n9.67m x 2.50m (max)\nr 31'9 x 8'2 ia\n(Approx)\nil\nA \u2014\nBedroom\n4.38m x 3.18m (max)\n14'4 x 10'S\n~ Kitchen / Dining / +i.\nReception Room\n6.39m x 4.28m (max) ry\n21'0 x 1411\nBedroom\n3.54m x 3.20m (max)\n11'7 x 10'6\nJy |\nIN\n= Reduced headroom below 1.5m /5'0\nThis floor plan is for representation purposes only and is not drawn to scale.\nThe Gross Internal Area includes outbuildings shown on the plan.\nWhilst every attempt has been made to ensure the accuracy of the plan measurements\nof doors, windows and rooms are approximate only and should be checked before making\nany decisions reliant upon them,\nCopyright Bespokeplans.co.uk (ID827084)\n",
+    "image": "./extracted_images/60635570.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60635570/",
+    "listing_no": "60635570",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.41587,
+        "longitude": -0.191233
+    },
+    "first_published": "2022-01-28T16:23:08",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60635570",
+        "publishedOn": "2022-01-28T16:23:08",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Cinnamon Apartments, 104 Hamilton Road, Wimbledon",
+                "original": "https://lc.zoocdn.com/faad4efecb009de42230897b7077bf4d9c13c6ac.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31245416",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2585,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(319765).png",
+            "branchName": "Ellisons",
+            "brandName": "Ellisons",
+            "chainFree": false,
+            "companyId": 1215,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Cinnamon Apartments, 104 Hamilton Road, Wimbledon SW19",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1JF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60635570,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "SW19",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 814777
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/ellisons-london-2585/",
+            "branchId": "2585",
+            "branchResultsUri": "/for-sale/branch/ellisons-london-2585/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(319765).png",
+            "phone": "020 3641 4166",
+            "name": "Ellisons",
+            "memberType": "agent",
+            "address": "13 Queens Road, Wimbledon, London",
+            "postcode": "SW19 8PF"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "South Wimbledon",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Merton Abbey Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Face Youth Therapeutic School (SEN)",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Colliers Wood",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "b7b75fda992db6dbf6604ee32b059ee5c0b5d9f8.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Larger than average and located moments from South Wimbledon Tube station, this light and airy two double bedroom apartment is finished to the highest of specifications offering a wonderful open plan kitchen/lounge with bifold doors opening to a private rear garden, underfloor heating throughout, granite worktops and integrated Bosch appliances. With an abundance of amenities on its doorstep and superb transport links, this property is an ideal first time purchase.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedrooms",
+                "Bathroom",
+                "Large Open Plan Kitchen/Living Room",
+                "Private Garden",
+                "Integrated White Goods",
+                "Underfloor Heating Throughout",
+                "Excellent Transport Links",
+                "Secure Bike Shed",
+                "EPC Rating - C"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "d4f59515d3da6b34ce173869a5c810c9c9e3b3e2.jpg",
+                    "caption": "Cinnamon Apartments.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "3a125eef77917e7beaeed797e1bfd7af9dde40fd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3554c624ca2921f8c2459c99c5c2a4fc34edee6d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9620b824609f05649d86c25a594f04bd139ed52f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3241f782928fd450822392398bb9fe4d050a1f01.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d992c7701b20ad92ef0eb1335dc721b00225d21f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f5ea1042b8d2b73d466a254dcc51f6189c6a39ef.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f04a1285270b517acd20b36ef716dd14a9533eaa.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b295fcb37b89b5e023990a0089af257891e7e23b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e16ae8b19bb4b5ae18e17e7b5b866b836551c5cf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9e457cc613cfd0b55942e682cd9d3b05c786d933.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5a2f6087768247ece1da4a5738e6a412a9b35641.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "07a2abd4255991c1f03d7f90b4173f87caa88cc6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "31d70492971081cfeaf517e9845ff6c396920359.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e1ea121103804b98342483b11782c12ac2a75d8e.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2585,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(319765).png",
+            "branchName": "Ellisons",
+            "brandName": "Ellisons",
+            "chainFree": false,
+            "companyId": 1215,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Cinnamon Apartments, 104 Hamilton Road, Wimbledon SW19",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1JF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60635570,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "SW19",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 814777
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Cinnamon Apartments, 104 Hamilton Road, Wimbledon SW19 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Cinnamon Apartments, 104 Hamilton Road, Wimbledon SW19, selling for \u00a3550,000 from Ellisons. See property details on Zoopla or browse all our range of properties in Cinnamon Apartments, 104 Hamilton Road, Wimbledon SW19.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60635570/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.41587,
+                "longitude": -0.191233
+            }
+        },
+        "displayAddress": "Cinnamon Apartments, 104 Hamilton Road, Wimbledon SW19",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-28T16:23:08",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "4.3",
+                    "priceChangeDate": "2022-02-14T14:20:11",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3550,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 169
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/d4f59515d3da6b34ce173869a5c810c9c9e3b3e2.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Ellisons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60635570,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "1C8C2FA6-8E50-11EC-AA6E-BAD30D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW19",
+            "areaNameUri": "london/sw19/wimbledon-merton-colliers-wood",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2168.3999999999996
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 472819,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 475154,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2335
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 475455,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2636
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 495288,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -22469
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 479913,
+                    "pctChangeSince": -1.478,
+                    "date": "2017-02-26",
+                    "changeSince": -7094
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 330838,
+                    "pctChangeSince": 42.916,
+                    "date": "2012-02-26",
+                    "changeSince": 141981
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 302223,
+                    "pctChangeSince": 56.447,
+                    "date": "2007-02-26",
+                    "changeSince": 170596
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 184132,
+                    "pctChangeSince": 156.783,
+                    "date": "2002-02-26",
+                    "changeSince": 288687
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 479862,
+                    "newBuilds": 0,
+                    "numSales": 312
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 467031,
+                    "newBuilds": 7,
+                    "numSales": 924
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 470205,
+                    "newBuilds": 35,
+                    "numSales": 1814
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 461099,
+                    "newBuilds": 93,
+                    "numSales": 2954
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 3829408,
+                    "propertyId": 23408155,
+                    "streetAddress": "1 Wilberforce Way",
+                    "uri": "1-wilberforce-way/london/sw19-4th"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 670000,
+                    "propertyId": 23422287,
+                    "streetAddress": "38 Milton Road",
+                    "uri": "38-milton-road/london/sw19-8se"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 300000,
+                    "propertyId": 31516547,
+                    "streetAddress": "159 Arthur Road",
+                    "uri": "159-arthur-road/london/sw19-8ad"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 920106,
+                    "propertyId": 23394163,
+                    "streetAddress": "117 Pelham Road",
+                    "uri": "117-pelham-road/london/sw19-1nz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1187500,
+                    "propertyId": 23418782,
+                    "streetAddress": "24 Stuart Road",
+                    "uri": "24-stuart-road/london/sw19-8dh"
+                }
+            ]
+        }
+    }
+}

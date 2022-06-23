@@ -1,0 +1,520 @@
+{
+    "address": "Flat F, Mercier Court, Mercier Road, Putney SW15",
+    "price": "\u00a3570,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 64.47,
+    "sqft": 694.0,
+    "text": "Mercier Road SW15\nApproximate Gross Internal Floor Area = 64.47 sqm / 694 sq ft\n\u00a2 Reception Room\n5.56 x 3.38 Bedroom\nCBS eect 4.42 x 3.10\n14\u00b046 x 102\nGarden Nos an\n12.80 x 9.75 NS Tre CaO\n4210 x 320\n\u00bb IF j\n> :\n5\n2s\n8 Bedroom\n3.81 x 3.07\n126 x 1211\nGarden Second Floor IN\nIllustration for identification purposes only, measurements are approximate, not to scale.\n",
+    "image": "./extracted_images/60790977.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60790977/",
+    "listing_no": "60790977",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.458221,
+        "longitude": -0.214407
+    },
+    "first_published": "2022-02-18T09:26:46",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60790977",
+        "publishedOn": "2022-02-18T09:26:46",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://www2.housescape.org.uk/cgi-bin/full.pl?&brn1&&BRN1004143",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 14458,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(317152).png",
+            "branchName": "Brinkley's Estate Agents",
+            "brandName": "Brinkleys Estate Agents",
+            "chainFree": false,
+            "companyId": 522,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Flat F, Mercier Court, Mercier Road, Putney SW15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2AP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60790977,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 570000,
+            "price": 570000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/brinkley-s-estate-agents-london-14458/",
+            "branchId": "14458",
+            "branchResultsUri": "/for-sale/branch/brinkley-s-estate-agents-london-14458/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(317152).png",
+            "phone": "020 3463 2554",
+            "name": "Brinkley's Estate Agents",
+            "memberType": "agent",
+            "address": "168 Putney High Street, Putney, London",
+            "postcode": "SW15 1RS"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Merlin School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Putney High School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Putney",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Putney",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "*** private garden &amp; balcony ***<br>About the property: An extremely bright and spacious purpose built, fully modernised to a high standard with two double bedrooms, located in the heart of Putney. Positioned on the second floor the accommodation comprises a generously-sized lounge/dining room, two double bedrooms with bespoke fitted wardrobes, a family bathroom finished to the highest of standards, separate fully fitted kitchen, newly installed with oak worktops, private balcony, lots of storage and a private garden. Within walking distance are key transport links including Putney mainline station, East Putney Tube (District Line) and the A3. The purchaser of this property will also be able to enjoy being close to the River Thames and the area's abundance of shops, restaurants and bars.<br><br>How to view: Please contact our Wimbledon Hill office on , Wimbledon Park office on or our Putney office on for more information or to book a viewing. We are open from 8.30am - 7pm Monday to Friday and 9am - 6pm on weekends. Sole Agents",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Stunning Interiors",
+                "Two Double Bedrooms",
+                "Fully Modernised",
+                "Private Garden",
+                "In Region Of 700 Sq Ft",
+                "Near to Putney Mainline/East Putney Tube",
+                "Private Balcony",
+                "Top Floor Flat"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "1b72d3cde33f4bce012c5471b933ebd642857d7f.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "efdcd5ea0feb863574a7fefd20da76a8f63eaad5.jpg",
+                "caption": "Main Picture"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3fbe52d9067ec71735deed60aefb1ff390fed896.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "44923d60bd4eca0a621100db57dbaee319ff71f2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bad6b486dfb3e129052989a694fa4b0338239bae.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "93deddfbc5e376f01b30c12a3d5f43fe29a12689.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "21733a121e2024d1e83b375cfd7b8a67bdd03198.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "00cfd11d7f29eaed9f1dc47a8044c82a6915c159.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "64d05114870eb9cb9b85549e88073371248b2d5d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "824f5a23d23637ab4b65ea299de9354cbbd16dff.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ccad641effdea4a73b029cb029faba8fe4da0132.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bdabc58c7a29b0745aba9b78d7388906490cbb2a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "36c1f687a2c46d6e730c0decd3bc4e92e9d4f54b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "91db68ca9c852789b9dc68acd43a35b4d7cdc2ee.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ff45be5224719de5a583b89eaddedc4d69aa6404.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c9272b54ce3533c1cac02fad525cf06b41b3cf7e.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 14458,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(317152).png",
+            "branchName": "Brinkley's Estate Agents",
+            "brandName": "Brinkleys Estate Agents",
+            "chainFree": false,
+            "companyId": 522,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Flat F, Mercier Court, Mercier Road, Putney SW15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2AP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60790977,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "SW15",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 570000,
+            "price": 570000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Flat F, Mercier Court, Mercier Road, Putney SW15 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Flat F, Mercier Court, Mercier Road, Putney SW15, selling for \u00a3570,000 from Brinkley's Estate Agents. See property details on Zoopla or browse all our range of properties in Flat F, Mercier Court, Mercier Road, Putney SW15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60790977/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.458221,
+                "longitude": -0.214407
+            }
+        },
+        "displayAddress": "Flat F, Mercier Court, Mercier Road, Putney SW15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-18T09:26:46",
+                "priceLabel": "\u00a3570,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 220
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/1b72d3cde33f4bce012c5471b933ebd642857d7f.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3570,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Brinkleys Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60790977,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium"
+        },
+        "uuid": "9D1E9DB4-90B4-11EC-B468-BFC60D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW15",
+            "areaNameUri": "london/sw15/putney-roehampton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2601.444444444443
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 520826,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 523398,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2572
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 523730,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2904
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 545577,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -24751
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 528643,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -7817
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 364431,
+                    "pctChangeSince": 42.915,
+                    "date": "2012-02-26",
+                    "changeSince": 156395
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 332910,
+                    "pctChangeSince": 56.446,
+                    "date": "2007-02-26",
+                    "changeSince": 187916
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 202828,
+                    "pctChangeSince": 156.782,
+                    "date": "2002-02-26",
+                    "changeSince": 317998
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 529131,
+                    "newBuilds": 0,
+                    "numSales": 335
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 533508,
+                    "newBuilds": 3,
+                    "numSales": 926
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 527780,
+                    "newBuilds": 37,
+                    "numSales": 1765
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 544252,
+                    "newBuilds": 318,
+                    "numSales": 3178
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 23306525,
+                    "streetAddress": "30 Swanwick Close",
+                    "uri": "30-swanwick-close/london/sw15-4ef"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 210000,
+                    "propertyId": 33225271,
+                    "streetAddress": "Flat 26, Devonshire House, 50 Putney Hill",
+                    "uri": "flat-26/devonshire-house/50-putney-hill/london/sw15-6dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 31858841,
+                    "streetAddress": "Flat 51, College House, 52 Putney Hill",
+                    "uri": "flat-51/college-house/52-putney-hill/london/sw15-6bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-07T00:00:00Z",
+                    "price": 677500,
+                    "propertyId": 23309178,
+                    "streetAddress": "231 Dover House Road",
+                    "uri": "231-dover-house-road/london/sw15-5af"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 23303933,
+                    "streetAddress": "53 Keswick Avenue",
+                    "uri": "53-keswick-avenue/london/sw15-3qh"
+                }
+            ]
+        }
+    }
+}

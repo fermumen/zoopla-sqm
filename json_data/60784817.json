@@ -1,0 +1,549 @@
+{
+    "address": "Byron Road, Leyton E10",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 82.36,
+    "sqft": 887.0,
+    "text": "\u00a9 EAVES\nbeni Santen \u2014\u2014 RESTRICTED\n< HEIGHT\n(4.59m x 4.23m) | pon\nLOFT\n137x9\"\n(4.4m x 2.74m) RESTRICTED\n' < HEIGHT\n5 AREA\nEAVES\nUTILITY SECOND FLOOR\n69x29 - GROSS INTERNAL\n208mx083m) fT iad FLOOR AREA 192 SQ FT\nll\n\u2018 , =\nKITCHEN\nohms om cero\n(430m x 3.41m) exis\n(4.30m x 3.76m)\nuP-> up\nry\nLIVING ROOM\n12'5x 100\n(8.78m x 3.28m) BEDROOM\n\u201c 142x91\nt (4.30m x 3.02m)\n1 1\nFRONT GARDEN =\n15x40 =\nFIRST FLOOR\nSens el GROSS INTERNAL\nFLOOR AREA 321 SQFT\nGROUND FLOOR\nGROSS INTERNAL\nFLOOR AREA 374 SQFT\nAPPROX. GROSS INTERNAL FLOOR AREA 887 sq. ft / 82.36 sq. m (Including Restricted Height Area & Eaves)\nAPPROX. GROSS INTERNAL FLOOR AREA 745 sq. ft / 69.20 sq. m (Excluding Restricted Height Area & Eaves)\nFloorplan is for illustrative purposes only and is not to scale.\nEvery attempt has been made fo ensure the accuracy of the floorplan shown, however all measurements,\nfixtures, ftings and data shown are an approximate interpretation for illustrative purposes only. e ons\nLiability for errors, omissions or mis-statement through negligence or otherwise is hereby excluded. e\n",
+    "image": "./extracted_images/60784817.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60784817/",
+    "listing_no": "60784817",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.568731,
+        "longitude": -0.013707
+    },
+    "first_published": "2022-02-17T14:04:47",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60784817",
+        "publishedOn": "2022-02-17T14:04:47",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 7479,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(670576).png",
+            "branchName": "Theydons",
+            "brandName": "Theydons",
+            "chainFree": true,
+            "companyId": 3751,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Byron Road, Leyton E10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5DS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60784817,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": null,
+            "outcode": "E10",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 473936
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/theydons-london-7479/",
+            "branchId": "7479",
+            "branchResultsUri": "/for-sale/branch/theydons-london-7479/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(670576).png",
+            "phone": "020 8166 7815",
+            "name": "Theydons",
+            "memberType": "agent",
+            "address": "20 Church Lane, Leytonstone, London",
+            "postcode": "E11 1HG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "George Mitchell School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Joseph's Catholic Junior School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Leyton Midland Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Leyton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.9
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "4c03a6f188f11fd58cfdf47f0550b24961c68718.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Situated on a quiet cul-de-sac turning &amp; offered chain free, this charming two bedroom terraced home is fantastically located just moments away from Leyton Midland Overground Station, yet within easy access of both Leyton and Leytonstone Central line tube stations, offering excellent transport links into Central London and beyond. Bakers Arms shopping area, which hosts a large variety of shops, restaurants, cafes, is also just a short stroll away. You will also find Brooks Farm inside Jack Cornwell Park at the bottom of the road, perfect for a morning run, or somewhere to entertain the little ones.<br><br>Comprising: Internally; </strong>You are welcomed into this charming property via the gated front garden and painted front door, which will lead you immediately into the bright bay-fronted living area with feature brick wall and traditional wood stove burner, creating a homely feel to the rustic space.<br><br>The parquet flooring goes onto lead you into the spacious kitchen/diner, complete with sleek fitted wall and base units, wooden worktops and integrated oven &amp; gas hob with extractor fan above. The space is large enough to also fit a dining table, making it the perfect family-friendly space. Off of the kitchen area, is a small lobby area where you will find access into the family bathroom suite and garden.<br><br><strong>First floor: </strong>The feature fireplace, wood flooring and two large windows make the main bedroom the perfect space to relax in after a long day. You will also find the hatch to the loft space in the main bedroom, which is great for storage. The second bedroom is also of a good size and again with two large windows, allowing for lots of natural light to enhance the room, creating a bright and airy space.<br><br><strong>External:</strong> Externally you will find a charming rear garden, which is well-maintained to create a lovely space to enjoy during the warmer months.<br><br><strong> In Addition: </strong><br><br>- Short stroll to Jack Cornwell park playground and Brooks Farm<br><br>- Transport links into Westfield Stratford City, The Queen Elizabeth Olympic Park &amp; East Village<br><br>- Road links incl. A12, A406 &amp; M11<br><br>- 23 Schools and Colleges rated either 'Outstanding or 'Good' by Ofsted located within a mile radius<br><br><strong>Disclaimer: </strong><br><br>Viewing by appointment via Theydons<br><br>(All measurements are approximate sizes and are given as a guide only as obstacles may have prevented accuracy)<br><br>All photographs are reproduced for general information and it cannot be inferred that any items shown are included in the sale.<br><br>Planning &amp; building regulations details for any works carried out on the property should be specifically verified by the purchasers' solicitor before proceeding with the purchase.<br><br>\"These sales particulars have been prepared by Theydons upon the instruction of the vendor(s) and they shall not constitute an offer or the basis of any contract. Our inspection of the property was purely to prepare these particulars and no form of survey, structural or otherwise was carried out. Services, fittings and equipment referred to within the sales particulars have not been tested (unless otherwise stated) and no warranties can be given. Accordingly the prospective buyers(s) must make their own enquiries regarding such matters\"",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Charming two bedroom terraced home",
+                "Offered chain free",
+                "Situated on a quiet cul-de-sac turning",
+                "Bay fronted living area with feature brick wall &amp; wood burner",
+                "Attractive kitchen/diner with sleek wall &amp; base units &amp; wooden worktops",
+                "Delightful rear garden",
+                "Two good size bedrooms to first floor",
+                "Excellent transport links into Westfield Stratford City",
+                "Good access to both the Francis Road area &amp; Walthamstow Village"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "3721516687440fd6f76d1d927a23d9f257d1d98a.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "70c3c620523b08258942cf5f1cd4a63ef0bb7496.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6da233e93a29bbb841115574238663af06bbbc82.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2e4bfc8b5dfd46d28b9414e51298dfcbd91090e9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b5f7726ee680fd8bec231299599256304b1568b8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0717919d7ca4437258af67103e53a18ca34a8211.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a9f752ac09ee769477b867e199bc7ef0c9516e59.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fd4830fa5d97fdb31a1693efb4d161cd2c425db4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "69ae1a394dfc77fdafc7898f9465a01ea1e35ce0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "70798486e194fb3d8a7db7243398cbba13bebf57.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "acc6e34b31a9766e4a2fed56a284f380f9949d1a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d11df6a33a0b98a3ce8bcdb0471d9cb1c52f6166.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "af47148876c7354547aec50e0cc95d22212df56a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "640c18c3c40c8ac3180d6aba4cb65d090d0c2d3c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "305b4bb30af1958f076c521291835bbdeb50ecba.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "06eb555af2b4756763808ff0ea6625b4e32f06f4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5f5bb84e2f609ea8c939a479d5e4e90ca5644725.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 7479,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(670576).png",
+            "branchName": "Theydons",
+            "brandName": "Theydons",
+            "chainFree": true,
+            "companyId": 3751,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Byron Road, Leyton E10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5DS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60784817,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": null,
+            "outcode": "E10",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 473936
+        },
+        "title": "2 bed terraced house for sale",
+        "metaTitle": "2 bed terraced house for sale in Byron Road, Leyton E10 - Zoopla",
+        "metaDescription": "2 bed terraced house for sale in Byron Road, Leyton E10, selling for \u00a3550,000 from Theydons. See property details on Zoopla or browse all our range of properties in Byron Road, Leyton E10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60784817/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.568731,
+                "longitude": -0.013707
+            }
+        },
+        "displayAddress": "Byron Road, Leyton E10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-17T14:04:47",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 245
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/3721516687440fd6f76d1d927a23d9f257d1d98a.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Theydons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60784817,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "912969F4-8FFA-11EC-B2EA-05020E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E10",
+            "areaNameUri": "london/e10/leyton",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1409.4166666666665
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 568629,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 579778,
+                    "pctChangeSince": -1.923,
+                    "date": "2021-11-26",
+                    "changeSince": -11149
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 600353,
+                    "pctChangeSince": -5.284,
+                    "date": "2021-08-26",
+                    "changeSince": -31724
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 570993,
+                    "pctChangeSince": -0.414,
+                    "date": "2021-02-26",
+                    "changeSince": -2364
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 557323,
+                    "pctChangeSince": 2.029,
+                    "date": "2017-02-26",
+                    "changeSince": 11306
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 332778,
+                    "pctChangeSince": 70.873,
+                    "date": "2012-02-26",
+                    "changeSince": 235851
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 330869,
+                    "pctChangeSince": 71.859,
+                    "date": "2007-02-26",
+                    "changeSince": 237760
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 192198,
+                    "pctChangeSince": 195.856,
+                    "date": "2002-02-26",
+                    "changeSince": 376431
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 621217,
+                    "newBuilds": 0,
+                    "numSales": 156
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 587267,
+                    "newBuilds": 0,
+                    "numSales": 369
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 564751,
+                    "newBuilds": 0,
+                    "numSales": 677
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 538943,
+                    "newBuilds": 2,
+                    "numSales": 1033
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-17T00:00:00Z",
+                    "price": 552000,
+                    "propertyId": 7782692,
+                    "streetAddress": "79 Byron Road",
+                    "uri": "79-byron-road/london/e10-5ds"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-16T00:00:00Z",
+                    "price": 475000,
+                    "propertyId": 7782722,
+                    "streetAddress": "82 Byron Road",
+                    "uri": "82-byron-road/london/e10-5dt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-26T00:00:00Z",
+                    "price": 485000,
+                    "propertyId": 7782689,
+                    "streetAddress": "73 Byron Road",
+                    "uri": "73-byron-road/london/e10-5ds"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 720050,
+                    "propertyId": 7793491,
+                    "streetAddress": "11 Whitney Road",
+                    "uri": "11-whitney-road/london/e10-7hg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 643756,
+                    "propertyId": 7793657,
+                    "streetAddress": "82 Manor Road",
+                    "uri": "82-manor-road/london/e10-7hn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 504000,
+                    "propertyId": 7790479,
+                    "streetAddress": "118 Newport Road",
+                    "uri": "118-newport-road/london/e10-6pg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 714000,
+                    "propertyId": 7784600,
+                    "streetAddress": "3 Buckingham Road",
+                    "uri": "3-buckingham-road/london/e10-5ng"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-15T00:00:00Z",
+                    "price": 540000,
+                    "propertyId": 7790635,
+                    "streetAddress": "55 Francis Road",
+                    "uri": "55-francis-road/london/e10-6pn"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,498 @@
+{
+    "address": "Kenwyn Road, London SW4",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 61.2,
+    "sqft": 659.0,
+    "text": "Ground Floor\nBasement Ga N\nBedroom\n3.45m x 3.55m\n(11'4\" x 11'8\")\nStorage = \\I}\n6.77m x 1.35m oy \\|}\n(22'2\" x 4'5\") \\NL ral i Ly\n| Bedroom\n| 2.70m x 2.84m\n? ; (8'10\" x 9'4\")\nReception |\nRoom /\nKitchen\n6.44m x 3.07m\n(21'1\" x 10'1\")\nTotal area: approx. 61.2 sq. metres (659.2 sq. feet)\n",
+    "image": "./extracted_images/60596230.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60596230/",
+    "listing_no": "60596230",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.462443,
+        "longitude": -0.132478
+    },
+    "first_published": "2022-01-24T15:31:24",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60596230",
+        "publishedOn": "2022-01-24T15:31:24",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/f9f3fd414d047cba091d0c833b139ea9d16ffcd1.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 56771,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Clapham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Kenwyn Road, London SW4",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7LH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60596230,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW4",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 539811
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-clapham-clapham-56771/",
+            "branchId": "56771",
+            "branchResultsUri": "/for-sale/branch/dexters-clapham-clapham-56771/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 8742 4140",
+            "name": "Dexters - Clapham",
+            "memberType": "agent",
+            "address": "28 Abbeville Road, Clapham",
+            "postcode": "SW4 9NG"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham North",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham High Street",
+                "type": "national_rail_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham Manor Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary's Roman Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "9be6a62ee40ccb3e8382bb0191d301e52dda3fb4.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A fully renovated ground floor period conversion comprising a large open plan reception room with a modern kitchen, two double bedrooms, a shower room and a tanked cellar. To the rear is a private garden.<br><br>Kenwyn Road falls within the catchment of Clapham Manor Primary School (Ofstead outstanding) and offers superb access to the many local shops, restaurants and bars. Clapham North Underground Station (Northern Line) just a short stroll away.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Ground Floor Garden Flat",
+                "Open Plan Reception",
+                "Modern Kitchen",
+                "Two Double Bedrooms",
+                "Private Garden",
+                "New Lease"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "9ae3eb1386785bbafa3f94c1ac9e45243a1bbdcf.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "4819387ef2015c59543512296653f43b483e53b9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e6345e5bf20b64cbe83730ea26d6df8c3567ef33.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a41a426eb6b973c89b84b770e2b78f1fb3597ba8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "18ec224860d3de7fe7a7da6f189ba4a5e43e0414.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3c66b5cf03d9890a04c45b2cf6ff5d8a2237d91c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9e8e0689bab0f70dba10724dbb33f02a169dcb1d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d96aafd80cb8079ba4446b5a698356fa1cc4ced4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e6216fd8d276ab3cc12dfcf6ec68ec4bedccf70f.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 56771,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Clapham",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Kenwyn Road, London SW4",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7LH",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60596230,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW4",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 539811
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Kenwyn Road, London SW4 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Kenwyn Road, London SW4, selling for \u00a3600,000 from Dexters - Clapham. See property details on Zoopla or browse all our range of properties in Kenwyn Road, London SW4.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60596230/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.462443,
+                "longitude": -0.132478
+            }
+        },
+        "displayAddress": "Kenwyn Road, London SW4",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-24T15:31:24",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 274
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/9ae3eb1386785bbafa3f94c1ac9e45243a1bbdcf.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60596230,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "B105E58C-7D2A-11EC-96F4-14300E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW4",
+            "areaNameUri": "london/sw4/clapham",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2108.1666666666665
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 573300,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 576131,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2831
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 576497,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3197
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 600546,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -27246
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 581912,
+                    "pctChangeSince": -1.48,
+                    "date": "2017-02-26",
+                    "changeSince": -8612
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 401153,
+                    "pctChangeSince": 42.913,
+                    "date": "2012-02-26",
+                    "changeSince": 172147
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 366456,
+                    "pctChangeSince": 56.444,
+                    "date": "2007-02-26",
+                    "changeSince": 206844
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 223266,
+                    "pctChangeSince": 156.779,
+                    "date": "2002-02-26",
+                    "changeSince": 350034
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 587997,
+                    "newBuilds": 0,
+                    "numSales": 244
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 575053,
+                    "newBuilds": 6,
+                    "numSales": 647
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 575154,
+                    "newBuilds": 23,
+                    "numSales": 1209
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 567641,
+                    "newBuilds": 124,
+                    "numSales": 1986
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 480000,
+                    "propertyId": 23149070,
+                    "streetAddress": "11 Kenwyn Road",
+                    "uri": "11-kenwyn-road/london/sw4-7lj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 740000,
+                    "propertyId": 23154437,
+                    "streetAddress": "35a Hambalt Road",
+                    "uri": "35a-hambalt-road/london/sw4-9ea"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 437000,
+                    "propertyId": 23145384,
+                    "streetAddress": "Flat 7, Grove Court, 99 Larkhall Rise",
+                    "uri": "flat-7/grove-court/99-larkhall-rise/london/sw4-6hr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1250000,
+                    "propertyId": 23155923,
+                    "streetAddress": "61 Briarwood Road",
+                    "uri": "61-briarwood-road/london/sw4-9pj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 535000,
+                    "propertyId": 23145482,
+                    "streetAddress": "1 Kelman Close",
+                    "uri": "1-kelman-close/london/sw4-6je"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 365000,
+                    "propertyId": 23148670,
+                    "streetAddress": "175 William Bonney Estate",
+                    "uri": "175-william-bonney-estate/london/sw4-7je"
+                }
+            ]
+        }
+    }
+}

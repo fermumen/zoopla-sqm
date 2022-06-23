@@ -1,0 +1,340 @@
+{
+    "address": "Coles Green Road, London NW2",
+    "price": "\u00a3580,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 93.1,
+    "sqft": null,
+    "text": "=\nRo\nsil\n2 x x\not\nAnnex \u201c\u00b0\n2.59m x 2.49m\n(8'6 x 8'2), a\n= /\nro | ie L\n7 Conservatory XY (Not Shown In Actual ~~!\n3.77m x 1.98m Location / Orientation)\n(12'4 x 6'6) _\nLC) me\n= Kitchen \u2018oh\nil + 3.12m x 2.01m ~ |\nPy (10'3 x 6'7) L |\nReception Room Hs] pedioon cal\n4.09m x 3.52m / joenes, O\n(13'5 x 11'7) (13'6 x )\n= SS\nReception Room Bedroom \\\n3.52m x 3.41m Pe 3.41m x 3.25m i\n(11'7 x 11'2) ye (11'2 x 10'8)\n\u2014\nfe i =\n\u2018 ~ Bedroom\n2.31m x 2.15m\n(77 74)\nGround Floor First Floor\nTotal area (approx.): 93.1 sq. m (1,002.0'sq. ft)\nAnnex area: 6.5 sq. m (70.0 sq. ft)\nShed area: 10.5 sq. m (113.0 sq. ft)\n",
+    "image": "./extracted_images/60565349.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60565349/",
+    "listing_no": "60565349",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.565444,
+        "longitude": -0.23205
+    },
+    "first_published": "2022-01-19T17:29:09",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60565349",
+        "publishedOn": "2022-01-19T17:29:09",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/453aee417104c87dd32d229f7b24b393b116f545.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 18045,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Cricklewood",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Coles Green Road, London NW2",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7ES",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60565349,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 8,
+            "numRecepts": 2,
+            "outcode": "NW2",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 488152
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-cricklewood-london-18045/",
+            "branchId": "18045",
+            "branchResultsUri": "/for-sale/branch/dexters-cricklewood-london-18045/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 7794 7710",
+            "name": "Dexters - Cricklewood",
+            "memberType": "agent",
+            "address": "28-30 Cricklewood Broadway, London",
+            "postcode": "NW2 3HD"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Our Lady of Grace Catholic Junior School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Our Lady of Grace RC Infant and Nursery School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Cricklewood",
+                "type": "national_rail_station",
+                "distanceMiles": 1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Dollis Hill",
+                "type": "london_underground_station",
+                "distanceMiles": 1
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "dd2d10d88d561f5b778c487df73c7b4e84c0fbfe.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This three bedroom house offers a fantastic opportunity to renovate and extend into the loft and rear (STPP) to make it a perfect family home. Currently the house benefits from two receptions, a separate kitchen, a guest WC and a large private garden.<br><br>Coles Green Road is within close proximity of Brent Cross and its variety of facilities and numerous road links including The North Circular (A406), the M1 motorway and Hendon Way (A41).",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three Bedrooms",
+                "Two Reception",
+                "Guest WC",
+                "Potential to Extend (STPP)",
+                "Off Street Parking",
+                "Chain Free"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "43573e3518146ff08973f23f92447810d7416bd1.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "ead5b4740afc0a3f79be52499a59074df5d1cb2e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "22d2ed05856432aec776bebe710841f96b17f26e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d5598651719bb321fd535a47592dbfccbfac496b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b16db48ce23b8e32d8dc49d607f3406d56d0f8c8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "058990b37893e29058f838fe8e996ca811271b34.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "233cf489d17a387fab12bc5ba6ba062c7a260688.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "958236ad82a57d24af868433ef0724fb6ead5263.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "63a35779945c2ede973990da6009b81f4389ea00.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 18045,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Cricklewood",
+            "brandName": "Dexters",
+            "chainFree": true,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Coles Green Road, London NW2",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7ES",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60565349,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 8,
+            "numRecepts": 2,
+            "outcode": "NW2",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 488152
+        },
+        "title": "3 bed property for sale",
+        "metaTitle": "3 bed property for sale in Coles Green Road, London NW2 - Zoopla",
+        "metaDescription": "3 bed property for sale in Coles Green Road, London NW2, selling for \u00a3580,000 from Dexters - Cricklewood. See property details on Zoopla or browse all our range of properties in Coles Green Road, London NW2.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60565349/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.565444,
+                "longitude": -0.23205
+            }
+        },
+        "displayAddress": "Coles Green Road, London NW2",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-19T17:29:09",
+                "priceLabel": "\u00a3580,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 149
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/43573e3518146ff08973f23f92447810d7416bd1.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 2
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3580,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60565349,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "507CE0B6-794D-11EC-90A0-31DC0D674736",
+        "marketStats": null
+    }
+}

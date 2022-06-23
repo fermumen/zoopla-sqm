@@ -1,0 +1,567 @@
+{
+    "address": "West Kensington Court, West Kensington, London W14",
+    "price": "\u00a3550,000",
+    "beds": "3 beds",
+    "area": "78 sq. ft",
+    "sqm": 79.49,
+    "sqft": 856.0,
+    "text": "aN\nS\n= \u2014 i\nBEDROOM BEDROOM -s5|\n2.92x3.39m 4.29x3.39m \u2014_ BALCONY\nar tanita W) Yp.t7x2.55m\nCeling 2.60% Celing 2.60) < prehes\n= |\n\\\niC) > a\n\u201cLl G&) IC ( )u\nrn) \u2014S BS @( Co\n\u201ctt _ =\n\u2014_ O90) (@\nKITCHEN\n396x1.70m \u00bb\n\\ 3-0\" x57\nS Ceiing 25am mn\n/ \u2018IN.\n\u201c ~ BALCONY\nss5| 0.80 x 2.60m\n; 28X87\nBEDROOM RECEPTION /) }+\u2014\n287x361m 4.29x361m <\n9\u00b05\"x 1110\" 14-4\" x 11-10\nCeiling 2.60m Celing 2.58m 3:\nFourth Floor\n856 ft?\nWest Kensington Court, W14\nApproximate Gross Internal Area\n79.49 SQ.M / 856 SQ.FT\nIllustration for identification purposes only. Not to scale.\nFloor Plan Drawn According To RICS Guidelines.\n",
+    "image": "./extracted_images/60765721.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60765721/",
+    "listing_no": "60765721",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.491425,
+        "longitude": -0.206397
+    },
+    "first_published": "2022-02-15T13:44:04",
+    "last_sale_date": "2013-05-15",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60765721",
+        "publishedOn": "2022-02-15T13:44:04",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/4e46fc0381bbca72f85e0284eb1c98e5dba05557.pdf",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 15487,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(547592).png",
+            "branchName": "Lawson Rutter",
+            "brandName": "Lawson Rutter",
+            "chainFree": false,
+            "companyId": 8466,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "West Kensington Court, West Kensington, London W14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9AB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60765721,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "78",
+            "tenure": null,
+            "zindex": 391103
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/lawson-rutter-15487/",
+            "branchId": "15487",
+            "branchResultsUri": "/for-sale/branch/lawson-rutter-15487/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(547592).png",
+            "phone": "020 8115 0460",
+            "name": "Lawson Rutter",
+            "memberType": "agent",
+            "address": "1 Barons Court Road, West Kensington",
+            "postcode": "W14 9DP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Kensington",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Fulham Boys School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St James Senior Girls' School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Barons Court",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/8Hzl_NbDd-k?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "46bda60538cf14e21200710885b72c5c2023e380.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A spacious three Double bedroom flat In West Kensington Court, a stunning portered development just off Edith Villas.<br><br>Located on the fourth floor, the property enjoys access to the private internal court yard gardens. West Kensington Court benefits from 3 passenger lifts (including 2 service lifts), CCTV &amp; Entry phone.<br><br>The accommodation offers over 850 sq. Ft. Of living space, comprising of three good sized double bedrooms, with two private balconies, one balcony off the reception room and the other off the master bedroom. There are two further double bedrooms, a modern bathroom and separate kitchen. The flat is presented in good order throughout and benefits from ample storage and a share of freehold.<br><br>West Kensington Court is a secure building with a 24 hour porter service making an ideal purchase for buy to let investors, first time buyers, or as a pied a terre. Positioned moments From West Kensington underground station (District Line) &amp; A4 close to local amenities and supermarkets as well as shops of Kensington Olympia and Earls Court and within easy reach of Hammersmith. Close to botanical greenery of Holland Park and within close proximity of Kensington High Street. Long Lease. Service charges include Hot water and heating",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three double bedrooms",
+                "Two private balconies",
+                "Separate kitchen",
+                "Modern bathroom",
+                "Portered block with lifts",
+                "Hot water and central heating included",
+                "Share of freehold"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "4942c65cacaeb30e264f07ee59960432e68462e4.gif",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d9d8593cc4a7e90993fb3725fdaaeedd8801d84f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "eb865e2d0762c6929e04d877b5cdc05be3dc4bf4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d022bf1cd033d4f6b9ffad604d4c5d309c391bf2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fb29aa90a314b486784270f93c8ffce015c84de3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0d998c7957e999df817263b033b2be08ec7e6314.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "674cebfa9a4606c96cd3b8e17e1bcd8888563b3c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "66a79568314bc85c0de893d531dc4d4e97db5903.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e1e2b11aebbf4b63113512fd6d0d588e49769150.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fa106490fe0cd3dbc936f41cb0b83c894da45cba.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e34f37e0d05b30ac7d01e303f3b5117175c8095c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8ff533b64d994d14df0d9662f002011d2ec6a651.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "021524c6323c47f7b495133ba6add017091b3c69.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 15487,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(547592).png",
+            "branchName": "Lawson Rutter",
+            "brandName": "Lawson Rutter",
+            "chainFree": false,
+            "companyId": 8466,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "West Kensington Court, West Kensington, London W14",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9AB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60765721,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 12,
+            "numRecepts": 1,
+            "outcode": "W14",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "78",
+            "tenure": null,
+            "zindex": 391103
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in West Kensington Court, West Kensington, London W14 - Zoopla",
+        "metaDescription": "3 bed flat for sale in West Kensington Court, West Kensington, London W14, selling for \u00a3550,000 from Lawson Rutter. See property details on Zoopla or browse all our range of properties in West Kensington Court, West Kensington, London W14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60765721/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.491425,
+                "longitude": -0.206397
+            }
+        },
+        "displayAddress": "West Kensington Court, West Kensington, London W14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-15T13:44:04",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2013-05-15",
+                "newBuild": false,
+                "price": 385000,
+                "priceLabel": "\u00a3385,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 462
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/4942c65cacaeb30e264f07ee59960432e68462e4.gif"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 78
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 7051,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Lawson Rutter",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60765721,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "58FEFAB2-8E65-11EC-BFD3-D9140E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W14",
+            "areaNameUri": "london/w14/west-kensington-holland-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 6889.999999999999
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 776035,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 788630,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -12595
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 811949,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -35914
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 855883,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -79848
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 849182,
+                    "pctChangeSince": -8.614,
+                    "date": "2017-02-26",
+                    "changeSince": -73147
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 565644,
+                    "pctChangeSince": 37.195,
+                    "date": "2012-02-26",
+                    "changeSince": 210391
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 504431,
+                    "pctChangeSince": 53.844,
+                    "date": "2007-02-26",
+                    "changeSince": 271604
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 298959,
+                    "pctChangeSince": 159.579,
+                    "date": "2002-02-26",
+                    "changeSince": 477076
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 727058,
+                    "newBuilds": 0,
+                    "numSales": 188
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 755004,
+                    "newBuilds": 0,
+                    "numSales": 520
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 777600,
+                    "newBuilds": 18,
+                    "numSales": 982
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 856570,
+                    "newBuilds": 225,
+                    "numSales": 1794
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-29T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 25185227,
+                    "streetAddress": "Flat 14, Clifford House, Edith Villas",
+                    "uri": "flat-14/clifford-house/edith-villas/london/w14-8ug"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 25185520,
+                    "streetAddress": "Flat 23, West Kensington Court, Edith Villas",
+                    "uri": "flat-23/west-kensington-court/edith-villas/london/w14-9aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-01T00:00:00Z",
+                    "price": 475000,
+                    "propertyId": 25185235,
+                    "streetAddress": "Flat 21, Clifford House, Edith Villas",
+                    "uri": "flat-21/clifford-house/edith-villas/london/w14-8ug"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-26T00:00:00Z",
+                    "price": 430000,
+                    "propertyId": 25185542,
+                    "streetAddress": "Flat 43, West Kensington Court, Edith Villas",
+                    "uri": "flat-43/west-kensington-court/edith-villas/london/w14-9aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-26T00:00:00Z",
+                    "price": 300000,
+                    "propertyId": 25185550,
+                    "streetAddress": "Flat 50, West Kensington Court, Edith Villas",
+                    "uri": "flat-50/west-kensington-court/edith-villas/london/w14-9aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 567500,
+                    "propertyId": 27184805,
+                    "streetAddress": "Flat 3, 73 Sinclair Road",
+                    "uri": "flat-3/73-sinclair-road/london/w14-0nr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 27285623,
+                    "streetAddress": "Basement Flat, 1 Chesson Road",
+                    "uri": "basement-flat/1-chesson-road/london/w14-9qr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 804011,
+                    "propertyId": 32593125,
+                    "streetAddress": "Flat 11, Trinity House, 377 Kensington High Street",
+                    "uri": "flat-11/trinity-house/377-kensington-high-street/london/w14-8qa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 25178458,
+                    "streetAddress": "142 Blythe Road",
+                    "uri": "142-blythe-road/london/w14-0hd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 2950000,
+                    "propertyId": 25178619,
+                    "streetAddress": "24 Sterndale Road",
+                    "uri": "24-sterndale-road/london/w14-0hs"
+                }
+            ]
+        }
+    }
+}

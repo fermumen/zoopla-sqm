@@ -1,0 +1,552 @@
+{
+    "address": "Knightley Walk, Wandsworth, London SW18",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": "793 sq. ft",
+    "sqm": 73.69,
+    "sqft": 2022.0,
+    "text": "Foxtons Knightley Walk, SW18 GROSS INTERNAL AREA\nre 04/02/2022 1S 3,202,310 73.69 sqm / 793.19 sqft\nN\nTERRACE 3 TERRACE 2\n3.93m x 0.54m\u2014\u2014 3.01m x 1.26m\n(io x 19) | (ort x 42)\n1.77 sqm / 19.00 sqft 3.76 sqm / 40.44 sqft\nMAIN BEDROOM\n4.81m x 2.75m\n(15'9x9'0) || BEDROOM2\n4.94m x 2.91m\n(14'3 x 9'7)\n2 aq\n=\n||\n@\n> : le}\nKITCHEN/\nRECEPTION\n8.36m x 3.37m\n(27'S x 1111)\nTERRACE 1\n9.95m x 3.83m\n(32\u00b08 x 12'7)\n37.42 sam /\n402.77 saft\n= First Floor\nz BZA \u2018 a\nWH) Lage :\nY ra Br:\n(ZAZA 73.68 sam | 793.9 saft (22 70.76 sam / 76165 saft 42.94 sqm / 462.20 saft -==-! 0.00 sqm / 0.00 saft\nMspec\u2019 (A} RICcS\nMsp ay NS\nVerified \u00a9 iE @ [fae\n",
+    "image": "./extracted_images/60739300.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60739300/",
+    "listing_no": "60739300",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.458843,
+        "longitude": -0.195211
+    },
+    "first_published": "2022-02-11T15:10:56",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60739300",
+        "publishedOn": "2022-02-11T15:10:56",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Floorplan",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw18/chpk4137738/large_floorplan",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Property Details And Epcs",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw18/chpk4137738",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Super Sized Images",
+                "original": "https://www.foxtons.co.uk/properties-for-sale/sw18/chpk4137738/slide_large",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2888,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Putney",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Knightley Walk, Wandsworth, London SW18",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1HD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60739300,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 17,
+            "numRecepts": null,
+            "outcode": "SW18",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "793",
+            "tenure": null,
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/foxtons-putney-london-2888/",
+            "branchId": "2888",
+            "branchResultsUri": "/for-sale/branch/foxtons-putney-london-2888/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "phone": "020 3542 2189",
+            "name": "Foxtons - Putney",
+            "memberType": "agent",
+            "address": "175 Putney High Street, London",
+            "postcode": "SW15 1RT"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Roche School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Joseph's RC Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Riverside Quarter Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/6200d0fcbb3e5d0a48ad31fe"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "This contemporary 2 bedroom apartment boasts a wonderful open-plan layout with polished interiors and a fantastic private terrace with space to entertain. It is set near amenities, stations and Wandsworth Park.<br><br>Knightley Walk is situated close to the River Thames, local amenities, shops, and the beautiful Wandsworth Park. This location offers easy access to Wandsworth Town Station and East Putney Station.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "1st Floor apartment moments from the Thames",
+                "Open-plan kitchen with integrated appliances",
+                "Lovely reception leading to a large terrace with space to lounge",
+                "2 Double bedrooms with built-in cupboards",
+                "2nd Private terrace accessible from both bedrooms",
+                "Modern bathroom and main ensuite shower room",
+                "Central location close to amenities"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "61fc969be292147c52c53156328b7bb685f31f00.png",
+                    "caption": "Floorplan - Representation Of Current Layout, Internal Floor Area Approx."
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "7d84a51d409268f7a0aec7e1a8b037eee5571bb0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "caa758098218bcee89bd21894fc837c1c95606f3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7dd8605fb8f1182fb4b2b49339aa27f250397c6f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8be7b05c39bef8bb5d224ceeabdb921775a3c69d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "dafc65c78f4c4dd490072f1815e01de2ed6ebc27.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "285aa6e794ff5e7c3bce9a3c5f3cd87b0d947b26.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "71c63d05c25ff33160a3013119b833c46241ccee.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "12c36225d806a41061374b8c21d890b585b06028.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "21c9aea677923b18ea15de685df955f4c3c6c2d0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9341230e9759dfebe0aa8e7b039e3a1de5d20523.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "30ca8817d8d66060e16fd1d9e9f80153b4535254.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e350845bc588bfda3c4b0e73d6e6e3ac25fe9d04.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ced517e7a47e8a513177939bcece68b222237412.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "279e5be54ee680bf6b79f55e240456d71ccb95de.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5c34c7eeb4c80a3179d8a67e8a7edad299d29ce2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "5e616aeeaa824228c19e51a7fea7095ec6b5c625.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e0f8a3f60c635a63e50c997c7bc946166b47ff57.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 2888,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592983).png",
+            "branchName": "Foxtons - Putney",
+            "brandName": "Foxtons",
+            "chainFree": false,
+            "companyId": 1370,
+            "countryCode": "gb",
+            "countyAreaName": "",
+            "currencyCode": "GBP",
+            "displayAddress": "Knightley Walk, Wandsworth, London SW18",
+            "furnishedState": "",
+            "groupId": 267,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1HD",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60739300,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 17,
+            "numRecepts": null,
+            "outcode": "SW18",
+            "postalArea": "",
+            "postTownName": "",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "793",
+            "tenure": null,
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Knightley Walk, Wandsworth, London SW18 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Knightley Walk, Wandsworth, London SW18, selling for \u00a3625,000 from Foxtons - Putney. See property details on Zoopla or browse all our range of properties in Knightley Walk, Wandsworth, London SW18.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60739300/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.458843,
+                "longitude": -0.195211
+            }
+        },
+        "displayAddress": "Knightley Walk, Wandsworth, London SW18",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-11T15:10:56",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 79
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/61fc969be292147c52c53156328b7bb685f31f00.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": null
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 793
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 788,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Foxtons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60739300,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "D05E4322-8B4C-11EC-A8C4-D5380E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW18",
+            "areaNameUri": "london/sw18/wandsworth-earlsfield",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2440.1807909604536
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 545740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 548436,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -2696
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 548784,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 571676,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -25936
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 553935,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -8195
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 381867,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 163873
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 348838,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 196902
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 212532,
+                    "pctChangeSince": 156.78,
+                    "date": "2002-02-26",
+                    "changeSince": 333208
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 554541,
+                    "newBuilds": 19,
+                    "numSales": 470
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 543782,
+                    "newBuilds": 55,
+                    "numSales": 1296
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 547279,
+                    "newBuilds": 111,
+                    "numSales": 2421
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 550771,
+                    "newBuilds": 488,
+                    "numSales": 4197
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 23379218,
+                    "streetAddress": "13 Heathfield Square",
+                    "uri": "13-heathfield-square/london/sw18-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 23377537,
+                    "streetAddress": "6 Wells Place",
+                    "uri": "6-wells-place/london/sw18-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 696000,
+                    "propertyId": 23384628,
+                    "streetAddress": "16a Duntshill Road",
+                    "uri": "16a-duntshill-road/london/sw18-4ql"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 1325500,
+                    "propertyId": 23388776,
+                    "streetAddress": "94 Elsenham Street",
+                    "uri": "94-elsenham-street/london/sw18-5nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 511000,
+                    "propertyId": 23383425,
+                    "streetAddress": "31 Steerforth Street",
+                    "uri": "31-steerforth-street/london/sw18-4hf"
+                }
+            ]
+        }
+    }
+}

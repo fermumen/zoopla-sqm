@@ -1,0 +1,526 @@
+{
+    "address": "Sotheby Road, Islington, London N5",
+    "price": "\u00a3550,000",
+    "beds": "2 beds",
+    "area": "710 sq. ft",
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60278951/",
+    "listing_no": "60278951",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.557302,
+        "longitude": -0.096694
+    },
+    "first_published": "2021-11-26T16:02:53",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60278951",
+        "publishedOn": "2021-11-26T16:02:53",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 127240,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(726196).png",
+            "branchName": "Moves Places",
+            "brandName": "Move Places Limited",
+            "chainFree": false,
+            "companyId": 100954,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Sotheby Road, Islington, London N5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "2UR",
+            "isRetirementHome": false,
+            "isSharedOwnership": true,
+            "listingCondition": "pre-owned",
+            "listingId": 60278951,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": null,
+            "outcode": "N5",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "710",
+            "tenure": "share_of_freehold",
+            "zindex": 1024362
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/moves-places-gerrards-cross-127240/",
+            "branchId": "127240",
+            "branchResultsUri": "/for-sale/branch/moves-places-gerrards-cross-127240/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(726196).png",
+            "phone": "01753 903745",
+            "name": "Moves Places",
+            "memberType": "agent",
+            "address": "Suite 5, Europa House, Packhorse Road, Gerrards Cross",
+            "postcode": "SL9 8BQ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Joan of Arc RC Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "St John's Highbury Vale CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Arsenal",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Drayton Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Vacant possession in progress<br><br>register your interest online<br></strong><br><br>(viewing access currently restricted)<br><br>awaiting further images &amp; floorplan<br><br>Contact agent online to register interest.<br><br>Internally the property briefly comprises entrance porch, hallway, separate lounge, fully fitted kitchen, 2 double bedrooms and one bathroom which has been recently decorated as well as a new boiler fitted in 2020. The windows have been restored with two being newly fitted.<br><br>The property benefits from a private roof terrace with great views of Islington, this is the only property with a private roof terrace on the street and boasts residents parking.<br><br>The property is located in the desirable red brick, leafy, conservation area<strong> </strong>of Islington being within close proximity to well-regarded schools and colleges, array of shops. Excellent public transport links nearby including bus and train stations.<br><br>The sale also includes 1/3 ownership of freehold.<br><br>Please Note:<br><br>1. Money laundering regulations - Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.<br><br>2: These particulars do not constitute part or all of an offer or contract.<br><br>3: The measurements indicated are supplied for guidance only and as such must be considered incorrect.<br><br>4: Potential buyers are advised to recheck the measurements before committing to any expense.<br><br>5: Move Places has not tested any apparatus, equipment, fixtures, fittings or services and it is the buyers interests to check the working condition of any appliances.<br><br>6: Move Places has not sought to verify the legal title of the property and the buyers must obtain verification from their solicitor",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Ideal Investment Opportunity",
+                "Two Double Bedroom Period Conversion",
+                "Separate Living Room",
+                "Separate Fitted Kitchen",
+                "Private Roof Terrace",
+                "Great location to Underground &amp; Overground Stations",
+                "Brand New Boiler Fitted in 2020",
+                "1/3 Share of Ownership",
+                "On Street Residents Permit Parking",
+                "Vacant Possession"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "3bf163b14b391f3f7577f49c43af368698e6f4a7.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "979881a86968d1a70011409d4ac9fc5183aa75d8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e6ffce79fa49c89ce93c9af82b38df6b41e03db2.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "88e30ddebf286950eaef28618715864e517b4650.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "dc7d61451bb191528eba917dbab66d9b12f34e37.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "13dc71932939010e6f8cd1a8b4ad7a418bad10c1.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f7525bad17c41c7903397fc6f47cd8bd49961c45.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7b351e2f2207fff988ee4362ddbe641cb2eddc4c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1cc34c1a55ea962dbbe869634bb5106e070d33cb.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "776c54bd60953f84a934f38f1b796bdbb3e54926.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 16,
+            "acornType": 16,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 127240,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(726196).png",
+            "branchName": "Moves Places",
+            "brandName": "Move Places Limited",
+            "chainFree": false,
+            "companyId": 100954,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Sotheby Road, Islington, London N5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "2UR",
+            "isRetirementHome": false,
+            "isSharedOwnership": true,
+            "listingCondition": "pre-owned",
+            "listingId": 60278951,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": null,
+            "outcode": "N5",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "710",
+            "tenure": "share_of_freehold",
+            "zindex": 1024362
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Sotheby Road, Islington, London N5 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Sotheby Road, Islington, London N5, selling for \u00a3550,000 from Moves Places. See property details on Zoopla or browse all our range of properties in Sotheby Road, Islington, London N5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60278951/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.557302,
+                "longitude": -0.096694
+            }
+        },
+        "displayAddress": "Sotheby Road, Islington, London N5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-26T16:02:53",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 208
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": null
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 710
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 775,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Move Places Limited",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60278951,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "AFBD85A6-8471-11EC-96DC-E32B0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N5",
+            "areaNameUri": "london/n5/highbury",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2256.913043478262
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 614174,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 624792,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -10618
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 644362,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -30188
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 676832,
+                    "pctChangeSince": -9.258,
+                    "date": "2021-02-26",
+                    "changeSince": -62658
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 626194,
+                    "pctChangeSince": -1.92,
+                    "date": "2017-02-26",
+                    "changeSince": -12020
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 410532,
+                    "pctChangeSince": 49.604,
+                    "date": "2012-02-26",
+                    "changeSince": 203642
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 385108,
+                    "pctChangeSince": 59.481,
+                    "date": "2007-02-26",
+                    "changeSince": 229066
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 231817,
+                    "pctChangeSince": 164.939,
+                    "date": "2002-02-26",
+                    "changeSince": 382357
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 664094,
+                    "newBuilds": 0,
+                    "numSales": 127
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 622338,
+                    "newBuilds": 1,
+                    "numSales": 400
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 598298,
+                    "newBuilds": 3,
+                    "numSales": 757
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 594094,
+                    "newBuilds": 6,
+                    "numSales": 1187
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-07-30T00:00:00Z",
+                    "price": 1950000,
+                    "propertyId": 15104781,
+                    "streetAddress": "60 Sotheby Road",
+                    "uri": "60-sotheby-road/london/n5-2ut"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-15T00:00:00Z",
+                    "price": 750000,
+                    "propertyId": 27379735,
+                    "streetAddress": "Flat 3, 66 Sotheby Road",
+                    "uri": "flat-3/66-sotheby-road/london/n5-2ut"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-28T00:00:00Z",
+                    "price": 1838000,
+                    "propertyId": 15104718,
+                    "streetAddress": "31 Sotheby Road",
+                    "uri": "31-sotheby-road/london/n5-2up"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-19T00:00:00Z",
+                    "price": 520000,
+                    "propertyId": 27239670,
+                    "streetAddress": "Flat B, 30 Sotheby Road",
+                    "uri": "flat-b/30-sotheby-road/london/n5-2ur"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-17T00:00:00Z",
+                    "price": 820000,
+                    "propertyId": 27193576,
+                    "streetAddress": "Flat 2, 66 Sotheby Road",
+                    "uri": "flat-2/66-sotheby-road/london/n5-2ut"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 820000,
+                    "propertyId": 15103531,
+                    "streetAddress": "24b Petherton Road",
+                    "uri": "24b-petherton-road/london/n5-2rd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1175000,
+                    "propertyId": 15099318,
+                    "streetAddress": "Flat 6, York House, 14 Highbury Crescent",
+                    "uri": "flat-6/york-house/14-highbury-crescent/london/n5-1rp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 625000,
+                    "propertyId": 15101396,
+                    "streetAddress": "Flat 27, Belmont Court, 93 Highbury New Park",
+                    "uri": "flat-27/belmont-court/93-highbury-new-park/london/n5-2ha"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 350000,
+                    "propertyId": 15103791,
+                    "streetAddress": "Flat 14, Chaucer House, 59 Poets Road",
+                    "uri": "flat-14/chaucer-house/59-poets-road/london/n5-2sh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-24T00:00:00Z",
+                    "price": 1285500,
+                    "propertyId": 32064373,
+                    "streetAddress": "191 Highbury Hill",
+                    "uri": "191-highbury-hill/london/n5-1tb"
+                }
+            ]
+        }
+    }
+}

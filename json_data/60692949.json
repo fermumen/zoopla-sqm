@@ -1,0 +1,540 @@
+{
+    "address": "Crayford Road, Tufnell Park, Islington, London N7",
+    "price": "\u00a3550,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 90.99,
+    "sqft": 2022.0,
+    "text": "SE: Crayford Road, N7\n- 31/01/2022 2,802,302 90.99 sqm / 979.41 sqft\n32\nse GARDEN =: - +\nwe 8 520m x 468m 27,\nmo (17'1 x 15'4) = 2 2\noo @ \u00ab Approx. oe @\nI \u2014\nRECEPTION BEDROOM 3\n5.00m x 4.11m MAIN BEDROOM 3.45m x 1.93m\n(16'S x 13'6) (114 x 6'4)\noe 4.37m x 3.02m\n\u201c (144 x 9'11)\n. * Was |\nQ\n\u2014 \u2014\u2014\n\u201cny | |\n=\n\u2014 \u2014\nne oe ae\n\u2014| Kitchen! \u20144\u00a2\u2014 , _\n[(G3a.rtm x 2.06m \u2018 BEDROOM 2 \\ an\n(13\u00b06 x 6'9) 4.13m x 3.03m \u2018\\. \u2018\\\n(13'7 x 9'11) = '\nDINING ROOM 1\n4.23m x 2.86m rs @\n(13'11 x 9\u00b05) / -\nats _\nLE Ss LE Ss\n\u2014 Ground Floor = First Floor = Second Floor\n90.99 sqm / 979.41 sqft 82.01 sqm / 882.75 sqft 0.00 sqm / 0.00 saft 1,07 sqm / 11.52 sqft\nMspec\u2019\nVerified \u00a9\n",
+    "image": "./extracted_images/60692949.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60692949/",
+    "listing_no": "60692949",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.555376,
+        "longitude": -0.125668
+    },
+    "first_published": "2022-02-05T09:24:52",
+    "last_sale_date": "2014-06-24",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60692949",
+        "publishedOn": "2022-02-05T09:24:52",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Particulars",
+                "original": "https://assets.reapit.net/drv/live/pdf.php?p=DAN200895&t=S",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 26353,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(548452).png",
+            "branchName": "Drivers & Norris",
+            "brandName": "Drivers & Norris",
+            "chainFree": false,
+            "companyId": 11299,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Crayford Road, Tufnell Park, Islington, London N7",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0LT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60692949,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 523623
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/drivers-and-norris-london-26353/",
+            "branchId": "26353",
+            "branchResultsUri": "/for-sale/branch/drivers-and-norris-london-26353/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(548452).png",
+            "phone": "020 3463 0619",
+            "name": "Drivers & Norris",
+            "memberType": "agent",
+            "address": "407- 409 Holloway Road, Islington, London",
+            "postcode": "N7 6HP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tufnell Park Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Holloway School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tufnell Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Caledonian Road",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://spec.co/properties/61f857356957dd0a580f5315"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "d331238175d1ee9da8451e1c22e8954f666793f1.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A bright and spacious Thre Bedroom duplex apartment with both dining room and living room, private parking bay and private garden measuring approximately 979 SqFt. Located in the heart of Tufnell Park on a secluded residential turning, moments from the Northern Line at Tufnell Park Tube Station and within easy reach of Hampstead Heath.<br><br>Typical of the 1970's modernistic architecture, this naturally bright apartment spanning four floors is offered to the market in good decorative order throughout. Accessed through your own front door the hall leads up to the reception room with direct access to a private garden with patio area laid to mature flowerbeds.<br><br>The second floor gives way to a large dining area and semi open-plan fitted kitchen, fitted with a selection of wall and base units. The third and fourth floors comprise of two double bedrooms, one single bedroom, separate cloakroom W.C and fully tiled bathroom with tub and wall mounted shower. The property further benefits from a further Cloakroom W.C, number of built in cupboards, double glazed windows throughout and two undercover parking bays directly outside the property.<br><br>Residents of Bakers Field benefit from being within a gated development moments from Tufnell Park High Street with a range of amenities including supermarket, organic food shops, bakery, independent coffee shops and ice cream parlour.<br><br>Tufnell Park Tube Station is just a short walk providing links to both branches of the Northern Line. Upper Holloway Overground Station, Caledonian Road and Holloway Road Underground Stations (Piccadilly Line) are also within walking distance all providing fast access into and around Central London.&lt;br /&gt;&lt;br /&gt;",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Duplex Apartment",
+                "Three Bedrooms",
+                "Private Garden",
+                "Spacious kitchen",
+                "Modern Bathroom",
+                "Separate WC.",
+                "Private Off Street Parking For Two Cars",
+                "Gated Development",
+                "Excellent Location"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "2c56eab68e02ae9b335012111fb1feaee70e04df.png",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "b2ac8ae8e52089afd781424523354785c7773249.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "89869ad8536980f0307553819b7ba538419f0c32.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "13aec53a881e23eca24c42ea972a9dcd7e54830b.jpg",
+                "caption": "Picture No. 01"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9325a0bf736fb4ae79c5e1038205a28ce3fb4285.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "46615ae9e9e5bde7a8fbe29fd8a6a983413fce10.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "23a3f544ed0e01637ee650c00223278d87eab6dd.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3894ad75821af3c3bc61817a53b04c9011cd05b8.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5e9d8a7ae6cd04f483fdc78a2619c5d29eb610c0.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3e909b0000dc3950a85b2d4874ae81db195e3a29.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "28a72dcb16b6bb18f33452e58941451fedb068f8.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "225715618d15b97fb721fe76d4c05e2133d07a25.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "98ce5611c0b55c2b0163b9ecb96925c263b1b04f.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "63bc579124412310886d3471fa5cdd475a895f86.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fb1a20d9c91f84b55645e6aaf9e14c9f4c8c6ae9.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "514789b9023600b6dd9e71d494d9dab287a628b3.jpg",
+                "caption": "Picture No. 12"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 54,
+            "acornType": 54,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 26353,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(548452).png",
+            "branchName": "Drivers & Norris",
+            "brandName": "Drivers & Norris",
+            "chainFree": false,
+            "companyId": 11299,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Crayford Road, Tufnell Park, Islington, London N7",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0LT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60692949,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 15,
+            "numRecepts": 1,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 550000,
+            "price": 550000,
+            "priceMax": 550000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 523623
+        },
+        "title": "3 bed maisonette for sale",
+        "metaTitle": "3 bed maisonette for sale in Crayford Road, Tufnell Park, Islington, London N7 - Zoopla",
+        "metaDescription": "3 bed maisonette for sale in Crayford Road, Tufnell Park, Islington, London N7, selling for \u00a3550,000 from Drivers & Norris. See property details on Zoopla or browse all our range of properties in Crayford Road, Tufnell Park, Islington, London N7.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60692949/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.555376,
+                "longitude": -0.125668
+            }
+        },
+        "displayAddress": "Crayford Road, Tufnell Park, Islington, London N7",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-05T09:24:52",
+                "priceLabel": "\u00a3550,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2014-06-24",
+                "newBuild": false,
+                "price": 450000,
+                "priceLabel": "\u00a3450,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 334
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/2c56eab68e02ae9b335012111fb1feaee70e04df.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3550,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Drivers & Norris",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60692949,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "5942DBF8-8B89-11EC-8424-17140E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N7",
+            "areaNameUri": "london/n7/holloway",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2798.6666666666674
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 506811,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 515573,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8762
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 531722,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -24911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 558515,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -51704
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 516722,
+                    "pctChangeSince": -1.918,
+                    "date": "2017-02-26",
+                    "changeSince": -9911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 338762,
+                    "pctChangeSince": 49.607,
+                    "date": "2012-02-26",
+                    "changeSince": 168049
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 317783,
+                    "pctChangeSince": 59.483,
+                    "date": "2007-02-26",
+                    "changeSince": 189028
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 191290,
+                    "pctChangeSince": 164.944,
+                    "date": "2002-02-26",
+                    "changeSince": 315521
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 524496,
+                    "newBuilds": 0,
+                    "numSales": 200
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 518653,
+                    "newBuilds": 8,
+                    "numSales": 549
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 499646,
+                    "newBuilds": 8,
+                    "numSales": 1035
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 499177,
+                    "newBuilds": 124,
+                    "numSales": 1796
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 755000,
+                    "propertyId": 15118599,
+                    "streetAddress": "11 Empire Square",
+                    "uri": "11-empire-square/london/n7-6jn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1620000,
+                    "propertyId": 15124242,
+                    "streetAddress": "6 Orleston Mews",
+                    "uri": "6-orleston-mews/london/n7-8ll"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 309000,
+                    "propertyId": 27250808,
+                    "streetAddress": "Flat 3, 17 Carleton Road",
+                    "uri": "flat-3/17-carleton-road/london/n7-0qz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 15121738,
+                    "streetAddress": "21 Selden Walk",
+                    "uri": "21-selden-walk/london/n7-7rl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 15114386,
+                    "streetAddress": "81 Penderyn Way, Carleton Road",
+                    "uri": "81-penderyn-way/carleton-road/london/n7-0ey"
+                }
+            ]
+        }
+    }
+}

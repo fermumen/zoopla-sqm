@@ -1,0 +1,540 @@
+{
+    "address": "Holly Grove, London SE15",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 68.2,
+    "sqft": null,
+    "text": "Holly Grove, London, SE15\nApproximate Area = 734 sqft 68.2 sqm\nReception Room\nSicasy\nSH7(389)\n2 &\na\n_| totenen\neo Sate)\n100320)\n&)\nro\ntH /\nA mune\n|\n\\ :\nBedroom 4 aimee\n\u201c68 (608) \u00e9\nree45 seats)\nI I\nGROUND FLOOR\n[2 eee | i = Peesiaities\n",
+    "image": "./extracted_images/60288584.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60288584/",
+    "listing_no": "60288584",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.469744,
+        "longitude": -0.071543
+    },
+    "first_published": "2021-11-29T14:37:37",
+    "last_sale_date": "2018-02-02",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60288584",
+        "publishedOn": "2021-11-29T14:37:37",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 32743,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(701121).png",
+            "branchName": "Acorn - Peckham Rye",
+            "brandName": "Acorn",
+            "chainFree": false,
+            "companyId": 8143,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Holly Grove, London SE15",
+            "furnishedState": "",
+            "groupId": 25,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5DF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60288584,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "SE15",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 1098988
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/acorn-peckham-rye-peckham-32743/",
+            "branchId": "32743",
+            "branchResultsUri": "/for-sale/branch/acorn-peckham-rye-peckham-32743/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(701121).png",
+            "phone": "020 3641 6838",
+            "name": "Acorn - Peckham Rye",
+            "memberType": "agent",
+            "address": "30-32 Peckham Rye, Peckham",
+            "postcode": "SE15 4JR"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Peckham Rye",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Villa",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Harris Primary Free School Peckham",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Queens Road (Peckham)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Graphs",
+                    "filename": "ac4f7f1b4f78e20d49a9047c8c1013c04883b05a.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "**Guide Price \u00a3575,000 - \u00a3600,000**<br>Striking two bedroom Victorian conversion situated on one of Peckham's most desirable streets. Set within an attractive yellow brick Victorian residence, this characterful property is sure to impress.<br><br>Covering 734sqft of well-presented living space briefly comprising; two good sized bedrooms both with built-in wardrobes, neutral bathroom with three-piece suite, expansive kitchen/dining room and reception room to the front with beautiful original curved sash window overlooking Holly Grove Shrubbery.<br><br>Holly Grove is perfectly positioned just moments away from the ever-popular Bellenden Village. Peckham Rye station is just a 5 minute walk away and offers fast &amp; frequent Overground services.<br><br>Share Of Freehold (995 years underlying lease)<br>Service Charge - As &amp; When<br>Energy Efficiency Rating C<br><br>Energy Efficiency Rating C",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Bedroom",
+                "Victorian Conversion",
+                "Measuring 734sqft",
+                "Overlooking Holly Grove Shrubbery",
+                "Bellenden Village Location",
+                "Share Of Freehold",
+                "Moment From Peckham Rye Station",
+                "Energy Efficiency Rating C"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": "2021-11-05T12:00:00"
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "3cd6fe3d8d9d371024d09aec9ffaf5b664bf1b83.jpg",
+                    "caption": "Floorplan"
+                },
+                {
+                    "__typename": "Media",
+                    "filename": "69bf873f176193596f601d65672654029a98b64d.jpg",
+                    "caption": "Q7Sfyqwzy2P"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "bec17016bbc736567ec13912ce0d26ce55b4c45e.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "03f5ff9bcbd06342d92295f536d20dd29163e1d4.jpg",
+                "caption": "Kitchen/Diner"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9e11c5cb62980f583b1155cfed51930846545edd.jpg",
+                "caption": "External"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9b9b4ddd1b4d9a99adb0f9df8a2f0a7359505555.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8911e907893704acdf56e7b4867e9fab1f5782d1.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d9ea52e9e5b9f50d1d31347aa8a7b67fcb2ac8cc.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b1bf1f8206163b4bff54a4fdf969505b8c64f087.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fcfeb03f8bcb47726090a5d4180ba658426a6bf9.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "34f17d90d9999d88c5c350be75043f90f99c4fdd.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9722a536353cfad8513fcc4ffa9c3e913dfd82ac.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "96f442ddab20d05f2e2d728930dd66144f0c1c4d.jpg",
+                "caption": "External"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0817c9d596e7c88fd93b2519b4760aea24ba901d.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4e419b8d8649b0ca9f053998b80441c4f67e324c.jpg",
+                "caption": "Kitchen/Diner"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b09fc335717b5cea1742e0d79208d1874abf48fe.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "afe957b8959d4e7f989fdb5a839da7c78bda7a2e.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "513e46ebc93bb7d105d67d7a5da6aab9fa360352.jpg",
+                "caption": "Bathroom"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 32743,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(701121).png",
+            "branchName": "Acorn - Peckham Rye",
+            "brandName": "Acorn",
+            "chainFree": false,
+            "companyId": 8143,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Holly Grove, London SE15",
+            "furnishedState": "",
+            "groupId": 25,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "5DF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60288584,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "SE15",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 1098988
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Holly Grove, London SE15 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Holly Grove, London SE15, selling for \u00a3575,000 from Acorn - Peckham Rye. See property details on Zoopla or browse all our range of properties in Holly Grove, London SE15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60288584/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.469744,
+                "longitude": -0.071543
+            }
+        },
+        "displayAddress": "Holly Grove, London SE15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-29T14:37:37",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2018-02-02",
+                "newBuild": false,
+                "price": 560000,
+                "priceLabel": "\u00a3560,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 88
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/3cd6fe3d8d9d371024d09aec9ffaf5b664bf1b83.jpg"
+                },
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/69bf873f176193596f601d65672654029a98b64d.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Acorn",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60288584,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "55308998-6E1A-11EC-8F86-B0050E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE15",
+            "areaNameUri": "london/se15/peckham-nunhead",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1671.1190476190468
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 395607,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 398331,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2724
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 400027,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -4420
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 418593,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -22986
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 380699,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 14908
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 248873,
+                    "pctChangeSince": 58.959,
+                    "date": "2012-02-26",
+                    "changeSince": 146734
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 240488,
+                    "pctChangeSince": 64.502,
+                    "date": "2007-02-26",
+                    "changeSince": 155119
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 142696,
+                    "pctChangeSince": 177.238,
+                    "date": "2002-02-26",
+                    "changeSince": 252911
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 439321,
+                    "newBuilds": 0,
+                    "numSales": 205
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 425683,
+                    "newBuilds": 18,
+                    "numSales": 623
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 418250,
+                    "newBuilds": 75,
+                    "numSales": 1237
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 399404,
+                    "newBuilds": 115,
+                    "numSales": 2053
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 21077836,
+                    "streetAddress": "66 Latona Road",
+                    "uri": "66-latona-road/london/se15-6ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 431500,
+                    "propertyId": 21069681,
+                    "streetAddress": "48b Nutbrook Street",
+                    "uri": "48b-nutbrook-street/london/se15-4le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 945000,
+                    "propertyId": 21062590,
+                    "streetAddress": "212 Ivydale Road",
+                    "uri": "212-ivydale-road/london/se15-3bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 32800154,
+                    "streetAddress": "Apartment 41, 2 Woods Road",
+                    "uri": "apartment-41/2-woods-road/london/se15-2px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-17T00:00:00Z",
+                    "price": 377000,
+                    "propertyId": 31064196,
+                    "streetAddress": "Flat B, 62 Choumert Road",
+                    "uri": "flat-b/62-choumert-road/london/se15-4ax"
+                }
+            ]
+        }
+    }
+}

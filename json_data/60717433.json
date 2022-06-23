@@ -1,0 +1,557 @@
+{
+    "address": "Park Road, London E15",
+    "price": "\u00a3625,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 127.0,
+    "sqft": null,
+    "text": "Approximate Gross Internal Area\nMain House = 126 Sq M/1356 Sq Ft\nOutside WC/Boiler = | Sq M/I1 Sq Ft\nTotal = 127 Sq M/1367 Sq Ft\ni \u2014\n\u2018a ier 9s\"\nole a\naoe [aa]\nee |\na Lap B_ Bi are\nFe =e see: Pen ee] ae\n= Bt] ) Zi\n= = yy, Mv .\nein ' / a\n",
+    "image": "./extracted_images/60717433.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60717433/",
+    "listing_no": "60717433",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.536023,
+        "longitude": 0.017514
+    },
+    "first_published": "2022-02-09T08:55:59",
+    "last_sale_date": "2021-06-17",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60717433",
+        "publishedOn": "2022-02-09T08:55:59",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 67453,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(654233).png",
+            "branchName": "Yopa",
+            "brandName": "Yopa Property Limited",
+            "chainFree": false,
+            "companyId": 35919,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Park Road, London E15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3QP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60717433,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 20,
+            "numRecepts": 2,
+            "outcode": "E15",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 440520
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/yopa-watford-67453/",
+            "branchId": "67453",
+            "branchResultsUri": "/for-sale/branch/yopa-watford-67453/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(654233).png",
+            "phone": "01322 584475",
+            "name": "Yopa",
+            "memberType": "agent",
+            "address": "Suite 4, Building 4, Hatters Lane, Watford",
+            "postcode": "WD18 8YF"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Portway Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Selwyn Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Plaistow",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Abbey Road",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Yopa is proud to market this fabulously charming bright and light Victorian family home with 3 bedrooms, in the prime location of Stratford, perfect for first-time buyers or buy-to-let investment.<br><br>Recently refurbished to the highest standard with exceptionally high ceilings and sash windows, This magnificent house benefits from 3 bedrooms, a spacious separated living room with beautifully designed features, a fully equipped kitchen with integrated appliances opening to a private back garden, family bathroom, a loft room with private shower room and a luxurious 3 pieces bathroom.<br><br>Set in a family-friendly and residential area with a real sense of community, this property is within walking distance of Plaistow and Stratford Station for Tube, Overground, DLR, and forthcoming Crossrail networks reaching The City and Heathrow Airport in less than 40 minutes.<br><br>Westfield Shopping Centre is within walking distance with all their bars, restaurants, and local amenities set for your comfort.<br><br>Property is in the catchment of few highly rated primary and secondary schools and the famous West Ham Park is only a few minutes walk.<br><br>This property is available freehold, and to view by appointment only now!<br><br>EPC band: D",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Exceptional Victorian Family Home",
+                "3 Double Bedrooms",
+                "Loft Room with Private Shower Room",
+                "Newly Refurbished Throughout",
+                "Private Back Garden",
+                "In the catchment of highly rated schools",
+                "Walking distance to Plaistow, Stratford stations for tube lines, DLR and Overground networks to City",
+                "Close to Westfield shopping centre and West Ham Park",
+                "Easy access to forthcoming Crossrail network for central London and Heathrow airport"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "ea64b6554a18bc410fe79c8bfa4533bd0b06ccab.png",
+                    "caption": "Page-107Dpi-000001"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "4d2fe11e814647aa8ee0be0c82f36b8565376fcb.jpg",
+                "caption": "8488501-Interior06-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "499acf357a15488a5d2933df79697d3a2f653439.jpg",
+                "caption": "8488501-Exterior07-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "50b2e4c08f8d24d18bce90e7bfdbd256f748a773.jpg",
+                "caption": "8488501-Interior07-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "99a560e8c3ddb5f5b575bff325f88e2b13b4d843.jpg",
+                "caption": "8488501-Interior01-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5c3f454a9f447bd700a83ecafb517f0fc26f75c8.jpg",
+                "caption": "8488501-Interior03-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b59a1decc7cb1a26dbcf93bd830fcc845fd08ad8.jpg",
+                "caption": "8488501-Interior17-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4f10610681340487c90c2ca289c78032bb7e7ebc.jpg",
+                "caption": "8488501-Interior18-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6470a50ad7407a3b0c9cf82a7985fe9437ee20b7.jpg",
+                "caption": "8488501-Interior19-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2775cb4e1fdd1c32da63a5f64775d54c642f22ad.jpg",
+                "caption": "8488501-Interior12-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1a10d3575b1db4bac6862032aff28793c577334a.jpg",
+                "caption": "8488501-Interior21-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2688b27dd58f43b62c19ea788c3c6ccf192f94e9.jpg",
+                "caption": "8488501-Interior11-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ca4a3682f681ef39815aed7f6ea6132d07becbda.jpg",
+                "caption": "8488501-Interior29-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d6d5073263e6d22e54270b7a1991b5edffb5abc1.jpg",
+                "caption": "8488501-Interior25-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "126eccc6436f60f9dd076ba3e90f16784676cc5a.jpg",
+                "caption": "8488501-Interior31-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "df9bd008124ee54d4f688296684ceac91056ca7e.jpg",
+                "caption": "8488501-Interior23-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "85289889c0dee286e52b84b56276ce639133f512.jpg",
+                "caption": "8488501-Interior34-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7b8bd0abd9f5d2f7d1200f3bc8bd7f18e90eeca6.jpg",
+                "caption": "8488501-Interior39-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "173f798d1f5f092d04ed488004f8446e74e25bee.jpg",
+                "caption": "8488501-Interior37-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c0aad9d47bd1d0a60c92c077dddd20c180f90a6b.jpg",
+                "caption": "8488501-Exterior03-800"
+            },
+            {
+                "__typename": "Media",
+                "filename": "43b1532910461ea1418cbcdc908bc051cc810980.jpg",
+                "caption": "8488501-Exterior08-800"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 67453,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(654233).png",
+            "branchName": "Yopa",
+            "brandName": "Yopa Property Limited",
+            "chainFree": false,
+            "companyId": 35919,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Park Road, London E15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "3QP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60717433,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 20,
+            "numRecepts": 2,
+            "outcode": "E15",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 440520
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Park Road, London E15 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Park Road, London E15, selling for \u00a3625,000 from Yopa. See property details on Zoopla or browse all our range of properties in Park Road, London E15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60717433/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.536023,
+                "longitude": 0.017514
+            }
+        },
+        "displayAddress": "Park Road, London E15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-09T08:55:59",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2021-06-17",
+                "newBuild": false,
+                "price": 400000,
+                "priceLabel": "\u00a3400,000",
+                "recentlySold": true
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 446
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/ea64b6554a18bc410fe79c8bfa4533bd0b06ccab.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 2
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Yopa Property Limited",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60717433,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium"
+        },
+        "uuid": "1B1A4A6E-8986-11EC-A5E4-3BEA0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E15",
+            "areaNameUri": "london/e15/stratford-west-ham",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1935.2666666666667
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 461247,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 470289,
+                    "pctChangeSince": -1.923,
+                    "date": "2021-11-26",
+                    "changeSince": -9042
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 486978,
+                    "pctChangeSince": -5.284,
+                    "date": "2021-08-26",
+                    "changeSince": -25731
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 463161,
+                    "pctChangeSince": -0.413,
+                    "date": "2021-02-26",
+                    "changeSince": -1914
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 452069,
+                    "pctChangeSince": 2.03,
+                    "date": "2017-02-26",
+                    "changeSince": 9178
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 269930,
+                    "pctChangeSince": 70.877,
+                    "date": "2012-02-26",
+                    "changeSince": 191317
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 268382,
+                    "pctChangeSince": 71.862,
+                    "date": "2007-02-26",
+                    "changeSince": 192865
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 155900,
+                    "pctChangeSince": 195.861,
+                    "date": "2002-02-26",
+                    "changeSince": 305347
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 505573,
+                    "newBuilds": 0,
+                    "numSales": 120
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 485808,
+                    "newBuilds": 4,
+                    "numSales": 321
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 488818,
+                    "newBuilds": 9,
+                    "numSales": 590
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 467039,
+                    "newBuilds": 9,
+                    "numSales": 951
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 345000,
+                    "propertyId": 7888164,
+                    "streetAddress": "24 Park Road",
+                    "uri": "24-park-road/london/e15-3qp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-17T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 7888161,
+                    "streetAddress": "21 Park Road",
+                    "uri": "21-park-road/london/e15-3qp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 421000,
+                    "propertyId": 7890227,
+                    "streetAddress": "18 Tavistock Road",
+                    "uri": "18-tavistock-road/london/e15-4er"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 532500,
+                    "propertyId": 7889565,
+                    "streetAddress": "41 Tennyson Road",
+                    "uri": "41-tennyson-road/london/e15-4dj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 521265,
+                    "propertyId": 7879540,
+                    "streetAddress": "4 Dunmow Road",
+                    "uri": "4-dunmow-road/london/e15-1tz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 485000,
+                    "propertyId": 7885873,
+                    "streetAddress": "13 Ada Gardens",
+                    "uri": "13-ada-gardens/london/e15-3ew"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 7882579,
+                    "streetAddress": "128 Bisson Road",
+                    "uri": "128-bisson-road/london/e15-2rf"
+                }
+            ]
+        }
+    }
+}

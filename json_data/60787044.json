@@ -1,0 +1,569 @@
+{
+    "address": "Dowells Street, Greenwich, London SE10",
+    "price": "\u00a3565,000",
+    "beds": "2 beds",
+    "area": "749 sq. ft",
+    "sqm": 69.55,
+    "sqft": null,
+    "text": "CANARY VIEW\nAPPROXIMATE GROSS INTERNAL FLOOR AREA: 749 SQFT - 69.55 SQM ae\nN\n[J\nBEDROOM\n104\" 10\nLIVING ROOM!\nbelie 3.16 x 3.06M\n171\"x 184\"\n5.20x 4.68M 7\nEA\ni)\n\u2014_\nfore)\n| | =\nBEDROOM I\n| ce Cl #2\nTENTH FLOOR\nFOR ILLUSTRATION PURPOSES ONLY\n",
+    "image": "./extracted_images/60787044.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60787044/",
+    "listing_no": "60787044",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.482788,
+        "longitude": -0.016236
+    },
+    "first_published": "2022-02-17T17:06:58",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60787044",
+        "publishedOn": "2022-02-17T17:06:58",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Dowells Street, Greenwich, London",
+                "original": "https://lc.zoocdn.com/a7cf3ad6192c29fdfc50d778aaddd4a8d6ba174f.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31258061",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 107821,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(713994).png",
+            "branchName": "Love Your Home Ltd",
+            "brandName": "Love Your Home Ltd",
+            "chainFree": false,
+            "companyId": 84152,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Dowells Street, Greenwich, London SE10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9DY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60787044,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SE10",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 565000,
+            "price": 565000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "Off Street Parking|Waterfront",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "749",
+            "tenure": "leasehold",
+            "zindex": 547217
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/love-your-home-ltd-greenhithe-107821/",
+            "branchId": "107821",
+            "branchResultsUri": "/for-sale/branch/love-your-home-ltd-greenhithe-107821/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(713994).png",
+            "phone": "",
+            "name": "Love Your Home Ltd",
+            "memberType": "agent",
+            "address": "Castleridge Drive, Greenhithe",
+            "postcode": "DA9 9WR"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Alfege with St Peter's Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Cutty Sark",
+                "type": "london_dlr_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Bellerbys College London",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Greenwich Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "b8a5ab84c3537a049d1f5ec38d77ce9c0e631791.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Spacious two bedroom, two bathroom top floor apartment in the riverside development of New capital Quay, close to the heart of Greenwich.<br><br>Within the development you have various amenities including an onsite Waitrose and Costa Coffee and you benefit from a 24hr concierge service.<br><br>This apartment is great for anyone wanting a base within walking distance to everything Greenwich has to offer including various transport links to all over London.<br><br>Included is a secure parking space located in the underground car park.<br><br>Walking distance to Cutty Sark DLR and Greenwich mainline br station and various bus routes all over London.<br><br>Greenwich Park is within a short distance from the property, as well as Greenwich Market and an array of local boutique shops, restaurants and bars.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Top Floor Apartment",
+                "Two Double Bedrooms",
+                "Two Bathrooms",
+                "Open Plan Living Room/Kitchen",
+                "Modern Finish",
+                "24hr Concierge",
+                "Underground Parking Space Included",
+                "Waitrose and Costa within the Development",
+                "Great Property to Live in or as a Buy To Let"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Off Street Parking"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Waterfront"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "bcb8015ea079cc17be1a2f5cbbd2336400bc66bb.jpg",
+                    "caption": "M1Gfncw8.Jpeg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "0600a3ea4e585ed572734c201970fba3b99ea04f.jpg",
+                "caption": "Canary View,91- (10).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8f2f400136947eb6a51fe5f655d8ee4e8cb1be2a.jpg",
+                "caption": "Canary View,91- (7).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c4f30f98fb1831921114b8c0b53c4f7174e3c57c.jpg",
+                "caption": "Canary View,91- (8).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fed24b86c00238b29138513f268035217e5ca239.jpg",
+                "caption": "Canary View,91- (2).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4394899b5f708f2c9c9320536b94ed1ae892a600.jpg",
+                "caption": "Canary View,91- (5).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9a26dd272df35491419e671eefc77123f4822aaa.jpg",
+                "caption": "Canary View,91- (1).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "911c1fb92f52afcbcacc86db496e022453ab4cb3.jpg",
+                "caption": "Canary View,91- (4).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5eeac35628f865cd2e965e364ea6dfa4ac0ca29b.jpg",
+                "caption": "Canary View,91- (6).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f26643a9885ae87f63cd4e4724f4f9e905a25141.jpg",
+                "caption": "Canary View,91- (12).Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4661425fc3a88331ca21c765bf78ba8780deeab9.jpg",
+                "caption": "Canary View,91- (11).Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 107821,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(713994).png",
+            "branchName": "Love Your Home Ltd",
+            "brandName": "Love Your Home Ltd",
+            "chainFree": false,
+            "companyId": 84152,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Dowells Street, Greenwich, London SE10",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "9DY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60787044,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SE10",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 565000,
+            "price": 565000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "Off Street Parking|Waterfront",
+            "propertyType": "flat",
+            "sizeSqFeet": "749",
+            "tenure": "leasehold",
+            "zindex": 547217
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Dowells Street, Greenwich, London SE10 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Dowells Street, Greenwich, London SE10, selling for \u00a3565,000 from Love Your Home Ltd. See property details on Zoopla or browse all our range of properties in Dowells Street, Greenwich, London SE10.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60787044/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.482788,
+                "longitude": -0.016236
+            }
+        },
+        "displayAddress": "Dowells Street, Greenwich, London SE10",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-17T17:06:58",
+                "priceLabel": "\u00a3565,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 128
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/bcb8015ea079cc17be1a2f5cbbd2336400bc66bb.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 749
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3565,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 754,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Love Your Home Ltd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60787044,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "9714DECA-9329-11EC-8B18-160E0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE10",
+            "areaNameUri": "london/se10/greenwich",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2236
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 487489,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 490846,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -3357
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 492937,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -5448
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 515817,
+                    "pctChangeSince": -5.492,
+                    "date": "2021-02-26",
+                    "changeSince": -28328
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 469124,
+                    "pctChangeSince": 3.915,
+                    "date": "2017-02-26",
+                    "changeSince": 18365
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 306678,
+                    "pctChangeSince": 58.958,
+                    "date": "2012-02-26",
+                    "changeSince": 180811
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 296346,
+                    "pctChangeSince": 64.5,
+                    "date": "2007-02-26",
+                    "changeSince": 191143
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 175840,
+                    "pctChangeSince": 177.234,
+                    "date": "2002-02-26",
+                    "changeSince": 311649
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 509351,
+                    "newBuilds": 26,
+                    "numSales": 175
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 501732,
+                    "newBuilds": 177,
+                    "numSales": 615
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 476740,
+                    "newBuilds": 511,
+                    "numSales": 1538
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 469105,
+                    "newBuilds": 1370,
+                    "numSales": 3123
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-10T00:00:00Z",
+                    "price": 502000,
+                    "propertyId": 31259219,
+                    "streetAddress": "38, Canary View, 23 Dowells Street",
+                    "uri": "38/canary-view/23-dowells-street/london/se10-9dy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-10T00:00:00Z",
+                    "price": 480000,
+                    "propertyId": 31196033,
+                    "streetAddress": "Flat 123, Beacon Point, 12 Dowells Street",
+                    "uri": "flat-123/beacon-point/12-dowells-street/london/se10-9gd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-13T00:00:00Z",
+                    "price": 465000,
+                    "propertyId": 31196024,
+                    "streetAddress": "Flat 114, Beacon Point, 12 Dowells Street",
+                    "uri": "flat-114/beacon-point/12-dowells-street/london/se10-9gd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-13T00:00:00Z",
+                    "price": 640000,
+                    "propertyId": 31205780,
+                    "streetAddress": "Flat 109, Admirals Tower, 8 Dowells Street",
+                    "uri": "flat-109/admirals-tower/8-dowells-street/london/se10-9ge"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 457000,
+                    "propertyId": 31259259,
+                    "streetAddress": "74, Canary View, 23 Dowells Street",
+                    "uri": "74/canary-view/23-dowells-street/london/se10-9dy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1030000,
+                    "propertyId": 21004877,
+                    "streetAddress": "10 Feathers Place",
+                    "uri": "10-feathers-place/london/se10-9ne"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 1320000,
+                    "propertyId": 21002409,
+                    "streetAddress": "57 Ashburnham Grove",
+                    "uri": "57-ashburnham-grove/london/se10-8uj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 386000,
+                    "propertyId": 32075205,
+                    "streetAddress": "Flat 21, Poldo House, 24 Cable Walk",
+                    "uri": "flat-21/poldo-house/24-cable-walk/london/se10-0tq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-02T00:00:00Z",
+                    "price": 845000,
+                    "propertyId": 20999024,
+                    "streetAddress": "27 Dartmouth Hill",
+                    "uri": "27-dartmouth-hill/london/se10-8aj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 552500,
+                    "propertyId": 21003732,
+                    "streetAddress": "78 Colomb Street",
+                    "uri": "78-colomb-street/london/se10-9ez"
+                }
+            ]
+        }
+    }
+}

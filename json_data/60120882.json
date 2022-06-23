@@ -1,0 +1,573 @@
+{
+    "address": "Camberwell New Road, Camberwell SE5",
+    "price": "\u00a3630,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 87.0,
+    "sqft": 937.0,
+    "text": "w |\nOO\nT \u2018ath ete \u2018 3.92m x 3.19m\nBanoon @4\"x3'1\") (12' 10\" x 10' 6\")\n2.11m x 1.95m\n[| (6 11\"x6'5\") i \\\nBedroom 1 Living Room\nSu ey 4.15m x 3.46m '\n(12'8\"x 11'7\") (13'7\" x 11\" 4\") |\n\u00e9 Hall \\ y\n| Bedroom 3 Bedroom 2\ni 3.92m x 3.43m\n3.85m x 3.47m (12' 10\" x 113\")\n(12' 8\" x 11'5\")\nTop (Third) Floor\nTotal floor area 87.0 sq.m. (937 sq.ft.) approx\nThis floor plan is for illustrative purposes only. It is not drawn to scale. Any measurements, floor areas (including any total floor area), openings and orientation are\napproximate. No details are guaranteed, they cannot be relied upon for any purpose and they do not form part of any agreement. No liability is taken for any error,\nomission or misstatement. A party must rely upon its own inspection(s). Plan produced for Purple Bricks. Powered by www.focalagent.com\n",
+    "image": "./extracted_images/60120882.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60120882/",
+    "listing_no": "60120882",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.477027,
+        "longitude": -0.099015
+    },
+    "first_published": "2021-11-04T15:42:08",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60120882",
+        "publishedOn": "2021-11-04T15:42:08",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://www.purplebricks.co.uk/brochure/948114",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": false,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Camberwell New Road, Camberwell SE5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0TQ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60120882,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "SE5",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 630000,
+            "price": 630000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 539582
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/purplebricks-head-office-solihull-58933/",
+            "branchId": "58933",
+            "branchResultsUri": "/for-sale/branch/purplebricks-head-office-solihull-58933/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "phone": "024 7511 8874",
+            "name": "Purplebricks, Head Office",
+            "memberType": "agent",
+            "address": "Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull",
+            "postcode": "B90 4RZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Sacred Heart Catholic School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Phoenixplace (SEN)",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Oval",
+                "type": "london_underground_station",
+                "distanceMiles": 0.7
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Loughborough Junction",
+                "type": "national_rail_station",
+                "distanceMiles": 0.7
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=9hoFTcZuxpv"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "caption": "epc",
+                    "original": "https://lc.zoocdn.com/aa8d070e8bbbe3694dc988d244bdbf45df1368a9.pdf"
+                }
+            ]
+        },
+        "detailedDescription": "This bright and airy three double bedroom flat is situated on the top floor of this highly sought after Victorian mansion block. Throughout this home you are met with an abundance of space and an array of period character including recently refurbished sash windows, original cast iron fire places, and original internal doors.<br><br>The property is neutrally decorated throughout making it move in ready, the new proud homeowner will benefit from all bedrooms being a great size, superb for a family or sharers, the bathroom is modern and fitted with metro tiles and the kitchen and lounge are separate. The kitchen is a fantastic size that can easily house a Christmas dinner with the family. In addition there is a separate utility cupboard and a large storage room both opening off the kitchen. The lounge is large and full of natural light in the afternoon. In addition to the large sofa this room can accommodate a fold down desk if you are working from home.<br><br>The roof of this block was replaced and fully insulated last year as part of major works that included painting and repointing the full block.<br><br>Downstairs you have a secluded garden with a patio area, lawn and ample storage for bicycles. It is a great spot for a summer BBQ. The property is also a short walk from Myatts Field, a wonderful community focused local park with a cafe, tennis courts and outdoor preschool. Brixton and Peckham are a short cycle or bus-ride away for nightlife and culture.<br><br>Direct door-to-door bus routes to London Victoria Station, the City, Shoreditch, London Bridge, Elephant and Castle, Brixton, Peckham, Oxford Circus and more. Oval, Elephant and Castle and Kennington Underground stations provide easy access to the Northern and Bakerloo lines, while London Bridge and Southwark provide access to the Jubilee line, offering rapid links to Canary Wharf and West London. The flat is also in close proximity to the ever-developing cycle superhighway making it a 15 minute cycle into Westminster.<br><br><strong>Lease Information</strong><br><br>999 years leasehold from the company that owns Hayes Court.<br>The 33 leaseholders all have equal shares in the company that owns Hayes Court.<br><br>Service Charges, groundrent and buildings insurance \u00a3390 a month in total. This should come down significantly over next few years once major works completed.<br><br>All prospective purchasers are advised to make their own enquiries via a solicitor.<br><br><strong>Disclaimer For Virtual Viewings</strong><br><br>Some or all information pertaining to this property may have been provided solely by the vendor, and although we always make every effort to verify the information provided to us, we strongly advise you to make further enquiries before continuing.<br><br>If you book a viewing or make an offer on a property that has had its valuation conducted virtually, you are doing so under the knowledge that this information may have been provided solely by the vendor, and that we may not have been able to access the premises to confirm the information or test any equipment. We therefore strongly advise you to make further enquiries before completing your purchase of the property to ensure you are happy with all the information provided.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Victorian mansion block",
+                "Three large double bedroom",
+                "Spacious living room",
+                "Fully fitted kitchen",
+                "Modern bathroom",
+                "Boasting natural light",
+                "Secure door entry system",
+                "Communal garden",
+                "Bicycle parking",
+                "Excellent transport links"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "8754df90596d5c642d4dfdb883033750ace43520.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d1db3987c0f2054e253f1538d44a2839c0cf76fe.jpg",
+                "caption": "View Of The Property"
+            },
+            {
+                "__typename": "Media",
+                "filename": "32e3a37b68ba1534abc35307ef11288f9280537c.jpg",
+                "caption": "Hallway"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b5bda4ba6d4ffeb0b16a29c4e8b1dcbd2a5633d7.jpg",
+                "caption": "Living Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "488d0281190f7875542af199eb45ea9c30437341.jpg",
+                "caption": "Living Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cd38f2e4cc3849d6af908f2ef90806b9ddbcc6d1.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b04fc863d5346c7d64d39020f05ef90afccf83cb.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "2b169237deaffae06760d195ed74ee7bd76abd50.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "99d6ed9f6ec4c57da53d49569bafed0556dc9d96.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7df6bc801e82c04140693bd7fb7661db57b8a5eb.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a90946a9d00a6f7db260c4a8534a1665b3a7e95f.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c78451a1ec9dd4cc5bcd665fd1edb0459c99cdaf.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "086b116d1ad0c93afb5f99baf08e3e4a347bdf84.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9506cc7742aea5e507afa7426b9c1cbe80f9dffa.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "845bad723e2d31ff7185e9c4a6742eed1071fe6b.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "225088d6b5cff7c7a412820acd0b6088e4c788a9.jpg",
+                "caption": "Communal Gardens"
+            },
+            {
+                "__typename": "Media",
+                "filename": "04a8dd8d52cc1825e2f8abea40fa4dd29f73e444.jpg",
+                "caption": "Communal Gardens"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": false,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Camberwell New Road, Camberwell SE5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "0TQ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60120882,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 16,
+            "numRecepts": 1,
+            "outcode": "SE5",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 630000,
+            "price": 630000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 539582
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Camberwell New Road, Camberwell SE5 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Camberwell New Road, Camberwell SE5, selling for \u00a3630,000 from Purplebricks, Head Office. See property details on Zoopla or browse all our range of properties in Camberwell New Road, Camberwell SE5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60120882/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.477027,
+                "longitude": -0.099015
+            }
+        },
+        "displayAddress": "Camberwell New Road, Camberwell SE5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-04T15:42:08",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3.1",
+                    "priceChangeDate": "2022-01-24T08:41:31",
+                    "priceChangeLabel": "\u00a320,000",
+                    "priceLabel": "\u00a3630,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 63
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/8754df90596d5c642d4dfdb883033750ace43520.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3630,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Purplebricks",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60120882,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "8E39FB24-83A6-11EC-8F3D-9CC30D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE5",
+            "areaNameUri": "london/se5/camberwell",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2132.7222222222235
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 388661,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 391337,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2676
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 393004,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -4343
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 411244,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -22583
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 374012,
+                    "pctChangeSince": 3.917,
+                    "date": "2017-02-26",
+                    "changeSince": 14649
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 244501,
+                    "pctChangeSince": 58.961,
+                    "date": "2012-02-26",
+                    "changeSince": 144160
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 236264,
+                    "pctChangeSince": 64.503,
+                    "date": "2007-02-26",
+                    "changeSince": 152397
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 140190,
+                    "pctChangeSince": 177.239,
+                    "date": "2002-02-26",
+                    "changeSince": 248471
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 447197,
+                    "newBuilds": 0,
+                    "numSales": 228
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 444569,
+                    "newBuilds": 45,
+                    "numSales": 632
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 440466,
+                    "newBuilds": 205,
+                    "numSales": 1334
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 429188,
+                    "newBuilds": 277,
+                    "numSales": 2053
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-27T00:00:00Z",
+                    "price": 745000,
+                    "propertyId": 20914057,
+                    "streetAddress": "92a Camberwell New Road",
+                    "uri": "92a-camberwell-new-road/london/se5-0rs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-22T00:00:00Z",
+                    "price": 362500,
+                    "propertyId": 29502908,
+                    "streetAddress": "Flat 31, 316 Camberwell New Road",
+                    "uri": "flat-31/316-camberwell-new-road/london/se5-0ag"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-19T00:00:00Z",
+                    "price": 532000,
+                    "propertyId": 29502889,
+                    "streetAddress": "Flat 14, 316 Camberwell New Road",
+                    "uri": "flat-14/316-camberwell-new-road/london/se5-0ag"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 791440,
+                    "propertyId": 20920131,
+                    "streetAddress": "125 Coleman Road",
+                    "uri": "125-coleman-road/london/se5-7tf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 925000,
+                    "propertyId": 20928968,
+                    "streetAddress": "17 Southwell Road",
+                    "uri": "17-southwell-road/london/se5-9pf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-19T00:00:00Z",
+                    "price": 1760000,
+                    "propertyId": 28910636,
+                    "streetAddress": "71 Grove Park",
+                    "uri": "71-grove-park/london/se5-8lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-18T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 20919638,
+                    "streetAddress": "26 Sedgmoor Place",
+                    "uri": "26-sedgmoor-place/london/se5-7se"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-12T00:00:00Z",
+                    "price": 589000,
+                    "propertyId": 20920319,
+                    "streetAddress": "7 Tilson Close, Coleman Road",
+                    "uri": "7-tilson-close/coleman-road/london/se5-7tz"
+                }
+            ]
+        }
+    }
+}

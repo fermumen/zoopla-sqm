@@ -1,0 +1,337 @@
+{
+    "address": "Bradshaw Close, London SW19",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 65.7,
+    "sqft": 707.0,
+    "text": "Ground Floor First Floor\n7 \u2014\n_\u2019 Bedroom\n\u201c105 Z 115\") Kitchen ise\n- 2.55m x 3.49m\npa (8'4\" x 11'5\")\n| \\ | Reception =\n] FLA ; ce Room\nZ So 5.71m x 3.63m\na. (18'9\" x 11111\")\nBedroom\n3.37m x 2.63m\n(11'1\" x 8'8\")\n{ i\nTotal area: approx. 65.7 sq. metres (707.7 sq. feet)\n",
+    "image": "./extracted_images/60549905.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60549905/",
+    "listing_no": "60549905",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.423753,
+        "longitude": -0.199664
+    },
+    "first_published": "2022-01-18T09:59:09",
+    "last_sale_date": "2013-02-08",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60549905",
+        "publishedOn": "2022-01-18T09:59:09",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/4e3cbbb03d7d474f602075861d813b1c12700f2f.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 19293,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Wimbledon",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Bradshaw Close, London SW19",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8NL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60549905,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW19",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 463910
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/dexters-wimbledon-wimbledon-19293/",
+            "branchId": "19293",
+            "branchResultsUri": "/for-sale/branch/dexters-wimbledon-wimbledon-19293/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "phone": "020 8545 8580",
+            "name": "Dexters - Wimbledon",
+            "memberType": "agent",
+            "address": "12 The Broadway, Wimbledon",
+            "postcode": "SW19 1RF"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Holy Trinity CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Willington School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wimbledon",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wimbledon",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "c685227214695643cc6fa0f52642e5c235249f72.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A beautifully presented, recently refurbished two double bedroom freehold house. There is allocated parking, ample storage, a lovely courtyard garden and is flooded with light and double height ceilings throughout the first floor.<br><br>Bradshaw Close is a quiet close near the centre of town. This area has highly sought after schools and a fantastic selection of High Street brand shops, popular restaurants and excellent transport links.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedrooms",
+                "Freehold House",
+                "Historic Building",
+                "Allocated Parking",
+                "Cul De Sac",
+                "Double height ceilings"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "3449c46e5c58072cd71a1532994230366137b86d.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d4b37e6b52565ab9d8623010599c009315a4fe08.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0114a19380d1b9100cca6d006847b5f0c3040f36.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a96ce4c6e45e1b6dfdaf415630599c0ac6a17bfa.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c4370c23e655e2b81787be9ae3fdb1216c67be53.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2347a5fd5f2cf579918763d6cd1cc1d245b71df8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e5653aaf048d84c4911eafa4a9a3408424f080ee.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 19293,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+            "branchName": "Dexters - Wimbledon",
+            "brandName": "Dexters",
+            "chainFree": false,
+            "companyId": 1096,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Bradshaw Close, London SW19",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "8NL",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60549905,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW19",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 463910
+        },
+        "title": "2 bed property for sale",
+        "metaTitle": "2 bed property for sale in Bradshaw Close, London SW19 - Zoopla",
+        "metaDescription": "2 bed property for sale in Bradshaw Close, London SW19, selling for \u00a3650,000 from Dexters - Wimbledon. See property details on Zoopla or browse all our range of properties in Bradshaw Close, London SW19.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60549905/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.423753,
+                "longitude": -0.199664
+            }
+        },
+        "displayAddress": "Bradshaw Close, London SW19",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-18T09:59:09",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2013-02-08",
+                "newBuild": false,
+                "price": 362000,
+                "priceLabel": "\u00a3362,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 246
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/3449c46e5c58072cd71a1532994230366137b86d.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Dexters",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60549905,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "C8731DBA-841F-11EC-A4FB-E30C0E674736",
+        "marketStats": null
+    }
+}

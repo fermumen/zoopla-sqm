@@ -1,0 +1,533 @@
+{
+    "address": "Halford Road, London SW6",
+    "price": "\u00a3580,000",
+    "beds": "2 beds",
+    "area": "680 sq. ft",
+    "sqm": 63.1,
+    "sqft": 679.0,
+    "text": "Raised Ground Floor First Floor\n1 1 1 1\nBedroom\nBedroom 4.07m x 3,00m\n2.88m x 3.00m (13'4\" x 9'10\")\n(9'5\" x 9'10\")\n\u20147\nw\nKitchen :\n2.21m x 2.84m\n(7'3\" x 914\")\ns\ns\nis\nReception\nRoom\n4.35m x 4.36m\n(14'3\" x 14'4\")\n\u00ab \u00bb\nTotal area: approx. 63.1 sq. metres (679.5 sq. feet)\n",
+    "image": "./extracted_images/60332336.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60332336/",
+    "listing_no": "60332336",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.483154,
+        "longitude": -0.199493
+    },
+    "first_published": "2021-12-06T18:18:58",
+    "last_sale_date": "2013-10-07",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60332336",
+        "publishedOn": "2021-12-06T18:18:58",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31148941",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 107910,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707987).png",
+            "branchName": "Propertalis",
+            "brandName": "Propertalis",
+            "chainFree": true,
+            "companyId": 84238,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Halford Road, London SW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1JS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60332336,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "680",
+            "tenure": null,
+            "zindex": 753002
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/propertalis-london-107910/",
+            "branchId": "107910",
+            "branchResultsUri": "/for-sale/branch/propertalis-london-107910/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707987).png",
+            "phone": "020 8033 3880",
+            "name": "Propertalis",
+            "memberType": "agent",
+            "address": "Flat 1, 7 Wilbraham Place, London",
+            "postcode": "SW1X 9AE"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Fulham Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Normand Croft Community School for Early Years and Primary Education",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Fulham Broadway",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Brompton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EE Rating",
+                    "filename": "30ae8c61509e13e836d28c5d7d207f2ce0cff4fe.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Excellent flat for sale next to Fulham Broadway.<br><br>Private garden and two double bedrooms.<br><br>Priced very accurately based on market conditions in SW6 at the moment.<br><br>112 years of lease remaining and share of freehold.<br><br>Quiet street and less than 5 min walk to fulham Broadway Station",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Top Location",
+                "Private Garden",
+                "Chain Free",
+                "Good Conditions",
+                "Accurately Priced",
+                "Quiet Street",
+                "112 Lease Remaining",
+                "Share of Freehold"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "6e17c6fb22e3f2d1189b8a2701d8e8b721063561.jpg",
+                    "caption": "Floorplan.Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "11e3c4abfa592c8bfe7ea52521d07db04d9e5faa.jpg",
+                "caption": "Garden.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6e4c063956da4dc09941f35883a83ab5d221b958.jpg",
+                "caption": "Building Exterior.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "502afba8b46de4a3b56833dfe125cbcf43a19cfd.jpg",
+                "caption": "Living Room.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0eff1f2e1613e67fd7492c003f1c64b92c19a6f9.jpg",
+                "caption": "1st Bedroom.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7acfaee46620142089a8d3322c28f4f4a7c2579a.jpg",
+                "caption": "2nd Bedroom.Jpg"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0286e8e73def30d93960fb367a5c247f7debc7e3.jpg",
+                "caption": "Kitchen.Jpg"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 107910,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707987).png",
+            "branchName": "Propertalis",
+            "brandName": "Propertalis",
+            "chainFree": true,
+            "companyId": 84238,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Halford Road, London SW6",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1JS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60332336,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 6,
+            "numRecepts": 1,
+            "outcode": "SW6",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 580000,
+            "price": 580000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "680",
+            "tenure": null,
+            "zindex": 753002
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Halford Road, London SW6 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Halford Road, London SW6, selling for \u00a3580,000 from Propertalis. See property details on Zoopla or browse all our range of properties in Halford Road, London SW6.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60332336/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.483154,
+                "longitude": -0.199493
+            }
+        },
+        "displayAddress": "Halford Road, London SW6",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-06T18:18:58",
+                "priceLabel": "\u00a3580,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2013-10-07",
+                "newBuild": false,
+                "price": 690000,
+                "priceLabel": "\u00a3690,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 295
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/6e17c6fb22e3f2d1189b8a2701d8e8b721063561.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 680
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3580,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 853,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Propertalis",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60332336,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "302D7628-5F89-11EC-BBB2-691B0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW6",
+            "areaNameUri": "london/sw6/fulham-parsons-green",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3102.639751552796
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 741749,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 745413,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -3664
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 745886,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -4137
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 777001,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -35252
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 752893,
+                    "pctChangeSince": -1.48,
+                    "date": "2017-02-26",
+                    "changeSince": -11144
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 519022,
+                    "pctChangeSince": 42.913,
+                    "date": "2012-02-26",
+                    "changeSince": 222727
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 474130,
+                    "pctChangeSince": 56.444,
+                    "date": "2007-02-26",
+                    "changeSince": 267619
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 288868,
+                    "pctChangeSince": 156.778,
+                    "date": "2002-02-26",
+                    "changeSince": 452881
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 712416,
+                    "newBuilds": 0,
+                    "numSales": 315
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 692544,
+                    "newBuilds": 3,
+                    "numSales": 929
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 701679,
+                    "newBuilds": 50,
+                    "numSales": 1653
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 747775,
+                    "newBuilds": 285,
+                    "numSales": 2791
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-11T00:00:00Z",
+                    "price": 630000,
+                    "propertyId": 23163717,
+                    "streetAddress": "78 Halford Road",
+                    "uri": "78-halford-road/london/sw6-1jx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-03T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 27200027,
+                    "streetAddress": "Flat 2, 6 Halford Road",
+                    "uri": "flat-2/6-halford-road/london/sw6-1jt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-26T00:00:00Z",
+                    "price": 645000,
+                    "propertyId": 23163761,
+                    "streetAddress": "43 Halford Road",
+                    "uri": "43-halford-road/london/sw6-1jz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-13T00:00:00Z",
+                    "price": 540000,
+                    "propertyId": 28600212,
+                    "streetAddress": "23a Halford Road",
+                    "uri": "23a-halford-road/london/sw6-1js"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-31T00:00:00Z",
+                    "price": 1075000,
+                    "propertyId": 23163640,
+                    "streetAddress": "24 Halford Road",
+                    "uri": "24-halford-road/london/sw6-1jt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-21T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 23174037,
+                    "streetAddress": "Flat 14, Alex Gossip House, Basuto Road",
+                    "uri": "flat-14/alex-gossip-house/basuto-road/london/sw6-4ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 1275000,
+                    "propertyId": 23186386,
+                    "streetAddress": "27 Rosaline Road",
+                    "uri": "27-rosaline-road/london/sw6-7qs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 1750000,
+                    "propertyId": 29512493,
+                    "streetAddress": "5 Parsons Gate Mews",
+                    "uri": "5-parsons-gate-mews/london/sw6-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 1140000,
+                    "propertyId": 23181929,
+                    "streetAddress": "Flat 17, Elm Lodge, 75 Stevenage Road",
+                    "uri": "flat-17/elm-lodge/75-stevenage-road/london/sw6-6nz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 810000,
+                    "propertyId": 23185397,
+                    "streetAddress": "42 Orbain Road",
+                    "uri": "42-orbain-road/london/sw6-7jy"
+                }
+            ]
+        }
+    }
+}

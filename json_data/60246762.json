@@ -1,0 +1,471 @@
+{
+    "address": "329 Essex Road, Islington, London N1",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60246762/",
+    "listing_no": "60246762",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.543872,
+        "longitude": -0.090389
+    },
+    "first_published": "2021-11-22T22:34:39",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60246762",
+        "publishedOn": "2021-11-22T22:34:39",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 105721,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(645333).png",
+            "branchName": "Adamson Knight Estate Agents",
+            "brandName": "Adamson Knight Ltd",
+            "chainFree": false,
+            "companyId": 82174,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "329 Essex Road, Islington, London N1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "2YG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60246762,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 2,
+            "numImages": 1,
+            "numRecepts": null,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 446865
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/adamson-knight-estate-agents-london-105721/",
+            "branchId": "105721",
+            "branchResultsUri": "/for-sale/branch/adamson-knight-estate-agents-london-105721/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(645333).png",
+            "phone": "020 8022 5588",
+            "name": "Adamson Knight Estate Agents",
+            "memberType": "agent",
+            "address": "10-16 Tiller Road, London",
+            "postcode": "E14 8PX"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Paul's Steiner School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "North Bridge House Senior Canonbury",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Canonbury",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Essex Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "Adamson Knight offering a lovely and spacious two-bedroom apartment located on the 4th floor ideally situated for great transport links, Angel, Upper Street, and Highbury and with good access to Newington Green, Clissold Park and Dalston.<br><br>The Apartment has a spacious hallway with a built-in storage cupboards. The living room is a good size which has Juliet balcony and leading off the living room is a separate kitchen. Also two good size bedrooms and a modern family bathroom.<br><br>Essex Road runs from Angel northwards towards Highbury and Stoke Newington, this section of the road falls under Canonbury.<br><br>Plenty of amenities can be found on the property's doorstep, whilst nearby Upper StreeEssex Road as such has great transport links down to Angel and Upper Street. On the doorstep there are both Sainsbury\"s and Tesco supermarkets and there is good selection of pubs bars and restaurants on Essex Road close by.<br><br>Transport Information: Angel tube (Northern Line). Highbury and Islington tube (Victoria Line). Bus links on Essex Road are superb. Essex Road mainline station is also just along the road.t offers an almost inexhaustible supply of eating and drinking facilities as well as theatere and cinema. Transport links can be found at Essex Road (National rail), Highbury &amp; Islington (Victoria line, Overground) and Angel (Northern line), there are also numerous bus links available to take you in to The City and West End.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two Double Bedrooms Apartment",
+                "One Bathroom",
+                "Open Plan Kitchen To Lounge",
+                "Fully Furnished / Great Location",
+                "Juliet Balcony",
+                "Min's To Amenities &amp; Transport",
+                "Available Now",
+                "Call Now To View on"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "471294e72b575afb88f363701227436a356292dd.jpg",
+                "caption": "Photo 1"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 105721,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(645333).png",
+            "branchName": "Adamson Knight Estate Agents",
+            "brandName": "Adamson Knight Ltd",
+            "chainFree": false,
+            "companyId": 82174,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "329 Essex Road, Islington, London N1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "2YG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60246762,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 2,
+            "numImages": 1,
+            "numRecepts": null,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 446865
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in 329 Essex Road, Islington, London N1 - Zoopla",
+        "metaDescription": "2 bed flat for sale in 329 Essex Road, Islington, London N1, selling for \u00a3575,000 from Adamson Knight Estate Agents. See property details on Zoopla or browse all our range of properties in 329 Essex Road, Islington, London N1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60246762/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.543872,
+                "longitude": -0.090389
+            }
+        },
+        "displayAddress": "329 Essex Road, Islington, London N1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-22T22:34:39",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 29
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": null,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Adamson Knight Ltd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60246762,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "4072FF80-5FC0-11EC-92C2-D12B0E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N1",
+            "areaNameUri": "london/n1/islington-barnsbury-canonbury",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2906.287878787878
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 602354,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 612767,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -10413
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 631961,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -29607
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 663806,
+                    "pctChangeSince": -9.258,
+                    "date": "2021-02-26",
+                    "changeSince": -61452
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 614141,
+                    "pctChangeSince": -1.919,
+                    "date": "2017-02-26",
+                    "changeSince": -11787
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 402630,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 199724
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 377696,
+                    "pctChangeSince": 59.481,
+                    "date": "2007-02-26",
+                    "changeSince": 224658
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 227355,
+                    "pctChangeSince": 164.94,
+                    "date": "2002-02-26",
+                    "changeSince": 374999
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 622356,
+                    "newBuilds": 1,
+                    "numSales": 395
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 661296,
+                    "newBuilds": 71,
+                    "numSales": 1075
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 646936,
+                    "newBuilds": 170,
+                    "numSales": 2109
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 637559,
+                    "newBuilds": 448,
+                    "numSales": 3526
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 775000,
+                    "propertyId": 15037979,
+                    "streetAddress": "250 Essex Road",
+                    "uri": "250-essex-road/london/n1-3ar"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-19T00:00:00Z",
+                    "price": 490000,
+                    "propertyId": 28414334,
+                    "streetAddress": "Flat 17, Northpoint House, 400 Essex Road",
+                    "uri": "flat-17/northpoint-house/400-essex-road/london/n1-3gh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 930000,
+                    "propertyId": 15037005,
+                    "streetAddress": "Flat 1, Epstein Court 27a, Essex Road",
+                    "uri": "flat-1/epstein-court-27a/essex-road/london/n1-2tp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 595000,
+                    "propertyId": 15040865,
+                    "streetAddress": "Flat 3, City View Apartments, 207 Essex Road",
+                    "uri": "flat-3/city-view-apartments/207-essex-road/london/n1-3ph"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 300000,
+                    "propertyId": 15036787,
+                    "streetAddress": "Flat, 155 Essex Road",
+                    "uri": "flat/155-essex-road/london/n1-2sn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 710000,
+                    "propertyId": 15056656,
+                    "streetAddress": "2 Elliotts Place",
+                    "uri": "2-elliotts-place/london/n1-8hx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 760001,
+                    "propertyId": 15027781,
+                    "streetAddress": "Flat 3, 80 Copenhagen Street",
+                    "uri": "flat-3/80-copenhagen-street/london/n1-0jw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 1350000,
+                    "propertyId": 27513282,
+                    "streetAddress": "Ground First And Second Floor Fl, 7 Brooksby Street",
+                    "uri": "ground-first-and-second-floor-fl/7-brooksby-street/london/n1-1ex"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 15035647,
+                    "streetAddress": "Flat D, 13 Compton Road",
+                    "uri": "flat-d/13-compton-road/london/n1-2pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 15035975,
+                    "streetAddress": "1 Walney Walk",
+                    "uri": "1-walney-walk/london/n1-2pu"
+                }
+            ]
+        }
+    }
+}

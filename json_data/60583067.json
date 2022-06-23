@@ -1,0 +1,528 @@
+{
+    "address": "Home Road, Battersea Park, London SW11",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 76.64,
+    "sqft": 825.0,
+    "text": "Home Road, SW11 >\nApproximate gross internal area\nKey : 76.64 sq m/ 825 sq ft a\nCH - Ceiling Height\nos \u2014 = [\n=]\nSS\nL\\\\% \\ BEDROOM\n4 Nx \\ 3.73 x 3.54M\n4 ~ 12'3\" x 11'7\"\n( . HALLWAY\n\\ 3.84 x 2.25M\n\u2018 12'7\" x 7'5\"\nFirst Floor |\n\u2014\u2014 l RECEPTION\n_ ; ROOM\n. KITCHE 4.67 x 3.80M\nf) 4.51 x 1.89M BEDROOM 45'4\" x 12'6\"\n\u201cnt y & 3.01 x 2.88M\nra 14110\" x 6 ais\n| ot\" x 9'5\" (8m)\nJ i\na T TT a\nSecond Floor\nNot to scale, for guidance only and must not be relied upon as a statement of fact.\nAll measurements and areas are approximate only\n",
+    "image": "./extracted_images/60583067.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60583067/",
+    "listing_no": "60583067",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.471376,
+        "longitude": -0.170035
+    },
+    "first_published": "2022-01-21T15:45:46",
+    "last_sale_date": "2015-07-16",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60583067",
+        "publishedOn": "2022-01-21T15:45:46",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "https://www.chestertons.com/properties/property-HEA219266/",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://chips.chestertons.com/chips/brochures/HEA219266.PDF",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 66708,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Battersea Park",
+            "brandName": "Chestertons",
+            "chainFree": false,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Home Road, Battersea Park, London SW11",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3EZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60583067,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": null,
+            "outcode": "SW11",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 940188
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/chestertons-battersea-park-london-66708/",
+            "branchId": "66708",
+            "branchResultsUri": "/for-sale/branch/chestertons-battersea-park-london-66708/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "phone": "020 8115 2488",
+            "name": "Chestertons - Battersea Park",
+            "memberType": "agent",
+            "address": "59 Battersea Bridge Road, London",
+            "postcode": "SW11 3AU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "L'Ecole de Battersea",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Sacred Heart Catholic Primary School, Battersea",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Chelsea Harbour Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham Junction",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "6a1b05e90fd974547f65f5795b295ec77738a8a5.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A spacious and well presented 2 double bedroom apartment on the 2nd floor of an attractive Victorian conversion. The property extends to around 825 square feet, and offers excellent entertaining space, including ladder access to an enormous flat roof (non-demised) which the flat has sole use of. The flat has recently been redecorated but retains an abundance of quirky period charm<br><br>Home Road runs off Battersea Park Road, with its vibrant selection of shops and restaurants, and excellent bus services to Sloane Square, Victoria and Kings Road. Clapham Junction is a short walk away, providing quick access to London Waterloo and London Victoria, as are the 200 acres of leisure facilities and open spaces of Battersea Park and the cafe's and restaurants of the attractive Battersea Square.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Period Conversion",
+                "2 Double Bedrooms",
+                "825 Square Feet",
+                "Excellent Entertaining Space",
+                "Sole Access To Large Flat Roof",
+                "Short Walk To Clapham Junction"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "c89c9663b9d7ea5491c713a1b3bfed32f30ce405.jpg",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "f852c588e60345c6adafca0015d15c7f6b2354f5.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fcb120359cbdb87cd7ebbb6a2ef522389eac9cd4.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fd6cec172e3af1e45eaee8f610399a6c9fd6fdff.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "86606681aae9c6bb3939fb48cfc4016d000bb17e.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "21f8dd211834e5ae55e2536ae76b056cbf498210.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c82e3612da83bdac1a91cc006e5d43d06abf1fd9.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c909771a9e829ad324f41c99de8caf31fa4d91b7.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a89fda9c51e3dd6b16e7eee12ab1902bcd7afa75.jpg",
+                "caption": "Exterior"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3d1929cc595f99e11505df5bec06f241a11e4b62.jpg",
+                "caption": "Flat Roof"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 66708,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(253788).png",
+            "branchName": "Chestertons - Battersea Park",
+            "brandName": "Chestertons",
+            "chainFree": false,
+            "companyId": 8076,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Home Road, Battersea Park, London SW11",
+            "furnishedState": "",
+            "groupId": 93,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3EZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60583067,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": null,
+            "outcode": "SW11",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 940188
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Home Road, Battersea Park, London SW11 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Home Road, Battersea Park, London SW11, selling for \u00a3625,000 from Chestertons - Battersea Park. See property details on Zoopla or browse all our range of properties in Home Road, Battersea Park, London SW11.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60583067/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.471376,
+                "longitude": -0.170035
+            }
+        },
+        "displayAddress": "Home Road, Battersea Park, London SW11",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-21T15:45:46",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2015-07-16",
+                "newBuild": false,
+                "price": 505000,
+                "priceLabel": "\u00a3505,000",
+                "recentlySold": false
+            },
+            "priceChanges": [
+                {
+                    "__typename": "PriceHistoryChange",
+                    "isMinorChange": false,
+                    "isPriceDrop": true,
+                    "isPriceIncrease": false,
+                    "percentageChangeLabel": "3.8",
+                    "priceChangeDate": "2022-02-09T14:44:56",
+                    "priceChangeLabel": "\u00a325,000",
+                    "priceLabel": "\u00a3625,000"
+                }
+            ]
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 47
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/c89c9663b9d7ea5491c713a1b3bfed32f30ce405.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Chestertons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60583067,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "37804934-9402-11EC-B903-83ED0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW11",
+            "areaNameUri": "london/sw11/battersea-clapham-junction",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3456.430188679247
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 605712,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 608703,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -2991
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 609090,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3378
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 634498,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -28786
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 614807,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -9095
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 423830,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 181882
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 387172,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 218540
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 235888,
+                    "pctChangeSince": 156.779,
+                    "date": "2002-02-26",
+                    "changeSince": 369824
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 643914,
+                    "newBuilds": 10,
+                    "numSales": 446
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 705554,
+                    "newBuilds": 107,
+                    "numSales": 1293
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 717890,
+                    "newBuilds": 556,
+                    "numSales": 2803
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 702089,
+                    "newBuilds": 925,
+                    "numSales": 4447
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-02T00:00:00Z",
+                    "price": 1050000,
+                    "propertyId": 23246937,
+                    "streetAddress": "28 Home Road",
+                    "uri": "28-home-road/london/sw11-3ez"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 635000,
+                    "propertyId": 23256020,
+                    "streetAddress": "Flat 2, 4 Knowsley Road",
+                    "uri": "flat-2/4-knowsley-road/london/sw11-5bl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 680000,
+                    "propertyId": 27160591,
+                    "streetAddress": "Ground Floor Flat, 10 Glycena Road",
+                    "uri": "ground-floor-flat/10-glycena-road/london/sw11-5tr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 23247548,
+                    "streetAddress": "Flat 54, Lindsay Court, Battersea High Street",
+                    "uri": "flat-54/lindsay-court/battersea-high-street/london/sw11-3hz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 338000,
+                    "propertyId": 23257501,
+                    "streetAddress": "Flat 16, Rawson Court, Rawson Street",
+                    "uri": "flat-16/rawson-court/rawson-street/london/sw11-5hj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 985000,
+                    "propertyId": 23258681,
+                    "streetAddress": "15 Kingsley Street",
+                    "uri": "15-kingsley-street/london/sw11-5ld"
+                }
+            ]
+        }
+    }
+}

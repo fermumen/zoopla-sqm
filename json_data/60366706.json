@@ -1,0 +1,322 @@
+{
+    "address": "Southcroft Road, London SW16",
+    "price": "\u00a3575,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 95.2,
+    "sqft": 1025.0,
+    "text": "Ground Floor\nFirst Floor\n30 Bedroom\n2.36m x 3.23m\n: (On 1017)\nKitchen\n4.05m x 3.23m is\n(13\u00b03\" x 107\") _|||\\|| \\\n7 ]\n> \u201c)/0 G\nbes Reception \u2014\n\u201cYA Room 7 Bedroom\n~ 3.43m x 3.68m PN] 3.46m x 2.85m\n|} \u2014_] (11'3\" x 12'1\") i (11'4\" x 9'4\")\n] Le!\na Le\nReception Bedroom\nRoom 4.09m x 4.60m\n4.17m x 3.56m (13'5\" x 15'1\")\n(13'8\" x 11'8\")\n\\\nTotal area: approx. 95.2 sq. metres (1025.2 sq. feet)\n",
+    "image": "./extracted_images/60366706.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60366706/",
+    "listing_no": "60366706",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.419823,
+        "longitude": -0.147484
+    },
+    "first_published": "2021-12-13T16:11:04",
+    "last_sale_date": "2003-08-22",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60366706",
+        "publishedOn": "2021-12-13T16:11:04",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 28,
+            "acornType": 28,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 16667,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "branchName": "Jacksons Estate Agents - Tooting",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": false,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Southcroft Road, London SW16",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6QT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60366706,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 6,
+            "numRecepts": 2,
+            "outcode": "SW16",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 586955
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jacksons-estate-agents-tooting-london-16667/",
+            "branchId": "16667",
+            "branchResultsUri": "/for-sale/branch/jacksons-estate-agents-tooting-london-16667/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "phone": "020 8767 0522",
+            "name": "Jacksons Estate Agents - Tooting",
+            "memberType": "agent",
+            "address": "26 Tooting Bec Road, London",
+            "postcode": "SW17 8BD"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Penwortham Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Furzedown Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Streatham Common",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tooting",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "An end of terrace three double bedroom Victorian house on the border of Furzedown, Tooting Broadway and Streatham Common.<br><br>Southcroft Road in Furzedown, runs between Tooting Bec and Streatham and the many shops, bars and restaurants they have to offer, as well as Tooting Bec underground Station and Streatham Station. This location also benefits from being in close proximity to Tooting Bec Common.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Wandsworth Borough",
+                "Freehold",
+                "Private Garden",
+                "Three Double Bedroom",
+                "Potential to extend sttp",
+                "Period Family Home"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "33b1bf81cf1742a52df7f6c719bf77ac96e437cb.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "5b8388e375b073023d4298d76d46e31d00a71e86.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b4018958925a72bdd17556cbe04501e32a9f35a6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6bdf2fcab53f221c1af82b2488ac8d295ca4c975.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d151124ba95e8e4a734c49001156606c3c6b3031.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "834bff08d74633e9c12eb027cecc5d69666bb2e9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6396b5aba1a819901052d9b6cb1d489f197bae5c.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 28,
+            "acornType": 28,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 16667,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "branchName": "Jacksons Estate Agents - Tooting",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": false,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Southcroft Road, London SW16",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "6QT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60366706,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 6,
+            "numRecepts": 2,
+            "outcode": "SW16",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 586955
+        },
+        "title": "3 bed property for sale",
+        "metaTitle": "3 bed property for sale in Southcroft Road, London SW16 - Zoopla",
+        "metaDescription": "3 bed property for sale in Southcroft Road, London SW16, selling for \u00a3575,000 from Jacksons Estate Agents - Tooting. See property details on Zoopla or browse all our range of properties in Southcroft Road, London SW16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60366706/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.419823,
+                "longitude": -0.147484
+            }
+        },
+        "displayAddress": "Southcroft Road, London SW16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-13T16:11:04",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2003-08-22",
+                "newBuild": false,
+                "price": 240000,
+                "priceLabel": "\u00a3240,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 223
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/33b1bf81cf1742a52df7f6c719bf77ac96e437cb.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 2
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Jacksons Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60366706,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "6516AD2A-5F78-11EC-ACB7-F6F80D674736",
+        "marketStats": null
+    }
+}

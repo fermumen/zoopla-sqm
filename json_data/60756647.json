@@ -1,0 +1,498 @@
+{
+    "address": "Redwald Road, London E5",
+    "price": "\u00a3625,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": null,
+    "image": null,
+    "link": "https://www.zoopla.co.uk//for-sale/details/60756647/",
+    "listing_no": "60756647",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.553858,
+        "longitude": -0.038863
+    },
+    "first_published": "2022-02-14T17:03:47",
+    "last_sale_date": "2004-09-16",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60756647",
+        "publishedOn": "2022-02-14T17:03:47",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 80205,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(648969).png",
+            "branchName": "Savills - National Auctions",
+            "brandName": "Savills",
+            "chainFree": false,
+            "companyId": 3399,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Redwald Road, London E5",
+            "furnishedState": "",
+            "groupId": 70,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "0JQ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60756647,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 3,
+            "numImages": 11,
+            "numRecepts": null,
+            "outcode": "E5",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "from",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 493541
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/savills-national-auctions-london-80205/",
+            "branchId": "80205",
+            "branchResultsUri": "/for-sale/branch/savills-national-auctions-london-80205/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(648969).png",
+            "phone": "020 8022 4160",
+            "name": "Savills - National Auctions",
+            "memberType": "agent",
+            "address": "33 Margaret Street, London",
+            "postcode": "W1G 0JD"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Daubeney Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kingsmead Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Homerton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hackney Central",
+                "type": "national_rail_station",
+                "distanceMiles": 0.9
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Strapline</strong><br><br>Auction Sale - 02/03/2022<br><br>A three bedroom semi-detached house in a sought after residential area close to Hackney Marshes. In need of modernisation. Vacant<br><br><strong>Description</strong><br><br>A traditional brick built two floor end of terrace house with a pitched and tile covered roof.<br><br><strong>Location</strong><br><br>Situated to the north side of Colne Road, close to the junction with Durrington Road.<br><br>A popular residential area approximately 1.2 miles north east of Hackney Central.<br><br>The green open spaces of Hackney Marshes and Daubeney Fields are to the east.<br><br>Local shopping amenities can be found Homerton.<br><br>Homerton University Hospital is approximately 0.5 miles to the west.<br><br><strong>Transport</strong><br><br>Homerton Station - London Overground<br><br>Hackney Central - National Rail<br><br><strong>Accommodation</strong><br><br>Ground floor - Three reception rooms, Kitchen<br><br>First floor - Three bedrooms, Bathroom/wc<br><br>Outside - Front and rear garden",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three bedroom end of terrace house",
+                "Popular residential area",
+                "Close to Hackney Marshes",
+                "In need of modernisation",
+                "By order of the Executors",
+                "Vacant"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "36478c01d636a9141fb282f8342050251b3d0199.jpg",
+                "caption": "23 Colne Road, Hackney, London E5 0Jq"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a6c8d1867a99322c940e2445c81c0a72e61f24b3.jpg",
+                "caption": "23 Colne Road, Hackney, London E5 0Jq"
+            },
+            {
+                "__typename": "Media",
+                "filename": "57e5c013dd880380eb444f035dc4189f8af23d2d.jpg",
+                "caption": "23 Colne Road, Hackney, London E5 0Jq"
+            },
+            {
+                "__typename": "Media",
+                "filename": "25f88ce3ecb7aceff394c6e562ede63e2b8f8310.jpg",
+                "caption": "23 Colne Road, Hackney, London E5 0Jq"
+            },
+            {
+                "__typename": "Media",
+                "filename": "939c37e092861ed4d3641fc7563ca16036f59ec5.jpg",
+                "caption": "23 Colne Road, Hackney, London E5 0Jq"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cda99424a96a135684ce738097b5a1a2bd018b8b.jpg",
+                "caption": "23 Colne Road, Hackney, London E5 0Jq"
+            },
+            {
+                "__typename": "Media",
+                "filename": "de1a30a4cf3f121835035d6617ad6aefba48c9ad.jpg",
+                "caption": "23 Colne Road, Hackney, London E5 0Jq"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6d7abb9c54a08bde54a0fa6a4f94be0fd02f325c.jpg",
+                "caption": "23 Colne Road, Hackney, London E5 0Jq"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4cd3e34386298ec1219332465e51789c794bdc3e.jpg",
+                "caption": "23 Colne Road, Hackney, London E5 0Jq"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c40c4fcec66f12c3bd67afae36a9f42b22cd3527.jpg",
+                "caption": "23 Colne Road, Hackney, London E5 0Jq"
+            },
+            {
+                "__typename": "Media",
+                "filename": "299b463a5c8fa4f360aff185d9bcfd2e70dee23a.jpg",
+                "caption": "23 Colne Road, Hackney, London E5 0Jq"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 53,
+            "acornType": 53,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 80205,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(648969).png",
+            "branchName": "Savills - National Auctions",
+            "brandName": "Savills",
+            "chainFree": false,
+            "companyId": 3399,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Redwald Road, London E5",
+            "furnishedState": "",
+            "groupId": 70,
+            "hasEpc": false,
+            "hasFloorplan": false,
+            "incode": "0JQ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60756647,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": null,
+            "numBeds": 3,
+            "numImages": 11,
+            "numRecepts": null,
+            "outcode": "E5",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "from",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 493541
+        },
+        "title": "3 bed end terrace house for sale",
+        "metaTitle": "3 bed end terrace house for sale in Redwald Road, London E5 - Zoopla",
+        "metaDescription": "3 bed end terrace house for sale in Redwald Road, London E5, selling for \u00a3625,000 from Savills - National Auctions. See property details on Zoopla or browse all our range of properties in Redwald Road, London E5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60756647/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.553858,
+                "longitude": -0.038863
+            }
+        },
+        "displayAddress": "Redwald Road, London E5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-14T17:03:47",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2004-09-16",
+                "newBuild": false,
+                "price": 235000,
+                "priceLabel": "\u00a3235,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 675
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": null
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": null,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": "From",
+            "rentFrequencyLabel": null,
+            "isAuction": true,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Savills",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60756647,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "13CA2A00-8DB8-11EC-B3F0-BBD00D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E5",
+            "areaNameUri": "london/e5/clapton",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3058.6111111111095
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 745131,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 759740,
+                    "pctChangeSince": -1.923,
+                    "date": "2021-11-26",
+                    "changeSince": -14609
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 786702,
+                    "pctChangeSince": -5.284,
+                    "date": "2021-08-26",
+                    "changeSince": -41571
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 748229,
+                    "pctChangeSince": -0.414,
+                    "date": "2021-02-26",
+                    "changeSince": -3098
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 730323,
+                    "pctChangeSince": 2.028,
+                    "date": "2017-02-26",
+                    "changeSince": 14808
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 436076,
+                    "pctChangeSince": 70.872,
+                    "date": "2012-02-26",
+                    "changeSince": 309055
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 433575,
+                    "pctChangeSince": 71.857,
+                    "date": "2007-02-26",
+                    "changeSince": 311556
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 251859,
+                    "pctChangeSince": 195.852,
+                    "date": "2002-02-26",
+                    "changeSince": 493272
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 1001536,
+                    "newBuilds": 0,
+                    "numSales": 75
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 962604,
+                    "newBuilds": 0,
+                    "numSales": 192
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 946965,
+                    "newBuilds": 0,
+                    "numSales": 356
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 905216,
+                    "newBuilds": 4,
+                    "numSales": 543
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-20T00:00:00Z",
+                    "price": 455000,
+                    "propertyId": 7700241,
+                    "streetAddress": "Flat 20, Monsal Court, 68 Redwald Road",
+                    "uri": "flat-20/monsal-court/68-redwald-road/london/e5-0jj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-04T00:00:00Z",
+                    "price": 375000,
+                    "propertyId": 32746947,
+                    "streetAddress": "Flat 30, Kedleston Court, 70 Redwald Road",
+                    "uri": "flat-30/kedleston-court/70-redwald-road/london/e5-0jl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 31858272,
+                    "streetAddress": "15, Mountside Walk, Leaside Road",
+                    "uri": "15/mountside-walk/leaside-road/london/e5-9qf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 370000,
+                    "propertyId": 7706154,
+                    "streetAddress": "Flat 16, Monkton House, Pembury Road",
+                    "uri": "flat-16/monkton-house/pembury-road/london/e5-8ly"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 495000,
+                    "propertyId": 7706676,
+                    "streetAddress": "139 Rendlesham Road",
+                    "uri": "139-rendlesham-road/london/e5-8pa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-10T00:00:00Z",
+                    "price": 148000,
+                    "propertyId": 32592318,
+                    "streetAddress": "Flat 14, Saxony Court, 32a, Geldeston Road",
+                    "uri": "flat-14/saxony-court-32a/geldeston-road/london/e5-8rq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-04T00:00:00Z",
+                    "price": 675000,
+                    "propertyId": 27188386,
+                    "streetAddress": "Flat B, 151 Elderfield Road",
+                    "uri": "flat-b/151-elderfield-road/london/e5-0ay"
+                }
+            ]
+        }
+    }
+}

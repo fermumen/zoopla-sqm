@@ -1,0 +1,570 @@
+{
+    "address": "Maxted Road, Peckham, London SE15",
+    "price": "\u00a3600,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 61.04,
+    "sqft": 657.0,
+    "text": "c)\nm4 m4 RN\nii BEDROOM RECEPTION\n298x3.81m 297x381m\nII Ceiling 2.41m Ceiling 2.42m\n\u2014_\nKITCHEN\ns 3.09 x3.97 m\n40-2\" x13:-0\"\nee} Celing 247m\nay\nD\n|\n3 &\ni] \u2014\n\u2122 =\n>) \u2014 Tr\"\nx U\nype |\nBEDROOM\n3.38x4.10m\nAit\" x 19-5\"\nCelling 2.32m\n;\n\\ 7\n| > YO |\n\\ 7 |\n| < |\nZN\nZoON\n7 N\n7 \\\nbh __ __N\n2\n\u2018COMMUNAL SPACE\n5.96 x 13.74m\n19-7\" x 451\"\nMaxted Road, SE15\nApproximate Gross Internal Area\n61.04 SQ.M/ 657 SQ.FT\nFirst Floor\n657 ft?\nIllustration for identification purposes only. Not to scale.\nFloor Plan Drawn According To RICS Guidelines.\n",
+    "image": "./extracted_images/60686179.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60686179/",
+    "listing_no": "60686179",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.464298,
+        "longitude": -0.072312
+    },
+    "first_published": "2022-02-04T12:58:09",
+    "last_sale_date": "2021-02-16",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60686179",
+        "publishedOn": "2022-02-04T12:58:09",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "2 Page Landscape Brochure",
+                "original": "https://lc.zoocdn.com/7de1e492a75371b30049278040dae89a1e00bf55.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "A3 Window Card",
+                "original": "https://lc.zoocdn.com/b508dc7c9c1140e1360f378f88c1ddb8399c2e3d.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 35760,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(726295).png",
+            "branchName": "Gareth James - Peckham Rye, London",
+            "brandName": "Gareth James Property",
+            "chainFree": false,
+            "companyId": 16738,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Maxted Road, Peckham, London SE15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4LF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60686179,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 19,
+            "numRecepts": 1,
+            "outcode": "SE15",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 813555
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/gareth-james-peckham-rye-london-35760/",
+            "branchId": "35760",
+            "branchResultsUri": "/for-sale/branch/gareth-james-peckham-rye-london-35760/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(726295).png",
+            "phone": "020 3641 5131",
+            "name": "Gareth James - Peckham Rye, London",
+            "memberType": "agent",
+            "address": "129 Bellenden Road",
+            "postcode": "SE15 4QY"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Johns' and St Clements Church of England Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Belham Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Peckham Rye",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Dulwich",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "a15dba1317e13fd245418bc7251f1d14f45f0384.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "This well-proportioned and light-filled period property is positioned on the cusp of Maxted Road. Elegantly renovated interiors and an ultra-convenient address combine to make this an exceptional two bedroom flat. The entrance to the property can be found on neighbouring Nutbrook Street, where you will head up the stairs to the first floor. Upon entering the flat you are greeted by the kitchen/diner, which is finished to a high standard with a breakfast bar and ample worktop space. Leading off from the kitchen is a cosy living room with a feature fireplace. Both bedrooms are good doubles, with dual aspect windows allowing light to flood through from the front to the back over the course of the day. In addition to a modern bathroom suite there is also a separate W.C.<br><br>Neutrally decorated throughout, this property also has access to a shared rear garden with easy to maintain decking and space for bicycle sheds - a perfect space to relax in the summer months.<br><br>This amazing location places you in the heart of the SE15, giving you the immediate benefit of Bellenden Village with cafes, local boutique shops and eateries such as Ganapati and The Begging Bowl. The Victoria Inn and The Montpelier are also extremely close by.<br><br>Vibrant Rye Lane with all its shops, bars and restaurants is a short walk away - Taco Queen, Voodoo Rays and John The Unicorn to name a few favourites - plus cutting edge cultural hubs the Bussey Building, Peckham Levels and South London Gallery.<br><br>The wide-open green spaces of Peckham Rye Park are also within easy reach. Even closer is the very lovely Warwick Gardens. Lettsom Gardens is nearby too.<br><br>You will also be a short walk from Peckham Rye station which offers connections to Clapham Junction, Hoxton, and Canada Water, among other London destinations",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Two double bedrooms",
+                "Shared garden",
+                "Close to Bellenden Village",
+                "Elegantly decorated"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "6952e7c3e8eccd4b1f1ed861e8d2f20e720d2bc1.png",
+                    "caption": null
+                },
+                {
+                    "__typename": "Media",
+                    "filename": "627e5d6b5c0978c4efd559d69f78506d64f2991b.png",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "25c1ab852f5b2696d2b368e28880e63cf784f94e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4469a9c966242de8febd0410beb2a3a478454706.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "6daa9b6d14028959a951b5b474f5e8d26f0fc50b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ce7e2c20a46fbfc9085859de0b65659b25f7e883.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "020c576d8a247e8cce6d23c741474b735521096d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f457ba5cc776a65bce040bae8296b4eceea8c472.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8cac344fa1259a6c26d48cd77f58da59b279d43d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b6eeece73b3f175ead6c736d9adcff2996083edf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d4772d736a4dbbffa2f869a08f3f29faf412392d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "af1f96371e4f29de81283227fd09d0295d7c527d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "eed657d7dd8cc503a9f05dfab52f8994de7cbdc4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f79f07259b7146f6e93498c8be632b79c05017cd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0cfd43433cef18e2ffd0f22f2390e5b9dc2c9ed0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0f0c2df987d3cbbec64cd8006455ed58449743b0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d088153469b9193b7bb43d915cb9e27af7e74680.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8e8d28bb0673af2d5cc659557da730bcadc57802.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b2c4016ab2ae2166e42ac4da2da6ae74f56e2d0e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1ea7e7d0cbd67aa517b80e02035fc0519a97038d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b74ad72f100b13c31b3f93c92d6da06e1d8ae1ff.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 35760,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(726295).png",
+            "branchName": "Gareth James - Peckham Rye, London",
+            "brandName": "Gareth James Property",
+            "chainFree": false,
+            "companyId": 16738,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Maxted Road, Peckham, London SE15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "4LF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60686179,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 19,
+            "numRecepts": 1,
+            "outcode": "SE15",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 813555
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Maxted Road, Peckham, London SE15 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Maxted Road, Peckham, London SE15, selling for \u00a3600,000 from Gareth James - Peckham Rye, London. See property details on Zoopla or browse all our range of properties in Maxted Road, Peckham, London SE15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60686179/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.464298,
+                "longitude": -0.072312
+            }
+        },
+        "displayAddress": "Maxted Road, Peckham, London SE15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-04T12:58:09",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2021-02-16",
+                "newBuild": false,
+                "price": 422500,
+                "priceLabel": "\u00a3422,500",
+                "recentlySold": true
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 127
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/6952e7c3e8eccd4b1f1ed861e8d2f20e720d2bc1.png"
+                },
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/627e5d6b5c0978c4efd559d69f78506d64f2991b.png"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Gareth James Property",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60686179,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium"
+        },
+        "uuid": "83C8DB16-9327-11EC-9550-50240E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE15",
+            "areaNameUri": "london/se15/peckham-nunhead",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1671.1190476190468
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 395607,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 398331,
+                    "pctChangeSince": -0.684,
+                    "date": "2021-11-26",
+                    "changeSince": -2724
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 400027,
+                    "pctChangeSince": -1.105,
+                    "date": "2021-08-26",
+                    "changeSince": -4420
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 418593,
+                    "pctChangeSince": -5.491,
+                    "date": "2021-02-26",
+                    "changeSince": -22986
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 380699,
+                    "pctChangeSince": 3.916,
+                    "date": "2017-02-26",
+                    "changeSince": 14908
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 248873,
+                    "pctChangeSince": 58.959,
+                    "date": "2012-02-26",
+                    "changeSince": 146734
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 240488,
+                    "pctChangeSince": 64.502,
+                    "date": "2007-02-26",
+                    "changeSince": 155119
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 142696,
+                    "pctChangeSince": 177.238,
+                    "date": "2002-02-26",
+                    "changeSince": 252911
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 439321,
+                    "newBuilds": 0,
+                    "numSales": 205
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 425683,
+                    "newBuilds": 18,
+                    "numSales": 623
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 418250,
+                    "newBuilds": 75,
+                    "numSales": 1237
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 399404,
+                    "newBuilds": 115,
+                    "numSales": 2053
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-22T00:00:00Z",
+                    "price": 965000,
+                    "propertyId": 27171004,
+                    "streetAddress": "21a Maxted Road",
+                    "uri": "21a-maxted-road/london/se15-4ll"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 21077836,
+                    "streetAddress": "66 Latona Road",
+                    "uri": "66-latona-road/london/se15-6ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 431500,
+                    "propertyId": 21069681,
+                    "streetAddress": "48b Nutbrook Street",
+                    "uri": "48b-nutbrook-street/london/se15-4le"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 945000,
+                    "propertyId": 21062590,
+                    "streetAddress": "212 Ivydale Road",
+                    "uri": "212-ivydale-road/london/se15-3bu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 575000,
+                    "propertyId": 32800154,
+                    "streetAddress": "Apartment 41, 2 Woods Road",
+                    "uri": "apartment-41/2-woods-road/london/se15-2px"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-17T00:00:00Z",
+                    "price": 377000,
+                    "propertyId": 31064196,
+                    "streetAddress": "Flat B, 62 Choumert Road",
+                    "uri": "flat-b/62-choumert-road/london/se15-4ax"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,563 @@
+{
+    "address": "Forburg Road, Stoke Newington N16",
+    "price": "\u00a3600,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 79.7,
+    "sqft": 858.0,
+    "text": "Bedroom 2\nKitchen 3.51m x 3.35m\n3.73m x 3.28m sits)\n(12' 3\" x 10\u00b0 9\")\nOO}\nBedroom 3\n\u2018=I 3.07m x 2.29m ;\n\u00a9 ; (10\u00b0 1\"x7'6\")\nToilet SF iL\n| ras\n| |\n| | | | \u2014 | |\nNez Bedroom 1 | |\new | | FT\n3.58m x 3.56m rt Te\n(VTi Sex 14) 85) REA fas\nEas\nPT] candi\n| |\n| |\n| | {\n| | \\\n| | :\n~ Reception Room Q\n4.04m x 3.96m Shower Room\n(13' 3\"x 13\u00b0 0\") ee ba\nFirst Floor Second Floor\nTotal floor area 79.7 sq.m. (858 sq.ft.) approx\nThis floor plan is for illustrative purposes only. It is not drawn to scale. Any measurements, floor areas (including any total floor area), openings and orientation are\napproximate. No details are guaranteed, they cannot be relied upon for any purpose and they do not form part of any agreement. No liability is taken for any error, omission\nor misstatement. A party must rely upon its own inspection(s). Plan produced for Purple Bricks. Powered by www.focalagent.com\n",
+    "image": "./extracted_images/60324000.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60324000/",
+    "listing_no": "60324000",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.568207,
+        "longitude": -0.06357
+    },
+    "first_published": "2021-12-04T00:09:10",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60324000",
+        "publishedOn": "2021-12-04T00:09:10",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://www.purplebricks.co.uk/brochure/1038542",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": true,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Forburg Road, Stoke Newington N16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6HT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60324000,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "N16",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 784306
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/purplebricks-head-office-solihull-58933/",
+            "branchId": "58933",
+            "branchResultsUri": "/for-sale/branch/purplebricks-head-office-solihull-58933/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "phone": "024 7511 8874",
+            "name": "Purplebricks, Head Office",
+            "memberType": "agent",
+            "address": "Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull",
+            "postcode": "B90 4RZ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tayyibah Girls' School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tyssen Community Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stoke Newington",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapton",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=nYEtsqf4sdC"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": [
+                {
+                    "__typename": "Media",
+                    "caption": "epc",
+                    "original": "https://lc.zoocdn.com/72a259d8870fa2d058c9d7cdf8553fdb05b8a6eb.pdf"
+                }
+            ]
+        },
+        "detailedDescription": "Well presented, light and spacious, three bedroom split level maisonette offered to the market with no onward chain, enviably located close to the vibrant centres of Stoke Newington and Clapton. The property has been well maintained by the current owners, offering bright, well proportioned accommodation arranged over the top floors of an attractive period property. Features include a generous reception room with attractive front aspect bay, well equipped eat-in kitchen/diner with rear aspect, bathroom with white suite and separate WC, gas central heating, double glazing, ample inbuilt storage and long lease.<br><br>Accommodation comprises entrance via the ground floor with stairs rising to the first floor landing with access to guest WC, leading into the kitchen with space for small table and chairs. The kitchen itself comprises a modern range of matching wall and base units with work surfaces incorporating inset sink unit, inbuilt hob with overhead extractor and electric oven below, and further space for appliances. To the second floor, there are three well sized bedrooms - two doubles and a further single, all with quiet rear aspect - plus a bright reception room with bay to front and ample space for relaxing and entertaining, A modern bathroom with corner bath suite and shower over completes the generous accommodation.<br><br>The property is located in a sought after residential road within easy access of Stoke Newington, Stamford Hill and Clapton stations, as well as numerous regular bus routes. Nearby Stoke Newington and Clapton each offer an array of shops and amenities, as well as fashionable bars, cafes and restaurants. The area is well served by excellent local schools and beautiful open spaces including Springfield Park and the Wetlands.<br><br>To book a viewing instantly just visit our website or download our award-winning App.<br><br><strong>Lease Information</strong><br><br>We understand the lease on the property is 189 years from 25 December 1983 - 151 years remaining. All prospective purchasers are advised to make their own enquiries and verify this information with a solicitor.<br><br><strong>Service Charges</strong><br><br>We have been informed the service charges are \u00a31900.00 per annum paid 6 monthly . All prospective purchasers are advised to make their own enquiries and verify this information with a solicitor.<br><br><strong>Disclaimer For Virtual Viewings</strong><br><br>Some or all information pertaining to this property may have been provided solely by the vendor, and although we always make every effort to verify the information provided to us, we strongly advise you to make further enquiries before continuing.<br><br>If you book a viewing or make an offer on a property that has had its valuation conducted virtually, you are doing so under the knowledge that this information may have been provided solely by the vendor, and that we may not have been able to access the premises to confirm the information or test any equipment. We therefore strongly advise you to make further enquiries before completing your purchase of the property to ensure you are happy with all the information provided.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three bedroom split level period maisonette",
+                "Popular residential location",
+                "Well appointed with modern interiors",
+                "Bright and spacious front aspect reception room",
+                "Separate well equipped eat-in kitchen",
+                "Modern bathroom and separate wc",
+                "Gas central heating and double glazing",
+                "Long lease and no chain",
+                "Close to vibrant stoke newington and clapton",
+                "Easy access to transport links and amenities"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "58850ed3fda7e37330972c021c0cba7a3043d335.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "b84ae946d161a0c06246d0facc3b9a475f7b4ed0.jpg",
+                "caption": "The Property"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f31502b337f12100f91096dbdff946742dffe563.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "74e0242292795acf3a50043a5849748ea5e62e49.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c9a4c3339ea61bcdc62d8df1a193f025bc860980.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9bd5b437d9f58086c3b87e2c13fa6e16c0e88a94.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "44ddbe1d6096008b6b4dc25b1aceaba5d51cf084.jpg",
+                "caption": "View Of The Property"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9b326930da93ed244a195fd1161c1dc8c1eb5e8f.jpg",
+                "caption": "Reception Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bf7b3dbf3ab1e790a53b42ac0dd736594a4b387f.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "af4e70cf4625e73aeae0f6f6f60bde9b548edfd4.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b96ede2da67ee728d74721f282da555e390edb6a.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "adacfd9bab24da7cde81c58f3762cca85f1b8f3b.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "88675be05671b9d37abde1e85a16e45ec4927281.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bde19cce2e439221ebc0e81829fc4a8839d6e549.jpg",
+                "caption": "Cloak Room"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 58933,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png",
+            "branchName": "Purplebricks, Head Office",
+            "brandName": "Purplebricks",
+            "chainFree": true,
+            "companyId": 31628,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Forburg Road, Stoke Newington N16",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6HT",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60324000,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "N16",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "offers_over",
+            "propertyHighlight": "",
+            "propertyType": "maisonette",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 784306
+        },
+        "title": "3 bed maisonette for sale",
+        "metaTitle": "3 bed maisonette for sale in Forburg Road, Stoke Newington N16 - Zoopla",
+        "metaDescription": "3 bed maisonette for sale in Forburg Road, Stoke Newington N16, selling for \u00a3600,000 from Purplebricks, Head Office. See property details on Zoopla or browse all our range of properties in Forburg Road, Stoke Newington N16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60324000/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.568207,
+                "longitude": -0.06357
+            }
+        },
+        "displayAddress": "Forburg Road, Stoke Newington N16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-04T00:09:10",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 184
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/58850ed3fda7e37330972c021c0cba7a3043d335.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": "Offers over",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Purplebricks",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60324000,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "FB97B498-8F38-11EC-BFA6-82DB0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N16",
+            "areaNameUri": "london/n16/stoke-newington-stamford-hill",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2782
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 489352,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 497812,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8460
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 513405,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -24053
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 539276,
+                    "pctChangeSince": -9.258,
+                    "date": "2021-02-26",
+                    "changeSince": -49924
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 498929,
+                    "pctChangeSince": -1.92,
+                    "date": "2017-02-26",
+                    "changeSince": -9577
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 327097,
+                    "pctChangeSince": 49.605,
+                    "date": "2012-02-26",
+                    "changeSince": 162255
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 306840,
+                    "pctChangeSince": 59.481,
+                    "date": "2007-02-26",
+                    "changeSince": 182512
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 184703,
+                    "pctChangeSince": 164.94,
+                    "date": "2002-02-26",
+                    "changeSince": 304649
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 523326,
+                    "newBuilds": 0,
+                    "numSales": 230
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 501637,
+                    "newBuilds": 1,
+                    "numSales": 584
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 501736,
+                    "newBuilds": 51,
+                    "numSales": 1105
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 494034,
+                    "newBuilds": 138,
+                    "numSales": 1834
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-25T00:00:00Z",
+                    "price": 1500000,
+                    "propertyId": 15238940,
+                    "streetAddress": "19 Forburg Road",
+                    "uri": "19-forburg-road/london/n16-6hp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 800000,
+                    "propertyId": 15239087,
+                    "streetAddress": "92c Forburg Road",
+                    "uri": "92c-forburg-road/london/n16-6ht"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 360000,
+                    "propertyId": 15238955,
+                    "streetAddress": "11a Forburg Road",
+                    "uri": "11a-forburg-road/london/n16-6hp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-23T00:00:00Z",
+                    "price": 458000,
+                    "propertyId": 15239086,
+                    "streetAddress": "92b Forburg Road",
+                    "uri": "92b-forburg-road/london/n16-6ht"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-24T00:00:00Z",
+                    "price": 900000,
+                    "propertyId": 15239034,
+                    "streetAddress": "34 Forburg Road",
+                    "uri": "34-forburg-road/london/n16-6hs"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-09T00:00:00Z",
+                    "price": 931000,
+                    "propertyId": 15247283,
+                    "streetAddress": "11 St. Jude Street",
+                    "uri": "11-st-jude-street/london/n16-8ju"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 1450000,
+                    "propertyId": 15239636,
+                    "streetAddress": "110a Osbaldeston Road",
+                    "uri": "110a-osbaldeston-road/london/n16-6nl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 470000,
+                    "propertyId": 15235016,
+                    "streetAddress": "Flat 1, Hamblyn Court, 5 Amhurst Park",
+                    "uri": "flat-1/hamblyn-court/5-amhurst-park/london/n16-5lu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 407000,
+                    "propertyId": 15243972,
+                    "streetAddress": "Flat 2, Elm House, Brooke Road",
+                    "uri": "flat-2/elm-house/brooke-road/london/n16-7rh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-24T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 15247583,
+                    "streetAddress": "Flat 11, Patmore House, Mayville Estate",
+                    "uri": "flat-11/patmore-house/mayville-estate/london/n16-8lq"
+                }
+            ]
+        }
+    }
+}

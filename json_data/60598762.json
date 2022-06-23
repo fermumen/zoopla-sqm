@@ -1,0 +1,513 @@
+{
+    "address": "Downbury Mews, London SW18",
+    "price": "\u00a3600,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 83.31,
+    "sqft": null,
+    "text": "Is\n. Ss APPROXIMATE GROSS INTERNAL FLOOR AREA: 897 SQFT - 83.31 SQM\nN >\n\\ s. (EXCLUDING STORE)\nR\nN{ caren] SS ge\nN | 14%0\"x 100\" SS t\n|) 451x3.06M SS,\nN | (APPROXIMATE) R\nR A\n\u2014\u2014\u2014\u2014\u2014\u2014 BSS \u2014\u2014\u2014 \u2014\u2014\na fea]\n| Ea 28 | BEDROOM\nBEDROOM 4344\" x 611\"\n133\"x 127\" 4.06 x 2.11M\n4.05 x3.83M\n\\- WA is WZ\nZz Th ING\noa fh] {> IN\nta\n|\u00ae 44 RECEPTION ROOM! L\n>\u00bb KITCHEN\n| 2st x18 BEDROOM\nfo) 03x4, 439\" x91\"\n\u2014 404x303M\ni} t |\nfd BS cd | (| = || |\n4 A\nGROUND FLOOR \\ ae \\ SECOND FLOOR\n\\ 437 1.65M :\n; (APPROXIMATE) :\n\\ :\nFIRST FLOOR\nFOR ILLUSTRATION PURPOSES ONLY\nTHIS FLOOR PLAN SHOULD BE USED AS A GENERAL OUTLINE FOR GUIDANCE ONLY AND DOES NOT CONSTITUTE IN WHOLE OR IN PART AN OFFER OR CONTRACT.\nANY INTENDING PURCHASER OR LESSEE SHOULD SATISFY THEMSELVES BY INSPECTION, SEARCHES, ENQUIRIES AND FULL SURVEY AS TO THE CORRECTNESS OF EACH STATEMENT.\nANY AREAS, MEASUREMENTS OR DISTANCES QUOTED ARE APPROXIMATE AND SHOULD NOT BE USED TO VALUE A PROPERTY OR BE THE BASIS OF ANY SALE OR LET.\n",
+    "image": "./extracted_images/60598762.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60598762/",
+    "listing_no": "60598762",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.456438,
+        "longitude": -0.198355
+    },
+    "first_published": "2022-01-24T19:07:38",
+    "last_sale_date": "2000-12-21",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60598762",
+        "publishedOn": "2022-01-24T19:07:38",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "PDF Property Particulars",
+                "original": "https://lc.zoocdn.com/79ddeb46d83964c4243b41419f63b79382a18c56.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.barnardmarcus.co.uk/property/SFS105319",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 20036,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - Southfields",
+            "brandName": "Barnard Marcus",
+            "chainFree": true,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Downbury Mews, London SW18",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "5SN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60598762,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Gated Community|Chain Free",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 700239
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/barnard-marcus-southfields-southfields-20036/",
+            "branchId": "20036",
+            "branchResultsUri": "/for-sale/branch/barnard-marcus-southfields-southfields-20036/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "phone": "020 8166 7287",
+            "name": "Barnard Marcus - Southfields",
+            "memberType": "agent",
+            "address": "245 Wimbledon Park Road, Southfields",
+            "postcode": "SW18 5RJ"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "West Hill Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "The Roche School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Riverside Quarter Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Summary</strong><br>The property boasts three bedrooms, two bathrooms, a private rear garden, a large balcony to the front, a utility room, and a lovely open plan kitchen and reception room. The development is gated and has an exclusive feel to it.<br><br><strong>Description</strong><br>A rarely available chain free three bedroom mews house in the heart of Wandsworth.<br><br>The property boasts three bedrooms, two bathrooms, a private rear garden, a large balcony to the front, a utility room, and a lovely open plan kitchen and reception room. The development is gated and has an exclusive feel to it.<br><br>Downbury Mews is located in the heart of Wandsworth and is close to Wandsworth Town Mainline Station allowing for ease of access into Central London, Vauxhall in 8 mins and Waterloo in 14mins. The District Line at East Putney is within easy reach and there are bus links available locally. Southside Shopping centre is only moments away with amenities such as a Cinema, Waitrose, Gyms, and variety of restaurants and shops.<br><br><strong>Agents Note</strong><br>This property has an offer accepted subject to contract but is still currently available to view.<br><br>1. Money laundering regulations: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale. <br>2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property. <br>3. The measurements indicated are supplied for guidance only and as such must be considered incorrect. <br>4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase. <br>5. These particulars are issued in good faith but do not constitute representations of fact or form part of any offer or contract. The matters referred to in these particulars should be independently verified by prospective buyers or tenants. Neither sequence (UK) limited nor any of its employees or agents has any authority to make or give any representation or warranty whatever in relation to this property.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Three Bedrooms",
+                "Two Bathrooms",
+                "Balcony &amp; Garden",
+                "Chain Free",
+                "Gated Development",
+                "Convenient for Wandsworth &amp; Putney"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Gated Community"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Chain Free"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "248ad5d7d4d3c3c0e55d1ee50bde38dfb91d614c.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "14a9a09c0ced0b5eb23bddc4317d89d0f122a310.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "06727c992ea78729519b183e4789c722948c7f7c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "31d245f5a277363f65ac9fe1e41c603a81df97ab.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fb7fd3180110720b2bf58d46b0507e94e661a36d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b7b56eaa0882bbfdff87b915511aaa6ea79374b6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a8b813d6cd1d806c1e737cc9658a43e96f3444ae.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "08049ce1337d9a05e15e516152eb2fe3463427f9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ed4c7eae73d8b0834f5f93322250dcf644cd3087.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a84d48f8e6c2ba0efe998f7eda8bd77fca4b594c.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 14,
+            "acornType": 14,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 20036,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - Southfields",
+            "brandName": "Barnard Marcus",
+            "chainFree": true,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Downbury Mews, London SW18",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "5SN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60598762,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 3,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Gated Community|Chain Free",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 700239
+        },
+        "title": "3 bed terraced house for sale",
+        "metaTitle": "3 bed terraced house for sale in Downbury Mews, London SW18 - Zoopla",
+        "metaDescription": "3 bed terraced house for sale in Downbury Mews, London SW18, selling for \u00a3600,000 from Barnard Marcus - Southfields. See property details on Zoopla or browse all our range of properties in Downbury Mews, London SW18.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60598762/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.456438,
+                "longitude": -0.198355
+            }
+        },
+        "displayAddress": "Downbury Mews, London SW18",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-01-24T19:07:38",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2000-12-21",
+                "newBuild": false,
+                "price": 208000,
+                "priceLabel": "\u00a3208,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 438
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/248ad5d7d4d3c3c0e55d1ee50bde38dfb91d614c.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Barnard Marcus",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60598762,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "3A88EBE8-8FEA-11EC-B876-5AF10D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW18",
+            "areaNameUri": "london/sw18/wandsworth-earlsfield",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3734.2499999999995
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 1038050,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 1046148,
+                    "pctChangeSince": -0.774,
+                    "date": "2021-11-26",
+                    "changeSince": -8098
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 1077461,
+                    "pctChangeSince": -3.658,
+                    "date": "2021-08-26",
+                    "changeSince": -39411
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 1042341,
+                    "pctChangeSince": -0.412,
+                    "date": "2021-02-26",
+                    "changeSince": -4291
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 995213,
+                    "pctChangeSince": 4.304,
+                    "date": "2017-02-26",
+                    "changeSince": 42837
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 677742,
+                    "pctChangeSince": 53.163,
+                    "date": "2012-02-26",
+                    "changeSince": 360308
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 619694,
+                    "pctChangeSince": 67.51,
+                    "date": "2007-02-26",
+                    "changeSince": 418356
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 379034,
+                    "pctChangeSince": 173.867,
+                    "date": "2002-02-26",
+                    "changeSince": 659016
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 1076363,
+                    "newBuilds": 1,
+                    "numSales": 291
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 1046013,
+                    "newBuilds": 1,
+                    "numSales": 853
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 1032307,
+                    "newBuilds": 3,
+                    "numSales": 1390
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 1022051,
+                    "newBuilds": 7,
+                    "numSales": 2018
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 23379218,
+                    "streetAddress": "13 Heathfield Square",
+                    "uri": "13-heathfield-square/london/sw18-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 23377537,
+                    "streetAddress": "6 Wells Place",
+                    "uri": "6-wells-place/london/sw18-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 696000,
+                    "propertyId": 23384628,
+                    "streetAddress": "16a Duntshill Road",
+                    "uri": "16a-duntshill-road/london/sw18-4ql"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 1325500,
+                    "propertyId": 23388776,
+                    "streetAddress": "94 Elsenham Street",
+                    "uri": "94-elsenham-street/london/sw18-5nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 511000,
+                    "propertyId": 23383425,
+                    "streetAddress": "31 Steerforth Street",
+                    "uri": "31-steerforth-street/london/sw18-4hf"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,553 @@
+{
+    "address": "Lady Somerset Road, London NW5",
+    "price": "\u00a3638,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 58.0,
+    "sqft": 625.0,
+    "text": "yar em onesies\nuci eniies\nLADY SOMERSET ROAD, NWS\nTOTAL APPROX FLOORPLAN AREA 625 SQ.FT (58 SQ.M)\nFIRST FLOOR\nBedroom N\n13'10\" x 6'7\"\n(4.22 x 2.00m)\n(Currently Used As\nA Home Office)\n(Max)\n\u2014-\ne\nBedroom\n17\u00b004 1'1\"\n(5.19 x 3.38m)\n(Max)\nss = '_ En-Suite\n== Ee \u2014 om \u00a5\n\u2014 \\ 7) ~~ 1 Shower Room\nKe) \\ Po OH naa WO\"\n| \u00a9) a ) Pics S 711\" x 2'9)\n> a! Ses (2.41 x 0.85m)\nAIS CE om\n\\ | BOS)\n|| @ ON] lS\nl. a if wea\nw=, u\nIN L\nBathroom |\n77\" x67\" Reception/Kitchen/\n(2.32 x 2.00m) Dining Room !\n(Max) 16'5\" x 14'7\"\n(5.00 x 4.45m)\n(Max) a\neee\nshown conventionally and are approximate only and cannot be regarded as being a representation :\neither by the sell or his agent. ogists\n",
+    "image": "./extracted_images/60416307.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60416307/",
+    "listing_no": "60416307",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.555328,
+        "longitude": -0.140805
+    },
+    "first_published": "2021-12-23T10:51:39",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60416307",
+        "publishedOn": "2021-12-23T10:51:39",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://www2.housescape.org.uk/cgi-bin/full.pl?&bur1&&BUR1002437",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Interactive Slideshow",
+                "original": "https://opticmedia.co.uk/724556456-lady-somerset-road-nw5/",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Interactive Walkthrough",
+                "original": "https://kuula.co/share/collection/7qp7K?logo=0&info=1&fs=1&vr=1&sd=1&thumbs=1",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 20424,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(48898).jpeg",
+            "branchName": "Burghleys",
+            "brandName": "Burghleys",
+            "chainFree": false,
+            "companyId": 572,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lady Somerset Road, London NW5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1UP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60416307,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "NW5",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 638000,
+            "price": 638000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Shared Freehold|Apartment",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 558379
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/burghleys-london-20424/",
+            "branchId": "20424",
+            "branchResultsUri": "/for-sale/branch/burghleys-london-20424/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(48898).jpeg",
+            "phone": "020 8128 9347",
+            "name": "Burghleys",
+            "memberType": "agent",
+            "address": "136 Fortess Rd, Kentish Town, London",
+            "postcode": "NW5 2HP"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Eleanor Palmer Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Acland Burghley School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Tufnell Park",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kentish Town",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A well presented and spacious (approximately 625 Sq Ft / 58 Sq M) first floor apartment forming part of an imposing end of terrace Victorian property situated in a highly sought after residential location within close proximity to the ever popular Eleanor Palmer primary school, local shops, cafes, bars and restaurants on Fortess Road together with both Tufnell Park Northern Line and Kentish Town Northern Line/Overground stations. The property is also ideally located for access to the open spaces of Hampstead Heath at Parliament Hill Fields. The well proportioned accommodation comprises: Two bedrooms, feature open plan reception/modern kitchen/dining room, modern bathroom with a window and en-suite shower room to main bedroom. We believe the only way to fully appreciate this fine property is by arranging an early appointment to view to avoid disappointment. Sole agent.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Well presented &amp; spacious (approximately 625 Sq Ft / 58 Sq M) first floor apartment forming part of an imposing end of terrace Victorian property situated in a highly sought after residential location",
+                "Within close proximity to the ever popular Eleanor Palmer primary school, local shops, cafes, bars and restaurants on Fortess Road",
+                "Within close proximity to both Tufnell Park Northern Line and Kentish Town Northern Line/Overground stations",
+                "Two bedrooms",
+                "Feature open plan reception/modern kitchen/dining room",
+                "Modern bathroom with a window",
+                "En-suite shower room to main bedroom",
+                "Share of freehold",
+                "The property is also ideally located for access to the open spaces of Hampstead Heath at Parliament Hill Fields",
+                "Sole agent"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Shared Freehold"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Apartment"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "99cba0fe26e0da25884bc0c2b17ad864adfd51f6.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "6ec7b289965cf9098438914fc2b4574412030784.jpg",
+                "caption": "Main Picture"
+            },
+            {
+                "__typename": "Media",
+                "filename": "12a6edaa3837f4874c27df184250ab9b2ec1533b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3b6ac461bae6e5cb4d12394113b960e8d4bd4dd9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c6cc9fc48e7bdf3ffacbf4f61a1c3440c0443700.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "d37bae8913531d1191556bd43fc60a5c08b6af74.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "667b699f558c8a6c5466488dca2b3da89df87bd5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4559c949f930d6ce8a2288e6a9469aaf400e9789.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "afcfd09a7f8071b64dd134d88f22b4e80fe52a93.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a88b572bc00e32d9bd83fe2433134d886c96b27c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7be93596d08da25a320f0e53d2ed841627ec9345.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "7a1f5f2ae94546ac9ac06c8e57cbbed6fa593fa4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1976d32ce7f186d1daf7ecfe95068b5f87528c70.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ccceeb8a48f40d6e2a20c5b9f97a7aa05ae57ba4.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 20424,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(48898).jpeg",
+            "branchName": "Burghleys",
+            "brandName": "Burghleys",
+            "chainFree": false,
+            "companyId": 572,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Lady Somerset Road, London NW5",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "1UP",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60416307,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 13,
+            "numRecepts": 1,
+            "outcode": "NW5",
+            "postalArea": "NW",
+            "postTownName": "London",
+            "priceActual": 638000,
+            "price": 638000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Shared Freehold|Apartment",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "share_of_freehold",
+            "zindex": 558379
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Lady Somerset Road, London NW5 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Lady Somerset Road, London NW5, selling for \u00a3638,000 from Burghleys. See property details on Zoopla or browse all our range of properties in Lady Somerset Road, London NW5.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60416307/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.555328,
+                "longitude": -0.140805
+            }
+        },
+        "displayAddress": "Lady Somerset Road, London NW5",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-12-23T10:51:39",
+                "priceLabel": "\u00a3638,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 229
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/99cba0fe26e0da25884bc0c2b17ad864adfd51f6.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3638,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Burghleys",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60416307,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "503E8DF6-7246-11EC-88C1-C3FF0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "NW5",
+            "areaNameUri": "london/nw5/kentish-town",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2695.333333333333
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 617465,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 627994,
+                    "pctChangeSince": -1.677,
+                    "date": "2021-11-26",
+                    "changeSince": -10529
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 647496,
+                    "pctChangeSince": -4.638,
+                    "date": "2021-08-26",
+                    "changeSince": -30031
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 676584,
+                    "pctChangeSince": -8.738,
+                    "date": "2021-02-26",
+                    "changeSince": -59119
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 638351,
+                    "pctChangeSince": -3.272,
+                    "date": "2017-02-26",
+                    "changeSince": -20886
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 440754,
+                    "pctChangeSince": 40.093,
+                    "date": "2012-02-26",
+                    "changeSince": 176711
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 393383,
+                    "pctChangeSince": 56.963,
+                    "date": "2007-02-26",
+                    "changeSince": 224082
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 232309,
+                    "pctChangeSince": 165.795,
+                    "date": "2002-02-26",
+                    "changeSince": 385156
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 654154,
+                    "newBuilds": 0,
+                    "numSales": 106
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 621456,
+                    "newBuilds": 3,
+                    "numSales": 300
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 619111,
+                    "newBuilds": 28,
+                    "numSales": 567
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 614410,
+                    "newBuilds": 49,
+                    "numSales": 901
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 2450000,
+                    "propertyId": 17232287,
+                    "streetAddress": "32 Lady Somerset Road",
+                    "uri": "32-lady-somerset-road/london/nw5-1tu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-04T00:00:00Z",
+                    "price": 427000,
+                    "propertyId": 27506604,
+                    "streetAddress": "8d Lady Somerset Road",
+                    "uri": "8d-lady-somerset-road/london/nw5-1ut"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 747500,
+                    "propertyId": 17233531,
+                    "streetAddress": "31a Gaisford Street",
+                    "uri": "31a-gaisford-street/london/nw5-2eb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 1025000,
+                    "propertyId": 27354983,
+                    "streetAddress": "First And Second Floor Flat, 8 Burghley Road",
+                    "uri": "first-and-second-floor-flat/8-burghley-road/london/nw5-1ue"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-10T00:00:00Z",
+                    "price": 1150000,
+                    "propertyId": 17240579,
+                    "streetAddress": "50 Coity Road",
+                    "uri": "50-coity-road/london/nw5-4ry"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-09T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 27471767,
+                    "streetAddress": "90b Caversham Road",
+                    "uri": "90b-caversham-road/london/nw5-2dn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-01T00:00:00Z",
+                    "price": 1330000,
+                    "propertyId": 17235128,
+                    "streetAddress": "177 Leighton Road",
+                    "uri": "177-leighton-road/london/nw5-2rd"
+                }
+            ]
+        }
+    }
+}

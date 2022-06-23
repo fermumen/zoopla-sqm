@@ -1,0 +1,542 @@
+{
+    "address": "Queensland Road, London N7",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 73.02,
+    "sqft": 786.0,
+    "text": "Queensland Road, N7\nApproximate Gross Internal Area = 786 sq ft / 73.02 sqm\nas ines =\nBedroom Beda Y\nposits 5.82 x 2.80\nL191\" 92\"\nReception a\nRoom *\n7.80 x 3.68 \\ |\n251! x 1241\" ys ~ 7 \u2019\n. i\n[| \\ (7 CI\nABS. OL\nAttia EE:\nt\n",
+    "image": "./extracted_images/60763681.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60763681/",
+    "listing_no": "60763681",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.553493,
+        "longitude": -0.107513
+    },
+    "first_published": "2022-02-15T11:06:41",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60763681",
+        "publishedOn": "2022-02-15T11:06:41",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 85346,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(622861).png",
+            "branchName": "Panda Residential",
+            "brandName": "Panda Residential LTD",
+            "chainFree": false,
+            "companyId": 53625,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Queensland Road, London N7",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7FG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60763681,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": null,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 623916
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/panda-residential-victoria-85346/",
+            "branchId": "85346",
+            "branchResultsUri": "/for-sale/branch/panda-residential-victoria-85346/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(622861).png",
+            "phone": "020 8033 3107",
+            "name": "Panda Residential",
+            "memberType": "agent",
+            "address": "34 Maple Street, Victoria",
+            "postcode": "W1T 6HD"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Drayton Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Drayton Park Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Holloway Road",
+                "type": "london_underground_station",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Highbury Fields School",
+                "type": "uk_school_secondary",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "*Video viewing available* Panda Residential is proud to present this bright and modern 2 bed 2 bath apartment on the 11th floor of this modern development. The property has been kept in great condition with generous open plan living area. The property also includes two double bedrooms, the master with built in wardrobe and en-suite bathroom. With the internal courtyard view, residents can quietly enjoy the apartment with minimal disturbance.<br>The development comes with a 1st floor private communal garden, gym and concierge services with a short walk away from Holloway Road Station. Queensland Road is a prestigious development adjacent to the Emirates Stadium on the boarders of Holloway and Highbury. Transport links are exceptional, with Holloway Road (Piccadilly Line), Arsenal (Piccadilly Line), Highbury and Islington (Victoria Line, London Overground &amp; National Rail) and Drayton Park (National Rail to Moorgate) stations all within easy reach, further complimented by the frequent buses available on Holloway Road and Highbury Corner.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "**Video viewing available**",
+                "2bed2bath",
+                "11th floor",
+                "Internal courtyard view",
+                "24 hour concierge",
+                "Furnished",
+                "Gym &amp; private communal garden"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "dd1977d512af3672ec0124632d59bd1cd3846760.jpg",
+                    "caption": "Floor Plan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "efa16da11b1c135cc3ad5886f334e0449b22c486.jpg",
+                "caption": "Photo"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4c2ce644f8113b1371c850c0a9ab3f0c071ea3b7.jpg",
+                "caption": "Photo"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e351ff0a3f994050e3c41982be427017b67b9d52.jpg",
+                "caption": "Photo"
+            },
+            {
+                "__typename": "Media",
+                "filename": "848c9c1c478f6603a67fbd5f95a84581cc89a979.jpg",
+                "caption": "Photo"
+            },
+            {
+                "__typename": "Media",
+                "filename": "61709bf97b8e3faafb612b6e723f1eb51a34870d.jpg",
+                "caption": "Photo"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ecfe8e76748563017d5068a022cc577a17fd0bbd.jpg",
+                "caption": "Photo"
+            },
+            {
+                "__typename": "Media",
+                "filename": "10a04b2f2c1ef9cdcf7fc2b7cb14b0169d8bdd9b.jpg",
+                "caption": "Photo"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ad895e328c060ea5b3f6325d93c964e13428d5a9.jpg",
+                "caption": "Photo"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b1add94e1ec1b7b8d5ce67afc494b8aadae27563.jpg",
+                "caption": "Photo"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1b9d62a29affe645486b36424d202d03e927aa0b.jpg",
+                "caption": "Photo"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bef5896a25f789bd5c565061cee9163449a4b1e0.jpg",
+                "caption": "Photo"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d4644de007b6937187331d3b22ca4d20fa398bf2.jpg",
+                "caption": "Photo"
+            },
+            {
+                "__typename": "Media",
+                "filename": "df718ce620b0fc9d0f65d6b422975ee1d77fbdae.jpg",
+                "caption": "Photo"
+            },
+            {
+                "__typename": "Media",
+                "filename": "24351e2d9954698bcfece4158989e659c35f9432.jpg",
+                "caption": "Photo"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 85346,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(622861).png",
+            "branchName": "Panda Residential",
+            "brandName": "Panda Residential LTD",
+            "chainFree": false,
+            "companyId": 53625,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Queensland Road, London N7",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "7FG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60763681,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": null,
+            "outcode": "N7",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 623916
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Queensland Road, London N7 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Queensland Road, London N7, selling for \u00a3650,000 from Panda Residential. See property details on Zoopla or browse all our range of properties in Queensland Road, London N7.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60763681/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.553493,
+                "longitude": -0.107513
+            }
+        },
+        "displayAddress": "Queensland Road, London N7",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-15T11:06:41",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 82
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/dd1977d512af3672ec0124632d59bd1cd3846760.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": null
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Panda Residential LTD",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60763681,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "5D435AE8-8E4F-11EC-AA3E-A4CE0D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N7",
+            "areaNameUri": "london/n7/holloway",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2225.222222222224
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 506811,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 515573,
+                    "pctChangeSince": -1.699,
+                    "date": "2021-11-26",
+                    "changeSince": -8762
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 531722,
+                    "pctChangeSince": -4.685,
+                    "date": "2021-08-26",
+                    "changeSince": -24911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 558515,
+                    "pctChangeSince": -9.257,
+                    "date": "2021-02-26",
+                    "changeSince": -51704
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 516722,
+                    "pctChangeSince": -1.918,
+                    "date": "2017-02-26",
+                    "changeSince": -9911
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 338762,
+                    "pctChangeSince": 49.607,
+                    "date": "2012-02-26",
+                    "changeSince": 168049
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 317783,
+                    "pctChangeSince": 59.483,
+                    "date": "2007-02-26",
+                    "changeSince": 189028
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 191290,
+                    "pctChangeSince": 164.944,
+                    "date": "2002-02-26",
+                    "changeSince": 315521
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 524496,
+                    "newBuilds": 0,
+                    "numSales": 200
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 518653,
+                    "newBuilds": 8,
+                    "numSales": 549
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 499646,
+                    "newBuilds": 8,
+                    "numSales": 1035
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 499177,
+                    "newBuilds": 124,
+                    "numSales": 1796
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-28T00:00:00Z",
+                    "price": 595000,
+                    "propertyId": 31150362,
+                    "streetAddress": "Flat 14, 5 Queensland Road",
+                    "uri": "flat-14/5-queensland-road/london/n7-7fe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-10-15T00:00:00Z",
+                    "price": 410000,
+                    "propertyId": 31150383,
+                    "streetAddress": "Flat 43, 5 Queensland Road",
+                    "uri": "flat-43/5-queensland-road/london/n7-7fe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 400000,
+                    "propertyId": 31256009,
+                    "streetAddress": "Flat 83, 7 Queensland Road",
+                    "uri": "flat-83/7-queensland-road/london/n7-7fg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-18T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 32653849,
+                    "streetAddress": "Flat 76, 7 Queensland Road",
+                    "uri": "flat-76/7-queensland-road/london/n7-7ff"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-05-28T00:00:00Z",
+                    "price": 435000,
+                    "propertyId": 31150415,
+                    "streetAddress": "Flat 9, 5 Queensland Road",
+                    "uri": "flat-9/5-queensland-road/london/n7-7fe"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 755000,
+                    "propertyId": 15118599,
+                    "streetAddress": "11 Empire Square",
+                    "uri": "11-empire-square/london/n7-6jn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 1620000,
+                    "propertyId": 15124242,
+                    "streetAddress": "6 Orleston Mews",
+                    "uri": "6-orleston-mews/london/n7-8ll"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-03T00:00:00Z",
+                    "price": 309000,
+                    "propertyId": 27250808,
+                    "streetAddress": "Flat 3, 17 Carleton Road",
+                    "uri": "flat-3/17-carleton-road/london/n7-0qz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-26T00:00:00Z",
+                    "price": 320000,
+                    "propertyId": 15121738,
+                    "streetAddress": "21 Selden Walk",
+                    "uri": "21-selden-walk/london/n7-7rl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-25T00:00:00Z",
+                    "price": 530000,
+                    "propertyId": 15114386,
+                    "streetAddress": "81 Penderyn Way, Carleton Road",
+                    "uri": "81-penderyn-way/carleton-road/london/n7-0ey"
+                }
+            ]
+        }
+    }
+}

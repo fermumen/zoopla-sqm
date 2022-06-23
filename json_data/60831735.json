@@ -1,0 +1,536 @@
+{
+    "address": "Spencer Park, London SW18",
+    "price": "\u00a3615,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 84.0,
+    "sqft": 901.0,
+    "text": "Spencer Park, London, SW18\nApproximate Area = 901 sq ft / 84 sqm\nFor identification only - Not to scale\nz\nrs | a\na ee LI}\nBedroom\n109 x 6'4\n(3.28) x (1.93)\nReception Room Bedroom\n158 x 13'7 168 x 12\"\n(4.78) x (4.14) (5.08) x (3.66)\n)\na \\ *\nN\nAine TTT oe\nnal it\nKitchen (Oo) set \\\n12'4x 96 iS | fo\n= (3.76) x (2.90) i\nlees } : y\na : Bedroom \\\nl A 1310 x 9'4 Se\n(\\ = hy \\ aul iJ (4.22) x (2.84) = :\nLd Pi ar\n(\nGROUND FLOOR K > |\nL :\nrr \u2014\u2014\nes ET\nFIRST FLOOR\nCOM] Geste2 | intemattone! Property Measurement Standards (PMS2 Residential, richecom 2002, GO @\n[Us| Measurer Produced for Barnard Marcus REF: 815476 barnard marcus\n",
+    "image": "./extracted_images/60831735.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60831735/",
+    "listing_no": "60831735",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.457716,
+        "longitude": -0.175173
+    },
+    "first_published": "2022-02-23T11:56:10",
+    "last_sale_date": "2017-06-28",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60831735",
+        "publishedOn": "2022-02-23T11:56:10",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "PDF Property Particulars",
+                "original": "https://lc.zoocdn.com/8ed5e33916f6e529c1c534568ea3dd2533cbe3f6.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.barnardmarcus.co.uk/property/WNW104103",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 884,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - Wandsworth",
+            "brandName": "Barnard Marcus",
+            "chainFree": false,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Spencer Park, London SW18",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2TB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60831735,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 615000,
+            "price": 615000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Off Street Parking",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 465027
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/barnard-marcus-wandsworth-wandsworth-884/",
+            "branchId": "884",
+            "branchResultsUri": "/for-sale/branch/barnard-marcus-wandsworth-wandsworth-884/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "phone": "020 8166 7279",
+            "name": "Barnard Marcus - Wandsworth",
+            "memberType": "agent",
+            "address": "31 Bellevue Road, Wandsworth Common, Wandsworth",
+            "postcode": "SW17 7EF"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Park House School (SEN)",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Emanuel School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Clapham Junction",
+                "type": "national_rail_station",
+                "distanceMiles": 0.5
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wandsworth Town",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://my.matterport.com/show?m=6hzZpZ2xgJN"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "<strong>Summary</strong><br>A stylish split level maisonette in a sought after area, perfectly located between Wandsworth Common and Clapham Junction.<br><br><strong>Description</strong><br>A stylish split level maisonette in a sought after area, perfectly located between Wandsworth Common and Clapham Junction.<br><br>This spacious property is arranged over the ground and first floor of a small purpose built development and offers well proportioned accommodation. The first floor comprises three generous sized bedrooms and a family bathroom. On the ground floor, the kitchen provides ample work space and storage, while the reception room benefits from sliding doors that open onto a communal garden with a sunny south westerly aspect. Further benefits include residents parking.<br><br>Spencer Park is within easy reach of both Battersea Rise and Northcote Road, providing a plethora of popular shops, bars and restaurants. Transport links include Clapham Junction and Wandsworth Town mainline stations.<br><br>Lease details are currently being compiled. For further information please contact the branch. Please note additional fees could be incurred for items such as leasehold packs.<br><br>1. Money laundering regulations: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale. <br>2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property. <br>3. The measurements indicated are supplied for guidance only and as such must be considered incorrect. <br>4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase. <br>5. These particulars are issued in good faith but do not constitute representations of fact or form part of any offer or contract. The matters referred to in these particulars should be independently verified by prospective buyers or tenants. Neither sequence (UK) limited nor any of its employees or agents has any authority to make or give any representation or warranty whatever in relation to this property.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Stylish split level maisonette",
+                "Communal garden",
+                "Residents parking",
+                "Close to Wandsworth Common",
+                "Great transport links"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Off Street Parking"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "b3a11fa07a0f3f8875748bdeafd6028f2d404305.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "be261241bc5aa8b4c46c44e0a70859b74228c658.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "353c8ef9c1960b93251cc2283a63d46680e794c8.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "25f101794ac9c562c37a7fc60da5918712c67e67.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "71777a46ee18aefa0072f6e05a72484a576b6e6e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "25d58471c8f4e7e2d6ec16df8435f2e6fdd471e4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "19c48d688256c838988b36f8d04362926c74182f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c25c3eec3170a555fd1bf57b30646ef92ddaa8b6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b23519629dc9e4316f79770939ef994cb8d15dca.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "1bda64b8acff2d7e3389be6b42f09e3e095307f3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "76c648157b3e6085a155f85e86a2b8ba2d806da0.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 884,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(592283).png",
+            "branchName": "Barnard Marcus - Wandsworth",
+            "brandName": "Barnard Marcus",
+            "chainFree": false,
+            "companyId": 14204,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Spencer Park, London SW18",
+            "furnishedState": "",
+            "groupId": 1,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2TB",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60831735,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 10,
+            "numRecepts": 1,
+            "outcode": "SW18",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 615000,
+            "price": 615000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Off Street Parking",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 465027
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Spencer Park, London SW18 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Spencer Park, London SW18, selling for \u00a3615,000 from Barnard Marcus - Wandsworth. See property details on Zoopla or browse all our range of properties in Spencer Park, London SW18.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60831735/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.457716,
+                "longitude": -0.175173
+            }
+        },
+        "displayAddress": "Spencer Park, London SW18",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-23T11:56:10",
+                "priceLabel": "\u00a3615,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2017-06-28",
+                "newBuild": false,
+                "price": 580000,
+                "priceLabel": "\u00a3580,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 100
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/b3a11fa07a0f3f8875748bdeafd6028f2d404305.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3615,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Barnard Marcus",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60831735,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "519AA946-9663-11EC-8300-B2290E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW18",
+            "areaNameUri": "london/sw18/wandsworth-earlsfield",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3583.9999999999995
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 545740,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 548436,
+                    "pctChangeSince": -0.492,
+                    "date": "2021-11-26",
+                    "changeSince": -2696
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 548784,
+                    "pctChangeSince": -0.555,
+                    "date": "2021-08-26",
+                    "changeSince": -3044
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 571676,
+                    "pctChangeSince": -4.537,
+                    "date": "2021-02-26",
+                    "changeSince": -25936
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 553935,
+                    "pctChangeSince": -1.479,
+                    "date": "2017-02-26",
+                    "changeSince": -8195
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 381867,
+                    "pctChangeSince": 42.914,
+                    "date": "2012-02-26",
+                    "changeSince": 163873
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 348838,
+                    "pctChangeSince": 56.445,
+                    "date": "2007-02-26",
+                    "changeSince": 196902
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 212532,
+                    "pctChangeSince": 156.78,
+                    "date": "2002-02-26",
+                    "changeSince": 333208
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 554541,
+                    "newBuilds": 19,
+                    "numSales": 470
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 543782,
+                    "newBuilds": 55,
+                    "numSales": 1296
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 547279,
+                    "newBuilds": 111,
+                    "numSales": 2421
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 550771,
+                    "newBuilds": 488,
+                    "numSales": 4197
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-01T00:00:00Z",
+                    "price": 490000,
+                    "propertyId": 23376761,
+                    "streetAddress": "Flat G, 12 Spencer Park",
+                    "uri": "flat-g/12-spencer-park/london/sw18-2sy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-12T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 23376781,
+                    "streetAddress": "Flat B, 15 Spencer Park",
+                    "uri": "flat-b/15-spencer-park/london/sw18-2sy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-20T00:00:00Z",
+                    "price": 510000,
+                    "propertyId": 23379218,
+                    "streetAddress": "13 Heathfield Square",
+                    "uri": "13-heathfield-square/london/sw18-3hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 860000,
+                    "propertyId": 23377537,
+                    "streetAddress": "6 Wells Place",
+                    "uri": "6-wells-place/london/sw18-3bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 696000,
+                    "propertyId": 23384628,
+                    "streetAddress": "16a Duntshill Road",
+                    "uri": "16a-duntshill-road/london/sw18-4ql"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 1325500,
+                    "propertyId": 23388776,
+                    "streetAddress": "94 Elsenham Street",
+                    "uri": "94-elsenham-street/london/sw18-5nt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 511000,
+                    "propertyId": 23383425,
+                    "streetAddress": "31 Steerforth Street",
+                    "uri": "31-steerforth-street/london/sw18-4hf"
+                }
+            ]
+        }
+    }
+}

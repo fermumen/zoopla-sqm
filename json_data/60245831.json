@@ -1,0 +1,523 @@
+{
+    "address": "Sunnyhill Road, London SW16",
+    "price": "\u00a3650,000",
+    "beds": "3 beds",
+    "area": null,
+    "sqm": 91.74,
+    "sqft": 987.0,
+    "text": "To Garden\nA\nKitchen / Diner\n3.24m x 3.07m [e<\n(10'8 x 10'1) #3] l]\nLiving Room |\n3.71m x 3.23m\n(12'2 x 107) Ground Floor\nBedroom LL\nve 3.76m x 3.37m \u2122~\na (12'4 x 11'1) pelle \\ Bedroom\n| ~ 4.87m x 3.24m\n} fh (16'0 x 10'8)\n(Je oe oe\nBedroom Ss\n5.03m x 4.11m\n(16'6 x 13'6) Eaves\n= Second Floor\n_\u2014\u2014\u2014\u00a25 \u2014\u2014\u2014- _]\nFirst Floor\nTotal area (approx.): (Excluding Eaves)\n91.74 sq. m (987 sq. ft)\n",
+    "image": "./extracted_images/60245831.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60245831/",
+    "listing_no": "60245831",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.430399,
+        "longitude": -0.126945
+    },
+    "first_published": "2021-11-22T19:11:51",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60245831",
+        "publishedOn": "2021-11-22T19:11:51",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/f7f78d7ac759422eb1bfbedb67f78c68f2d05394.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 14233,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "branchName": "Jacksons Estate Agents - Streatham",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": false,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Sunnyhill Road, London SW16",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2UG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60245831,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW16",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 491822
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jacksons-estate-agents-streatham-london-14233/",
+            "branchId": "14233",
+            "branchResultsUri": "/for-sale/branch/jacksons-estate-agents-streatham-london-14233/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "phone": "020 8677 9900",
+            "name": "Jacksons Estate Agents - Streatham",
+            "memberType": "agent",
+            "address": "1-3 De Montfort Parade, Streatham High Road, London",
+            "postcode": "SW16 1BU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Sunnyhill Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Dunraven School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Streatham (Greater London)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Streatham Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "pdf": null
+        },
+        "detailedDescription": "A large split level period conversion flat that has recently refurbished to a high standard on a popular and central road in Streatham. The property features three large double bedrooms, open plan kitchen living room leading onto a private garden and a high spec four piece bathroom.<br><br>Sunnyhill Road is a popular road situated equidistant to both Streatham and Streatham Hill train stations, with many bars, restaurants and caf\u00e9s also close by.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Split Level Period Property",
+                "High Spec",
+                "Three Double Bedrooms",
+                "Open Plan Kitchen/Living Room",
+                "Private Garden",
+                "968sqft"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "c5b15f2e4d4ffacad8294fbf549048b6ba2b102d.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d71c3b71bd80bbee4fcc1a979f18a4dd980dc269.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c622809c9a331b1cb6c9c5420f8693b691b66c08.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "271019435ecd0688e64f6814ee24d2a84a6ff678.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ac1c149e9c0a98365c058fc6e76840986a1a89a3.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b9ffc49b09bf1f734d1a737fb75499561a7b0d60.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "91d45f89013bc9e580264dff277db85de0111ad4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ebda16ac3944231358b647414fccfbcd4f490670.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "61522d9eb08cff38faa1fafc58b46413d36b2d40.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 17,
+            "acornType": 17,
+            "areaName": "London",
+            "bedsMax": 3,
+            "bedsMin": 3,
+            "branchId": 14233,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(275279).png",
+            "branchName": "Jacksons Estate Agents - Streatham",
+            "brandName": "Jacksons Estate Agents",
+            "chainFree": false,
+            "companyId": 7064,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Sunnyhill Road, London SW16",
+            "furnishedState": "",
+            "groupId": 24,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "2UG",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60245831,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 3,
+            "numImages": 8,
+            "numRecepts": 1,
+            "outcode": "SW16",
+            "postalArea": "SW",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 491822
+        },
+        "title": "3 bed flat for sale",
+        "metaTitle": "3 bed flat for sale in Sunnyhill Road, London SW16 - Zoopla",
+        "metaDescription": "3 bed flat for sale in Sunnyhill Road, London SW16, selling for \u00a3650,000 from Jacksons Estate Agents - Streatham. See property details on Zoopla or browse all our range of properties in Sunnyhill Road, London SW16.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60245831/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.430399,
+                "longitude": -0.126945
+            }
+        },
+        "displayAddress": "Sunnyhill Road, London SW16",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-11-22T19:11:51",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 68
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/c5b15f2e4d4ffacad8294fbf549048b6ba2b102d.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 3,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Jacksons Estate Agents",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60245831,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "1569A960-5FC0-11EC-A266-48050E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SW16",
+            "areaNameUri": "london/sw16/streatham-norbury",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1972.8222222222234
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 367891,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 369707,
+                    "pctChangeSince": -0.491,
+                    "date": "2021-11-26",
+                    "changeSince": -1816
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 369942,
+                    "pctChangeSince": -0.554,
+                    "date": "2021-08-26",
+                    "changeSince": -2051
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 385372,
+                    "pctChangeSince": -4.536,
+                    "date": "2021-02-26",
+                    "changeSince": -17481
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 373404,
+                    "pctChangeSince": -1.476,
+                    "date": "2017-02-26",
+                    "changeSince": -5513
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 257414,
+                    "pctChangeSince": 42.918,
+                    "date": "2012-02-26",
+                    "changeSince": 110477
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 235149,
+                    "pctChangeSince": 56.45,
+                    "date": "2007-02-26",
+                    "changeSince": 132742
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 143266,
+                    "pctChangeSince": 156.789,
+                    "date": "2002-02-26",
+                    "changeSince": 224625
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 406793,
+                    "newBuilds": 2,
+                    "numSales": 315
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 400992,
+                    "newBuilds": 12,
+                    "numSales": 929
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 391666,
+                    "newBuilds": 23,
+                    "numSales": 1770
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 377512,
+                    "newBuilds": 207,
+                    "numSales": 3119
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-24T00:00:00Z",
+                    "price": 446500,
+                    "propertyId": 27324276,
+                    "streetAddress": "Flat 1, 80 Sunnyhill Road",
+                    "uri": "flat-1/80-sunnyhill-road/london/sw16-2ul"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-30T00:00:00Z",
+                    "price": 770000,
+                    "propertyId": 23326238,
+                    "streetAddress": "119 Sunnyhill Road",
+                    "uri": "119-sunnyhill-road/london/sw16-2uw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-16T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 23326234,
+                    "streetAddress": "111 Sunnyhill Road",
+                    "uri": "111-sunnyhill-road/london/sw16-2uw"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-01T00:00:00Z",
+                    "price": 894500,
+                    "propertyId": 23326118,
+                    "streetAddress": "158 Sunnyhill Road",
+                    "uri": "158-sunnyhill-road/london/sw16-2un"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-04-01T00:00:00Z",
+                    "price": 487500,
+                    "propertyId": 29133512,
+                    "streetAddress": "182a Sunnyhill Road",
+                    "uri": "182a-sunnyhill-road/london/sw16-2un"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 393500,
+                    "propertyId": 23341888,
+                    "streetAddress": "52 Fernthorpe Road",
+                    "uri": "52-fernthorpe-road/london/sw16-6dr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-15T00:00:00Z",
+                    "price": 595000,
+                    "propertyId": 23336532,
+                    "streetAddress": "18 Sherwood Avenue",
+                    "uri": "18-sherwood-avenue/london/sw16-5ew"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-13T00:00:00Z",
+                    "price": 440000,
+                    "propertyId": 23332586,
+                    "streetAddress": "156 Stanford Road",
+                    "uri": "156-stanford-road/london/sw16-4qb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 529000,
+                    "propertyId": 23334919,
+                    "streetAddress": "126 Abercairn Road",
+                    "uri": "126-abercairn-road/london/sw16-5ag"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 515000,
+                    "propertyId": 23318299,
+                    "streetAddress": "70 Norfolk House Road",
+                    "uri": "70-norfolk-house-road/london/sw16-1jh"
+                }
+            ]
+        }
+    }
+}

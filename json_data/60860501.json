@@ -1,0 +1,616 @@
+{
+    "address": "King Edward Road, London E17",
+    "price": "\u00a3575,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": 82.6,
+    "sqft": null,
+    "text": "GROUND FLOOR 1ST FLOOR\n361 sq.ft. (82.6 sq.m.) approx. 339 sq.ft. (81.5 sq.m, approx.\nBEDROOM\noe nro\nKITCHENIDINER AGED SAT) BATHROOM\n12110\" x 11'0\" ai\" x52\"\n3.91m x3.36m 237m x1.57m\n\\ =\"\n\\ / \u2018HALLWAY\nan Was TANEDEL \\\nUPBOARMUPBOAI STAIRS JLANDING STAIRKS hornc|\nMEahaaa | nn\n\\ya\na\nLIVING ROOM MASTER BEDROOM\n13\u00b07\" x 126\" ST er EER OOM\n4.15m x3.81m 3.58m x 3.27m\nTOTALFLOOR AREA: 690 sqft. (64.2 sam) approx\n\u2018moray ats ban mate en tm sxc Tania cnn ho eseren\ntaney esas oy oer bans op ptnohon sd egos sian ae\ncst esses Mp esas payne a aa nd ah op\nrsp per Ts ton so apes hohe ben ton is\nsoe peday tomer ote ee\noperabity of efcency can\n",
+    "image": "./extracted_images/60860501.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60860501/",
+    "listing_no": "60860501",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.589817,
+        "longitude": -0.035676
+    },
+    "first_published": "2022-02-26T16:51:49",
+    "last_sale_date": "2016-05-25",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60860501",
+        "publishedOn": "2022-02-26T16:51:49",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "King Edward Road, Walthamstow",
+                "original": "https://lc.zoocdn.com/cd39587e0a570eb84e08098573ee72218ede2da9.pdf",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Full Details",
+                "original": "https://www.vebra.com/details/property/31313977",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 1682,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(162209).png",
+            "branchName": "Churchill Estates - Walthamstow",
+            "brandName": "Churchill Estates",
+            "chainFree": true,
+            "companyId": 784,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "King Edward Road, London E17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6HY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60860501,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 21,
+            "numRecepts": 1,
+            "outcode": "E17",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 508396
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/churchill-estates-walthamstow-london-1682/",
+            "branchId": "1682",
+            "branchResultsUri": "/for-sale/branch/churchill-estates-walthamstow-london-1682/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(162209).png",
+            "phone": "020 8033 2381",
+            "name": "Churchill Estates - Walthamstow",
+            "memberType": "agent",
+            "address": "141 Hoe Street, Walthamstow, London",
+            "postcode": "E17 3AL"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Hillyfield Primary Academy",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stoneydown Park School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Blackhorse Road",
+                "type": "london_underground_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Blackhorse Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "974e6dcc94d07a037928f67b2886d9b18fbba63a.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "Guide price \u00a3575,000 - \u00a3625,000.<br><br>This beautifully presented two bedroom Victorian property is located on a quiet turning amid an extremely popular family spot being within an easy walk of Blackhorse Road Victoria Line Station, Walthamstow Wetlands plus Lloyd Park, Higham Hill Park, Outstanding and Good Ofsted rated Primary schools, local shops and Restaurants. Offering the very best mix for both young families moving to the area and professionals looking to work either from home or commute to London.<br><br>The property which has been let for the last few years offers the perfect opportunity to move straight in and enjoy the home ownership life whilst also offering the potential to extend both to the rear and into the loft to create further accommodation as many similar properties have done in the locality over recent years.<br><br>Being sold on a chain free basis, Please do get in touch with one of our experience sales team to discuss the property further or to organise your chance to view.<br><br>Guide price \u00a3575,000 - \u00a3625,000.<br><br>This beautifully presented two bedroom Victorian property is located on a quiet turning amid an extremely popular family spot being within an easy walk of Blackhorse Road Victoria Line Station, Walthamstow Wetlands plus Lloyd Park, Higham Hill Park, Outstanding and Good Ofsted rated Primary schools, local shops and Restaurants. Offering the very best mix for both young families moving to the area and professionals looking to work either from home or commute to London.<br><br>The property which has been let for the last few years offers the perfect opportunity to move straight in and enjoy the home ownership life whilst also offering the potential to extend both to the rear and into the loft to create further accommodation as many similar properties have done in the locality over recent years.<br><br>Being sold on a chain free basis, Please do get in touch with one of our experience sales team to discuss the property further or to organise your chance to view.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Available Early February 2019",
+                "Furnished/Unfurnished",
+                "Two Double Bedroom",
+                "Victorian Terrace House",
+                "Blackhorse Road Station",
+                "Modern Kitchen/Diner",
+                "Modern First Floor Bathroom",
+                "Double Glazed",
+                "Gas Central Heating",
+                "Private Garden"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "freehold",
+                    "label": "Freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "a69255af5609f136270a3b3b437757819a87db6b.jpg",
+                    "caption": "73Kingedwardroade176Hy-High (1).Jpg"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "9995004856ecce25bd3f1c6b4432ad21e30afcba.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "b24177c1f5da4f763d17b075eb3331bed6e2f627.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0c7e5b20529022fcf8e1679dca93fd6ca170b347.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "93ad35fe48b8c6f8578f1e37c438b9e9b80e8a3d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "4d4d1b0f392ed562fcfa2548f0c9fe53962acf8e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c0b98ac25197187e08eecb66128a403937f19340.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f7973788923f15c71b2e29c4fa21a0938be79a57.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "97a8041e2ddee833121b1f3dce33c8dc21a00614.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "40e76325e9364af048a93000217905591545719a.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a8d2cad1faa29f12a44ca8ad544f5ce3b166ddbd.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c722523c23c393be0e815e44c85aed30b7592576.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "de760a17f60c9c7247863128a1afe74ef1dc050d.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2661eecd0fe4fa7b1265b998384aa544d905af52.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "69236aecb898285a972cd38648f7a8afe3dd0205.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "969387f37cd130434c371e883be715e0fbabc3bf.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "0d85b21a9ce37135eb012d27287356281b06d19f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "8a8a0a2638d43efe5b7239d89f08a9e0cf0ec164.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e486505a285763d6de284e055f1a4912382b2d67.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "dd9a55f64b746247302f168007e1bdfa9692ed69.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "aea43f7e0acdbf68761eb7a0a3b420d78e2b2cf0.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "3a3a1c9f01a3b36baf425245d355b669e7e3c503.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 32,
+            "acornType": 32,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 1682,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(162209).png",
+            "branchName": "Churchill Estates - Walthamstow",
+            "brandName": "Churchill Estates",
+            "chainFree": true,
+            "companyId": 784,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "King Edward Road, London E17",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "6HY",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60860501,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 21,
+            "numRecepts": 1,
+            "outcode": "E17",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 575000,
+            "price": 575000,
+            "priceMax": 600000,
+            "priceMin": 550000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "terraced",
+            "sizeSqFeet": "",
+            "tenure": "freehold",
+            "zindex": 508396
+        },
+        "title": "2 bed terraced house for sale",
+        "metaTitle": "2 bed terraced house for sale in King Edward Road, London E17 - Zoopla",
+        "metaDescription": "2 bed terraced house for sale in King Edward Road, London E17, selling for \u00a3575,000 from Churchill Estates - Walthamstow. See property details on Zoopla or browse all our range of properties in King Edward Road, London E17.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60860501/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.589817,
+                "longitude": -0.035676
+            }
+        },
+        "displayAddress": "King Edward Road, London E17",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-26T16:51:49",
+                "priceLabel": "\u00a3575,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2016-05-25",
+                "newBuild": false,
+                "price": 489000,
+                "priceLabel": "\u00a3489,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 0
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/a69255af5609f136270a3b3b437757819a87db6b.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3575,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Churchill Estates",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60860501,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "EE7BD322-9724-11EC-B978-DCC70D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E17",
+            "areaNameUri": "london/e17/walthamstow",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1783.1666666666665
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 555821,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 566718,
+                    "pctChangeSince": -1.923,
+                    "date": "2021-11-26",
+                    "changeSince": -10897
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 586830,
+                    "pctChangeSince": -5.284,
+                    "date": "2021-08-26",
+                    "changeSince": -31009
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 558131,
+                    "pctChangeSince": -0.414,
+                    "date": "2021-02-26",
+                    "changeSince": -2310
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 544769,
+                    "pctChangeSince": 2.029,
+                    "date": "2017-02-26",
+                    "changeSince": 11052
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 325282,
+                    "pctChangeSince": 70.874,
+                    "date": "2012-02-26",
+                    "changeSince": 230539
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 323416,
+                    "pctChangeSince": 71.859,
+                    "date": "2007-02-26",
+                    "changeSince": 232405
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 187869,
+                    "pctChangeSince": 195.856,
+                    "date": "2002-02-26",
+                    "changeSince": 367952
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 632928,
+                    "newBuilds": 0,
+                    "numSales": 512
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 612813,
+                    "newBuilds": 0,
+                    "numSales": 1245
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 592660,
+                    "newBuilds": 13,
+                    "numSales": 2242
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 563675,
+                    "newBuilds": 25,
+                    "numSales": 3407
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 615000,
+                    "propertyId": 7929899,
+                    "streetAddress": "63 King Edward Road",
+                    "uri": "63-king-edward-road/london/e17-6hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-28T00:00:00Z",
+                    "price": 588000,
+                    "propertyId": 7929879,
+                    "streetAddress": "23 King Edward Road",
+                    "uri": "23-king-edward-road/london/e17-6hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-25T00:00:00Z",
+                    "price": 450000,
+                    "propertyId": 7929894,
+                    "streetAddress": "53 King Edward Road",
+                    "uri": "53-king-edward-road/london/e17-6hy"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-04T00:00:00Z",
+                    "price": 590000,
+                    "propertyId": 7929910,
+                    "streetAddress": "10 King Edward Road",
+                    "uri": "10-king-edward-road/london/e17-6hz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-03-02T00:00:00Z",
+                    "price": 613000,
+                    "propertyId": 7929930,
+                    "streetAddress": "50 King Edward Road",
+                    "uri": "50-king-edward-road/london/e17-6hz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 510052,
+                    "propertyId": 7918448,
+                    "streetAddress": "67 Sturge Avenue",
+                    "uri": "67-sturge-avenue/london/e17-4lf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 394000,
+                    "propertyId": 7931301,
+                    "streetAddress": "26a Hawarden Road",
+                    "uri": "26a-hawarden-road/london/e17-6ns"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 595000,
+                    "propertyId": 32727347,
+                    "streetAddress": "14 Penrhyn Grove",
+                    "uri": "14-penrhyn-grove/london/e17-5de"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-14T00:00:00Z",
+                    "price": 225500,
+                    "propertyId": 27428745,
+                    "streetAddress": "Flat 100, Cannock Court, 3 Hawker Place",
+                    "uri": "flat-100/cannock-court/3-hawker-place/london/e17-4ge"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 280000,
+                    "propertyId": 7928706,
+                    "streetAddress": "104 Green Pond Close",
+                    "uri": "104-green-pond-close/london/e17-6ef"
+                }
+            ]
+        }
+    }
+}

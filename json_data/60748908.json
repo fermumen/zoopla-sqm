@@ -1,0 +1,567 @@
+{
+    "address": "Surrey Mount, Forest Hill, London SE23",
+    "price": "\u00a3625,000",
+    "beds": "2 beds",
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "Kitchen\n\n3.93 x 2.60m\n\n12'11\" x 8'6\"\n\nBedroom\n\n3.93 x 3.50m\n\n1211\" x 11'6\"\n\nGarden\n\nCT\n\nEJ\n\nLounge/Diner\n\n7.19 x 3.93m\n\n237\" x 12'11\"\n\nBedroom\n\n3.93 x 3.86m\n\n12\u00b011\" x 12'8\"\n\nFIRST FLOOR\n\nGROUND FLOOR\n\nTotal Area: 79.9 m? ... 860 ft? (excluding garden)\n\nAil measurements are approximate and for display purposes only\n",
+    "image": "./extracted_images/60748908.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60748908/",
+    "listing_no": "60748908",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.441565,
+        "longitude": -0.059823
+    },
+    "first_published": "2022-02-13T00:09:38",
+    "last_sale_date": "2008-05-16",
+    "last_sale_new": false,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60748908",
+        "publishedOn": "2022-02-13T00:09:38",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/d909baa54027c720293a2eb84f13a1fd61a9d43b.pdf",
+                "type": "document",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/f1d462b7510d44d4de19ef12f2c303ca865a5d38.pdf",
+                "type": "document",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 36004,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(714197).png",
+            "branchName": "Stanfords, Forest Hill",
+            "brandName": "Robert Stanford Estates",
+            "chainFree": true,
+            "companyId": 16917,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Surrey Mount, Forest Hill, London SE23",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3PF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60748908,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 20,
+            "numRecepts": 1,
+            "outcode": "SE23",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 501797
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/stanfords-forest-hill-36004/",
+            "branchId": "36004",
+            "branchResultsUri": "/for-sale/branch/stanfords-forest-hill-36004/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(714197).png",
+            "phone": "020 3551 9699",
+            "name": "Stanfords, Forest Hill",
+            "memberType": "agent",
+            "address": "2a Dartmouth Road",
+            "postcode": "SE23 3XU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Horniman Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Forest Hill",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Eliot Bank Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.4
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Honor Oak Park",
+                "type": "national_rail_station",
+                "distanceMiles": 0.9
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC",
+                    "filename": "942d39d69095939486d2fd2edfbf994ea856387e.png",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "A superb family home situated in the secluded residential close of Surrey Mount. Conveniently located just a short distance away from Forest Hill town centre with its excellent transport links, as well as the Horniman Museum with its tranquil gardens. The house o?ers all the bene?ts of a busy London home, in a green and leafy setting with peace and quiet that you would not expect. Community spirit is strong here, the neighbourhood is small, friendly and intimate.<br><br>Built in the late 60s, the property comprises, a generous downstairs living/dining area with easy access leading out to the garden, a separate kitchen with fitted units and integrated appliances. On the first floor, there are 2 bedrooms and a family bathroom. Externally, the property benefits from both the typical tiered garden with the additional benefit of additional garden space to the side of the building. The property is being sold with no-onward chain and with the benefit of a garage en-bloc.<br><strong>Ground floor<br><br>lounge/diner</strong><br><br>3.93m x 7.19m (12' 11\" x 23' 7\")<br><strong>Kitchen</strong><br><br>2.60m x 3.93m (8' 6\" x 12' 11\")<br><strong>First floor<br><br>bedroom</strong><br><br>3.50m x 3.93m (11' 6\" x 12' 11\")<br><strong>Bedroom</strong><br><br>3.93m x 3.86m (12' 11\" x 12' 8\")<br><strong>Bathroom<br><br>outside<br><br>garden<br><br>garage en bloc</strong>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "No-onward chain",
+                "Wrap around garden",
+                "Backing on to Horniman Gardens",
+                "Garage en-block/parking space",
+                "0.3mi to Forest Hill Station"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "c436c9d240370565552aad86be86dd9b4c70dfbc.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "c932abcc5f1f18d3f537aea1d44cf5eb9ac42514.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "2a56de80aedd63bb55b17a28830a58dacfe00eea.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "380fc6bcc90c07b648d349e8fbc28b2a8d285644.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "10fe080b7249fe34dcff12b1cb97c017846deb37.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cdeea3de59fe1e4f4ca54e596dbd805f79631c01.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "85593f9bf08941379f839dc0bf6bb735476e43ea.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "446890334e34be859e32dfdacef7af280403109f.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f40a6711d96f3c0f5705924cd559c00d89a067ae.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9c3f0bb30cebf18742be6c3781a992d123531724.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "bf79c29ef4568382bf932268718f6f4f46a96092.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fad69e2f621745bde2b25aee8d6a9cb129899f75.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "839a9081b9216d1b58a6ebbbcea20cedd5198047.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cc3da3059d368fba45abbcf16ee623064ed53957.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "dbfd58ea763e18c385666b69ac39443fd0567508.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ce073152d0ea68b8a030708df19f61e5c1f711a4.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "fbc167957d8e23b00f68498b5f6380215895f9be.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "c91ab63fd86d46e97724eb8eb79dfc4fc91a01f6.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ee537efcabec8c27315a194c9883ef8993f05ead.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "468919c25f00f56cd665b9b11b91f2a14f95def5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "80a5ee600bfc32e4a1ce3952c47bcf5005292c17.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 20,
+            "acornType": 20,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 36004,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(714197).png",
+            "branchName": "Stanfords, Forest Hill",
+            "brandName": "Robert Stanford Estates",
+            "chainFree": true,
+            "companyId": 16917,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Surrey Mount, Forest Hill, London SE23",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3PF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60748908,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 20,
+            "numRecepts": 1,
+            "outcode": "SE23",
+            "postalArea": "SE",
+            "postTownName": "London",
+            "priceActual": 625000,
+            "price": 625000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "end_terrace",
+            "sizeSqFeet": "",
+            "tenure": null,
+            "zindex": 501797
+        },
+        "title": "2 bed end terrace house for sale",
+        "metaTitle": "2 bed end terrace house for sale in Surrey Mount, Forest Hill, London SE23 - Zoopla",
+        "metaDescription": "2 bed end terrace house for sale in Surrey Mount, Forest Hill, London SE23, selling for \u00a3625,000 from Stanfords, Forest Hill. See property details on Zoopla or browse all our range of properties in Surrey Mount, Forest Hill, London SE23.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60748908/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.441565,
+                "longitude": -0.059823
+            }
+        },
+        "displayAddress": "Surrey Mount, Forest Hill, London SE23",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-13T00:09:38",
+                "priceLabel": "\u00a3625,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2008-05-16",
+                "newBuild": false,
+                "price": 250000,
+                "priceLabel": "\u00a3250,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 208
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/c436c9d240370565552aad86be86dd9b4c70dfbc.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3625,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Robert Stanford Estates",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60748908,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "7ED5BBEA-96A3-11EC-874A-91F30D674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE23",
+            "areaNameUri": "london/se23/forest-hill",
+            "propertyTypeGroup": "house",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": null
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 594761,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 601650,
+                    "pctChangeSince": -1.145,
+                    "date": "2021-11-26",
+                    "changeSince": -6889
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 621657,
+                    "pctChangeSince": -4.327,
+                    "date": "2021-08-26",
+                    "changeSince": -26896
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 629235,
+                    "pctChangeSince": -5.479,
+                    "date": "2021-02-26",
+                    "changeSince": -34474
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 566908,
+                    "pctChangeSince": 4.913,
+                    "date": "2017-02-26",
+                    "changeSince": 27853
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 358260,
+                    "pctChangeSince": 66.014,
+                    "date": "2012-02-26",
+                    "changeSince": 236501
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 333483,
+                    "pctChangeSince": 78.348,
+                    "date": "2007-02-26",
+                    "changeSince": 261278
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 204569,
+                    "pctChangeSince": 190.739,
+                    "date": "2002-02-26",
+                    "changeSince": 390192
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 699841,
+                    "newBuilds": 0,
+                    "numSales": 101
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 676936,
+                    "newBuilds": 0,
+                    "numSales": 344
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 662540,
+                    "newBuilds": 0,
+                    "numSales": 579
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 639914,
+                    "newBuilds": 1,
+                    "numSales": 874
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-25T00:00:00Z",
+                    "price": 599950,
+                    "propertyId": 21194659,
+                    "streetAddress": "6 Surrey Mount",
+                    "uri": "6-surrey-mount/london/se23-3pf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 387500,
+                    "propertyId": 21187927,
+                    "streetAddress": "38a Rockbourne Road",
+                    "uri": "38a-rockbourne-road/london/se23-2dd"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 420000,
+                    "propertyId": 21194254,
+                    "streetAddress": "Flat 6, Woodelm Court, 123 Devonshire Road",
+                    "uri": "flat-6/woodelm-court/123-devonshire-road/london/se23-3lx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 724200,
+                    "propertyId": 21197300,
+                    "streetAddress": "26 Derby Hill Crescent",
+                    "uri": "26-derby-hill-crescent/london/se23-3yl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 940000,
+                    "propertyId": 21186037,
+                    "streetAddress": "35 Parbury Road",
+                    "uri": "35-parbury-road/london/se23-1nz"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 225000,
+                    "propertyId": 21187707,
+                    "streetAddress": "47 Reid House, Hyndewood, Bampton Road",
+                    "uri": "47-reid-house/hyndewood/bampton-road/london/se23-2bj"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,587 @@
+{
+    "address": "Bromyard Avenue, London W3",
+    "price": "\u00a3650,000",
+    "beds": "2 beds",
+    "area": "740 sq. ft",
+    "sqm": 69.0,
+    "sqft": 740.0,
+    "text": ". (ROOF TERRACE/| ' \u2018 '\nLSS a x x BALCONY x\n5 A 2 56'2 x 18'8 ms a\n. . TAMAS): |p \u2019 : ; :\njs = A : a\na a been\n[x WALKIN: |\n{WARDROBE\nBEDROOM iF i x cei\n1 . 7 d Am),\nRECEPTION/KITCHEN 12'3 x 101 | J ean : \u2018 , \u2019\n17'5 x 154 (3.7m x 3.1m) a\n(6.3m x 4.6m) aA Uu 4 x x\n\u2018S) yy \\) EN-SUITE\non Y 75x84\n65 ; (2.3m x 1.9m)\nP\nBEDROOM \u2018\n1111 x 10'2 {\n(3.4m x 3.1m) a\nfo @ lL yA\nx y N\n\\|SHOWER ROOM)\n7'5 x 6'2\n(2.3m x 1.9m)\nFIFTH FLOOR\nGROSS INTERNAL\nFLOOR AREA 740 SQ FT\nAPPROX. GROSS INTERNAL FLOOR AREA: 740 SQFT/ 69 SQM\ny\nPROPERTY PHOT \u00ae PLANS ou\nONE STOP SHOP FOR PROPERTY MARKETING\nThis plan is for illustrative purposes only and should be used as such by any prospective client.\nWhilst every attempt has been made to ensure the accuracy of the Floor Plan contained here, measurements of the doors, windows,\nrooms and any other items are approximate and no responsibility is taken for any errors, omissions, or misstatement.\nThe services, systems and appliances shown have not been tested and no guarantee as to the operability or efficiency can be given.\n",
+    "image": "./extracted_images/60783466.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/60783466/",
+    "listing_no": "60783466",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.507595,
+        "longitude": -0.249987
+    },
+    "first_published": "2022-02-17T11:47:56",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "60783466",
+        "publishedOn": "2022-02-17T11:47:56",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 19204,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(154528).png",
+            "branchName": "Farrell Lewis Estates",
+            "brandName": "Farrell Lewis Estates",
+            "chainFree": false,
+            "companyId": 9750,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Bromyard Avenue, London W3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7BN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60783466,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "740",
+            "tenure": "leasehold",
+            "zindex": 467419
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/farrell-lewis-estates-london-19204/",
+            "branchId": "19204",
+            "branchResultsUri": "/for-sale/branch/farrell-lewis-estates-london-19204/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(154528).png",
+            "phone": "020 8033 3035",
+            "name": "Farrell Lewis Estates",
+            "memberType": "agent",
+            "address": "2 East Vale, London",
+            "postcode": "W3 7RU"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Wendell Park Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Queensmill School (SEN)",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Acton Central",
+                "type": "national_rail_station",
+                "distanceMiles": 0.6
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "East Acton",
+                "type": "london_underground_station",
+                "distanceMiles": 0.6
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://player.vimeo.com/video/676761854"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "e4ed659613e07e44138c5db78f4865efda4611d2.jpg",
+                    "url": null
+                }
+            ],
+            "pdf": null
+        },
+        "detailedDescription": "**Video Viewing Available**<br><br>A stunning brand new never been lived in two bedroom penthouse apartment located within an exclusive modern gated development with a 24hr concierge service.This state of the art apartment comprises of a reception room with space for dining and access to a huge balcony boasting 1056sq ft which is accessible from the master bedroom too. Further benefits include a fabulous open-plan kitchen with integrated appliances including a zimbabwe black polished granite worktop and tiled floor which is light grey matt finish. The master bedroom benefits an en-suite bathroom with a built in television and walk-in-wardrobe, one additional well-proportioned bedroom and a luxurious shower room and a work office/ study.<br><br>The development is located close to shops, bars and restaurants on The Vale, David Lloyd Health &amp; Leisure is located nearby. Westfield Shopping Centre is easily reachable with its vast selection of shops, restaurants and state of the art cinema.<br><br>Transport links include frequent buses to Hammersmith, Acton, Chiswick and Shepherds Bush. Acton Central Station (Overground) and East Acton Underground Station (Central Line) Shepherds Bush Underground and Overground as well as quick and easy routes in and out of London via the A4/M4 and A40/M40.<br><br>Further benefits include a secure underground car park.<br><br><strong>What3words /// </strong> ready.sober.went",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Secure Gated Development",
+                "24 Hr Concierge Service",
+                "5th Floor With Lift Access",
+                "Newly Refurbished",
+                "1056 Square Ft Balcony/Roof Terrace",
+                "10 Minutes Walk Away From East Acton Station",
+                "Video Viewing Available",
+                "Secure Underground Car Park"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "fd31a145786d206860c73fc33a1189d354020be6.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "e976c509bb2b2a6e4c1eb216f0e04ecf7b273013.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "f9569bc44cb77dd66dd7b5a2cb5ee110d536e768.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a7365e60b2f818739bce89c8b316410bf3fa96d5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a9aa03786dd672589358457f036c393c34a7c635.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "29e9f8856eb4107c121a71981236c29114d9963e.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "ba1368bc33119b2495b97039b5377536b12a7616.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "e10e55576661d3e5a614d8d37bb8896f82ef24ae.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "25023399dfe5e71a805e9b4ef94545f2117d3b16.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "9819b110cd102ffc72945a64302fb77cef6e1de5.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "cceba55c7f4be03c3508840a34ac35cbb6197d30.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "331348bbbb12ecea48b6c4da93f10062e485ad85.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "654d22c6b1bba0dfcec5cca3433b5d39f9d0685b.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "caf4271a8c8e85e967db455543597993a405f48c.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "45c957e67996c50570384c4ba4404d04a9a7cee9.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "81e64c5440c0b22d349bc08baef86ae33a7a5caa.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "743bf5645d63a3d38191c165c1a36a5754682433.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "917450a558c9ee183dbc4a4af50cad3bfa197e86.jpg",
+                "caption": null
+            },
+            {
+                "__typename": "Media",
+                "filename": "a072efb17a993857e83cbfba313ba62d25d6c236.jpg",
+                "caption": null
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 19204,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(154528).png",
+            "branchName": "Farrell Lewis Estates",
+            "brandName": "Farrell Lewis Estates",
+            "chainFree": false,
+            "companyId": 9750,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Bromyard Avenue, London W3",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "7BN",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 60783466,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 18,
+            "numRecepts": 1,
+            "outcode": "W3",
+            "postalArea": "W",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "740",
+            "tenure": "leasehold",
+            "zindex": 467419
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Bromyard Avenue, London W3 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Bromyard Avenue, London W3, selling for \u00a3650,000 from Farrell Lewis Estates. See property details on Zoopla or browse all our range of properties in Bromyard Avenue, London W3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/60783466/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.507595,
+                "longitude": -0.249987
+            }
+        },
+        "displayAddress": "Bromyard Avenue, London W3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-02-17T11:47:56",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 123
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/fd31a145786d206860c73fc33a1189d354020be6.jpg"
+                }
+            ]
+        },
+        "statusSummary": null,
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 740
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 878,
+                "unitsLabel": "sq. ft"
+            },
+            "alternateRentFrequencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Farrell Lewis Estates",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 60783466,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "402A99C0-949A-11EC-A198-82240E674736",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "W3",
+            "areaNameUri": "london/w3/acton",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1956.199999999999
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 404918,
+                    "pctChangeSince": 0,
+                    "date": "2022-02-26",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 411489,
+                    "pctChangeSince": -1.597,
+                    "date": "2021-11-26",
+                    "changeSince": -6571
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 423656,
+                    "pctChangeSince": -4.423,
+                    "date": "2021-08-26",
+                    "changeSince": -18738
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 446579,
+                    "pctChangeSince": -9.329,
+                    "date": "2021-02-26",
+                    "changeSince": -41661
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 443072,
+                    "pctChangeSince": -8.611,
+                    "date": "2017-02-26",
+                    "changeSince": -38154
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 295132,
+                    "pctChangeSince": 37.199,
+                    "date": "2012-02-26",
+                    "changeSince": 109786
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 263193,
+                    "pctChangeSince": 53.848,
+                    "date": "2007-02-26",
+                    "changeSince": 141725
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 155985,
+                    "pctChangeSince": 159.588,
+                    "date": "2002-02-26",
+                    "changeSince": 248933
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 435683,
+                    "newBuilds": 0,
+                    "numSales": 146
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 422801,
+                    "newBuilds": 39,
+                    "numSales": 486
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 426404,
+                    "newBuilds": 119,
+                    "numSales": 1029
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 427267,
+                    "newBuilds": 208,
+                    "numSales": 1779
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-15T00:00:00Z",
+                    "price": 82500,
+                    "propertyId": 29138773,
+                    "streetAddress": "Flat 572, Bromyard House, Bromyard Avenue",
+                    "uri": "flat-572/bromyard-house/bromyard-avenue/london/w3-7fg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-27T00:00:00Z",
+                    "price": 287000,
+                    "propertyId": 29138784,
+                    "streetAddress": "Flat 583, Bromyard House, Bromyard Avenue",
+                    "uri": "flat-583/bromyard-house/bromyard-avenue/london/w3-7fg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-13T00:00:00Z",
+                    "price": 110000,
+                    "propertyId": 25026148,
+                    "streetAddress": "Flat 98, Bromyard House, Bromyard Avenue",
+                    "uri": "flat-98/bromyard-house/bromyard-avenue/london/w3-7bf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-03T00:00:00Z",
+                    "price": 325000,
+                    "propertyId": 30867762,
+                    "streetAddress": "Flat 103, Napier House, Bromyard Avenue",
+                    "uri": "flat-103/napier-house/bromyard-avenue/london/w3-7fj"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-06-29T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 25026194,
+                    "streetAddress": "Flat 168, Bromyard House, Bromyard Avenue",
+                    "uri": "flat-168/bromyard-house/bromyard-avenue/london/w3-7bn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-17T00:00:00Z",
+                    "price": 827500,
+                    "propertyId": 25020302,
+                    "streetAddress": "72 Princes Gardens",
+                    "uri": "72-princes-gardens/london/w3-0lq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-10T00:00:00Z",
+                    "price": 910000,
+                    "propertyId": 25022231,
+                    "streetAddress": "24 Stuart Road",
+                    "uri": "24-stuart-road/london/w3-6dg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-06T00:00:00Z",
+                    "price": 830000,
+                    "propertyId": 25034544,
+                    "streetAddress": "14 Gunnersbury Crescent",
+                    "uri": "14-gunnersbury-crescent/london/w3-9aa"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-30T00:00:00Z",
+                    "price": 840000,
+                    "propertyId": 25020344,
+                    "streetAddress": "139 Princes Gardens",
+                    "uri": "139-princes-gardens/london/w3-0ls"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-29T00:00:00Z",
+                    "price": 315000,
+                    "propertyId": 25027951,
+                    "streetAddress": "33 Larch Avenue",
+                    "uri": "33-larch-avenue/london/w3-7lh"
+                }
+            ]
+        }
+    }
+}
