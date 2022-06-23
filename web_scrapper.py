@@ -1,5 +1,6 @@
 import os
 from re import search
+from tkinter.messagebox import NO
 import requests
 from bs4 import BeautifulSoup as soup
 import ocr_sqm
@@ -79,23 +80,26 @@ def get_information_from_listing(link, verbose = True):
 
   next_data = json.loads(property_page.find('script', {'id':'__NEXT_DATA__'}).text)
   deets = next_data['props']['pageProps']['listingDetails']
-  if deets['priceHistory']['firstPublished'] is None:
-    first_published = None
+  if deets['priceHistory'] is None:
+    first_published = last_sale_new = last_sale_date = None
   else:
-    first_published = deets['priceHistory']['firstPublished']['firstPublishedDate']
-  # bad code smell...
-  if deets['priceHistory']['lastSale'] is None:
-    last_sale_date = None
-    last_sale_new = None
-  else:
-    if 'date' in deets['priceHistory']['lastSale']: 
-      last_sale_date = deets['priceHistory']['lastSale']['date']
+    if deets['priceHistory']['firstPublished'] is None:
+      first_published = None
     else:
+      first_published = deets['priceHistory']['firstPublished']['firstPublishedDate']
+    # bad code smell...
+    if deets['priceHistory']['lastSale'] is None:
       last_sale_date = None
-    if 'newBuild' in deets['priceHistory']['lastSale']:
-      last_sale_new = deets['priceHistory']['lastSale']['newBuild']
-    else: 
       last_sale_new = None
+    else:
+      if 'date' in deets['priceHistory']['lastSale']: 
+        last_sale_date = deets['priceHistory']['lastSale']['date']
+      else:
+        last_sale_date = None
+      if 'newBuild' in deets['priceHistory']['lastSale']:
+        last_sale_new = deets['priceHistory']['lastSale']['newBuild']
+      else: 
+        last_sale_new = None
 
 
 
