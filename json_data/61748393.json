@@ -1,0 +1,538 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 90.9,
+    "sqft": null,
+    "text": "Gross Internal Area\n90.9 Sqm / 977.1 Saft\nUnex Tower, E15\nNet Internal Area\n87.6 Sqm / 942 Saft\nSe = oe\nan fo\nSUN ROOM\n\\ 6.33m x 1.65m\nMS (209 x 5)\n~ so\n\u2014\nKITCHEN/RECEPTION\n8.9m x 3.55m\n(296 x 178)\nBEDROOM 2\n4.50m x 2.93m\n(49x 97\nMASTER BEDROOM\n6.35m x 3.63m\n(2010 x 111)\n\u2014 Twenty First Floor\n\f",
+    "image": "./extracted_images/61748393.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61748393/?search_identifier=2462aeb6398b9986cfe87bf71b0d4c3e",
+    "listing_no": "61748393",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.540026,
+        "longitude": -0.00146
+    },
+    "first_published": "2022-06-20T11:55:27",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61748393",
+        "publishedOn": "2022-06-20T11:55:27",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79912,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "branchName": "JLL - Stratford",
+            "brandName": "JLL",
+            "chainFree": false,
+            "companyId": 6050,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Stratford, London E15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1LA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61748393,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "E15 1LA",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "E15",
+            "postalArea": "E",
+            "postTownName": "",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/jll-stratford-london-79912/",
+            "branchId": "79912",
+            "branchResultsUri": "/for-sale/branch/jll-stratford-london-79912/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "phone": "020 8115 3658",
+            "name": "JLL - Stratford",
+            "memberType": "agent",
+            "address": "Unex Tower, 5 Station Street, London",
+            "postcode": "E15 1DA"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stratford",
+                "type": "london_underground_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Stratford (London)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "John F Kennedy Special School",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "School 21",
+                "type": "uk_school_primary_and_secondary",
+                "distanceMiles": 0.3
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": [
+                {
+                    "__typename": "Media",
+                    "url": "https://embed.spec.properties/?propertyID=5a96a5e0fba3130cd1ebc890"
+                }
+            ],
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Graphs",
+                    "filename": "7db17208944b6105496de904301d7cd215de2107.jpg",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "A well designed, 21st floor, 964 sqft luxury two bedroom apartment in the popular Unex Tower development located directly next to Stratford underground station for central, jubilee and DLR line.<br><br>Featuring the highest quality designer brand names throughout, this apartment is designed and built to the finest standard. High specification kitchens include handle-less fitted units, engineered stone worktops, glass splash backs and fully integrated appliances. Bathrooms and en Suite shower rooms offer bespoke cabinetry and ceramic tiling. Fitted wardrobes to main bedrooms and under floor heating throughout.<br><br>The development features a private roof terrace with spectacular 360\u00b0 vistas of London, 24 hour concierge service and secured bicycle storage.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "- 2 Bedrooms",
+                "- 2 Bathrooms",
+                "- 21st Floor",
+                "- Winter Garden",
+                "- 24 hour concierge",
+                "- 0.2 mile from Stratford Underground Station",
+                "- Approx 977 sq ft (90.9 sq m)",
+                "- EPC: B"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": "2022-06-20T12:00:00"
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "5625dff51093c3f35e95cde3a1694573b1f55d0d.png",
+                    "caption": "Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "607adc9de8c08cbb0aa5b49e335afcabb35bd57a.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1ca3e9f6cac7a5e6afac876c1bd0d7933c29160b.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e05573f88261c81c93ec7967d738396232373efb.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "18fa012555977d4d77fea556f883c7f63001cb67.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3bbca1e34f50a49167a4e103c9e97d64052d6f9c.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "901ce5fb71b81f8b7ef1584b43c2126cb86113a8.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ffd402b13e96b88d972793cc3eb6a171c3b7346e.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8d66b77e3035bf79909146af95d4f069de050436.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "59e4b7a880bbfed931f9fa7eb5c4511e5e487ee3.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ee20cf4bb9144995351bf98943d7f4e51328bc94.jpg",
+                "caption": "12_Master_Ensuite_1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f34ba742b7d18687f23d09aa5b2074ecbb87447d.jpg",
+                "caption": "Picture No. 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1514ebbc174ffbdf6d5ec413d19368244e77c049.jpg",
+                "caption": "15_Bathroom_1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9f8cf2fc88621f9cc88edc8eb4c0fc2aa9462605.jpg",
+                "caption": "Picture No. 17"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a569bd3bb1f267808a82cb8b3c257b268e18b303.jpg",
+                "caption": "Picture No. 02"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "E15 1LA",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 79912,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(526089).png",
+            "branchName": "JLL - Stratford",
+            "brandName": "JLL",
+            "chainFree": false,
+            "companyId": 6050,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Stratford, London E15",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1LA",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61748393,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": 1,
+            "outcode": "E15",
+            "postalArea": "E",
+            "postTownName": "",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Stratford, London E15 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Stratford, London E15, selling for \u00a3650,000 from JLL - Stratford. See property details on Zoopla or browse all our range of properties in Stratford, London E15.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61748393/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.540026,
+                "longitude": -0.00146,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Stratford, London E15",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-20T11:55:27",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 30
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/5625dff51093c3f35e95cde3a1694573b1f55d0d.png"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "JLL",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61748393,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "b70d5d02-3b92-40d8-827e-6f4eb4641488",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E15",
+            "areaNameUri": "london/e15/stratford-west-ham",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2374.125
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 417064,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 404310,
+                    "pctChangeSince": 3.155,
+                    "date": "2022-03-23",
+                    "changeSince": 12754
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 409864,
+                    "pctChangeSince": 1.757,
+                    "date": "2021-12-23",
+                    "changeSince": 7200
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 430165,
+                    "pctChangeSince": -3.046,
+                    "date": "2021-06-23",
+                    "changeSince": -13101
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 379174,
+                    "pctChangeSince": 9.993,
+                    "date": "2017-06-23",
+                    "changeSince": 37890
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 250412,
+                    "pctChangeSince": 66.551,
+                    "date": "2012-06-23",
+                    "changeSince": 166652
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 255206,
+                    "pctChangeSince": 63.422,
+                    "date": "2007-06-23",
+                    "changeSince": 161858
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 156337,
+                    "pctChangeSince": 166.772,
+                    "date": "2002-06-23",
+                    "changeSince": 260727
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 355894,
+                    "newBuilds": 0,
+                    "numSales": 72
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 365483,
+                    "newBuilds": 33,
+                    "numSales": 287
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 384357,
+                    "newBuilds": 246,
+                    "numSales": 1014
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 358185,
+                    "newBuilds": 383,
+                    "numSales": 1640
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-28T00:00:00Z",
+                    "price": 420000,
+                    "propertyId": 7885424,
+                    "streetAddress": "45 Harcourt Road",
+                    "uri": "45-harcourt-road/london/e15-3dx"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-25T00:00:00Z",
+                    "price": 390000,
+                    "propertyId": 7892912,
+                    "streetAddress": "Flat 46, Ammonite House, 12 Flint Close",
+                    "uri": "flat-46/ammonite-house/12-flint-close/london/e15-4qr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-24T00:00:00Z",
+                    "price": 595000,
+                    "propertyId": 7887740,
+                    "streetAddress": "114 Caistor Park Road",
+                    "uri": "114-caistor-park-road/london/e15-3pr"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-18T00:00:00Z",
+                    "price": 585000,
+                    "propertyId": 7879508,
+                    "streetAddress": "133 Chandos Road",
+                    "uri": "133-chandos-road/london/e15-1tu"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-18T00:00:00Z",
+                    "price": 455000,
+                    "propertyId": 7889370,
+                    "streetAddress": "64 Glenavon Road",
+                    "uri": "64-glenavon-road/london/e15-4dd"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

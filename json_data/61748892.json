@@ -1,0 +1,558 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": null,
+    "sqft": null,
+    "text": "Fae a\n\nis\n\neo\n\nlh\n\n=\n\nae\n\nShe\n\n\u2014\u2014\n\n=\n\ni\n\nFT\n\n|\n\n==\n\n|\n\n| <\n\n|\n\n=\n\n\u2014\n\nCf\n\n5\n\nAHR\n\n,\n\nra\n\f",
+    "image": "./extracted_images/61748892.jpg",
+    "link": "https://www.zoopla.co.uk//new-homes/details/61748892/?search_identifier=2462aeb6398b9986cfe87bf71b0d4c3e",
+    "listing_no": "61748892",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.457829,
+        "longitude": 0.029108
+    },
+    "first_published": "2022-06-20T12:40:09",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61748892",
+        "publishedOn": "2022-06-20T12:40:09",
+        "category": "residential",
+        "section": "new-homes",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/3775e362bdf9eb84e03c8b1d3a806eff99c351e4.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 32751,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396618).png",
+            "branchName": "Berkeley - Kidbrooke Village",
+            "brandName": "Berkeley",
+            "chainFree": true,
+            "companyId": 32588,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Pegler Square, Kidbrooke SE3",
+            "furnishedState": "",
+            "groupId": 14,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9JF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 61748892,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "SE3 9JF",
+            "memberType": "developer",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": null,
+            "outcode": "SE3",
+            "postalArea": "SE",
+            "postTownName": "",
+            "priceActual": 610000,
+            "price": 610000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "794",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/new-homes/developers/branch/berkeley-kidbrooke-village-london-32751/",
+            "branchId": "32751",
+            "branchResultsUri": "/new-homes/branch/berkeley-kidbrooke-village-london-32751/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396618).png",
+            "phone": "020 3641 2767",
+            "name": "Berkeley - Kidbrooke Village",
+            "memberType": "developer",
+            "address": "Birch House, 5 Pegler Square, London",
+            "postcode": "SE3 9FW"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "Holy Family Catholic Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Ealdham Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Kidbrooke",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Lee (London)",
+                "type": "national_rail_station",
+                "distanceMiles": 0.9
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": [
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/LlNxrZ6u3jM?rel=0"
+                },
+                {
+                    "__typename": "Media",
+                    "url": "https://www.youtube.com/embed/NnnldijOhJg?rel=0"
+                }
+            ],
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": null,
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "Waterlily Court - Property E1.01.06<br>Speak to a Sales Consultant today to find out more.<br><br>Waterlily Court sits alongside South Cator Park, giving it a prime position for enjoying the emerald in the Kidbrooke Village crown. Sutcliffe Park, the other major green space in Kidbrooke Village, isn't very much further. Cator Park was conceived at the very beginning of the Kidbrooke Village story, and is now very well established as a haven for people and wildlife. The entire park offers a wide range of features and things to do. Cycling, walking, sitting in the sun, and sports in the multi-use games area are just some of the ways to enjoy local park life. Residents have set up groups for running, yoga and tai chi, which of course you are welcome to join. It's also a very ecologically-minded open space, with wildlife-friendly areas including lavender mounds which are irresistible to bees. Reclaimed timber has been used for seats and fences, and in the children's adventure playground.<br><br>This brand new 2 bedroom, 2 bathroom apartment boasts open plan living and is spread across 794 sq. Ft. Of internal space. Boasting private outdoor space, you will also have access to Waterlily Court podium garden - it really is a park within a park. Tucked discreetly between the apartment buildings, it's an oasis of peace and mindfulness, offering views over South Cator Park, and is open to residents only. Cherry trees, silver birches, colourful ornamental grasses, evergreens, seasonal flowers, sage and lavender all play a role in creating a space for contemplating life and feeling just a little more... Zen.<br><br>Your new home is only a short walking from The Village Centre - which is at the very heart of the development set around a stunning village square. It is ideally placed for Kidbrooke station and the retail hub which serves the whole of the village.<br><br>The Village Centre is where everyone gravities to for convenient shopping and other local facilities. On-site amenities include a supermarket, coffee shop, dentist, doctor, and pharmacy. More shops, restaurants leisure facilities and the piazza will be delivered over the coming years.<br><br>Computer generated images are indicative only.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Balcony",
+                "Double glazing",
+                "2 bedrooms, 2 bathrooms",
+                "794 sq. Ft. Of internal space",
+                "West aspects",
+                "Choose from two colour way options; Urban or Nature",
+                "Only a short walk from the onsite Kidbrooke train station",
+                "17 minutes to London Bridge"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "f7904abe10d1cd7bea146b5541621ed55d0be53c.jpg",
+                    "caption": "E1.01.06 Floorplan"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "2f0ed89902395fe93d8fa3b274f3bfb0ceacec66.jpg",
+                "caption": "Dining Room"
+            },
+            {
+                "__typename": "Media",
+                "filename": "1e15cc10870c11c1a5e9c4123678e11c60179a4a.jpg",
+                "caption": "Desk Space"
+            },
+            {
+                "__typename": "Media",
+                "filename": "75b28bf4072a4b47a67d5bcf7e033ec0c0d23380.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "f9a34275fa5857bbbc0c1e5e3aecd0b3464a865c.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b1b56e44ab6c294ccaf6a0888517015b2ca87917.jpg",
+                "caption": "Bedroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fb1787b25105ed2a5e1aa8e22d110f8cc359cf35.jpg",
+                "caption": "Balcony"
+            },
+            {
+                "__typename": "Media",
+                "filename": "21870fb581f6de2eb54170fde7fbdc009941d48a.jpg",
+                "caption": "Waterlily Court CGI"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e3c1a26bbfebb96cab14ff3880c499e09327d89b.jpg",
+                "caption": "Kidbrooke Village"
+            },
+            {
+                "__typename": "Media",
+                "filename": "396d78844427c9bec98673a2fbb9e32647a9830b.jpg",
+                "caption": "Kidbrooke Village"
+            },
+            {
+                "__typename": "Media",
+                "filename": "cc2e4b72a4ce858c9ffd0bd729370d3406f4673e.jpg",
+                "caption": "Kidbrooke Village"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bc60f56d43ad94b8e53dffc6a50dc5f8f76feba1.jpg",
+                "caption": "Kidbrooke Village"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e73c39fb5dde1e3614d83ae257880af828d0e7b1.jpg",
+                "caption": "Pegler Square"
+            },
+            {
+                "__typename": "Media",
+                "filename": "0b4cd147cb2b1d70ba3a61c209bbaa5076ae6558.jpg",
+                "caption": "The Depot"
+            },
+            {
+                "__typename": "Media",
+                "filename": "508385081c09d14ea04bc4eab38391e24654567d.jpg",
+                "caption": "Sainsbury's Local"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "SE3 9JF",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": null,
+            "acornType": null,
+            "areaName": "",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 32751,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(396618).png",
+            "branchName": "Berkeley - Kidbrooke Village",
+            "brandName": "Berkeley",
+            "chainFree": true,
+            "companyId": 32588,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Pegler Square, Kidbrooke SE3",
+            "furnishedState": "",
+            "groupId": 14,
+            "hasEpc": false,
+            "hasFloorplan": true,
+            "incode": "9JF",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "new",
+            "listingId": 61748892,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "developer",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 14,
+            "numRecepts": null,
+            "outcode": "SE3",
+            "postalArea": "SE",
+            "postTownName": "",
+            "priceActual": 610000,
+            "price": 610000,
+            "priceMax": 650000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "794",
+            "tenure": "leasehold",
+            "zindex": null
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "New home, 2 bed flat for sale in Pegler Square, Kidbrooke SE3 - Zoopla",
+        "metaDescription": "A new 2 bed flat for sale in Pegler Square, Kidbrooke SE3, selling for \u00a3610,000 from Berkeley - Kidbrooke Village. See property details on Zoopla or browse all our range of properties in Pegler Square, Kidbrooke SE3.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/new-homes/details/61748892/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.457829,
+                "longitude": 0.029108,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Pegler Square, Kidbrooke SE3",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-20T12:40:09",
+                "priceLabel": "\u00a3610,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 19
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/f7904abe10d1cd7bea146b5541621ed55d0be53c.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [
+            {
+                "__typename": "ListingTag",
+                "label": "New home"
+            }
+        ],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 0
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 794,
+            "label": "794 sq. ft"
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3610,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 768,
+                "unitsLabel": "sq. ft",
+                "label": "\u00a3768/sq. ft"
+            },
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Berkeley",
+            "category": "for-sale/resi/developer/new/gb",
+            "id": 61748892,
+            "name": "NH_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium"
+        },
+        "uuid": "5b03b089-6649-4939-a7ea-9e6d31d31fd5",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "SE3",
+            "areaNameUri": "london/se3/blackheath-kidbrooke-westcombe-park",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 1970.7037037037046
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 518443,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 498643,
+                    "pctChangeSince": 3.971,
+                    "date": "2022-03-23",
+                    "changeSince": 19800
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 498682,
+                    "pctChangeSince": 3.963,
+                    "date": "2021-12-23",
+                    "changeSince": 19761
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 516327,
+                    "pctChangeSince": 0.41,
+                    "date": "2021-06-23",
+                    "changeSince": 2116
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 491586,
+                    "pctChangeSince": 5.463,
+                    "date": "2017-06-23",
+                    "changeSince": 26857
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 325010,
+                    "pctChangeSince": 59.516,
+                    "date": "2012-06-23",
+                    "changeSince": 193433
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 313614,
+                    "pctChangeSince": 65.312,
+                    "date": "2007-06-23",
+                    "changeSince": 204829
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 194220,
+                    "pctChangeSince": 166.936,
+                    "date": "2002-06-23",
+                    "changeSince": 324223
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 458459,
+                    "newBuilds": 1,
+                    "numSales": 142
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 472529,
+                    "newBuilds": 4,
+                    "numSales": 444
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 461818,
+                    "newBuilds": 49,
+                    "numSales": 808
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 455405,
+                    "newBuilds": 254,
+                    "numSales": 1385
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 1500000,
+                    "propertyId": 20892243,
+                    "streetAddress": "40 Vanbrugh Hill",
+                    "uri": "40-vanbrugh-hill/london/se3-7uf"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-13T00:00:00Z",
+                    "price": 700000,
+                    "propertyId": 20888287,
+                    "streetAddress": "Apartment 7, 5 Wemyss Road",
+                    "uri": "apartment-7/5-wemyss-road/london/se3-0tg"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 395000,
+                    "propertyId": 20888443,
+                    "streetAddress": "173 Baizdon Road",
+                    "uri": "173-baizdon-road/london/se3-0uh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 745000,
+                    "propertyId": 20895602,
+                    "streetAddress": "42 Craigerne Road",
+                    "uri": "42-craigerne-road/london/se3-8sn"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 470000,
+                    "propertyId": 27324212,
+                    "streetAddress": "8c Charlton Road",
+                    "uri": "8c-charlton-road/london/se3-7hg"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

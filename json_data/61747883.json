@@ -1,0 +1,634 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 100.2,
+    "sqft": 1078.0,
+    "text": "T gy N\nAPOLLO BUILDING \u201d\nApproximate Gross Internal Area ( Le\nSecond floor = 511 sq. ft. (47.5 sq.m.) es E\nThird floor = 567 sq. ft. (52.7 sq.m.) $s\nTotal= 1078 sq, ft. (100.2 sq.m.)\n7 t\n\u201c3 \\\n\u2014 Hee J \\ A \u2014 Bedroom\nJ a = ts\n/ i a \u201cEe Paf DM tasks\u2019\nfi \u2014 x\nfp | 4 1 2) | ax\nJ \u2014 mm ,\nfp co f IRC 7\npe Reception Room / Le ( 1\nog = Kitchen \u2014\u2014 \\ T\n\u00ab Balcon = FA s abt\n\\ Yl 6.86x6.31 io aS |] 3 lL,\n\\ ' 22'6 x 20'8 = a oan t ce |\n\\ on = WS = ery Bedroom = __s\n\\ \u201879rRa} \\ J t (| Y 5.42x297 \\\n\\ 7 %& LY Js Dn 179x999 NN\n\\ a fr \u2014~ \u00e9\nyf / IN. gay S ~\n[ _ eo, (52 3)= Ceiling Height i Wy \u2014- \u2018 :\n, on\nSecond Floor Third Floor\nThis plan is for layout guidance only. Not drawn to scale unless stated. Windows and door openings are approximate. Whilst every care is taken\ninthe preparation ofthis plon, please check all dimensions, shopes and compass bearings before making ony decisions rliont upon them.\nDevries\n\f",
+    "image": "./extracted_images/61747883.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61747883/?search_identifier=2462aeb6398b9986cfe87bf71b0d4c3e",
+    "listing_no": "61747883",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.492398,
+        "longitude": -0.02622
+    },
+    "first_published": "2022-06-20T11:16:40",
+    "last_sale_date": "2002-06-20",
+    "last_sale_new": true,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61747883",
+        "publishedOn": "2022-06-20T11:16:40",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": "Web Details",
+                "original": "http://www.hamptons.co.uk/index.asp?spid=CWS220086",
+                "type": "brochure",
+                "url": null
+            },
+            {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://assets.reapit.net/ham/live/pdf.php?p=CWS220086",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58900,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "branchName": "Hamptons - Canary Wharf Sales",
+            "brandName": "Hamptons",
+            "chainFree": true,
+            "companyId": 1612,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Apollo Building, 1 Newton Place, London E14",
+            "furnishedState": "",
+            "groupId": 8,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3TS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61747883,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 20,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Residents Parking|River view",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 675117
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/hamptons-canary-wharf-sales-london-58900/",
+            "branchId": "58900",
+            "branchResultsUri": "/for-sale/branch/hamptons-canary-wharf-sales-london-58900/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "phone": "020 7768 1067",
+            "name": "Hamptons - Canary Wharf Sales",
+            "memberType": "agent",
+            "address": "Unit 1 \u00e2\u0080\u0093 20 Canada Square, Canary Wharf, London",
+            "postcode": "E14 5NN"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Edmund's Catholic School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Arnhem Wharf Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Greenland Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Masthouse Terrace Pier",
+                "type": "uk_ferry_port",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": null,
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": "EPC Rating Graph",
+                    "filename": "64724bbebe2d39e592b30462d1892134468cfa47.png",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "Located in this popular riverside development is this impressive two bedroom apartment which boasts approximately 1,078 sq ft of living space set across two floors.<br><br>The Apollo Building forms part of the Odyssey Development, a private gated development just off Westferry Road and within walking distance to Canary Wharf. On site facilities include a residents gym, 24hr concierge and well maintained riverside gardens.<br>This apartment is spread over two floors offering a versatile floor plan.<br>A spacious living room has full height windows allowing for stunning views directly over The River Thames.<br>The contemporary kitchen is separate from the living room and is fully fitted with a range of integrated kitchen appliances.<br><br>On the entry floor there are two spacious double bedrooms both with a good amount of wardrobe space and the master bedroom comes with a stylish three piece full bathroom ensuite.<br><br>Any prospective buyer will also benefit from access to a concierge service and a fully equipped residents' gymnasium. The property also comes with a parking space and is offered Chain Free.<br><br>Situation<br>Apollo building is located within a popular riverside development, and is within reach of both Canary Wharf and The City, with Mudchute DLR being approximately 8 minutes away. There are also a variety of shops, bars and local restaurants within easy reach plus various parks.<br><br>Additional Information<br>Council Tax: Band F<br>Lease: 125 years from September 2000<br>Service Charge: \u00a34,764 per year<br>Ground Rent: \u00a3390 per year<br><br><strong>Spacious Duplex Aparment</strong><br><br><strong>Direct River Thames Views</strong><br><br><strong>Large River Facing Balcony</strong><br><br><strong>Secure Parking</strong><br><br><strong>Gym And 24Hr Concierge</strong>",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "2 Bedrooms",
+                "Spacious Duplex Aparment",
+                "Direct River Thames Views",
+                "Large River Facing Balcony",
+                "Secure Parking",
+                "Gym and 24hr Concierge"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "leasehold",
+                    "label": "Leasehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": [
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "Residents Parking"
+                },
+                {
+                    "__typename": "FeatureHighlight",
+                    "description": null,
+                    "label": "River view"
+                }
+            ]
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "7cb327071f3f985f5282aa1cb2758bd50908b67f.jpg",
+                    "caption": "Picture No. 23"
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "9726a73cb0f3c48cf34a72152ded060189744297.jpg",
+                "caption": "Picture No. 15"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b3755a7de578366e6191cbbc0515d9af95b8b17b.jpg",
+                "caption": "Picture No. 19"
+            },
+            {
+                "__typename": "Media",
+                "filename": "bc09a9b9937c8411c0e1774beb16c80767d39ece.jpg",
+                "caption": "Picture No. 18"
+            },
+            {
+                "__typename": "Media",
+                "filename": "d0415e332864db9fb790d577d05846e7a3d27b42.jpg",
+                "caption": "Picture No. 20"
+            },
+            {
+                "__typename": "Media",
+                "filename": "5f26b6fe1dd519276ab9141b575b4769a8a046fa.jpg",
+                "caption": "Picture No. 22"
+            },
+            {
+                "__typename": "Media",
+                "filename": "9ecf9497be19753112b2edea843a61ec4b0b2ba7.jpg",
+                "caption": "Picture No. 12"
+            },
+            {
+                "__typename": "Media",
+                "filename": "420ff0043ad87b7cc88101f51d26c280a27adcd6.jpg",
+                "caption": "Picture No. 08"
+            },
+            {
+                "__typename": "Media",
+                "filename": "140c3f2e35b488ca384266708d43ff950b5308ed.jpg",
+                "caption": "Picture No. 05"
+            },
+            {
+                "__typename": "Media",
+                "filename": "292f17d0fac4eecb60da32d45c952da1fe051d0a.jpg",
+                "caption": "Picture No. 04"
+            },
+            {
+                "__typename": "Media",
+                "filename": "a5f715eed61258ccb071e0011d095439070c7aa3.jpg",
+                "caption": "Picture No. 10"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ec340cbb6b22db99b0f4fc5e831bb54aa1f38df0.jpg",
+                "caption": "Picture No. 02"
+            },
+            {
+                "__typename": "Media",
+                "filename": "3bf7476fb05d27b521818987cf68a6a16ed865e4.jpg",
+                "caption": "Picture No. 03"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4e89098a5a18f427ed2981d40ed2b1cc76933ab9.jpg",
+                "caption": "Picture No. 06"
+            },
+            {
+                "__typename": "Media",
+                "filename": "fe123727848bada1e136a3728ddb6e29ebc32b1a.jpg",
+                "caption": "Picture No. 07"
+            },
+            {
+                "__typename": "Media",
+                "filename": "250c832adaa5221a7940b0bed536f6d4c43913ed.jpg",
+                "caption": "Picture No. 09"
+            },
+            {
+                "__typename": "Media",
+                "filename": "86369e4796fe0295b221765032ca2504e1f2f2ed.jpg",
+                "caption": "Picture No. 11"
+            },
+            {
+                "__typename": "Media",
+                "filename": "c51036885e125aafb6142d0398e747ea915b7cd3.jpg",
+                "caption": "Picture No. 13"
+            },
+            {
+                "__typename": "Media",
+                "filename": "51d74d862cbca7342405e0d6653e3c7652d32a11.jpg",
+                "caption": "Picture No. 14"
+            },
+            {
+                "__typename": "Media",
+                "filename": "e6904e6ecd76bbf8c811b927194bdb3474a05d27.jpg",
+                "caption": "Picture No. 16"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8a65e473f13312750802ad0c66d61c4a1a5226e0.jpg",
+                "caption": "Picture No. 17"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 58900,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+            "branchName": "Hamptons - Canary Wharf Sales",
+            "brandName": "Hamptons",
+            "chainFree": true,
+            "companyId": 1612,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Apollo Building, 1 Newton Place, London E14",
+            "furnishedState": "",
+            "groupId": 8,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "3TS",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61747883,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 2,
+            "numBeds": 2,
+            "numImages": 20,
+            "numRecepts": 1,
+            "outcode": "E14",
+            "postalArea": "E",
+            "postTownName": "London",
+            "priceActual": 600000,
+            "price": 600000,
+            "priceMax": 600000,
+            "priceMin": 600000,
+            "priceQualifier": "",
+            "propertyHighlight": "Residents Parking|River view",
+            "propertyType": "flat",
+            "sizeSqFeet": "",
+            "tenure": "leasehold",
+            "zindex": 675117
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Apollo Building, 1 Newton Place, London E14 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Apollo Building, 1 Newton Place, London E14, selling for \u00a3600,000 from Hamptons - Canary Wharf Sales. See property details on Zoopla or browse all our range of properties in Apollo Building, 1 Newton Place, London E14.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61747883/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.492398,
+                "longitude": -0.02622,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Apollo Building, 1 Newton Place, London E14",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-20T11:16:40",
+                "priceLabel": "\u00a3600,000"
+            },
+            "lastSale": {
+                "__typename": "PriceHistoryLastSale",
+                "date": "2002-06-20",
+                "newBuild": true,
+                "price": 290000,
+                "priceLabel": "\u00a3290,000",
+                "recentlySold": false
+            },
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 40
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/7cb327071f3f985f5282aa1cb2758bd50908b67f.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 2,
+            "numLivingRooms": 1
+        },
+        "floorArea": null,
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3600,000",
+            "priceQualifierLabel": null,
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": null,
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Hamptons",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61747883,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "premium plus"
+        },
+        "uuid": "61d55b4e-cb05-4325-8d48-08ff3baf7274",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "E14",
+            "areaNameUri": "london/e14/poplar-isle-of-dogs-millwall",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 3137.1000000000004
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 563513,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 546282,
+                    "pctChangeSince": 3.154,
+                    "date": "2022-03-23",
+                    "changeSince": 17231
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 553786,
+                    "pctChangeSince": 1.756,
+                    "date": "2021-12-23",
+                    "changeSince": 9727
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 581217,
+                    "pctChangeSince": -3.046,
+                    "date": "2021-06-23",
+                    "changeSince": -17704
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 512325,
+                    "pctChangeSince": 9.991,
+                    "date": "2017-06-23",
+                    "changeSince": 51188
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 338347,
+                    "pctChangeSince": 66.549,
+                    "date": "2012-06-23",
+                    "changeSince": 225166
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 344825,
+                    "pctChangeSince": 63.42,
+                    "date": "2007-06-23",
+                    "changeSince": 218688
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 211237,
+                    "pctChangeSince": 166.768,
+                    "date": "2002-06-23",
+                    "changeSince": 352276
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 495640,
+                    "newBuilds": 14,
+                    "numSales": 393
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 491097,
+                    "newBuilds": 199,
+                    "numSales": 1466
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 491832,
+                    "newBuilds": 426,
+                    "numSales": 3069
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 484902,
+                    "newBuilds": 1115,
+                    "numSales": 6003
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-02-07T00:00:00Z",
+                    "price": 662500,
+                    "propertyId": 7853860,
+                    "streetAddress": "Flat 54, Nova Building, 3 Newton Place",
+                    "uri": "flat-54/nova-building/3-newton-place/london/e14-3tt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-12-08T00:00:00Z",
+                    "price": 380000,
+                    "propertyId": 7853851,
+                    "streetAddress": "Flat 46, Nova Building, 3 Newton Place",
+                    "uri": "flat-46/nova-building/3-newton-place/london/e14-3tt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-11-22T00:00:00Z",
+                    "price": 568000,
+                    "propertyId": 7853827,
+                    "streetAddress": "Flat 24, Nova Building, 3 Newton Place",
+                    "uri": "flat-24/nova-building/3-newton-place/london/e14-3tt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-09-27T00:00:00Z",
+                    "price": 500000,
+                    "propertyId": 7853824,
+                    "streetAddress": "Flat 21, Nova Building, 3 Newton Place",
+                    "uri": "flat-21/nova-building/3-newton-place/london/e14-3tt"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2021-08-06T00:00:00Z",
+                    "price": 565000,
+                    "propertyId": 7853741,
+                    "streetAddress": "26 Apollo Building, 1 Newton Place",
+                    "uri": "26-apollo-building/1-newton-place/london/e14-3ts"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-05T00:00:00Z",
+                    "price": 2285000,
+                    "propertyId": 27299782,
+                    "streetAddress": "Flat 22, Keepier Wharf, 12 Narrow Street",
+                    "uri": "flat-22/keepier-wharf/12-narrow-street/london/e14-8dh"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-04T00:00:00Z",
+                    "price": 460000,
+                    "propertyId": 7848380,
+                    "streetAddress": "14 Francis Close",
+                    "uri": "14-francis-close/london/e14-3de"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-01T00:00:00Z",
+                    "price": 610000,
+                    "propertyId": 29343486,
+                    "streetAddress": "Flat 706, Denison House, 20 Lanterns Way",
+                    "uri": "flat-706/denison-house/20-lanterns-way/london/e14-9jl"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 445000,
+                    "propertyId": 7856238,
+                    "streetAddress": "Flat 1, Kilmore House, 2 Vesey Path",
+                    "uri": "flat-1/kilmore-house/2-vesey-path/london/e14-6bp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-03-31T00:00:00Z",
+                    "price": 445000,
+                    "propertyId": 7856251,
+                    "streetAddress": "Flat 7, Kilmore House, 2 Vesey Path",
+                    "uri": "flat-7/kilmore-house/2-vesey-path/london/e14-6bp"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": null
+    }
+}

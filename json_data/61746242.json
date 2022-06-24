@@ -1,0 +1,530 @@
+{
+    "address": null,
+    "price": null,
+    "beds": null,
+    "area": null,
+    "sqm": 61.0,
+    "sqft": 659.0,
+    "text": "Terretts Place, London, N1\nApproximate Gross Internal Area :O\n659 sq ft - 61 sqm\n\u2014 \u2014\n\\\nBedroom cH Reception Room\n15'2\" x 11110\" 2 15'9\" x 11110\"\n4.62 x 3.61m 4.80 x 3.61m\ny\nA\nKitchen\nBedroom 9'9\" x 9'2\" *\n10'9\" x 9'1\" IN 2.97 x 2.79m\n3.28 x 2.77m\n,\nY\nFirst Floor\nIllustration for identification purposes only, not to scale\n\f",
+    "image": "./extracted_images/61746242.jpg",
+    "link": "https://www.zoopla.co.uk//for-sale/details/61746242/?search_identifier=2462aeb6398b9986cfe87bf71b0d4c3e",
+    "listing_no": "61746242",
+    "gmap": {
+        "@type": "GeoCoordinates",
+        "latitude": 51.539995,
+        "longitude": -0.103054
+    },
+    "first_published": "2022-06-20T09:02:05",
+    "last_sale_date": null,
+    "last_sale_new": null,
+    "deets": {
+        "__typename": "ListingData",
+        "listingId": "61746242",
+        "publishedOn": "2022-06-20T09:02:05",
+        "category": "residential",
+        "section": "for-sale",
+        "additionalLinks": [
+            {
+                "__typename": "Media",
+                "caption": null,
+                "original": "https://lc.zoocdn.com/21a96267daaff9e5fd2e6408b68b0b850b7191b8.pdf",
+                "type": "brochure",
+                "url": null
+            }
+        ],
+        "adTargeting": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 18177,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(720252).png",
+            "branchName": "Daniel Rose Residential Ltd",
+            "brandName": "Daniel Rose Residential Ltd",
+            "chainFree": false,
+            "companyId": 9141,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Terretts Place, Islington N1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1QZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61746242,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "location": "London",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "regionName": "London",
+            "section": "for-sale",
+            "sizeSqFeet": "659",
+            "tenure": "share_of_freehold",
+            "zindex": 736781
+        },
+        "branch": {
+            "__typename": "AgentBranch",
+            "branchDetailsUri": "/find-agents/branch/daniel-rose-residential-ltd-london-18177/",
+            "branchId": "18177",
+            "branchResultsUri": "/for-sale/branch/daniel-rose-residential-ltd-london-18177/",
+            "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(720252).png",
+            "phone": "020 3463 6913",
+            "name": "Daniel Rose Residential Ltd",
+            "memberType": "agent",
+            "address": "Ground Floor Office, 99 White Lion Street, London",
+            "postcode": "N1 9PF"
+        },
+        "pointsOfInterest": [
+            {
+                "__typename": "PointOfInterest",
+                "title": "St Mary's CofE Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.1
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "William Tyndale Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 0.2
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Essex Road",
+                "type": "national_rail_station",
+                "distanceMiles": 0.3
+            },
+            {
+                "__typename": "PointOfInterest",
+                "title": "Highbury & Islington",
+                "type": "london_underground_station",
+                "distanceMiles": 0.4
+            }
+        ],
+        "embeddedContent": {
+            "__typename": "EmbeddedContent",
+            "videos": null,
+            "tours": [
+                {
+                    "__typename": "Media",
+                    "url": "https://kuula.co/share/collection/7vcK9?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1"
+                }
+            ],
+            "links": null,
+            "smartViewings": null
+        },
+        "epc": {
+            "__typename": "EPC",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "caption": null,
+                    "filename": "708f4a7ad1642678d4457e9350407a932cc4b4fd.jpg",
+                    "url": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "detailedDescription": "A very light and airy 2 bedroom first floor apartment boasting high ceilings and presented in immaculate decorative order throughout situated just off Upper Street.<br><br>The flat offers 2 bedrooms, spacious reception room, fitted modern kitchen and a modern bathroom.<br><br>Terretts Place is very conveniently located to all the excellent shops and transport facilities that Upper Street has to offer and is approximately a 10 minutes walk from either Angel or Highbury and Islington stations, both with good links in to the City and West End.",
+        "features": {
+            "__typename": "Features",
+            "bullets": [
+                "Share of freehold",
+                "Two bedrooms",
+                "Superb location",
+                "Very bright",
+                "High ceilings",
+                "659 sq ft",
+                "Modern kitchen &amp; bathroom"
+            ],
+            "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": null,
+                "studentFriendly": false,
+                "tenure": {
+                    "__typename": "Label",
+                    "name": "share_of_freehold",
+                    "label": "Share of freehold"
+                },
+                "availableFromDate": null
+            },
+            "highlights": null
+        },
+        "floorPlan": {
+            "__typename": "FloorPlan",
+            "image": [
+                {
+                    "__typename": "Media",
+                    "filename": "ca85dc34dc8022707279574a58ee581fd56d2377.jpg",
+                    "caption": null
+                }
+            ],
+            "links": null,
+            "pdf": null
+        },
+        "propertyImage": [
+            {
+                "__typename": "Media",
+                "filename": "d168bd3d0ee0c257a1c6c0e89c6fc83b6524c3a9.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "41389400c01dfd2ceccade2728f495a2bd5d9ff1.jpg",
+                "caption": "Reception"
+            },
+            {
+                "__typename": "Media",
+                "filename": "6a8975431ec60def0c1143eaf2603275c9e11e23.jpg",
+                "caption": "Bedroom 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "ab323726ccdcd41e9f3e40d72cf4a063bd918d0b.jpg",
+                "caption": "Bedroom 1"
+            },
+            {
+                "__typename": "Media",
+                "filename": "4b5f8a6b04a546db66572b657a89129c095bbc81.jpg",
+                "caption": "Bedroom 2"
+            },
+            {
+                "__typename": "Media",
+                "filename": "7fd2b23ae3b0baad997fbbf0ca8ffbf3da9265a3.jpg",
+                "caption": "Bathroom"
+            },
+            {
+                "__typename": "Media",
+                "filename": "879f51dc602171939ec53561103f36c38a2676a7.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "b35cb855e090ff0c22d24f63cc148059616847cc.jpg",
+                "caption": "Kitchen"
+            },
+            {
+                "__typename": "Media",
+                "filename": "8add4973f63d92df68ebfb03d56fe1a5e6e1c1f8.jpg",
+                "caption": "External"
+            }
+        ],
+        "analyticsTaxonomy": {
+            "__typename": "ListingAnalyticsTaxonomy",
+            "location": "London",
+            "regionName": "London",
+            "section": "for-sale",
+            "acorn": 15,
+            "acornType": 15,
+            "areaName": "London",
+            "bedsMax": 2,
+            "bedsMin": 2,
+            "branchId": 18177,
+            "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(720252).png",
+            "branchName": "Daniel Rose Residential Ltd",
+            "brandName": "Daniel Rose Residential Ltd",
+            "chainFree": false,
+            "companyId": 9141,
+            "countryCode": "gb",
+            "countyAreaName": "London",
+            "currencyCode": "GBP",
+            "displayAddress": "Terretts Place, Islington N1",
+            "furnishedState": "",
+            "groupId": null,
+            "hasEpc": true,
+            "hasFloorplan": true,
+            "incode": "1QZ",
+            "isRetirementHome": false,
+            "isSharedOwnership": false,
+            "listingCondition": "pre-owned",
+            "listingId": 61746242,
+            "listingsCategory": "residential",
+            "listingStatus": "for_sale",
+            "memberType": "agent",
+            "numBaths": 1,
+            "numBeds": 2,
+            "numImages": 9,
+            "numRecepts": 1,
+            "outcode": "N1",
+            "postalArea": "N",
+            "postTownName": "London",
+            "priceActual": 650000,
+            "price": 650000,
+            "priceMax": 650000,
+            "priceMin": 650000,
+            "priceQualifier": "guide_price",
+            "propertyHighlight": "",
+            "propertyType": "flat",
+            "sizeSqFeet": "659",
+            "tenure": "share_of_freehold",
+            "zindex": 736781
+        },
+        "title": "2 bed flat for sale",
+        "metaTitle": "2 bed flat for sale in Terretts Place, Islington N1 - Zoopla",
+        "metaDescription": "2 bed flat for sale in Terretts Place, Islington N1, selling for \u00a3650,000 from Daniel Rose Residential Ltd. See property details on Zoopla or browse all our range of properties in Terretts Place, Islington N1.",
+        "listingUris": {
+            "__typename": "ListingUris",
+            "detail": "/for-sale/details/61746242/"
+        },
+        "location": {
+            "__typename": "ListingLocation",
+            "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.539995,
+                "longitude": -0.103054,
+                "isApproximate": false
+            }
+        },
+        "displayAddress": "Terretts Place, Islington N1",
+        "priceHistory": {
+            "__typename": "PriceHistory",
+            "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2022-06-20T09:02:05",
+                "priceLabel": "\u00a3650,000"
+            },
+            "lastSale": null,
+            "priceChanges": null
+        },
+        "viewCount": {
+            "__typename": "ViewCount",
+            "viewCount30day": 83
+        },
+        "administrationFees": null,
+        "content": {
+            "__typename": "MediaContent",
+            "floorPlan": [
+                {
+                    "__typename": "Media",
+                    "original": "https://lc.zoocdn.com/ca85dc34dc8022707279574a58ee581fd56d2377.jpg"
+                }
+            ]
+        },
+        "statusSummary": {
+            "__typename": "ListingStatusSummary",
+            "label": "Just added"
+        },
+        "tags": [],
+        "counts": {
+            "__typename": "RoomCount",
+            "numBedrooms": 2,
+            "numBathrooms": 1,
+            "numLivingRooms": 1
+        },
+        "floorArea": {
+            "__typename": "FloorArea",
+            "unitsLabel": "sq. ft",
+            "value": 659,
+            "label": "659 sq. ft"
+        },
+        "pricing": {
+            "__typename": "ListingPricing",
+            "label": "\u00a3650,000",
+            "priceQualifierLabel": "Guide price",
+            "rentFrequencyLabel": null,
+            "isAuction": false,
+            "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 986,
+                "unitsLabel": "sq. ft",
+                "label": "\u00a3986/sq. ft"
+            },
+            "alternateRentFrequencyPrice": null,
+            "originalCurrencyPrice": null
+        },
+        "analyticsEcommerce": {
+            "__typename": "ListingAnalyticsEcommerce",
+            "brand": "Daniel Rose Residential Ltd",
+            "category": "for-sale/resi/agent/pre-owned/gb",
+            "id": 61746242,
+            "name": "FS_Contact",
+            "price": 1,
+            "quantity": 1,
+            "variant": "standard"
+        },
+        "uuid": "8b8e5384-34f1-4d83-81a8-588daee23136",
+        "marketStats": {
+            "__typename": "MarketStatsResults",
+            "areaName": "N1",
+            "areaNameUri": "london/n1/islington-barnsbury-canonbury",
+            "propertyTypeGroup": "flat",
+            "askingPrices": {
+                "__typename": "AskingPrices",
+                "toRent": {
+                    "__typename": "AskingPrice",
+                    "meanValue": 2816.5670498084296
+                }
+            },
+            "historicalEstimates": [
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "0",
+                    "value": 673161,
+                    "pctChangeSince": 0,
+                    "date": "2022-06-23",
+                    "changeSince": 0
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "3",
+                    "value": 655280,
+                    "pctChangeSince": 2.729,
+                    "date": "2022-03-23",
+                    "changeSince": 17881
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "6",
+                    "value": 673332,
+                    "pctChangeSince": -0.025,
+                    "date": "2021-12-23",
+                    "changeSince": -171
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "12",
+                    "value": 701823,
+                    "pctChangeSince": -4.084,
+                    "date": "2021-06-23",
+                    "changeSince": -28662
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "60",
+                    "value": 636968,
+                    "pctChangeSince": 5.682,
+                    "date": "2017-06-23",
+                    "changeSince": 36193
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "120",
+                    "value": 444091,
+                    "pctChangeSince": 51.582,
+                    "date": "2012-06-23",
+                    "changeSince": 229070
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "180",
+                    "value": 425164,
+                    "pctChangeSince": 58.33,
+                    "date": "2007-06-23",
+                    "changeSince": 247997
+                },
+                {
+                    "__typename": "HistoricalEstimate",
+                    "overMonth": "240",
+                    "value": 266528,
+                    "pctChangeSince": 152.567,
+                    "date": "2002-06-23",
+                    "changeSince": 406633
+                }
+            ],
+            "sales": [
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "1",
+                    "mean": 649164,
+                    "newBuilds": 0,
+                    "numSales": 390
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "3",
+                    "mean": 663713,
+                    "newBuilds": 48,
+                    "numSales": 1166
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "5",
+                    "mean": 647710,
+                    "newBuilds": 161,
+                    "numSales": 2168
+                },
+                {
+                    "__typename": "HistoricalSales",
+                    "overYear": "7",
+                    "mean": 638032,
+                    "newBuilds": 446,
+                    "numSales": 3538
+                }
+            ],
+            "recentSales": [
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-19T00:00:00Z",
+                    "price": 550000,
+                    "propertyId": 27144356,
+                    "streetAddress": "Flat B, 27 Barnsbury Park",
+                    "uri": "flat-b/27-barnsbury-park/london/n1-1hq"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 2225000,
+                    "propertyId": 15042786,
+                    "streetAddress": "25 Stamford Road",
+                    "uri": "25-stamford-road/london/n1-4jp"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-14T00:00:00Z",
+                    "price": 595000,
+                    "propertyId": 15031978,
+                    "streetAddress": "Flat 3, Avon House, Offord Road",
+                    "uri": "flat-3/avon-house/offord-road/london/n1-1ny"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 1100000,
+                    "propertyId": 15057449,
+                    "streetAddress": "5 Frome Street",
+                    "uri": "5-frome-street/london/n1-8pb"
+                },
+                {
+                    "__typename": "RecentSale",
+                    "date": "2022-04-08T00:00:00Z",
+                    "price": 645000,
+                    "propertyId": 32976349,
+                    "streetAddress": "14, Pissarro House, Augustas Lane",
+                    "uri": "14/pissarro-house/augustas-lane/london/n1-1qt"
+                }
+            ]
+        },
+        "propertyType": "flat",
+        "groundRent": {
+            "__typename": "GroundRent",
+            "label": null
+        },
+        "deposit": {
+            "__typename": "Deposit",
+            "label": null
+        },
+        "leaseExpiry": null,
+        "serviceCharge": null,
+        "councilTaxBand": "D"
+    }
+}
